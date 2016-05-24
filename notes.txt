@@ -1,0 +1,9 @@
+awards-ceremony:
+    might want to only use the first 50
+    but actually it generally sucks
+
+car-accident:
+    don't yet have a classifier for wreckage (perhaps not the best 'event' to look for)
+
+birthday-party:
+    missing cake?

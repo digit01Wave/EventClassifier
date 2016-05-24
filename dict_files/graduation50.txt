@@ -1,0 +1,12 @@
+academic gown:6.0
+umbrella:1.0
+tee shirt:1.0
+academic robe:6.0
+balloon:1.0
+envelope:1.0
+picket fence:1.0
+T-shirt:1.0
+judge's robe:6.0
+paling:1.0
+mortarboard:38.0
+jersey:1.0

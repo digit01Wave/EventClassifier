@@ -1,0 +1,68 @@
+ping-pong ball:1.0
+crib:1.0
+quill pen:1.0
+CRT screen:1.0
+laptop:2.0
+desk:3.0
+site:3.0
+library:7.0
+notebook computer:6.0
+television system:2.0
+eating place:9.0
+sewing machine:2.0
+mobile phone:1.0
+home theatre:5.0
+internet site:3.0
+suit of clothes:2.0
+grand piano:1.0
+quill:1.0
+cellular telephone:1.0
+toilet tissue:1.0
+dumbbell:1.0
+cellular phone:1.0
+monitor:1.0
+maraca:1.0
+bassoon:1.0
+vacuum:1.0
+bathroom tissue:1.0
+lab coat:12.0
+cell:1.0
+crossword:1.0
+vacuum cleaner:1.0
+kimono:2.0
+crossword puzzle:1.0
+golden retriever:1.0
+suit:2.0
+eating house:9.0
+carton:1.0
+icebox:1.0
+dining table:11.0
+website:3.0
+Labrador retriever:1.0
+screen:1.0
+grand:1.0
+envelope:1.0
+whistle:1.0
+eatery:9.0
+notebook:6.0
+toilet paper:1.0
+laboratory coat:12.0
+tub:1.0
+window shade:2.0
+refrigerator:1.0
+cellphone:1.0
+television:2.0
+oxygen mask:1.0
+cot:1.0
+restaurant:9.0
+groom:5.0
+board:11.0
+bow:1.0
+bridegroom:5.0
+web site:3.0
+vat:1.0
+jigsaw puzzle:1.0
+laptop computer:2.0
+dough:1.0
+home theater:5.0
+balloon:1.0

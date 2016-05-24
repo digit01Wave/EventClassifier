@@ -1,0 +1,55 @@
+eating place:1.0
+pencil case:1.0
+site:1.0
+china cabinet:1.0
+jigsaw puzzle:1.0
+dining table:1.0
+internet site:1.0
+candle:10.0
+ocarina:1.0
+two-piece:1.0
+slot:1.0
+toyshop:4.0
+wax light:10.0
+maraca:1.0
+menu:1.0
+balloon:5.0
+pj's:1.0
+bakery:2.0
+market:1.0
+altar:3.0
+pencil box:1.0
+comic book:1.0
+paintbrush:1.0
+grocery store:1.0
+website:1.0
+one-armed bandit:1.0
+confectionary:9.0
+jammies:1.0
+restaurant:1.0
+bottlecap:1.0
+Christmas stocking:1.0
+whistle:1.0
+eatery:1.0
+confectionery:9.0
+pinwheel:1.0
+grocery:1.0
+bakeshop:2.0
+taper:10.0
+hair slide:1.0
+groom:1.0
+board:1.0
+china closet:1.0
+bridegroom:1.0
+bikini:1.0
+web site:1.0
+eating house:1.0
+pajama:1.0
+pyjama:1.0
+bakehouse:2.0
+sweet potato:1.0
+food market:1.0
+tray:1.0
+broom:1.0
+shower curtain:2.0
+candy store:9.0

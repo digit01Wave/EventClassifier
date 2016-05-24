@@ -1,0 +1,165 @@
+picture palace:1.0
+beer bottle:1.0
+Homarus americanus:1.0
+six-shooter:1.0
+gown:9.0
+essence:2.0
+theater curtain:8.0
+television system:1.0
+eating place:2.0
+ocarina:1.0
+monitor:1.0
+accordion:1.0
+menu:16.0
+pj's:1.0
+pickelhaube:1.0
+balance beam:1.0
+Windsor tie:1.0
+crossword puzzle:2.0
+carton:1.0
+rhinoceros beetle:1.0
+apron:1.0
+pipe organ:1.0
+marimba:1.0
+steel drum:1.0
+street sign:1.0
+whistle:1.0
+transverse flute:3.0
+red wine:1.0
+membranophone:1.0
+matchstick:1.0
+organ:1.0
+beam:1.0
+respirator:1.0
+perfume:2.0
+violoncello:1.0
+saxophone:1.0
+claw:1.0
+paper knife:2.0
+academic robe:2.0
+billiard table:1.0
+torch:1.0
+packet:1.0
+notebook computer:1.0
+web site:29.0
+sun blocker:1.0
+candle:2.0
+military uniform:1.0
+hourglass:1.0
+book jacket:4.0
+fountain pen:1.0
+toyshop:1.0
+bathroom tissue:1.0
+revolver:1.0
+lampshade:1.0
+crossword:2.0
+judge's robe:2.0
+fountain:3.0
+eating house:2.0
+paperknife:2.0
+umbrella:1.0
+memorial tablet:1.0
+sarong:3.0
+jammies:1.0
+vestment:1.0
+abaya:4.0
+letter opener:2.0
+movie theatre:1.0
+stage:18.0
+folding chair:1.0
+movie theater:1.0
+harp:2.0
+Maine lobster:1.0
+tee shirt:3.0
+bridegroom:5.0
+corkscrew:2.0
+suit of clothes:5.0
+pillow:1.0
+jersey:3.0
+dust cover:4.0
+mini:3.0
+maillot:2.0
+denim:3.0
+squeeze box:1.0
+hook:1.0
+limo:1.0
+church:3.0
+bottle screw:2.0
+piano accordion:1.0
+gasmask:1.0
+plumber's helper:1.0
+wine bottle:2.0
+academic gown:2.0
+projector:1.0
+dust jacket:4.0
+lab coat:1.0
+T-shirt:3.0
+plastic bag:1.0
+suit:5.0
+drumstick:1.0
+limousine:1.0
+crinoline:2.0
+board:1.0
+website:29.0
+overskirt:3.0
+oboe:3.0
+altar:4.0
+xylophone:1.0
+envelope:7.0
+eatery:2.0
+library:6.0
+laboratory coat:1.0
+drum:1.0
+hautboy:3.0
+trench coat:1.0
+six-gun:1.0
+cuirass:1.0
+tympan:1.0
+television:1.0
+church building:3.0
+dining table:1.0
+comic book:5.0
+taper:2.0
+pool table:1.0
+cello:1.0
+sweet potato:1.0
+plunger:1.0
+spotlight:2.0
+lamp shade:1.0
+sunblock:1.0
+blue jean:3.0
+cinema:1.0
+site:29.0
+sunscreen:1.0
+planetarium:1.0
+sax:1.0
+internet site:29.0
+toilet tissue:1.0
+oxygen mask:1.0
+hoopskirt:2.0
+bassoon:2.0
+balloon:1.0
+miniskirt:3.0
+tank suit:1.0
+hautbois:3.0
+American lobster:1.0
+restaurant:2.0
+flute:3.0
+spot:2.0
+wig:1.0
+snooker table:1.0
+notebook:1.0
+toilet paper:1.0
+dust wrapper:4.0
+brass:1.0
+movie house:1.0
+gas helmet:1.0
+Northern lobster:1.0
+wax light:2.0
+hair slide:1.0
+groom:5.0
+theatre curtain:8.0
+pajama:1.0
+pyjama:1.0
+jean:3.0
+plaque:1.0

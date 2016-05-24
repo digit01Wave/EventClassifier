@@ -1,0 +1,124 @@
+gown:46.0
+essence:4.0
+theater curtain:1.0
+eating place:8.0
+oxcart:1.0
+shako:1.0
+pencil sharpener:1.0
+trifle:1.0
+goblet:2.0
+cup:6.0
+menu:3.0
+scorpion:1.0
+cloak:1.0
+hanky:1.0
+ewer:1.0
+board:3.0
+mouth harp:1.0
+mail:2.0
+carton:1.0
+maypole:1.0
+hoopskirt:7.0
+bib:1.0
+vase:5.0
+wax light:8.0
+tick:1.0
+eating house:8.0
+perfume:4.0
+abaya:2.0
+tray:3.0
+quill pen:2.0
+ring armor:2.0
+quilt:1.0
+torch:1.0
+packet:2.0
+tee shirt:1.0
+coil:1.0
+web site:4.0
+paling:2.0
+candle:8.0
+sand bar:2.0
+quill:2.0
+harp:2.0
+book jacket:1.0
+bakeshop:7.0
+chain mail:2.0
+mouth organ:1.0
+icecream:1.0
+fountain:1.0
+jeweler's loupe:2.0
+bathing cap:1.0
+volute:1.0
+hankey:1.0
+sarong:1.0
+horse-cart:1.0
+hankie:1.0
+magnetic compass:1.0
+vestment:4.0
+strainer:2.0
+stage:1.0
+throne:1.0
+eggnog:1.0
+taper:8.0
+harmonica:1.0
+bridegroom:16.0
+bakehouse:7.0
+puff:1.0
+lacewing:1.0
+pillow:1.0
+jersey:1.0
+wig:1.0
+face powder:1.0
+swimming cap:1.0
+stupa:2.0
+dust cover:1.0
+comforter:1.0
+handkerchief:1.0
+dust jacket:1.0
+buckle:5.0
+spiral:1.0
+T-shirt:1.0
+plastic bag:1.0
+horse cart:1.0
+pinwheel:1.0
+crinoline:7.0
+helix:1.0
+website:4.0
+overskirt:7.0
+ring armour:2.0
+altar:4.0
+envelope:10.0
+eatery:8.0
+dining table:3.0
+restaurant:8.0
+chain armour:2.0
+combination lock:1.0
+spotlight:1.0
+shower curtain:1.0
+ring mail:2.0
+palace:1.0
+whorl:1.0
+site:4.0
+chain armor:2.0
+sandbar:2.0
+internet site:4.0
+loupe:2.0
+Petri dish:1.0
+comfort:1.0
+picket fence:2.0
+kimono:2.0
+ice cream:1.0
+water bottle:1.0
+busby:1.0
+pitcher:1.0
+spot:1.0
+dust wrapper:1.0
+tope:2.0
+broccoli:1.0
+bearskin:1.0
+hair slide:2.0
+groom:16.0
+mask:1.0
+theatre curtain:1.0
+bakery:7.0
+lacewing fly:1.0

@@ -1,0 +1,143 @@
+rose hip:1.0
+popsicle:1.0
+essence:1.0
+maypole:1.0
+eating place:4.0
+terrace:1.0
+rubber eraser:6.0
+ocarina:1.0
+pencil sharpener:2.0
+slot:3.0
+goblet:1.0
+brassiere:2.0
+menu:4.0
+broom:1.0
+pj's:2.0
+hanky:2.0
+board:10.0
+carton:2.0
+grocery store:1.0
+ping-pong ball:2.0
+apron:3.0
+bib:1.0
+vase:1.0
+chocolate syrup:1.0
+wax light:14.0
+computer mouse:1.0
+red wine:1.0
+pencil eraser:6.0
+barrow:1.0
+perfume:1.0
+ice lolly:1.0
+tray:5.0
+Pekingese:1.0
+poke bonnet:1.0
+packet:2.0
+jigsaw puzzle:1.0
+web site:6.0
+Norwich terrier:1.0
+candle:14.0
+rosehip:1.0
+hamper:1.0
+Great Pyrenees:1.0
+one-armed bandit:3.0
+toyshop:18.0
+bathroom tissue:1.0
+icecream:1.0
+cradle:2.0
+bra:2.0
+eating house:4.0
+Norfolk terrier:1.0
+lolly:1.0
+food market:1.0
+hankey:2.0
+jammies:2.0
+Maltese dog:1.0
+market:1.0
+wheelbarrow:1.0
+Peke:1.0
+two-piece:1.0
+cot:3.0
+restaurant:4.0
+bridegroom:2.0
+wall clock:1.0
+swing:2.0
+bakehouse:13.0
+boa:1.0
+Band Aid:1.0
+Pekinese:1.0
+candy store:18.0
+pot:1.0
+crib:3.0
+bonnet:1.0
+limo:1.0
+dust cover:2.0
+plumber's helper:1.0
+wine bottle:1.0
+confectionery:18.0
+garden cart:1.0
+maraca:2.0
+shoe store:1.0
+lollipop:1.0
+dust jacket:2.0
+pop bottle:1.0
+pinwheel:5.0
+comic book:5.0
+website:6.0
+sewing machine:1.0
+lawn cart:1.0
+confectionary:18.0
+internet site:6.0
+altar:14.0
+envelope:2.0
+Christmas stocking:3.0
+bottlecap:2.0
+eatery:4.0
+library:1.0
+china cabinet:1.0
+grocery:1.0
+pandean pipe:1.0
+dining table:10.0
+limousine:1.0
+taper:14.0
+penny bank:2.0
+strawberry:1.0
+bikini:1.0
+barbershop:1.0
+soda bottle:1.0
+sweet potato:1.0
+plunger:1.0
+hip:1.0
+groom:2.0
+handkerchief:2.0
+bubble:2.0
+site:6.0
+chocolate sauce:1.0
+Maltese terrier:1.0
+mouse:1.0
+toilet tissue:1.0
+balloon:19.0
+toaster:1.0
+panpipe:1.0
+rubber:6.0
+ice cream:1.0
+Maltese:1.0
+shoe-shop:1.0
+paintbrush:2.0
+piggy bank:2.0
+book jacket:2.0
+plate:2.0
+hankie:2.0
+bakeshop:13.0
+toilet paper:1.0
+dust wrapper:2.0
+shoe shop:1.0
+feather boa:1.0
+syrinx:1.0
+flowerpot:1.0
+china closet:1.0
+bakery:13.0
+pajama:2.0
+pyjama:2.0
+patio:1.0
+bandeau:2.0

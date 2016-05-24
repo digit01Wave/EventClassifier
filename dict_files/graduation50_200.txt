@@ -1,0 +1,83 @@
+backpack:1.0
+icecream:2.0
+handkerchief:2.0
+haversack:1.0
+academic robe:9.0
+pencil case:1.0
+lamp shade:2.0
+purse:1.0
+site:15.0
+packet:5.0
+notebook computer:1.0
+parachute:1.0
+web site:15.0
+shower curtain:2.0
+dust cover:8.0
+notecase:3.0
+internet site:15.0
+mortarboard:79.0
+pencil box:1.0
+hockey puck:1.0
+billfold:3.0
+face powder:1.0
+book jacket:8.0
+lampshade:2.0
+academic gown:9.0
+pail:1.0
+pocketbook:3.0
+candle:1.0
+menu:3.0
+balloon:2.0
+fixed disk:1.0
+espresso:1.0
+T-shirt:2.0
+dust jacket:8.0
+judge's robe:9.0
+ice cream:2.0
+rucksack:1.0
+hard disc:1.0
+puck:1.0
+pinwheel:2.0
+matchstick:1.0
+comic book:3.0
+website:15.0
+trifle:2.0
+broom:1.0
+umbrella:2.0
+memorial tablet:1.0
+smoothing iron:1.0
+fountain pen:2.0
+hankie:2.0
+envelope:10.0
+missile:1.0
+wax light:1.0
+binder:4.0
+bakeshop:5.0
+hankey:2.0
+neck brace:1.0
+knapsack:1.0
+dust wrapper:8.0
+brass:1.0
+hard disk:1.0
+mailbag:1.0
+packsack:1.0
+chute:1.0
+postbag:1.0
+tee shirt:2.0
+ring-binder:4.0
+hair slide:3.0
+cup:3.0
+bucket:1.0
+back pack:1.0
+wallet:3.0
+bakery:5.0
+notebook:1.0
+jack-o'-lantern:1.0
+plaque:1.0
+iron:1.0
+hanky:2.0
+bakehouse:5.0
+taper:1.0
+tray:1.0
+buckle:1.0
+jersey:2.0

@@ -1,0 +1,97 @@
+comfort:1.0
+popsicle:1.0
+swimming trunks:6.0
+oxcart:1.0
+cellular telephone:1.0
+groyne:1.0
+geyser:1.0
+cellular phone:1.0
+wool:1.0
+golden retriever:1.0
+lakeshore:2.0
+velocipede:1.0
+parallel bars:1.0
+coast:13.0
+snorkel:1.0
+space heater:1.0
+pier:1.0
+Airedale:2.0
+Camelus dromedarius:1.0
+croquet ball:1.0
+tricycle:1.0
+ice lolly:1.0
+seacoast:13.0
+bars:1.0
+quilt:1.0
+web site:1.0
+sun blocker:1.0
+racket:1.0
+internet site:1.0
+sand bar:13.0
+two-piece:3.0
+Airedale terrier:2.0
+velvet:1.0
+tennis ball:1.0
+paddle:1.0
+cell:1.0
+Chesapeake Bay retriever:1.0
+fountain:1.0
+solar collector:1.0
+kuvasz:1.0
+bathing cap:1.0
+lolly:1.0
+woolen:1.0
+umbrella:3.0
+strainer:1.0
+boat paddle:1.0
+cot:1.0
+sleeping bag:1.0
+swing:1.0
+puff:1.0
+Dermochelys coriacea:1.0
+Band Aid:1.0
+seawall:1.0
+shovel:2.0
+crib:1.0
+breakwater:1.0
+pole:1.0
+swimming cap:1.0
+seashore:13.0
+mobile phone:1.0
+comforter:1.0
+racquet:1.0
+jetty:1.0
+lollipop:1.0
+plastic bag:1.0
+pinwheel:2.0
+bubble:1.0
+sea-coast:13.0
+website:1.0
+dromedary:1.0
+trike:1.0
+bucket:4.0
+bikini:3.0
+bathing trunks:6.0
+groin:1.0
+sunblock:1.0
+lakeside:2.0
+site:1.0
+sunscreen:1.0
+parachute:1.0
+sandbar:13.0
+mole:1.0
+leatherback turtle:1.0
+solar furnace:1.0
+woollen:1.0
+hamper:1.0
+solar dish:1.0
+pail:4.0
+mosquito net:1.0
+cellphone:1.0
+chute:1.0
+bulwark:1.0
+wreck:1.0
+volleyball:1.0
+Arabian camel:1.0
+leathery turtle:1.0
+leatherback:1.0

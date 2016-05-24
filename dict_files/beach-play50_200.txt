@@ -1,0 +1,240 @@
+gown:2.0
+clog:2.0
+popsicle:3.0
+chain:1.0
+loggerhead turtle:1.0
+scoreboard:1.0
+groom:1.0
+shower cap:1.0
+swimming trunks:8.0
+dough:1.0
+terrace:2.0
+mountain bike:1.0
+spindle:2.0
+dumbbell:1.0
+squealer:1.0
+water jug:1.0
+woolen:2.0
+groyne:1.0
+goblet:1.0
+harmonica:1.0
+broom:1.0
+Asiatic buffalo:1.0
+hanky:1.0
+washbasin:1.0
+tam-tam:1.0
+cradle:1.0
+balance beam:1.0
+mouth harp:1.0
+tobacconist shop:1.0
+tobacconist:1.0
+wool:2.0
+ski:1.0
+lavabo:1.0
+icebox:1.0
+lakeshore:2.0
+forklift:1.0
+marimba:1.0
+velocipede:1.0
+mop:1.0
+parallel bars:2.0
+coast:29.0
+cowboy boot:1.0
+beam:1.0
+warrigal:1.0
+snorkel:4.0
+boathouse:1.0
+leatherback:3.0
+desk:1.0
+patten:2.0
+Caretta caretta:1.0
+pier:2.0
+beigel:1.0
+barrow:3.0
+gas pump:1.0
+dingo:1.0
+tricycle:1.0
+warragal:1.0
+pretzel:1.0
+punching bag:2.0
+eating place:3.0
+ice lolly:3.0
+seacoast:29.0
+four-poster:1.0
+hankey:1.0
+tray:1.0
+Panthera leo:1.0
+lumbermill:1.0
+bars:2.0
+fire engine:1.0
+torch:1.0
+promontory:2.0
+jigsaw puzzle:5.0
+web site:5.0
+mashed potato:1.0
+sun blocker:1.0
+racket:1.0
+internet site:5.0
+pot:1.0
+sand bar:20.0
+two-piece:4.0
+harp:1.0
+toyshop:11.0
+go-kart:1.0
+merry-go-round:1.0
+mouth organ:1.0
+paddle:2.0
+bathing tub:2.0
+fountain:1.0
+loggerhead:1.0
+eating house:3.0
+lolly:3.0
+handbasin:1.0
+umbrella:7.0
+sarong:3.0
+swob:1.0
+swimming cap:1.0
+sea urchin:1.0
+bookcase:2.0
+wheelbarrow:3.0
+park bench:1.0
+tub:4.0
+Bubalus bubalis:1.0
+lollipop:3.0
+mixing bowl:1.0
+folding chair:1.0
+sabot:2.0
+cot:2.0
+restaurant:3.0
+conch:2.0
+accordion:1.0
+swab:1.0
+bridegroom:1.0
+shower curtain:1.0
+swing:5.0
+bakehouse:1.0
+washbowl:1.0
+Dermochelys coriacea:3.0
+Band Aid:4.0
+seawall:1.0
+shovel:1.0
+monocycle:1.0
+maillot:3.0
+denim:1.0
+petrol pump:1.0
+squeeze box:1.0
+king of beasts:1.0
+crib:2.0
+bath:2.0
+breakwater:1.0
+wooden spoon:1.0
+pole:1.0
+bassinet:1.0
+seashore:29.0
+fire truck:1.0
+punching ball:2.0
+unicycle:1.0
+plumber's helper:1.0
+stage:1.0
+racquet:1.0
+Sus scrofa:1.0
+garden cart:3.0
+water ox:1.0
+maraca:3.0
+jetty:1.0
+lab coat:1.0
+boat paddle:2.0
+plastic bag:1.0
+carousel:1.0
+maze:2.0
+piano accordion:1.0
+catamaran:3.0
+comic book:5.0
+sea-coast:29.0
+vat:2.0
+website:5.0
+head:2.0
+lawn cart:3.0
+labyrinth:2.0
+cup:1.0
+xylophone:1.0
+envelope:4.0
+eatery:3.0
+diaper:4.0
+laboratory coat:1.0
+pig:1.0
+pinwheel:2.0
+parachute:1.0
+carton:1.0
+bakeshop:1.0
+trike:1.0
+bucket:10.0
+lion:1.0
+bikini:4.0
+high bar:1.0
+iron:1.0
+sleeping bag:1.0
+bathing trunks:8.0
+sewing machine:1.0
+plunger:1.0
+bathtub:2.0
+groin:1.0
+sunblock:1.0
+blue jean:1.0
+handkerchief:1.0
+canoe:1.0
+lakeside:2.0
+site:5.0
+sunscreen:1.0
+china cabinet:1.0
+headland:2.0
+sandbar:20.0
+island dispenser:1.0
+mole:1.0
+roundabout:1.0
+hog:1.0
+bathing cap:1.0
+smoothing iron:1.0
+leatherback turtle:3.0
+geta:2.0
+balloon:5.0
+woollen:2.0
+whirligig:1.0
+bagel:1.0
+all-terrain bike:1.0
+horizontal bar:1.0
+tank suit:2.0
+carrousel:1.0
+sawmill:1.0
+tobacco shop:1.0
+pail:10.0
+grunter:1.0
+bib:1.0
+Canis dingo:1.0
+flute:1.0
+hankie:1.0
+foreland:2.0
+punch bag:2.0
+mosquito net:2.0
+flowerpot:1.0
+soccer ball:2.0
+gong:1.0
+refrigerator:1.0
+gasoline pump:1.0
+chute:1.0
+punchball:2.0
+bulwark:1.0
+napkin:4.0
+off-roader:1.0
+volleyball:11.0
+china closet:1.0
+hamper:1.0
+bakery:1.0
+transverse flute:1.0
+leathery turtle:3.0
+mountain tent:3.0
+wash-hand basin:1.0
+jean:1.0
+water buffalo:1.0
+patio:2.0
+nappy:4.0
