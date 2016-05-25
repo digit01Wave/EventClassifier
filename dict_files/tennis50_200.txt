@@ -1,0 +1,52 @@
+wig:1.0
+mini:1.0
+rugby ball:1.0
+spider web:1.0
+handrail:1.0
+maillot:4.0
+ballplayer:2.0
+scoreboard:2.0
+bars:1.0
+bannister:1.0
+jigsaw puzzle:1.0
+racket:87.0
+balusters:1.0
+hook:1.0
+CRO:2.0
+two-piece:1.0
+racquet:87.0
+baseball player:2.0
+tennis ball:44.0
+solar furnace:1.0
+spatula:1.0
+mower:1.0
+T-shirt:1.0
+running shoe:1.0
+spider's web:1.0
+solar collector:1.0
+miniskirt:1.0
+scope:2.0
+tank suit:2.0
+balustrade:1.0
+ski:1.0
+lawn mower:1.0
+solar dish:1.0
+ping-pong ball:3.0
+banister:1.0
+oscilloscope:2.0
+labyrinth:1.0
+parallel bars:1.0
+park bench:1.0
+baseball:1.0
+maze:1.0
+cathode-ray oscilloscope:2.0
+abacus:1.0
+stage:2.0
+tee shirt:1.0
+comic book:2.0
+volleyball:1.0
+bikini:1.0
+swing:1.0
+claw:1.0
+chainlink fence:2.0
+jersey:1.0

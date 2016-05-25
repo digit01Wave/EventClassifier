@@ -1,0 +1,24 @@
+sea star:1.0
+drop-off:36.0
+parachute:1.0
+pole:1.0
+syringe:1.0
+holothurian:1.0
+rock crab:1.0
+admiral:1.0
+schooner:1.0
+starfish:1.0
+puff adder:1.0
+snorkel:1.0
+mosquito net:1.0
+knot:1.0
+cliff:36.0
+cliff dwelling:1.0
+chute:1.0
+sand viper:1.0
+sea cucumber:1.0
+hognose snake:1.0
+drop:36.0
+Cancer irroratus:1.0
+tiger beetle:1.0
+swing:2.0

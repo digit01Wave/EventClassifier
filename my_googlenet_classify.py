@@ -267,9 +267,7 @@ def get_collection_tags(image_collection_links, rel_threshold=0.3, current_dict 
         except:
             print("ERROR ###################################")
             err_count +=1
-            traceback.print_exc()
-            sys.stderr.flush()
-            sys.stdout.flush()
+            print("Could not give tags to image.")
             print("ERROR ###################################")
             continue
         

@@ -1,0 +1,56 @@
+gown:1.0
+shovel:3.0
+monocycle:1.0
+boat paddle:1.0
+handrail:1.0
+drop-off:4.0
+parachute:6.0
+bannister:1.0
+quill pen:1.0
+snowmobile:9.0
+Orcinus orca:1.0
+dust cover:1.0
+balusters:1.0
+quill:1.0
+book jacket:1.0
+swimming cap:1.0
+scuba diver:2.0
+whippet:1.0
+paddle:1.0
+vale:1.0
+dust jacket:1.0
+bobsleigh:1.0
+alp:62.0
+unicycle:1.0
+pinwheel:1.0
+balustrade:1.0
+comic book:1.0
+grampus:1.0
+banister:1.0
+knee pad:1.0
+Labrador retriever:1.0
+killer:1.0
+warplane:1.0
+great white shark:1.0
+bobsled:1.0
+chainsaw:2.0
+Persian cat:1.0
+chain saw:2.0
+bathing cap:1.0
+dust wrapper:1.0
+killer whale:1.0
+cliff:4.0
+chute:6.0
+valley:1.0
+ski:86.0
+drop:4.0
+military plane:1.0
+Carcharodon carcharias:1.0
+sea wolf:1.0
+man-eater:1.0
+parking meter:1.0
+man-eating shark:1.0
+bob:1.0
+orca:1.0
+pelican:1.0
+white shark:1.0

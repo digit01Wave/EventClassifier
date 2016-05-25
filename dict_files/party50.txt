@@ -1,0 +1,77 @@
+basset:1.0
+cup:1.0
+restaurant:1.0
+plate:1.0
+theater curtain:3.0
+torch:4.0
+eatery:1.0
+site:1.0
+maraca:1.0
+web site:1.0
+shower curtain:2.0
+dust cover:2.0
+guillotine:1.0
+internet site:1.0
+mortarboard:1.0
+whirligig:1.0
+two-piece:1.0
+taper:2.0
+slot:1.0
+theatre curtain:3.0
+microphone:1.0
+toyshop:2.0
+wax light:2.0
+merry-go-round:1.0
+candle:2.0
+menu:2.0
+balloon:2.0
+book jacket:2.0
+pj's:1.0
+shako:1.0
+T-shirt:2.0
+dust jacket:2.0
+maypole:1.0
+fountain:2.0
+board:1.0
+carousel:1.0
+envelope:1.0
+pencil box:1.0
+matchstick:2.0
+bubble:1.0
+pencil case:1.0
+paintbrush:1.0
+dining table:1.0
+website:1.0
+one-armed bandit:1.0
+mike:1.0
+umbrella:1.0
+busby:1.0
+jammies:1.0
+spot:2.0
+Christmas stocking:1.0
+whistle:2.0
+binder:1.0
+red wine:1.0
+roundabout:1.0
+dust wrapper:2.0
+eating house:1.0
+stage:12.0
+bearskin:1.0
+tee shirt:2.0
+ring-binder:1.0
+comic book:4.0
+groom:2.0
+jigsaw puzzle:1.0
+carrousel:1.0
+bridegroom:2.0
+hair spray:1.0
+bikini:1.0
+eating place:1.0
+barbershop:1.0
+pajama:1.0
+pyjama:1.0
+hair slide:1.0
+basset hound:1.0
+Band Aid:1.0
+spotlight:2.0
+jersey:2.0

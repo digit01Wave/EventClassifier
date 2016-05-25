@@ -7,3 +7,15 @@ car-accident:
 
 birthday-party:
     missing cake?
+
+play:
+    there are too many things in the play...(maybe ignore?)
+
+luncheon:
+    seems to be a lot of websites later becuase started taking pictures of menus
+    and invitations
+
+party: has too much stuff (stage, comic book, theater curtain, dust cover, whistle)
+seminar has similar problem to party
+
+snowboarding mistaken for skiing

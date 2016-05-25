@@ -1,0 +1,110 @@
+gown:2.0
+clog:1.0
+coffee mug:1.0
+maypole:2.0
+rifle:1.0
+fur coat:1.0
+barbell:1.0
+press:1.0
+stretcher:1.0
+terrace:1.0
+baseball player:2.0
+swab:3.0
+medicine cabinet:2.0
+menu:1.0
+broom:1.0
+cloak:2.0
+pickelhaube:2.0
+mower:1.0
+ski:2.0
+ballplayer:2.0
+apron:1.0
+hoopskirt:5.0
+oscilloscope:5.0
+ruler:3.0
+safe:1.0
+parallel bars:1.0
+croquet ball:75.0
+cathode-ray oscilloscope:5.0
+patten:1.0
+membranophone:1.0
+slipstick:4.0
+hook:3.0
+nursery:1.0
+claw:3.0
+greenhouse:1.0
+bars:1.0
+academic robe:1.0
+billiard table:2.0
+jigsaw puzzle:1.0
+web site:5.0
+paling:2.0
+internet site:5.0
+hammer:2.0
+CRO:5.0
+book jacket:5.0
+analog clock:3.0
+paddle:1.0
+judge's robe:1.0
+sarong:1.0
+swob:3.0
+slide rule:4.0
+binder:2.0
+boat paddle:1.0
+sabot:1.0
+drum:1.0
+accordion:1.0
+golf ball:5.0
+bridegroom:1.0
+wall clock:3.0
+swing:1.0
+safety pin:2.0
+scope:5.0
+shovel:1.0
+bell:2.0
+squeeze box:1.0
+prayer rug:1.0
+dust cover:5.0
+chime:2.0
+piano accordion:1.0
+plumber's helper:1.0
+academic gown:1.0
+dust jacket:5.0
+lab coat:1.0
+plastic bag:2.0
+drumstick:1.0
+pinwheel:1.0
+crinoline:5.0
+website:5.0
+overskirt:2.0
+labyrinth:3.0
+envelope:1.0
+laboratory coat:1.0
+wardrobe:1.0
+trench coat:1.0
+tympan:1.0
+ring-binder:2.0
+prayer mat:1.0
+pool table:2.0
+lawn mower:1.0
+plunger:1.0
+mini:1.0
+rugby ball:1.0
+gong:2.0
+medicine chest:2.0
+site:5.0
+screw:2.0
+geta:1.0
+maze:3.0
+picket fence:2.0
+stone wall:1.0
+miniskirt:1.0
+matchstick:1.0
+mop:3.0
+snooker table:2.0
+dust wrapper:5.0
+closet:1.0
+glasshouse:1.0
+groom:1.0
+rule:3.0
+patio:1.0

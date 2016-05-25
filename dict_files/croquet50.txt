@@ -1,0 +1,44 @@
+rugby ball:1.0
+stretcher:1.0
+billiard table:1.0
+rifle:1.0
+site:1.0
+sturgeon:1.0
+web site:1.0
+armored combat vehicle:1.0
+paddle:1.0
+internet site:1.0
+military uniform:1.0
+analog clock:2.0
+swab:1.0
+swob:1.0
+pj's:1.0
+lab coat:1.0
+plumber's helper:1.0
+kimono:1.0
+ruler:1.0
+scope:1.0
+website:1.0
+armoured combat vehicle:1.0
+oscilloscope:1.0
+jammies:1.0
+mop:1.0
+vestment:2.0
+CRO:1.0
+laboratory coat:1.0
+cathode-ray oscilloscope:1.0
+drop-off:1.0
+army tank:1.0
+boat paddle:1.0
+cliff:1.0
+snooker table:1.0
+croquet ball:33.0
+tank:1.0
+drop:1.0
+rule:1.0
+pool table:1.0
+wall clock:2.0
+pyjama:1.0
+plunger:1.0
+broom:1.0
+pajama:1.0

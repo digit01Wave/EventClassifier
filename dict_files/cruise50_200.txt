@@ -1,0 +1,63 @@
+container ship:2.0
+suspension bridge:1.0
+lakeside:2.0
+container vessel:2.0
+sundial:1.0
+helix:1.0
+spiral:1.0
+breakwater:3.0
+bannister:3.0
+coil:1.0
+terrace:2.0
+Orcinus orca:1.0
+drilling platform:2.0
+balusters:3.0
+trimaran:3.0
+mole:3.0
+stage:1.0
+African elephant:1.0
+grampus:1.0
+ocean liner:111.0
+groyne:3.0
+whorl:1.0
+sub:6.0
+wreck:3.0
+pigboat:6.0
+speedboat:6.0
+handrail:3.0
+jetty:3.0
+submarine:6.0
+fountain:2.0
+groin:3.0
+offshore rig:2.0
+U-boat:6.0
+catamaran:5.0
+seawall:3.0
+schooner:1.0
+tusker:1.0
+lakeshore:2.0
+jellyfish:1.0
+banister:3.0
+Loxodonta africana:1.0
+magnetic compass:1.0
+killer:1.0
+containership:2.0
+killer whale:1.0
+dock:12.0
+boathouse:1.0
+dockage:12.0
+amphibious vehicle:2.0
+pier:1.0
+balustrade:3.0
+paddle wheel:2.0
+volute:1.0
+bulwark:3.0
+liner:111.0
+docking facility:12.0
+sea wolf:1.0
+amphibian:2.0
+patio:2.0
+paddlewheel:2.0
+vault:1.0
+fireboat:5.0
+orca:1.0

@@ -1,0 +1,144 @@
+picture palace:7.0
+clog:1.0
+laptop:5.0
+fur coat:1.0
+eating place:10.0
+trash can:2.0
+rubber eraser:3.0
+lip rouge:1.0
+shako:3.0
+pencil sharpener:2.0
+cellular telephone:2.0
+cellular phone:2.0
+monitor:1.0
+menu:9.0
+grand piano:1.0
+balance beam:1.0
+theater curtain:5.0
+ping-pong ball:1.0
+apron:1.0
+cash machine:1.0
+automated teller machine:1.0
+marimba:2.0
+ruler:2.0
+miniskirt:1.0
+parallel bars:1.0
+street sign:1.0
+whistle:1.0
+chainsaw:1.0
+transverse flute:1.0
+chain saw:1.0
+knapsack:1.0
+desk:1.0
+patten:1.0
+window shade:1.0
+pencil eraser:3.0
+carpenter's kit:1.0
+nipple:1.0
+claw:2.0
+tray:2.0
+bars:1.0
+haversack:1.0
+dustbin:2.0
+dust cover:2.0
+library:11.0
+notebook computer:2.0
+jigsaw puzzle:2.0
+web site:46.0
+internet site:46.0
+military uniform:2.0
+hautbois:3.0
+book jacket:2.0
+desktop computer:1.0
+lipstick:1.0
+automatic teller:1.0
+cell:2.0
+busby:3.0
+fiddle:1.0
+eating house:10.0
+bearskin:3.0
+automated teller:1.0
+Pan troglodytes:1.0
+abaya:1.0
+park bench:3.0
+tool kit:1.0
+stage:9.0
+folding chair:3.0
+movie theater:7.0
+Sussex spaniel:1.0
+restaurant:10.0
+bow:1.0
+movie theatre:7.0
+laptop computer:5.0
+suit of clothes:2.0
+cash dispenser:1.0
+Band Aid:1.0
+backpack:1.0
+jersey:1.0
+ash-bin:2.0
+wastebin:2.0
+denim:3.0
+ATM:1.0
+chimp:1.0
+hook:2.0
+automatic teller machine:1.0
+mobile phone:2.0
+church:1.0
+syringe:1.0
+basketball:2.0
+dust jacket:2.0
+T-shirt:1.0
+Loafer:1.0
+suit:2.0
+comic book:4.0
+website:46.0
+golfcart:1.0
+oboe:3.0
+xylophone:2.0
+envelope:3.0
+sabot:1.0
+chimpanzee:1.0
+eatery:10.0
+stethoscope:1.0
+packet:2.0
+garbage can:2.0
+hautboy:3.0
+ash bin:2.0
+trash bin:2.0
+golf cart:1.0
+church building:1.0
+tee shirt:1.0
+back pack:1.0
+high bar:1.0
+mini:1.0
+blue jean:3.0
+palace:1.0
+cinema:7.0
+site:46.0
+volleyball:1.0
+violin:1.0
+bridegroom:1.0
+bassoon:3.0
+geta:1.0
+balloon:1.0
+ashbin:2.0
+packsack:1.0
+rubber:3.0
+grand:1.0
+horizontal bar:1.0
+paintbrush:1.0
+rucksack:1.0
+ashcan:2.0
+flute:1.0
+notebook:2.0
+dust wrapper:2.0
+bullet train:1.0
+movie house:7.0
+cellphone:2.0
+bullet:1.0
+beam:1.0
+groom:1.0
+rule:2.0
+theatre curtain:5.0
+jean:3.0
+trash barrel:2.0

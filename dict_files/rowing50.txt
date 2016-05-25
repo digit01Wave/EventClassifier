@@ -1,0 +1,28 @@
+canoe:18.0
+maypole:1.0
+Orcinus orca:1.0
+dumbbell:1.0
+trimaran:2.0
+grampus:1.0
+speedboat:1.0
+paddle:38.0
+sea wolf:1.0
+snake feeder:1.0
+ski:1.0
+snake doctor:1.0
+dragonfly:1.0
+killer:1.0
+skeeter hawk:1.0
+sewing needle:1.0
+killer whale:1.0
+darning needle:1.0
+boat paddle:38.0
+aircraft carrier:1.0
+attack aircraft carrier:1.0
+lifeboat:1.0
+mosquito hawk:1.0
+devil's darning needle:1.0
+flattop:1.0
+bow:1.0
+carrier:1.0
+orca:1.0

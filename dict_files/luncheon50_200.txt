@@ -1,0 +1,158 @@
+automated teller:1.0
+gown:2.0
+popsicle:3.0
+essence:1.0
+theater curtain:2.0
+eating place:12.0
+terrace:2.0
+potpie:1.0
+slot:1.0
+menu:19.0
+cheeseburger:1.0
+hanky:3.0
+admiral:1.0
+board:12.0
+Windsor tie:1.0
+carton:2.0
+pencil case:1.0
+digital clock:1.0
+plate:6.0
+cash machine:1.0
+automated teller machine:1.0
+hoopskirt:2.0
+vase:2.0
+chocolate syrup:1.0
+frying pan:2.0
+roundabout:1.0
+desk:1.0
+bathing cap:1.0
+membranophone:1.0
+bolo tie:1.0
+perfume:1.0
+nursery:2.0
+ice lolly:3.0
+four-poster:1.0
+tray:9.0
+greenhouse:2.0
+bow tie:1.0
+king penguin:1.0
+meat loaf:4.0
+packet:11.0
+jigsaw puzzle:3.0
+web site:32.0
+Dungeness crab:1.0
+paling:2.0
+internet site:32.0
+meatloaf:4.0
+hamper:1.0
+ice cream:1.0
+book jacket:9.0
+bakeshop:5.0
+merry-go-round:1.0
+mountain tent:1.0
+automatic teller:1.0
+icecream:1.0
+cradle:2.0
+pencil box:1.0
+nipple:1.0
+eating house:12.0
+lolly:3.0
+food market:2.0
+bola:1.0
+trifle:1.0
+hankey:3.0
+memorial tablet:2.0
+Dutch oven:1.0
+bowtie:1.0
+corn:1.0
+Cancer magister:1.0
+bolo:1.0
+binder:2.0
+umbrella:1.0
+French loaf:1.0
+lollipop:3.0
+stage:2.0
+drum:1.0
+cot:1.0
+restaurant:12.0
+sleeping bag:1.0
+bridegroom:4.0
+Aptenodytes patagonica:1.0
+daisy:1.0
+bakehouse:5.0
+cash dispenser:1.0
+Band Aid:3.0
+jersey:1.0
+candy store:2.0
+wig:2.0
+stretcher:1.0
+pot:2.0
+ATM:1.0
+crib:1.0
+swimming cap:1.0
+automatic teller machine:1.0
+limo:1.0
+dust cover:9.0
+mortarboard:1.0
+skillet:2.0
+market:2.0
+taper:2.0
+confectionery:2.0
+T-shirt:1.0
+dust jacket:9.0
+carousel:1.0
+pinwheel:2.0
+limousine:1.0
+crinoline:2.0
+website:32.0
+confectionary:2.0
+altar:3.0
+envelope:20.0
+padlock:1.0
+eatery:12.0
+tympan:1.0
+grocery:2.0
+dining table:12.0
+ring-binder:2.0
+comic book:3.0
+tee shirt:1.0
+bow-tie:1.0
+strawberry:2.0
+grocery store:2.0
+shower curtain:2.0
+flowerpot:2.0
+gong:1.0
+picket fence:2.0
+handkerchief:3.0
+apron:1.0
+tam-tam:1.0
+site:32.0
+chocolate sauce:1.0
+candle:2.0
+stole:1.0
+whirligig:1.0
+cardigan:1.0
+bola tie:1.0
+balloon:2.0
+military uniform:3.0
+frypan:2.0
+carrousel:1.0
+one-armed bandit:1.0
+hankie:3.0
+shopping basket:1.0
+toyshop:1.0
+mosquito net:1.0
+dust wrapper:9.0
+brass:2.0
+burrito:2.0
+wax light:2.0
+hair slide:4.0
+glasshouse:2.0
+groom:4.0
+mask:1.0
+theatre curtain:2.0
+bakery:5.0
+patio:2.0
+sombrero:1.0
+bassinet:2.0
+plaque:2.0

@@ -1,0 +1,22 @@
+pirate ship:2.0
+promontory:1.0
+headland:1.0
+seashore:1.0
+drilling platform:1.0
+trimaran:12.0
+alp:1.0
+lighthouse:1.0
+wreck:2.0
+offshore rig:1.0
+catamaran:29.0
+sea-coast:1.0
+schooner:15.0
+head:1.0
+pharos:1.0
+foreland:1.0
+coast:1.0
+beacon:1.0
+yawl:17.0
+pirate:2.0
+beacon light:1.0
+seacoast:1.0

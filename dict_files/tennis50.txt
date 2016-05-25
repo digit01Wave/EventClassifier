@@ -1,0 +1,6 @@
+racquet:22.0
+ping-pong ball:1.0
+tennis ball:28.0
+scoreboard:1.0
+racket:22.0
+abacus:1.0

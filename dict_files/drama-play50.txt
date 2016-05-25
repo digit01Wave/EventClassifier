@@ -1,0 +1,110 @@
+rocker:3.0
+coffee mug:1.0
+theater curtain:2.0
+vacuum:1.0
+barbell:1.0
+spatula:1.0
+dumbbell:1.0
+menu:1.0
+pj's:3.0
+mower:1.0
+rocking chair:3.0
+pill bottle:1.0
+board:3.0
+crossword puzzle:1.0
+carton:2.0
+electric guitar:1.0
+grocery store:1.0
+velocipede:1.0
+parallel bars:1.0
+chainsaw:1.0
+chain saw:1.0
+lighter:1.0
+desk:2.0
+press:1.0
+tricycle:1.0
+power drill:2.0
+punching bag:1.0
+violoncello:1.0
+saxophone:1.0
+four-poster:1.0
+bars:1.0
+opera glasses:1.0
+microwave oven:1.0
+torch:1.0
+library:1.0
+penny bank:1.0
+web site:1.0
+sewing machine:1.0
+internet site:1.0
+toyshop:4.0
+closet:1.0
+mountain tent:1.0
+microwave:1.0
+crossword:1.0
+fountain:2.0
+food market:1.0
+sarong:1.0
+jammies:3.0
+bookcase:1.0
+stage:6.0
+throne:2.0
+cot:3.0
+tee shirt:2.0
+bow:1.0
+bridegroom:1.0
+Band Aid:1.0
+pajama:3.0
+wig:1.0
+face powder:1.0
+petrol pump:1.0
+crib:3.0
+gas pump:1.0
+punching ball:1.0
+market:1.0
+maraca:2.0
+T-shirt:2.0
+jellyfish:1.0
+comic book:1.0
+lawn mower:1.0
+website:1.0
+altar:2.0
+ignitor:1.0
+stethoscope:1.0
+diaper:1.0
+wardrobe:1.0
+grocery:1.0
+trike:1.0
+dining table:3.0
+bucket:1.0
+barbershop:1.0
+cello:1.0
+spotlight:1.0
+napkin:1.0
+site:1.0
+china cabinet:1.0
+sax:1.0
+paper towel:1.0
+island dispenser:1.0
+toaster:1.0
+chest:1.0
+field glasses:1.0
+banjo:1.0
+paintbrush:2.0
+piggy bank:1.0
+pail:1.0
+vacuum cleaner:1.0
+spot:1.0
+shopping basket:1.0
+binoculars:1.0
+punch bag:1.0
+gasoline pump:1.0
+punchball:1.0
+igniter:1.0
+light:1.0
+groom:1.0
+china closet:1.0
+theatre curtain:2.0
+jersey:2.0
+pyjama:3.0
+nappy:1.0
