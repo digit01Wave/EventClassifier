@@ -1,0 +1,45 @@
+suspension bridge:1.0
+fire engine:1.0
+electric guitar:13.0
+torch:12.0
+scoreboard:1.0
+parachute:1.0
+megalith:1.0
+seashore:1.0
+sundial:1.0
+candle:2.0
+mortarboard:3.0
+shopping cart:1.0
+cornet:7.0
+loudspeaker:19.0
+microphone:8.0
+geyser:3.0
+projector:1.0
+accordion:1.0
+grand piano:2.0
+cinema:1.0
+fire screen:2.0
+fountain:6.0
+balance beam:1.0
+drumstick:1.0
+matchstick:3.0
+limousine:1.0
+maypole:1.0
+steel arch bridge:1.0
+king penguin:1.0
+marimba:1.0
+water bottle:2.0
+cannon:1.0
+corn:1.0
+theater curtain:23.0
+academic gown:1.0
+crane:1.0
+stage:42.0
+oboe:1.0
+acoustic guitar:1.0
+liner:1.0
+sax:5.0
+volcano:2.0
+solar dish:1.0
+spotlight:33.0
+fireboat:1.0

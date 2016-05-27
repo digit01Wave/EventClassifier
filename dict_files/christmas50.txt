@@ -1,0 +1,60 @@
+snowplow:2.0
+palace:1.0
+theater curtain:2.0
+buckeye:1.0
+mosquito net:1.0
+packet:1.0
+triumphal arch:1.0
+hook:2.0
+web site:1.0
+snowmobile:2.0
+stupa:1.0
+church:2.0
+candle:1.0
+pot:2.0
+rubber eraser:1.0
+hamper:2.0
+alp:1.0
+book jacket:2.0
+toyshop:1.0
+velvet:2.0
+cup:1.0
+grand piano:1.0
+lampshade:4.0
+kimono:1.0
+fountain:1.0
+fire screen:1.0
+pinwheel:1.0
+jellyfish:1.0
+bubble:4.0
+maypole:2.0
+dining table:1.0
+hip:3.0
+umbrella:2.0
+totem pole:2.0
+yurt:1.0
+altar:4.0
+balloon:2.0
+envelope:1.0
+vase:1.0
+Christmas stocking:3.0
+confectionery:2.0
+red wine:2.0
+vault:1.0
+park bench:1.0
+traffic light:1.0
+stage:1.0
+throne:3.0
+bonnet:1.0
+restaurant:3.0
+comic book:2.0
+brassiere:1.0
+perfume:2.0
+strawberry:1.0
+pillow:2.0
+ice lolly:1.0
+hair slide:3.0
+volcano:2.0
+tray:4.0
+broom:1.0
+pajama:1.0

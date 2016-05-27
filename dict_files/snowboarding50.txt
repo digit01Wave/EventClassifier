@@ -1,22 +1,14 @@
 gown:1.0
 shovel:2.0
-drop-off:1.0
-parachute:1.0
-armored combat vehicle:1.0
-snowmobile:6.0
-alp:18.0
-half track:1.0
-ski:33.0
-armoured combat vehicle:1.0
-cannon:1.0
-missile:1.0
-chainsaw:1.0
-chain saw:1.0
-army tank:1.0
-cliff:1.0
-chute:1.0
 tank:1.0
-drop:1.0
+cannon:1.0
+parachute:1.0
+half track:1.0
+snowmobile:6.0
 knee pad:1.0
 projectile:1.0
 ski mask:1.0
+cliff:1.0
+ski:33.0
+alp:18.0
+chain saw:1.0

@@ -1,105 +1,48 @@
-taxi:4.0
-trucking rig:2.0
-snowmobile:2.0
-hack:4.0
-mountain bike:1.0
-sports car:7.0
-cellular telephone:1.0
-taxicab:4.0
-cellular phone:1.0
-scooter:2.0
-mower:2.0
-cannon:2.0
-cowboy boot:1.0
-chainsaw:1.0
-chain saw:1.0
-vacuum:1.0
-patrol wagon:3.0
-wagon:10.0
-station waggon:7.0
-semi:2.0
-respirator:1.0
-beach wagon:7.0
-threshing machine:1.0
-pickup truck:1.0
-landrover:5.0
-waggon:7.0
 thresher:1.0
-moped:2.0
-dustbin:1.0
 fire engine:1.0
-fire truck:1.0
-plough:1.0
-race car:2.0
-tow car:16.0
+pole:1.0
+police van:3.0
+snowmobile:2.0
+moped:2.0
+mountain bike:1.0
+trimaran:1.0
 military uniform:1.0
-articulated lorry:2.0
+cellular telephone:1.0
+garbage truck:2.0
+plow:1.0
 wreck:1.0
 mountain tent:2.0
-tow truck:16.0
-cell:1.0
+traffic light:1.0
+plastic bag:1.0
+sports car:7.0
+Loafer:1.0
 pickup:1.0
 butcher shop:1.0
 half track:1.0
-beach waggon:7.0
-wrecker:16.0
-garbage truck:2.0
-trailer truck:2.0
-trimaran:1.0
-thrasher:1.0
-jeep:5.0
-sleeping bag:1.0
-meat market:1.0
-radiator grille:1.0
-stoplight:1.0
-estate car:7.0
-ash-bin:1.0
-wastebin:1.0
-off-roader:1.0
-pole:1.0
 rotisserie:1.0
-limo:2.0
-mobile phone:1.0
-traffic signal:1.0
-gasmask:1.0
-plow:1.0
-Loafer:1.0
-traffic light:1.0
-plastic bag:1.0
 pinwheel:1.0
 catamaran:1.0
 limousine:2.0
 lawn mower:2.0
-paddy wagon:3.0
-dustcart:2.0
-grille:1.0
-racer:2.0
-garbage can:1.0
-ash bin:1.0
-trash bin:1.0
-minibus:1.0
-harvester:3.0
-sport car:7.0
-trash can:1.0
-car wheel:4.0
-station wagon:7.0
-black Maria:3.0
-cab:4.0
-police wagon:3.0
-tractor:1.0
-police van:3.0
-racing car:2.0
-rig:2.0
-ashbin:1.0
-all-terrain bike:1.0
 motor scooter:2.0
 ashcan:1.0
-vacuum cleaner:1.0
+cannon:2.0
 minivan:10.0
-gas helmet:1.0
-cellphone:1.0
-tractor trailer:2.0
-reaper:3.0
+grille:1.0
+cowboy boot:1.0
+racer:2.0
+chain saw:1.0
+gasmask:1.0
+vacuum:1.0
+trailer truck:2.0
+minibus:1.0
+harvester:3.0
+jeep:5.0
+sleeping bag:1.0
+beach wagon:7.0
+car wheel:4.0
+tow truck:16.0
 parking meter:1.0
 ambulance:3.0
-trash barrel:1.0
+cab:4.0
+tractor:1.0

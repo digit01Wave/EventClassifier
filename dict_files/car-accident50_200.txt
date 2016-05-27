@@ -1,173 +1,82 @@
-taxi:6.0
-trucking rig:10.0
-tile roof:1.0
-stretcher:3.0
-trash can:3.0
-hack:6.0
-mountain bike:1.0
-Doberman pinscher:1.0
-sports car:12.0
-articulated lorry:10.0
-RV:1.0
-sandal:1.0
-scooter:16.0
-seat belt:1.0
-mower:4.0
-hanky:2.0
-manufactured home:2.0
-denim:1.0
-comic book:1.0
-dromedary:2.0
-seatbelt:1.0
-cannon:1.0
-velocipede:1.0
-killer:2.0
-cowboy boot:1.0
-chainsaw:1.0
-chain saw:1.0
-vacuum:1.0
-amphibious vehicle:1.0
-patrol wagon:4.0
-Camelus dromedarius:2.0
-wagon:12.0
-station waggon:8.0
-taxicab:6.0
-semi:10.0
-tricycle:1.0
-beach wagon:8.0
-threshing machine:2.0
-pickup truck:14.0
-landrover:13.0
-snowmobile:8.0
+harvester:5.0
 thresher:2.0
+car mirror:2.0
 quilt:1.0
-dustbin:3.0
+suspension bridge:1.0
+lakeside:1.0
 fire engine:1.0
+Doberman:1.0
 torch:2.0
 packet:1.0
-plough:1.0
+tile roof:1.0
+disk brake:1.0
 jigsaw puzzle:1.0
 moving van:2.0
-race car:7.0
-tow car:43.0
-hankey:2.0
-sand bar:1.0
+snowmobile:8.0
+moped:5.0
+limousine:3.0
+mountain bike:1.0
+sports car:12.0
 jinrikisha:1.0
+garbage truck:7.0
+plow:1.0
+sandal:1.0
+handkerchief:2.0
 go-kart:4.0
 wreck:2.0
 mountain tent:3.0
+sock:1.0
+seat belt:1.0
+police van:4.0
 tow truck:43.0
+ashcan:3.0
 pickup:14.0
 butcher shop:2.0
 half track:1.0
-solar collector:1.0
 crash helmet:4.0
-beach waggon:8.0
-wrecker:43.0
-umbrella:1.0
-garbage truck:7.0
-horse-cart:2.0
-trailer truck:10.0
-convertible:3.0
-sea lion:3.0
-sandbar:1.0
-thrasher:2.0
-jeep:13.0
-sleeping bag:1.0
-sea star:1.0
-sea wolf:2.0
-meat market:2.0
-ox:1.0
-puff:1.0
-waggon:8.0
-radiator grille:5.0
-ricksha:1.0
-estate car:8.0
-ash-bin:3.0
-wastebin:3.0
-suspension bridge:1.0
-Doberman:1.0
-forklift:3.0
-off-roader:1.0
-pole:1.0
-blue jean:1.0
-limo:3.0
-moped:5.0
-fire truck:1.0
-comforter:1.0
-car mirror:2.0
-grampus:2.0
-plow:1.0
-snowplow:1.0
-sock:1.0
-T-shirt:1.0
-dust jacket:1.0
-recreational vehicle:1.0
 horse cart:2.0
-limousine:3.0
+comic book:1.0
 lawn mower:4.0
-website:1.0
+solar dish:1.0
+book jacket:1.0
 golfcart:2.0
-paddy wagon:4.0
-dustcart:7.0
+forklift:3.0
+umbrella:1.0
+starfish:1.0
+minivan:15.0
+stretcher:3.0
+cannon:1.0
+ambulance:3.0
 envelope:1.0
 killer whale:2.0
 grille:5.0
-mobile home:2.0
+cowboy boot:1.0
 racer:7.0
-rickshaw:1.0
-garbage can:3.0
-crane:1.0
-ash bin:3.0
-trash bin:3.0
-golf cart:2.0
-trike:1.0
-harvester:5.0
-sport car:12.0
-tee shirt:1.0
+chain saw:1.0
+vacuum:1.0
+recreational vehicle:1.0
+trailer truck:10.0
+convertible:3.0
+jean:1.0
+hermit crab:2.0
+mobile home:2.0
+Model T:3.0
+sea lion:3.0
+sandbar:1.0
+tricycle:1.0
+jeep:13.0
+sleeping bag:1.0
+beach wagon:8.0
+snowplow:1.0
+pole:1.0
+motor scooter:16.0
 car wheel:14.0
 web site:1.0
-station wagon:8.0
-knee pad:1.0
-black Maria:4.0
-cab:6.0
-police wagon:4.0
-tractor:3.0
-snowplough:1.0
-police van:4.0
-racing car:7.0
-handkerchief:2.0
-lakeshore:1.0
-lakeside:1.0
-orca:2.0
-site:1.0
-Orcinus orca:2.0
-internet site:1.0
-rig:10.0
-starfish:1.0
-solar furnace:1.0
-comfort:1.0
-ashbin:3.0
-R.V.:1.0
-Arabian camel:2.0
-all-terrain bike:1.0
-solar dish:1.0
-book jacket:1.0
-motor scooter:16.0
-disk brake:1.0
-ashcan:3.0
-vacuum cleaner:1.0
-minivan:15.0
-hankie:2.0
-dust cover:1.0
-dust wrapper:1.0
-hermit crab:2.0
-Model T:3.0
-disc brake:1.0
-tractor trailer:10.0
-reaper:5.0
 amphibian:1.0
 jersey:1.0
-ambulance:3.0
-jean:1.0
-trash barrel:3.0
+knee pad:1.0
+ox:1.0
+cab:6.0
+crane:1.0
+tractor:3.0
+Arabian camel:2.0

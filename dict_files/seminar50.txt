@@ -1,101 +1,49 @@
-picture palace:13.0
-rocker:1.0
-coffee mug:1.0
-theater curtain:2.0
-eating place:7.0
-Biro:1.0
-home theatre:1.0
-shako:3.0
-cornet:1.0
-cellular telephone:1.0
-cellular phone:1.0
-goblet:1.0
-cup:1.0
-rocking chair:1.0
-board:1.0
-French horn:1.0
-laptop:2.0
-cellphone:1.0
-marimba:1.0
-transverse flute:1.0
-desk:1.0
-abacus:1.0
-banjo:1.0
-fiddle:1.0
-abaya:1.0
-washbowl:1.0
 bow tie:1.0
-academic robe:1.0
+ballpoint:1.0
+groom:2.0
+coffee mug:1.0
+laptop:2.0
 library:6.0
-horn:2.0
-ten-gallon hat:1.0
 jigsaw puzzle:1.0
 web site:1.0
-internet site:1.0
-sweatshirt:1.0
-hautbois:3.0
-book jacket:1.0
-fountain pen:1.0
-cell:1.0
-judge's robe:1.0
-eating house:7.0
-handbasin:1.0
-bowtie:1.0
-stage:14.0
-folding chair:3.0
-movie theater:13.0
-tee shirt:2.0
-bridegroom:2.0
-cowboy hat:1.0
-suit of clothes:2.0
-home theater:1.0
-jersey:2.0
-ballpoint:1.0
-mobile phone:1.0
-dust cover:1.0
-mortarboard:4.0
-academic gown:1.0
 projector:2.0
-maraca:1.0
-shoe store:1.0
-lab coat:3.0
-T-shirt:2.0
-dust jacket:1.0
-suit:2.0
-maze:1.0
-comic book:1.0
-website:1.0
-oboe:3.0
-labyrinth:1.0
-altar:1.0
-xylophone:1.0
-envelope:1.0
-eatery:7.0
-laboratory coat:3.0
-hautboy:3.0
-dining table:1.0
-restaurant:7.0
-bow-tie:1.0
-lavabo:1.0
-trump:1.0
-cinema:13.0
-site:1.0
-ballpoint pen:1.0
 violin:1.0
-trumpet:1.0
-movie theatre:13.0
+sweatshirt:1.0
+mortarboard:4.0
+cornet:1.0
+cellular telephone:1.0
+fountain pen:1.0
+academic gown:1.0
+goblet:1.0
+cup:1.0
 bassoon:2.0
 washbasin:1.0
-shoe-shop:1.0
-busby:3.0
+oboe:3.0
+lab coat:3.0
+rocking chair:1.0
+abaya:1.0
+French horn:1.0
+maze:1.0
+banjo:1.0
+comic book:1.0
+theater curtain:2.0
+dining table:1.0
+book jacket:1.0
 flute:1.0
-laptop computer:2.0
-safety pin:1.0
-dust wrapper:1.0
-movie house:13.0
+marimba:1.0
+folding chair:3.0
+altar:1.0
+suit:2.0
+envelope:1.0
+cinema:13.0
+desk:1.0
+abacus:1.0
 shoe shop:1.0
+stage:14.0
 bearskin:3.0
-groom:2.0
-theatre curtain:2.0
-ballpen:1.0
-wash-hand basin:1.0
+restaurant:7.0
+maraca:1.0
+cowboy hat:1.0
+safety pin:1.0
+home theater:1.0
+jersey:2.0

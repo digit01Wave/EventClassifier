@@ -1,0 +1,53 @@
+pelican:1.0
+scuba diver:1.0
+cinema:1.0
+electric guitar:5.0
+torch:3.0
+web site:4.0
+greenhouse:1.0
+moped:1.0
+chime:1.0
+mountain bike:1.0
+mortarboard:1.0
+stage:103.0
+cornet:3.0
+book jacket:2.0
+microphone:1.0
+basketball:2.0
+accordion:1.0
+bassoon:1.0
+menu:1.0
+balloon:1.0
+scorpion:2.0
+fountain:10.0
+miniskirt:1.0
+unicycle:1.0
+matchstick:1.0
+ski:2.0
+theater curtain:12.0
+steel arch bridge:1.0
+maraca:1.0
+radiator:2.0
+corn:1.0
+thatch:1.0
+bicycle-built-for-two:1.0
+academic gown:1.0
+rifle:1.0
+park bench:1.0
+feather boa:1.0
+ear:1.0
+chainlink fence:1.0
+throne:1.0
+bearskin:1.0
+banjo:1.0
+drum:1.0
+organ:1.0
+acoustic guitar:1.0
+brassiere:1.0
+volleyball:1.0
+bikini:1.0
+sax:1.0
+gondola:1.0
+volcano:1.0
+spotlight:16.0
+shower curtain:1.0

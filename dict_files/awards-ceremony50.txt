@@ -1,95 +1,52 @@
-picture palace:1.0
-theater curtain:7.0
-scoreboard:1.0
-barbell:1.0
-dumbbell:1.0
-ocarina:1.0
-water jug:2.0
-dust wrapper:1.0
-menu:2.0
-ewer:1.0
-balance beam:1.0
-French horn:1.0
-oscilloscope:1.0
-whistle:1.0
-cathode-ray oscilloscope:1.0
-claw:1.0
-paper knife:1.0
-letter opener:1.0
-fire engine:1.0
-torch:1.0
-packet:1.0
-horn:1.0
-web site:6.0
-trombone:1.0
-internet site:6.0
-hammer:1.0
-CRO:1.0
-hautbois:1.0
-book jacket:1.0
-fountain:1.0
-unicycle:1.0
-bathing cap:1.0
-volute:1.0
-paperknife:1.0
-memorial tablet:1.0
-park bench:1.0
-stage:9.0
-movie theater:1.0
-movie theatre:1.0
-corkscrew:1.0
-suit of clothes:2.0
-dust cover:1.0
-monocycle:1.0
-maillot:2.0
-denim:1.0
-hook:1.0
-swimming cap:1.0
-fire truck:1.0
-bottle screw:1.0
-plumber's helper:1.0
-projector:1.0
-dust jacket:1.0
-spiral:1.0
-lab coat:1.0
-Loafer:1.0
-suit:2.0
-scope:1.0
-comic book:1.0
-helix:1.0
-website:6.0
-mike:2.0
-oboe:1.0
-envelope:2.0
-laboratory coat:1.0
-hautboy:1.0
-church:1.0
-church building:1.0
-sweet potato:1.0
-plunger:1.0
-spotlight:2.0
 table lamp:1.0
-mini:1.0
-blue jean:1.0
 palace:1.0
 cinema:1.0
-site:6.0
-whorl:1.0
-microphone:2.0
-bassoon:1.0
-coffeepot:1.0
+letter opener:1.0
+fire engine:1.0
+theater curtain:7.0
+torch:1.0
+scoreboard:1.0
+packet:1.0
+barbell:1.0
+hook:1.0
+web site:6.0
+lab coat:1.0
+church:1.0
+trombone:1.0
+dumbbell:1.0
+hammer:1.0
 military uniform:1.0
+water jug:2.0
+book jacket:1.0
+microphone:2.0
+projector:1.0
+French horn:1.0
+bassoon:1.0
+menu:2.0
+oboe:1.0
+coffeepot:1.0
+ocarina:1.0
+Loafer:1.0
 kimono:1.0
-miniskirt:1.0
-tank suit:1.0
-water bottle:1.0
+fountain:1.0
+balance beam:1.0
+maillot:2.0
+unicycle:1.0
+bathing cap:1.0
+comic book:1.0
+oscilloscope:1.0
+envelope:2.0
+suit:2.0
 pitcher:1.0
-spot:2.0
+whistle:1.0
+miniskirt:1.0
+park bench:1.0
 coil:1.0
 brass:1.0
-movie house:1.0
-beam:1.0
-theatre curtain:7.0
 jean:1.0
-plaque:1.0
+stage:9.0
+water bottle:1.0
+corkscrew:1.0
+plunger:1.0
+spotlight:2.0
 whiskey jug:1.0

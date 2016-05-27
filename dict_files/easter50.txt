@@ -1,0 +1,56 @@
+teddy:1.0
+birdhouse:1.0
+clog:1.0
+saltshaker:1.0
+handkerchief:1.0
+guinea pig:4.0
+hare:4.0
+packet:1.0
+sulphur butterfly:1.0
+ant:2.0
+jigsaw puzzle:2.0
+piggy bank:1.0
+church:1.0
+candle:1.0
+rubber eraser:1.0
+hamper:1.0
+ice cream:1.0
+book jacket:2.0
+lipstick:1.0
+brassiere:1.0
+balloon:4.0
+picket fence:3.0
+wood rabbit:4.0
+fig:1.0
+pop bottle:1.0
+Angora:3.0
+comic book:1.0
+pot:2.0
+palace:1.0
+ping-pong ball:1.0
+maraca:8.0
+mushroom:1.0
+Granny Smith:1.0
+altar:1.0
+soap dispenser:1.0
+bib:1.0
+albatross:1.0
+vase:2.0
+Christmas stocking:1.0
+acorn:1.0
+lotion:2.0
+pinwheel:2.0
+Arctic fox:1.0
+croquet ball:10.0
+conch:1.0
+bubble:1.0
+tennis ball:1.0
+pole:1.0
+strawberry:1.0
+bakery:1.0
+hair slide:1.0
+daisy:2.0
+necklace:1.0
+sea slug:1.0
+tray:1.0
+spotlight:1.0

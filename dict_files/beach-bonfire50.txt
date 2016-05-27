@@ -1,49 +1,24 @@
 lakeside:3.0
-theater curtain:1.0
+caldron:2.0
 torch:16.0
-head:1.0
-cauldron:2.0
 promontory:1.0
 space shuttle:1.0
-headland:1.0
-eating place:1.0
 seashore:6.0
 sandbar:1.0
-traffic signal:1.0
 guillotine:1.0
 candle:2.0
-sand bar:1.0
-taper:2.0
-theatre curtain:1.0
 wreck:3.0
 traffic light:1.0
 fire screen:16.0
 fountain:2.0
 flagpole:1.0
-eating house:1.0
 matchstick:1.0
-armored combat vehicle:1.0
-sea-coast:6.0
-lakeshore:3.0
-armoured combat vehicle:1.0
-pail:1.0
-fireguard:16.0
-foreland:1.0
+theater curtain:1.0
 tripod:1.0
-coast:6.0
-wax light:2.0
-eatery:1.0
-missile:4.0
-army tank:1.0
-flagstaff:1.0
 tank:1.0
 restaurant:1.0
-caldron:2.0
 groom:1.0
 bucket:1.0
-wing:1.0
-bridegroom:1.0
-seacoast:6.0
 projectile:2.0
 volcano:27.0
-stoplight:1.0
+wing:1.0

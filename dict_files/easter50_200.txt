@@ -1,0 +1,94 @@
+clog:2.0
+mitten:1.0
+rubber eraser:2.0
+ocarina:1.0
+slot:1.0
+abacus:1.0
+cup:3.0
+menu:2.0
+thimble:2.0
+rocking chair:1.0
+pill bottle:1.0
+fig:1.0
+Angora:2.0
+wool:2.0
+ping-pong ball:3.0
+bib:4.0
+vase:5.0
+whistle:1.0
+lighter:2.0
+window shade:1.0
+croquet ball:20.0
+oxygen mask:1.0
+perfume:1.0
+nipple:1.0
+tray:6.0
+hare:3.0
+torch:1.0
+packet:3.0
+web site:5.0
+candle:7.0
+hamper:4.0
+ice cream:3.0
+toyshop:1.0
+tennis ball:3.0
+corn:1.0
+umbrella:3.0
+brassiere:2.0
+screen:1.0
+mosquito net:1.0
+vestment:1.0
+lotion:3.0
+beacon:1.0
+French loaf:1.0
+saltshaker:4.0
+beaker:1.0
+maraca:19.0
+golf ball:3.0
+wall clock:1.0
+hamster:1.0
+daisy:5.0
+safety pin:1.0
+Band Aid:2.0
+pillow:5.0
+face powder:1.0
+pot:7.0
+bonnet:2.0
+hook:1.0
+weasel:1.0
+church:1.0
+birdhouse:1.0
+confectionery:3.0
+palace:2.0
+teddy:2.0
+wood rabbit:3.0
+comic book:3.0
+altar:2.0
+envelope:12.0
+diaper:1.0
+teapot:1.0
+carton:1.0
+bubble:2.0
+strawberry:1.0
+shower curtain:2.0
+rugby ball:2.0
+handkerchief:4.0
+guinea pig:1.0
+purse:3.0
+parachute:2.0
+pedestal:2.0
+loupe:1.0
+balloon:8.0
+picket fence:2.0
+fire screen:1.0
+matchstick:4.0
+American lobster:1.0
+piggy bank:2.0
+soap dispenser:1.0
+shopping basket:2.0
+cucumber:1.0
+coil:1.0
+hair slide:2.0
+mask:2.0
+bakery:6.0
+necklace:5.0

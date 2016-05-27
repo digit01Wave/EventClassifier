@@ -1,123 +1,70 @@
-rocker:1.0
-popsicle:1.0
-Greater Swiss Mountain dog:1.0
-laptop:4.0
-vacuum:1.0
-television system:2.0
-eating place:8.0
-dough:1.0
-terrace:1.0
-home theatre:4.0
-cellular telephone:2.0
-cellular phone:2.0
-monitor:4.0
-rocking chair:1.0
-board:9.0
-prison:1.0
-carton:1.0
-icebox:1.0
-ping-pong ball:2.0
-plate:1.0
-marimba:1.0
-whistle:1.0
-computer mouse:2.0
-nappy:1.0
-desk:8.0
-window shade:3.0
-oxygen mask:1.0
-ice lolly:1.0
-filing cabinet:2.0
 bow tie:1.0
-quill pen:3.0
-academic robe:2.0
-CRT screen:1.0
+laptop:4.0
 bookshop:1.0
 library:15.0
-notebook computer:12.0
+Saluki:1.0
+joystick:1.0
 web site:8.0
 sewing machine:2.0
-internet site:8.0
+file:2.0
+studio couch:1.0
+mortarboard:1.0
+mouse:2.0
 quill:3.0
-book jacket:1.0
+cellular telephone:2.0
+toilet tissue:1.0
 desktop computer:2.0
-file cabinet:2.0
-bathroom tissue:1.0
-cell:2.0
-crossword:1.0
-judge's robe:2.0
+monitor:4.0
+maraca:1.0
+refrigerator:1.0
+desk:8.0
+book jacket:1.0
+Greater Swiss Mountain dog:1.0
+kimono:2.0
+lab coat:17.0
+rocking chair:1.0
 crossword puzzle:1.0
 golden retriever:1.0
-vacuum cleaner:1.0
-saxophone:1.0
-eating house:8.0
-lolly:1.0
-bowtie:1.0
+shoji:1.0
+prison:1.0
+barbershop:1.0
+carton:1.0
+comic book:1.0
+paintbrush:1.0
+dining table:9.0
+ping-pong ball:2.0
+plate:1.0
+printer:1.0
+marimba:1.0
+Labrador retriever:1.0
 screen:1.0
+suit:6.0
+envelope:2.0
 vestment:3.0
-lollipop:1.0
+Christmas stocking:1.0
+whistle:1.0
+academic gown:2.0
+stethoscope:1.0
+diaper:1.0
+vacuum:1.0
+Windsor tie:2.0
+bullet train:1.0
+window shade:3.0
+jean:1.0
+altar:1.0
 stage:1.0
 beaker:1.0
 folding chair:3.0
+television:2.0
+oxygen mask:1.0
 bloodhound:1.0
 restaurant:8.0
-bow:2.0
-bridegroom:12.0
-laptop computer:4.0
-prison house:1.0
-home theater:4.0
-denim:1.0
-Saluki:1.0
-blue jean:1.0
-mobile phone:2.0
-dust cover:1.0
-mortarboard:1.0
-day bed:1.0
-academic gown:2.0
-maraca:1.0
-lab coat:17.0
-dust jacket:1.0
-gazelle hound:1.0
-suit:6.0
-comic book:1.0
-website:8.0
-altar:1.0
-xylophone:1.0
-envelope:2.0
-Christmas stocking:1.0
-eatery:8.0
-bookstore:1.0
-stethoscope:1.0
-diaper:1.0
-laboratory coat:17.0
-Windsor tie:2.0
-television:2.0
-dining table:9.0
-bow-tie:1.0
-barbershop:1.0
-napkin:1.0
-bookstall:1.0
-site:8.0
-sax:1.0
-studio couch:1.0
-file:2.0
-mouse:2.0
-toilet tissue:1.0
-balloon:1.0
-kimono:2.0
-shoji:1.0
-paintbrush:1.0
-printer:1.0
-Labrador retriever:1.0
-notebook:12.0
-toilet paper:1.0
-suit of clothes:6.0
-dust wrapper:1.0
-bullet train:1.0
-joystick:1.0
-refrigerator:1.0
-cellphone:2.0
-sleuthhound:1.0
-bullet:1.0
 groom:12.0
-jean:1.0
+notebook:12.0
+bow:2.0
+sax:1.0
+ice lolly:1.0
+dough:1.0
+home theater:4.0
+balloon:1.0
 patio:1.0

@@ -1,0 +1,41 @@
+wig:2.0
+bow tie:1.0
+Crock Pot:1.0
+wooden spoon:1.0
+swimming trunks:1.0
+dough:1.0
+candle:2.0
+shopping cart:1.0
+book jacket:1.0
+dumbbell:1.0
+maraca:1.0
+bassoon:1.0
+running shoe:1.0
+potter's wheel:2.0
+balance beam:1.0
+rock crab:1.0
+Windsor tie:1.0
+comic book:1.0
+honeycomb:1.0
+piggy bank:1.0
+plate:1.0
+sunglasses:1.0
+ladle:1.0
+bib:1.0
+electric fan:1.0
+suit:1.0
+parallel bars:1.0
+king crab:1.0
+restaurant:1.0
+armadillo:1.0
+miniskirt:1.0
+dishwasher:1.0
+bolo tie:1.0
+spatula:1.0
+accordion:1.0
+mask:6.0
+bakery:1.0
+sax:1.0
+nipple:1.0
+pizza:1.0
+pillow:1.0

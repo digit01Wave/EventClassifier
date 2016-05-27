@@ -1,105 +1,73 @@
 gown:1.0
-drop-off:98.0
-swimming trunks:2.0
+cliff:98.0
+bubble:2.0
+maillot:2.0
+triceratops:2.0
+ant:1.0
+prayer rug:1.0
+pole:1.0
+megalith:2.0
 mongoose:1.0
+syringe:1.0
 mountain bike:3.0
+bow:1.0
+hammer:1.0
+crane:1.0
 alp:4.0
 geyser:1.0
-thatched roof:1.0
-mower:2.0
-hay:1.0
-electric locomotive:1.0
-ski:4.0
-hoopskirt:1.0
-brain coral:1.0
-chainsaw:4.0
-snorkel:1.0
-leatherback:1.0
-knot:1.0
-emmet:1.0
-dirigible:1.0
-prayer rug:1.0
-drop:98.0
-megalithic structure:2.0
-fiddler crab:1.0
-megalith:2.0
-volcano:1.0
-triceratops:2.0
-crutch:1.0
-hammer:1.0
-two-piece:1.0
-merry-go-round:1.0
-mountain tent:1.0
-paddle:2.0
-fountain:4.0
-crash helmet:1.0
-bathing cap:2.0
-anemone fish:1.0
-umbrella:1.0
-corn:2.0
-vale:1.0
-vestment:2.0
-agama:1.0
-boat paddle:2.0
-cliff dwelling:5.0
-sleeping bag:1.0
-bow:1.0
-hair spray:2.0
-swing:5.0
-safety pin:1.0
-Dermochelys coriacea:1.0
-Band Aid:2.0
-pismire:1.0
-maillot:2.0
-off-roader:3.0
-pole:1.0
-swimming cap:2.0
-syringe:1.0
-roundabout:1.0
-basketball:1.0
-shoe store:1.0
-carousel:1.0
-pinwheel:2.0
-valley:1.0
-bubble:2.0
-lawn mower:2.0
 overskirt:1.0
-coral reef:2.0
-thatch:1.0
-bottlecap:1.0
-crane:1.0
-reel:1.0
-cuirass:1.0
-parachute:1.0
-prayer mat:1.0
-bucket:1.0
-bee:1.0
-bikini:1.0
-freight car:1.0
-crinoline:1.0
-bathing trunks:2.0
-shower curtain:10.0
-ant:1.0
-whirligig:1.0
 leatherback turtle:1.0
+mountain tent:1.0
 balloon:2.0
 eft:1.0
-all-terrain bike:3.0
-ibex:1.0
-tank suit:1.0
-shoe-shop:1.0
-carrousel:1.0
-paintbrush:4.0
-pail:1.0
-water bottle:1.0
-warplane:1.0
-mosquito net:2.0
-Capra ibex:1.0
+paddle:2.0
 airship:1.0
-shoe shop:1.0
-cliff:98.0
-chute:1.0
-padlock:1.0
-military plane:1.0
-leathery turtle:1.0
+hay:1.0
+crutch:1.0
+fountain:4.0
+carousel:1.0
+crash helmet:1.0
+basketball:1.0
+bathing cap:2.0
+electric locomotive:1.0
+ski:4.0
+lawn mower:2.0
+anemone fish:1.0
+umbrella:1.0
+ibex:1.0
+hoopskirt:1.0
+water bottle:1.0
+brain coral:1.0
+corn:2.0
+warplane:1.0
+coral reef:2.0
+vestment:2.0
+thatch:1.0
+bottlecap:1.0
+snorkel:1.0
+mosquito net:2.0
 chain saw:4.0
+knot:1.0
+safety pin:1.0
+agama:1.0
+reel:1.0
+pinwheel:2.0
+shoe shop:1.0
+cuirass:1.0
+cliff dwelling:5.0
+parachute:1.0
+valley:1.0
+padlock:1.0
+sleeping bag:1.0
+bucket:1.0
+fiddler crab:1.0
+bee:1.0
+hair spray:2.0
+bikini:1.0
+swimming trunks:2.0
+freight car:1.0
+paintbrush:4.0
+swing:5.0
+volcano:1.0
+Band Aid:2.0
+shower curtain:10.0

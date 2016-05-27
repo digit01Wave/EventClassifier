@@ -1,21 +1,9 @@
-trolley:1.0
-ocean liner:43.0
 streetcar:1.0
-trolley car:1.0
-lakeshore:2.0
 lakeside:2.0
-tram:1.0
+gondola:1.0
 speedboat:2.0
 liner:43.0
-coast:1.0
-tramcar:1.0
 dock:2.0
-docking facility:2.0
 boathouse:1.0
 seashore:1.0
-seacoast:1.0
-amphibious vehicle:1.0
 amphibian:1.0
-sea-coast:1.0
-gondola:1.0
-dockage:2.0

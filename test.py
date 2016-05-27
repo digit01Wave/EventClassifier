@@ -7,7 +7,8 @@ Created on Fri May 20 13:04:05 2016
 
 import naive_bayes_detector as nb
 import my_googlenet_classify as gClassify
-
+from os import listdir
+from os.path import isfile, join
     
 
 def info(foldername):
@@ -25,12 +26,15 @@ class Converter:
                 for i in xrange(1, len(temp)):
                     s.add(temp[i].strip())
         return s
-    def convert(self, filename):
-        ans = {}
-        for key in d:
-            if key not in self._convert_set:
-                ans[key] = d[key]
-        return ans
+    def convert(self, folder_path):
+        filenames = [join(folder_path,f) for f in listdir(folder_path) if isfile(join(folder_path, f))]
+        for filename in filenames:        
+            d = nb.file_to_dict(filename)
+            new_d = {}
+            for key in d:
+                if key not in self._convert_set:
+                    new_d[key] = d[key]
+            nb.dict_to_file(new_d, filename, append=False)
     
     
 '''

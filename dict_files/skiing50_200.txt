@@ -1,0 +1,12 @@
+snowplow:2.0
+traffic light:1.0
+great white shark:1.0
+parachute:1.0
+bicycle-built-for-two:1.0
+tiger shark:1.0
+swing:1.0
+valley:1.0
+ski:96.0
+ptarmigan:1.0
+alp:62.0
+snowmobile:8.0

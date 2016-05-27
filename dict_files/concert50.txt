@@ -1,0 +1,11 @@
+steel arch bridge:1.0
+marimba:1.0
+electric guitar:1.0
+torch:3.0
+theater curtain:4.0
+fire screen:1.0
+fountain:2.0
+volcano:1.0
+matchstick:1.0
+spotlight:4.0
+stage:38.0

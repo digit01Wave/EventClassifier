@@ -1,0 +1,77 @@
+face powder:2.0
+chain:1.0
+coffee mug:2.0
+pot:3.0
+puck:2.0
+purse:2.0
+packet:5.0
+carpenter's kit:1.0
+shower cap:1.0
+spatula:2.0
+jigsaw puzzle:4.0
+web site:4.0
+paper towel:6.0
+candle:40.0
+rubber eraser:5.0
+hamper:1.0
+ice cream:1.0
+pencil sharpener:2.0
+trifle:5.0
+maraca:1.0
+plow:1.0
+toyshop:1.0
+handkerchief:2.0
+brassiere:1.0
+menu:3.0
+broom:1.0
+mousetrap:2.0
+lampshade:2.0
+chest:1.0
+rocking chair:1.0
+lens cap:1.0
+birdhouse:1.0
+carousel:1.0
+crash helmet:2.0
+barbershop:1.0
+pencil box:4.0
+matchstick:1.0
+comic book:3.0
+dining table:2.0
+piggy bank:3.0
+book jacket:2.0
+umbrella:3.0
+toilet tissue:4.0
+envelope:9.0
+pinwheel:11.0
+bib:1.0
+coral reef:1.0
+bottlecap:2.0
+vase:1.0
+Christmas stocking:2.0
+whistle:2.0
+confectionery:6.0
+sunscreen:1.0
+crib:1.0
+lotion:1.0
+bathing cap:1.0
+balloon:17.0
+eggnog:1.0
+hook:1.0
+cup:2.0
+bucket:1.0
+pretzel:1.0
+perfume:2.0
+pool table:1.0
+bakery:11.0
+ice lolly:6.0
+shower curtain:1.0
+Kerry blue terrier:2.0
+Scotch terrier:2.0
+necklace:4.0
+safety pin:1.0
+anemone fish:1.0
+shopping basket:1.0
+tray:5.0
+pillow:3.0
+jersey:1.0
+diaper:2.0

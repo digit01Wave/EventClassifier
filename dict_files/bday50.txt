@@ -1,0 +1,54 @@
+face powder:1.0
+handkerchief:1.0
+coffee mug:1.0
+purse:1.0
+chocolate sauce:1.0
+jigsaw puzzle:1.0
+paper towel:1.0
+chime:1.0
+candle:18.0
+rubber eraser:2.0
+hamper:1.0
+birdhouse:1.0
+pencil sharpener:1.0
+trifle:1.0
+toilet tissue:1.0
+confectionery:1.0
+lipstick:1.0
+cup:1.0
+broom:1.0
+book jacket:2.0
+crossword puzzle:1.0
+bathing cap:1.0
+comic book:1.0
+paintbrush:1.0
+hip:1.0
+anemone fish:1.0
+umbrella:2.0
+ashcan:1.0
+envelope:2.0
+pinwheel:1.0
+bib:1.0
+coral reef:1.0
+Christmas stocking:1.0
+bottlecap:1.0
+toyshop:1.0
+diaper:2.0
+abacus:1.0
+pencil box:1.0
+balloon:9.0
+croquet ball:1.0
+maraca:1.0
+hair slide:1.0
+brassiere:1.0
+bucket:1.0
+strawberry:1.0
+bakery:2.0
+ice lolly:2.0
+shower curtain:2.0
+apron:1.0
+slot:1.0
+Band Aid:1.0
+tray:1.0
+pillow:1.0
+jersey:1.0

@@ -1,235 +1,132 @@
-blow dryer:4.0
 entertainment center:2.0
-teddy bear:1.0
-comfort:1.0
-popsicle:3.0
+shield:2.0
 coffee mug:1.0
-plectrum:1.0
-computer mouse:1.0
-theater curtain:2.0
+stove:2.0
 vacuum:1.0
 crate:2.0
-cathode-ray oscilloscope:1.0
-television system:2.0
-eating place:3.0
-pay-station:1.0
-shopping cart:1.0
-shield:2.0
 rubber eraser:1.0
 muzzle:1.0
 swab:1.0
 menu:1.0
 broom:2.0
-tobacco shop:1.0
-pj's:8.0
 cloak:1.0
-mower:1.0
-hanky:1.0
-bobsleigh:1.0
 kimono:1.0
 pill bottle:1.0
-board:8.0
-tobacconist shop:1.0
 toilet seat:1.0
-pandean pipe:1.0
+carton:5.0
 ski:1.0
 laptop:2.0
-icebox:1.0
 ping-pong ball:1.0
 apron:1.0
 cash machine:3.0
-automatic washer:1.0
-seatbelt:1.0
-automated teller machine:3.0
+sunglasses:1.0
 marimba:1.0
 oscilloscope:1.0
 pay-phone:1.0
-velocipede:2.0
-mop:1.0
+tobacco shop:1.0
 parallel bars:1.0
 steel drum:1.0
 whistle:3.0
 desk:14.0
-press:2.0
 abacus:1.0
-pencil eraser:1.0
-washer:1.0
 toy poodle:1.0
-membranophone:1.0
 oxygen mask:1.0
 gown:1.0
 tricycle:2.0
-dark glasses:1.0
 harvester:1.0
 punching bag:2.0
-nipple:3.0
-filing cabinet:2.0
+ice lolly:3.0
 abaya:1.0
-plectron:1.0
-terrace:1.0
-bars:1.0
-opera glasses:1.0
-microwave oven:6.0
 quilt:1.0
-bookshop:2.0
-poke bonnet:1.0
+torch:1.0
 library:6.0
-ten-gallon hat:1.0
 jigsaw puzzle:1.0
 web site:8.0
 sewing machine:2.0
 guillotine:1.0
-internet site:8.0
+candle:2.0
 military uniform:1.0
 ice cream:1.0
-toyshop:23.0
-closet:2.0
+shopping cart:1.0
 sombrero:1.0
-file cabinet:2.0
-bathroom tissue:1.0
 microwave:6.0
-automatic teller:3.0
 lampshade:1.0
-icecream:1.0
 cradle:4.0
-letter box:1.0
-jammies:8.0
-ice lolly:3.0
-eating house:3.0
-lolly:3.0
-hankey:1.0
+nipple:3.0
+washer:1.0
 sarong:1.0
-swob:1.0
-automated teller:3.0
+vestment:3.0
 mailbox:1.0
 bookcase:4.0
-vestment:3.0
 park bench:1.0
-tub:1.0
 hand blower:4.0
-lollipop:3.0
 stage:1.0
 throne:2.0
 folding chair:4.0
 drum:1.0
-cot:4.0
 restaurant:3.0
 sleeping bag:1.0
-teddy:1.0
-shades:1.0
+maraca:11.0
 hair spray:2.0
 swing:1.0
 cowboy hat:1.0
-puff:1.0
-cash dispenser:3.0
 Band Aid:1.0
-binoculars:1.0
 pajama:8.0
-candy store:4.0
 Chihuahua:2.0
 seat belt:1.0
-ATM:3.0
-CRO:1.0
-matchstick:1.0
 crib:4.0
 bonnet:1.0
-stove:2.0
-automatic teller machine:3.0
-lab coat:3.0
-lamp shade:1.0
-comforter:1.0
-punching ball:2.0
-plumber's helper:2.0
 birdhouse:2.0
-blow drier:4.0
 confectionery:4.0
-maraca:11.0
-shoe store:2.0
-Brittany spaniel:1.0
+teddy:1.0
+lab coat:3.0
 shoe shop:2.0
-scope:1.0
 pinwheel:1.0
 comic book:6.0
-vat:1.0
-website:8.0
-mike:1.0
-torch:1.0
+lawn mower:1.0
+bookshop:2.0
 overskirt:1.0
-confectionary:4.0
 altar:2.0
-xylophone:1.0
 Christmas stocking:1.0
-eatery:3.0
-bookstore:2.0
 stethoscope:1.0
 packet:1.0
-laboratory coat:3.0
 wardrobe:2.0
-tympan:1.0
 television:2.0
-carton:5.0
-trike:2.0
 dining table:8.0
-taper:2.0
-high bar:1.0
+Brittany spaniel:1.0
 barbershop:2.0
-lawn mower:1.0
 bobsled:1.0
 ski mask:1.0
 plunger:2.0
 shower curtain:2.0
 Crock Pot:1.0
-gong:1.0
 handkerchief:1.0
 canoe:1.0
-tam-tam:1.0
-bookstall:2.0
-site:8.0
 china cabinet:1.0
 paper towel:2.0
 file:2.0
-candle:2.0
-sunglasses:1.0
 mouse:1.0
-hair drier:4.0
 toilet tissue:1.0
 microphone:1.0
-wax light:2.0
-buckler:2.0
-dial phone:1.0
 stole:2.0
 toaster:1.0
 panpipe:1.0
 hamper:1.0
-rubber:1.0
 chest:2.0
 potter's wheel:1.0
-tobacconist:1.0
-field glasses:1.0
 horizontal bar:1.0
-shoe-shop:2.0
+matchstick:1.0
 paintbrush:2.0
 printer:1.0
-vacuum cleaner:1.0
 soap dispenser:1.0
 pick:1.0
-hankie:1.0
-hair dryer:4.0
-laptop computer:2.0
-punch bag:2.0
+binoculars:1.0
+theater curtain:2.0
+toyshop:23.0
 dial telephone:1.0
-toilet paper:1.0
-bob:1.0
 refrigerator:1.0
 plate rack:1.0
 safe:1.0
-punchball:2.0
-syrinx:1.0
-washing machine:1.0
 mask:5.0
-china closet:1.0
-theatre curtain:2.0
-reaper:1.0
-pyjama:8.0
 joystick:1.0
 patio:1.0

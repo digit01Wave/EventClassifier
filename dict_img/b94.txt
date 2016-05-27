@@ -1,0 +1,95 @@
+barbell:1.0
+shower cap:4.0
+spatula:6.0
+lumbermill:1.0
+dumbbell:1.0
+ocarina:2.0
+sliding door:1.0
+cellular telephone:1.0
+sandal:1.0
+harmonica:2.0
+rocking chair:1.0
+night snake:1.0
+Windsor tie:2.0
+carton:1.0
+ping-pong ball:2.0
+marimba:3.0
+tobacco shop:2.0
+bib:3.0
+steel drum:3.0
+cowboy boot:1.0
+bolo tie:2.0
+power drill:2.0
+punching bag:3.0
+ice lolly:1.0
+bow tie:8.0
+triceratops:2.0
+moving van:1.0
+sweatshirt:2.0
+military uniform:1.0
+chain mail:2.0
+sombrero:1.0
+microwave:1.0
+Chesapeake Bay retriever:1.0
+cradle:2.0
+crossword puzzle:1.0
+unicycle:1.0
+sarong:2.0
+American Staffordshire terrier:1.0
+vestment:1.0
+lotion:1.0
+park bench:2.0
+strainer:1.0
+hand blower:1.0
+dalmatian:1.0
+restaurant:1.0
+sleeping bag:1.0
+golf ball:1.0
+hair spray:2.0
+swing:1.0
+cowboy hat:4.0
+Band Aid:6.0
+jersey:11.0
+wig:7.0
+seat belt:8.0
+Italian greyhound:1.0
+wooden spoon:1.0
+syringe:1.0
+maraca:5.0
+lab coat:8.0
+Loafer:1.0
+drumstick:2.0
+limousine:3.0
+golfcart:4.0
+thatch:1.0
+boa constrictor:2.0
+tench:1.0
+crutch:5.0
+barbershop:1.0
+knee pad:2.0
+paper towel:1.0
+plunger:8.0
+bathtub:1.0
+bassinet:1.0
+neck brace:5.0
+sunscreen:3.0
+china cabinet:1.0
+studio couch:1.0
+stole:3.0
+cardigan:1.0
+chest:1.0
+potter's wheel:1.0
+miniskirt:2.0
+beer glass:4.0
+American lobster:1.0
+water bottle:1.0
+whippet:1.0
+mosquito net:1.0
+cleaver:1.0
+shoe shop:2.0
+feather boa:3.0
+volleyball:1.0
+pajama:18.0
+necklace:1.0
+jean:2.0
+patio:1.0

@@ -1,49 +1,26 @@
 ballpoint:1.0
-whorl:1.0
 scoreboard:1.0
-bars:1.0
-daisy:1.0
 parachute:2.0
 syringe:1.0
 volleyball:4.0
-Biro:1.0
-ballpoint pen:1.0
 racket:33.0
-helix:1.0
-racquet:33.0
 microphone:2.0
-broom:2.0
-spiral:1.0
-blower:1.0
-snake feeder:1.0
-horizontal bar:1.0
-volute:1.0
-spot:2.0
-snake doctor:1.0
-paintbrush:1.0
+balloon:1.0
 night snake:1.0
+horizontal bar:1.0
+paintbrush:1.0
 ping-pong ball:2.0
 dragonfly:1.0
-mike:2.0
-skeeter hawk:1.0
-ruler:1.0
-electric fan:1.0
-sewing needle:1.0
-envelope:2.0
-Hypsiglena torquata:1.0
 parallel bars:1.0
+electric fan:1.0
+envelope:2.0
 baseball:1.0
-darning needle:1.0
 coil:1.0
 strainer:2.0
 jellyfish:1.0
-chute:2.0
-mosquito hawk:1.0
-devil's darning needle:1.0
 mask:1.0
 rule:1.0
 spotlight:2.0
-high bar:1.0
-ballpen:1.0
+daisy:1.0
 damselfly:1.0
-balloon:1.0
+broom:2.0

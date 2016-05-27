@@ -1,64 +1,37 @@
 electric guitar:1.0
-whorl:1.0
-site:4.0
 tile roof:1.0
-racket:1.0
 jigsaw puzzle:2.0
-eating place:14.0
-Dungeness crab:1.0
-dust cover:2.0
-bottle screw:1.0
-pizza pie:1.0
-cuke:1.0
-coil:1.0
-racquet:1.0
-book jacket:2.0
-bakeshop:1.0
-loupe:1.0
-helix:1.0
-plastic bag:1.0
-sombrero:1.0
-trilobite:1.0
-spiral:1.0
-dust jacket:2.0
-jeweler's loupe:1.0
-board:11.0
-altar:2.0
 web site:4.0
-eating house:14.0
-volute:1.0
+Dungeness crab:1.0
+racket:1.0
+book jacket:2.0
+confectionery:1.0
+loupe:1.0
+cup:2.0
+sombrero:1.0
+plastic bag:1.0
+bathing cap:1.0
 comic book:2.0
 paintbrush:1.0
 pizza:1.0
-website:4.0
 plate:11.0
-red hot:1.0
-confectionary:1.0
-internet site:4.0
-cup:2.0
+trilobite:1.0
+altar:2.0
 corn:1.0
 envelope:1.0
-Cancer magister:1.0
-bakehouse:1.0
-eatery:14.0
-confectionery:1.0
+padlock:1.0
 cucumber:1.0
 French loaf:1.0
-dust wrapper:2.0
-bathing cap:1.0
+coil:1.0
 throne:1.0
 folding chair:1.0
 burrito:1.0
-dining table:11.0
-hot dog:1.0
 restaurant:14.0
-padlock:1.0
+dining table:11.0
 strawberry:1.0
 bakery:1.0
-swimming cap:1.0
 combination lock:1.0
 corkscrew:1.0
 safety pin:1.0
-hotdog:1.0
 tray:2.0
-candy store:1.0
+hotdog:1.0

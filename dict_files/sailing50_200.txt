@@ -1,48 +1,20 @@
-Orcinus orca:1.0
-pirate ship:15.0
-military plane:1.0
-promontory:3.0
-space shuttle:1.0
-headland:3.0
-pole:2.0
-garfish:2.0
-seashore:3.0
-sandbar:1.0
-drilling platform:1.0
-trimaran:29.0
-sand bar:1.0
-alp:1.0
-grampus:1.0
+cliff:2.0
 wreck:1.0
-Lepisosteus osseus:2.0
-sea wolf:1.0
-offshore rig:1.0
-catamaran:58.0
-pirate:15.0
-schooner:50.0
-billfish:2.0
-head:3.0
-killer:1.0
+reel:2.0
+aircraft carrier:1.0
 warplane:1.0
 gar:2.0
 killer whale:1.0
-coast:3.0
-man-eating shark:1.0
+promontory:3.0
+space shuttle:1.0
+pole:2.0
 yawl:52.0
+seashore:3.0
 great white shark:1.0
-drop-off:2.0
-reel:2.0
-aircraft carrier:1.0
-cliff:2.0
-attack aircraft carrier:1.0
-drop:2.0
-man-eater:1.0
-flattop:1.0
-sea-coast:3.0
-Carcharodon carcharias:1.0
-carrier:1.0
-seacoast:3.0
-garpike:2.0
-foreland:3.0
-white shark:1.0
-orca:1.0
+sandbar:1.0
+drilling platform:1.0
+catamaran:58.0
+trimaran:29.0
+pirate:15.0
+alp:1.0
+schooner:50.0

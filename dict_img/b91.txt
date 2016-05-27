@@ -1,0 +1,54 @@
+wig:8.0
+entertainment center:1.0
+bassinet:1.0
+minivan:1.0
+bow tie:1.0
+fur coat:3.0
+matchstick:1.0
+library:1.0
+trifle:1.0
+syringe:2.0
+candle:4.0
+sweatshirt:1.0
+stole:1.0
+ice cream:2.0
+cellular telephone:1.0
+toyshop:1.0
+goblet:5.0
+hand-held computer:1.0
+accordion:1.0
+sombrero:3.0
+seat belt:5.0
+cocker spaniel:1.0
+lab coat:2.0
+cradle:1.0
+suit:2.0
+ice lolly:1.0
+wool:1.0
+limousine:5.0
+paintbrush:1.0
+plate:2.0
+cocktail shaker:2.0
+hoopskirt:1.0
+ladle:2.0
+miniskirt:3.0
+pitcher:1.0
+academic gown:1.0
+red wine:1.0
+pop bottle:1.0
+plunger:2.0
+beaker:1.0
+eggnog:3.0
+feather boa:2.0
+restaurant:5.0
+beer glass:4.0
+groom:2.0
+crutch:2.0
+hair spray:5.0
+nipple:2.0
+apron:1.0
+slot:1.0
+home theater:1.0
+Band Aid:1.0
+measuring cup:2.0
+pajama:1.0

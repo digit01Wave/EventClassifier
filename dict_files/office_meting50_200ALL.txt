@@ -1,19 +1,11 @@
-picture palace:5.0
 entertainment center:5.0
-coach:1.0
 shield:1.0
 chain:2.0
 gown:2.0
-computer mouse:3.0
 laptop:18.0
 barbell:2.0
-cathode-ray oscilloscope:2.0
-television system:10.0
-eating place:34.0
-aegis:1.0
-terrace:13.0
-home theatre:15.0
-studio couch:2.0
+stretcher:2.0
+greenhouse:1.0
 dumbbell:4.0
 ocarina:1.0
 sports car:1.0
@@ -21,251 +13,132 @@ sliding door:11.0
 slot:3.0
 abacus:2.0
 monitor:22.0
-speaker unit:3.0
-shovel:2.0
+brassiere:1.0
 menu:3.0
 grand piano:5.0
 coffee mug:1.0
-pj's:2.0
 rocking chair:1.0
 pill bottle:2.0
-board:40.0
-mouth harp:1.0
 prison:4.0
 toilet seat:4.0
 carton:1.0
-loudspeaker system:3.0
-lavabo:2.0
-radio reflector:2.0
 ping-pong ball:2.0
 plate:3.0
-snowmobile:1.0
 sunglasses:1.0
 oscilloscope:2.0
 dam:1.0
 safe:1.0
-dike:1.0
-wax light:3.0
-chainsaw:1.0
-transverse flute:3.0
+photocopier:2.0
 chain saw:1.0
-knapsack:1.0
 desk:40.0
-press:3.0
+patio:13.0
 window shade:10.0
-army tank:1.0
-pencil box:2.0
-napkin:1.0
-egis:1.0
-dark glasses:1.0
-plinth:1.0
-brassiere:1.0
-nursery:1.0
-saxophone:2.0
-filing cabinet:8.0
-claw:4.0
-one-armed bandit:3.0
+four-poster:1.0
 tray:5.0
-rocker:1.0
-greenhouse:1.0
+snowmobile:1.0
 bow tie:3.0
-quill pen:4.0
-microwave oven:2.0
-haversack:1.0
-academic robe:3.0
-CRT screen:6.0
-hautboy:2.0
+torch:1.0
 library:35.0
-notebook computer:26.0
 jigsaw puzzle:9.0
 web site:42.0
 sewing machine:1.0
-internet site:42.0
-pencil case:2.0
-CRO:2.0
+candle:3.0
+military uniform:1.0
 quill:4.0
-harp:1.0
-loudspeaker:3.0
+book jacket:8.0
 desktop computer:8.0
-closet:3.0
-mouth organ:1.0
-file cabinet:8.0
-rucksack:1.0
-bathroom tissue:1.0
-scooter:1.0
 microwave:2.0
-mousetrap:1.0
-crossword:3.0
-judge's robe:3.0
+fountain:1.0
 crossword puzzle:3.0
-electric switch:1.0
-eating house:34.0
-volute:1.0
-electric fan:1.0
-handbasin:2.0
-screw:2.0
-breastplate:1.0
-bowtie:3.0
-jammies:2.0
+pencil box:2.0
 screen:6.0
+breastplate:1.0
+electric fan:1.0
 vestment:2.0
 binder:4.0
 bookcase:2.0
 baseball:1.0
-turnstile:1.0
-four-poster:1.0
-tub:4.0
 stage:2.0
 folding chair:17.0
-movie theater:5.0
 restaurant:34.0
 iPod:1.0
 harmonica:1.0
-shades:1.0
 bow:1.0
-bridegroom:22.0
-buckler:1.0
 remote control:1.0
 wall clock:4.0
-laptop computer:18.0
-suit of clothes:9.0
 home theater:15.0
 backpack:1.0
-jersey:2.0
-stretcher:2.0
+pajama:2.0
+shovel:2.0
 face powder:2.0
-helix:1.0
-denim:2.0
-prison house:4.0
-bath:2.0
 hook:4.0
-armored combat vehicle:1.0
-dust cover:8.0
 syringe:1.0
 radio telescope:2.0
-plumber's helper:2.0
-bra:1.0
-taper:3.0
-day bed:2.0
+mousetrap:1.0
 plow:1.0
 academic gown:3.0
-jeweler's loupe:2.0
-Loafer:1.0
+projector:4.0
 gondola:1.0
-spiral:1.0
 lab coat:27.0
-blower:1.0
-T-shirt:2.0
-dust jacket:8.0
+Loafer:1.0
 suit:9.0
-scope:2.0
+maze:1.0
 pinwheel:1.0
 comic book:12.0
-vat:2.0
+printer:1.0
 passenger car:1.0
-website:42.0
-armoured combat vehicle:1.0
-torch:1.0
-half track:1.0
-electrical switch:1.0
-packsack:1.0
-labyrinth:1.0
+oboe:2.0
 Windsor tie:9.0
 envelope:12.0
-eatery:34.0
 stethoscope:2.0
 diaper:1.0
-laboratory coat:27.0
 wardrobe:3.0
 crane:1.0
-plough:1.0
 television:10.0
 tank:1.0
 dining table:40.0
-ring-binder:4.0
-sport car:1.0
-tee shirt:2.0
-back pack:1.0
-bow-tie:3.0
 pool table:1.0
-carriage:1.0
-bathing tub:2.0
 barbershop:6.0
-welcome mat:2.0
-sweet potato:1.0
+studio couch:2.0
 plunger:2.0
 bathtub:2.0
 spotlight:3.0
 table lamp:1.0
 doormat:2.0
-blue jean:2.0
 barber chair:4.0
 cinema:5.0
-whorl:1.0
-site:42.0
 neck brace:1.0
 china cabinet:1.0
 planetarium:2.0
 sax:2.0
 paper towel:1.0
 file:8.0
-candle:3.0
 pedestal:1.0
 mouse:3.0
-dyke:1.0
-movie theatre:5.0
+toilet tissue:1.0
 loupe:2.0
-projector:4.0
 bassoon:2.0
 washbasin:2.0
 speedboat:1.0
-oboe:2.0
-maze:1.0
-military uniform:1.0
 kimono:2.0
-speaker:3.0
 shoji:6.0
-grand:5.0
-billiard table:1.0
-printer:1.0
-hautbois:2.0
-shako:1.0
-sawmill:1.0
-book jacket:8.0
-nappy:1.0
+loudspeaker:3.0
 motor scooter:1.0
-toilet tissue:1.0
-busby:1.0
+screw:2.0
 flute:3.0
-spot:3.0
-photocopier:2.0
-snooker table:1.0
 notebook:26.0
 mosquito net:1.0
-toilet paper:1.0
-washbowl:2.0
-dust wrapper:8.0
+coil:1.0
 bullet train:2.0
-movie house:5.0
 lumbermill:1.0
 joystick:1.0
 plate rack:1.0
 bearskin:1.0
-remote:1.0
-bullet:2.0
-speaker system:3.0
-glasshouse:1.0
 groom:22.0
-fountain:1.0
 window screen:2.0
-china closet:1.0
 switch:1.0
-coil:1.0
-pajama:2.0
-pyjama:2.0
-wash-hand basin:2.0
+jersey:2.0
+turnstile:1.0
 jean:2.0
-footstall:1.0
 balloon:5.0
-patio:13.0
-bandeau:1.0
+half track:1.0
