@@ -172,7 +172,14 @@ def file_to_dict(filename):
             if(len(temp) == 2):
                 d[temp[0]] = float(temp[1].strip())
     return d
-        
+
+def folder_to_dict():
+    """
+    helper function that runs through an entire folder and creates a dictionary
+    out of each internal file's contents.
+    """
+    pass
+    
 #Note: to do image classification on a list of links, it is best to run the following
 #>>> a = _get_image_links
 #>>> result = gClassify.get_collection_tags(your_image_link, rel_threshold=0.3, current_dict=your_default_dict) 
@@ -181,15 +188,46 @@ def file_to_dict(filename):
 
 
 ###############################################################################
-# NAIVE BAYES CLASSIFICATION
+# Special Classification
 ###############################################################################
-class EventClassification:
+#Some source code taken form NLTK 3.0 documentation for Naive Bayes Classifier
+#http://www.nltk.org/_modules/nltk/classify/naivebayes.html
+class EventClassifier:
     
     def __init__(self, dict_list, occurrance):
         """sets up inverse tags (see _create_inverse_tag_feature for more information"""
         self.tag_feature = self._create_event_tag_feature(dict_list, occurrance)        
-        self.inverse_tag_feature = self._create_inverse_tag_feature(dict_list, occurrance)        
+        #self.inverse_tag_feature = self._create_inverse_tag_feature(dict_list, occurrance)        
     
+    def add_event(self, event, dict_to_add):
+        """
+        adds another event with given tags
+        
+        Parameters
+        ---------------
+        event (str):
+            event for which we will be defining the features for
+        dict_to_add (dict{str, float}):
+            dictionary with tags and their given occurrances 
+        """
+        pass
+    
+    def train():
+        """
+        """
+        pass
+    
+    
+    def store_classifier(filename):
+        """
+        """
+        pass
+    
+    def load_classifier(filename):
+        """
+        """
+        pass
+        
     def _create_event_tag_feature(self, dict_list, occurance):
         """
         creates a dictionary that maps events to theit tags with adjusted probabilitites
@@ -279,9 +317,23 @@ class EventClassification:
         print("here are your top 10 event rankings:")
         print(sorted_x[0:10])
         return sorted_x[0]
+    
+    
+        
                     
 
-def train_naive_Bayes(n_train, n_features, r_seed):
+###############################################################################
+# NAIVE BAYES CLASSIFICATION
+###############################################################################
+
+def get_train_set(filename):
+    """
+    gets the items from filename and returns a list of    
+     
+    """
+    
+
+def train_naive_Bayes(train_set):
     """
     Trains naive Bayes classifier using nltk package.
 
@@ -319,12 +371,25 @@ def train_naive_Bayes(n_train, n_features, r_seed):
           last_character = 'd'              male : female =     11.4 : 1.0
     '74.3546'
     """
-    train_set = features_list[:n_train]
     classifier = nltk.NaiveBayesClassifier.train(train_set)
     classifier.show_most_informative_features(n_features)
     return classifier
 
 
+def save_classifier(classifier, filename):
+    if(not filename.endswith('.pickle')):
+        raise ValueError('filename must end with .pickle extention')
+    import pickle
+    f = open('my_classifier.pickle', 'wb')
+    pickle.dump(classifier, f)
+    f.close()
+
+def load_classifier():
+    import pickle
+    f = open('my_classifier.pickle', 'rb')
+    classifier = pickle.load(f)
+    f.close()
+    return classifier
 
 def cross_validate_naive_Bayes(n_fold, r_seed):
     """

@@ -46,8 +46,9 @@ from six.moves import urllib
 import tensorflow as tf
 
 #myimports
-import traceback
 from collections import defaultdict
+from os import listdir
+from os.path import isfile, join
 
 
 
@@ -278,17 +279,95 @@ def get_collection_tags(image_collection_links, rel_threshold=0.3, current_dict 
         for tag_score in temp_tags:
             if(tag_score[1] > thresh):
                 tag_split = tag_score[0].split(",")
-                for indiv_tag in tag_split:
-                    ans[indiv_tag.strip()] += 1 
+                ans[tag_split[0].strip()] += 1 
+                print("\tadded " + tag_score[0])
+    print("Final Error Count:", err_count)
+    return ans
+    
+def get_folder_tags(folder_path, rel_threshold=0.3, current_dict = None):
+    """
+    Returns a counter dict representing the features for the given list of image urls. The features will be used to
+    classify the collection to an event. The dict includes the following fields (the order doesn't matter):
+
+    Parameters
+    ----------
+    image_collection : list[str]
+        List of image file paths (can be relative or absolute)
+    rel_threshold:float:
+        only take tags that have a probability of at least this fraction of the first result
+
+    Returns
+    -------
+    Dict[dict[str:count] or str:str]
+        3 features for each collection.
+
+    """
+    
+    if(current_dict == None):
+        ans = defaultdict(float)
+    else:
+        ans = current_dict
+    err_count = 0
+    
+    # Creates graph from saved GraphDef.
+    create_graph()
+    
+
+    im_names = [join(folder_path,f) for f in listdir(folder_path) if isfile(join(folder_path, f))]
+
+    for i, filename in enumerate(im_names):
+        print("{}: now processing ({})".format(i, filename))
+        if(not filename.endswith(".jpg")):
+            print("SKIPPING THIS ONE BECAUSE NOT A PHOTO~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+            continue
+        
+        try:
+            image_data = tf.gfile.FastGFile(filename, 'rb').read()
+            
+            with tf.Session() as sess:
+                # Some useful tensors:
+                # 'softmax:0': A tensor containing the normalized prediction across
+                #   1000 labels.
+                # 'pool_3:0': A tensor containing the next-to-last layer containing 2048
+                #   float description of the image.
+                # 'DecodeJpeg/contents:0': A tensor containing a string providing JPEG
+                #   encoding of the image.
+                # Runs the softmax tensor by feeding the image_data as input to the graph.
+                softmax_tensor = sess.graph.get_tensor_by_name('softmax:0')
+                predictions = sess.run(softmax_tensor,
+                                       {'DecodeJpeg/contents:0': image_data})
+                predictions = np.squeeze(predictions)
+            
+                # Creates node ID --> English string lookup.
+                node_lookup = NodeLookup()
+            
+                temp_tags = []
+                top_k = predictions.argsort()[-num_top_predictions:][::-1]
+                for node_id in top_k:
+                    human_string = node_lookup.id_to_string(node_id)
+                    score = predictions[node_id]
+                    temp_tags.append((human_string, score))
+                
+        except:
+            print("ERROR ###################################")
+            err_count +=1
+            print("Could not give tags to image.")
+            print("ERROR ###################################")
+            continue
+        
+        #keep only the tags that overcome the certain threshold
+        print("tags = [{}]".format(temp_tags))
+        thresh = temp_tags[0][1]*rel_threshold #get top score of first result to find threshold
+                
+        for tag_score in temp_tags:
+            if(tag_score[1] > thresh):
+                tag_split = tag_score[0].split(",")
+                ans[tag_split[0].strip()] += 1 
                 print("\tadded " + tag_score[0])
     print("Final Error Count:", err_count)
     return ans
         
-def equivalence_class_converter():
-    """
-    Combines given dictionary tags to their proper equivalence class
-    """
-    pass
+
 
 def maybe_download_and_extract():
   """Download and extract model tar file."""

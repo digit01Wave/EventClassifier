@@ -19,3 +19,34 @@ party: has too much stuff (stage, comic book, theater curtain, dust cover, whist
 seminar has similar problem to party
 
 snowboarding mistaken for skiing
+
+bocce kinda sucks too: got croquet ball a lot
+
+hiking kinda sucks
+
+concert very good but the stage keeps taking up more stuff than it
+    maybe lower the relative stuff
+
+Chirstmas looks pretty random though seems to do a bit better when include all the items
+
+St. patricks day also pretty useless
+
+exhibition -wait - thinks it is a picture place/movie house...
+
+after b1750 we did proper tag adding
+
+HMM:
+x Birthday 
+x Children's Birthday 
+x Christmas 
+x Concert 
+x Boat Cruise 
+x Easter
+x Exhibition
+x Graduation 
+Halloween
+x Hiking
+Road Trip
+x St. Patrick's Day
+X Skiing
+x Wedding
