@@ -1,0 +1,45 @@
+shovel:1.0
+Weimaraner:1.0
+suspension bridge:2.0
+ballplayer:1.0
+promontory:2.0
+bannister:1.0
+pole:1.0
+megalith:2.0
+mountain bike:8.0
+pedestal:1.0
+alp:12.0
+Siberian husky:1.0
+stone wall:2.0
+ibex:1.0
+crash helmet:1.0
+bathing cap:1.0
+valley:6.0
+ski:1.0
+maypole:1.0
+rock python:1.0
+volcano:1.0
+stretcher:1.0
+flute:1.0
+parallel bars:1.0
+thatch:3.0
+unicycle:1.0
+geyser:1.0
+brown bear:1.0
+chain saw:5.0
+bighorn:1.0
+common iguana:1.0
+reel:3.0
+cliff:177.0
+cliff dwelling:8.0
+banjo:1.0
+sea lion:1.0
+malamute:1.0
+crutch:1.0
+bikini:1.0
+swimming trunks:1.0
+knee pad:1.0
+swing:4.0
+worm fence:1.0
+ice bear:1.0
+water buffalo:1.0

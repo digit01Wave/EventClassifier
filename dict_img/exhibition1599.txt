@@ -1,0 +1,81 @@
+entertainment center:1.0
+shovel:1.0
+butcher shop:1.0
+handkerchief:1.0
+cinema:1.0
+puck:1.0
+crate:2.0
+packet:2.0
+gas pump:1.0
+nail:1.0
+bannister:2.0
+coil:1.0
+megalith:1.0
+lumbermill:1.0
+file:1.0
+chime:1.0
+guillotine:1.0
+dishrag:1.0
+pedestal:1.0
+shopping cart:1.0
+mouse:1.0
+mousetrap:2.0
+sliding door:1.0
+pencil sharpener:2.0
+book jacket:3.0
+microphone:1.0
+desktop computer:1.0
+loupe:2.0
+vending machine:1.0
+joystick:1.0
+menu:2.0
+broom:1.0
+kimono:2.0
+lampshade:1.0
+plastic bag:2.0
+spider web:1.0
+fire screen:1.0
+fountain:2.0
+shoe shop:1.0
+shoji:2.0
+washer:1.0
+matchstick:1.0
+bubble:4.0
+screen:2.0
+computer keyboard:1.0
+plate:2.0
+cash machine:1.0
+bookshop:1.0
+water bottle:1.0
+stretcher:1.0
+cannon:1.0
+electric fan:1.0
+tobacco shop:1.0
+envelope:5.0
+television:2.0
+vestment:2.0
+street sign:1.0
+binder:5.0
+solar dish:1.0
+window screen:1.0
+cleaver:2.0
+brass:2.0
+window shade:1.0
+hen:1.0
+refrigerator:2.0
+stage:1.0
+bonnet:1.0
+dishwasher:1.0
+hook:1.0
+chiffonier:1.0
+groom:1.0
+bucket:1.0
+liner:1.0
+bell cote:1.0
+switch:1.0
+wall clock:1.0
+turnstile:1.0
+home theater:1.0
+modem:1.0
+tray:3.0
+shower curtain:1.0

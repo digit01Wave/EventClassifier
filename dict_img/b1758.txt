@@ -1,0 +1,29 @@
+wig:4.0
+gong:1.0
+seat belt:3.0
+spatula:1.0
+mortarboard:1.0
+poncho:1.0
+stole:1.0
+bullet train:2.0
+goblet:1.0
+sombrero:1.0
+military uniform:1.0
+crossword puzzle:1.0
+prison:2.0
+drumstick:1.0
+wool:1.0
+beer glass:3.0
+cocktail shaker:1.0
+suit:2.0
+steel drum:1.0
+red wine:1.0
+Windsor tie:1.0
+strainer:1.0
+minibus:1.0
+bolo tie:1.0
+restaurant:3.0
+limousine:3.0
+crutch:2.0
+cowboy hat:6.0
+jersey:2.0

@@ -1,0 +1,74 @@
+wig:1.0
+groom:1.0
+Weimaraner:1.0
+handkerchief:4.0
+apron:4.0
+pot:1.0
+rifle:1.0
+Italian greyhound:1.0
+packet:1.0
+sunscreen:4.0
+bonnet:6.0
+swimming trunks:2.0
+paper towel:2.0
+weasel:1.0
+candle:1.0
+chime:1.0
+cardigan:1.0
+shopping cart:1.0
+birdhouse:1.0
+shield:1.0
+toilet tissue:2.0
+toyshop:2.0
+sarong:2.0
+chain mail:1.0
+maraca:2.0
+balloon:2.0
+American alligator:1.0
+Chesapeake Bay retriever:1.0
+pill bottle:1.0
+polecat:1.0
+unicycle:2.0
+maze:1.0
+pinwheel:5.0
+carton:2.0
+bubble:1.0
+maypole:2.0
+paintbrush:5.0
+plate:1.0
+umbrella:3.0
+Dutch oven:1.0
+water bottle:4.0
+envelope:1.0
+bib:3.0
+Christmas stocking:2.0
+whistle:1.0
+power drill:1.0
+confectionery:1.0
+armadillo:1.0
+diaper:1.0
+soccer ball:2.0
+park bench:4.0
+abacus:1.0
+bathing cap:1.0
+barrow:1.0
+croquet ball:2.0
+Band Aid:3.0
+feather boa:2.0
+marimba:1.0
+restaurant:1.0
+sleeping bag:1.0
+dining table:1.0
+bucket:1.0
+bow:1.0
+hair spray:2.0
+bakery:1.0
+mailbag:1.0
+ice lolly:16.0
+swing:6.0
+cowboy hat:1.0
+plunger:2.0
+crayfish:1.0
+tray:2.0
+pajama:3.0
+chest:1.0

@@ -1,0 +1,42 @@
+wig:3.0
+doormat:1.0
+gown:1.0
+bookshop:1.0
+library:1.0
+sunscreen:1.0
+prayer rug:1.0
+jigsaw puzzle:1.0
+studio couch:2.0
+limousine:1.0
+syringe:1.0
+candle:1.0
+poncho:1.0
+book jacket:1.0
+microphone:1.0
+cardigan:1.0
+hoopskirt:1.0
+maraca:1.0
+backpack:1.0
+sock:1.0
+chest:1.0
+rocking chair:1.0
+balance beam:1.0
+miniskirt:2.0
+bathing cap:2.0
+marimba:1.0
+ping-pong ball:1.0
+slot:1.0
+overskirt:1.0
+oscilloscope:1.0
+lotion:1.0
+Christmas stocking:1.0
+slide rule:1.0
+park bench:1.0
+oxygen mask:1.0
+sleeping bag:1.0
+mask:1.0
+measuring cup:1.0
+jersey:2.0
+jean:1.0
+Band Aid:1.0
+pajama:4.0

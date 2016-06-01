@@ -1,0 +1,60 @@
+wig:5.0
+beer bottle:1.0
+barber chair:1.0
+cinema:1.0
+maillot:1.0
+theater curtain:1.0
+torch:1.0
+reflex camera:3.0
+bathtub:1.0
+shower cap:1.0
+maraca:1.0
+limousine:1.0
+barbershop:1.0
+sweatshirt:1.0
+ice cream:1.0
+cellular telephone:1.0
+toilet tissue:1.0
+microphone:1.0
+sandal:1.0
+lipstick:3.0
+accordion:1.0
+buckle:1.0
+beer glass:1.0
+rocking chair:1.0
+suit:1.0
+ice lolly:2.0
+washer:2.0
+bubble:1.0
+joystick:1.0
+espresso maker:1.0
+sunglasses:2.0
+totem pole:1.0
+breastplate:1.0
+miniskirt:7.0
+screwdriver:1.0
+binoculars:1.0
+cowboy hat:1.0
+power drill:1.0
+red wine:2.0
+toilet seat:1.0
+bolo tie:1.0
+hand blower:4.0
+jean:4.0
+shoe shop:1.0
+stage:2.0
+eggnog:1.0
+feather boa:2.0
+restaurant:3.0
+hair slide:1.0
+dining table:1.0
+bow:2.0
+medicine chest:1.0
+hair spray:2.0
+measuring cup:1.0
+knee pad:1.0
+pick:1.0
+corkscrew:1.0
+barrel:1.0
+Band Aid:2.0
+jersey:3.0

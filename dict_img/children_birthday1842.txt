@@ -1,0 +1,56 @@
+bassinet:1.0
+laptop:1.0
+neck brace:1.0
+sunscreen:3.0
+spatula:1.0
+jigsaw puzzle:5.0
+gong:1.0
+candle:1.0
+hammer:1.0
+hamper:2.0
+library:3.0
+toyshop:4.0
+strawberry:1.0
+mountain tent:2.0
+toaster:1.0
+kimono:1.0
+lab coat:2.0
+power drill:1.0
+plastic bag:2.0
+cradle:3.0
+toilet seat:1.0
+washer:1.0
+carton:2.0
+comic book:1.0
+potter's wheel:3.0
+paintbrush:2.0
+apron:1.0
+sarong:1.0
+folding chair:1.0
+altar:1.0
+clog:1.0
+steel drum:1.0
+Christmas stocking:1.0
+nipple:2.0
+binder:1.0
+stethoscope:1.0
+diaper:1.0
+bathing cap:1.0
+rocking chair:1.0
+tricycle:1.0
+pinwheel:1.0
+shoe shop:1.0
+cowboy boot:1.0
+Band Aid:1.0
+feather boa:2.0
+dining table:1.0
+sleeping bag:5.0
+groom:1.0
+hair spray:1.0
+ice lolly:2.0
+knee pad:1.0
+sombrero:1.0
+cowboy hat:2.0
+mosquito net:1.0
+crayfish:1.0
+pajama:7.0

@@ -1,0 +1,52 @@
+horizontal bar:1.0
+rugby ball:2.0
+handkerchief:1.0
+maillot:1.0
+maypole:1.0
+sunscreen:1.0
+bonnet:2.0
+jigsaw puzzle:1.0
+swimming trunks:1.0
+racket:1.0
+candle:2.0
+sweatshirt:1.0
+stole:1.0
+military uniform:1.0
+quill:1.0
+quilt:1.0
+harmonica:1.0
+mountain tent:1.0
+cloak:3.0
+ocarina:1.0
+jersey:2.0
+kimono:2.0
+balance beam:3.0
+miniskirt:1.0
+unicycle:1.0
+nipple:1.0
+pinwheel:2.0
+bubble:1.0
+lawn mower:1.0
+ping-pong ball:2.0
+maraca:1.0
+sarong:1.0
+water bottle:2.0
+steel drum:1.0
+cowboy boot:2.0
+whistle:1.0
+diaper:3.0
+soccer ball:5.0
+folding chair:1.0
+croquet ball:2.0
+feather boa:1.0
+tricycle:2.0
+hair slide:2.0
+restaurant:1.0
+golf ball:1.0
+hair spray:1.0
+ice lolly:7.0
+patio:2.0
+swing:3.0
+plunger:1.0
+Band Aid:5.0
+pajama:1.0

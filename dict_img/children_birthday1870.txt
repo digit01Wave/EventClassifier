@@ -1,0 +1,84 @@
+beer bottle:2.0
+stretcher:1.0
+mobile home:1.0
+mitten:2.0
+coffee mug:1.0
+soccer ball:2.0
+Indian cobra:1.0
+groom:1.0
+bonnet:1.0
+wooden spoon:1.0
+jigsaw puzzle:1.0
+rotisserie:1.0
+dough:1.0
+greenhouse:1.0
+candle:4.0
+quill:1.0
+plate:1.0
+toyshop:4.0
+sarong:1.0
+chain mail:1.0
+tennis ball:1.0
+teddy:5.0
+balloon:5.0
+American alligator:1.0
+panpipe:1.0
+ice cream:1.0
+crossword puzzle:1.0
+polecat:1.0
+wok:1.0
+nipple:1.0
+desk:1.0
+matchstick:1.0
+cardigan:1.0
+lawn mower:3.0
+African grey:2.0
+piggy bank:2.0
+maraca:1.0
+abacus:2.0
+printer:1.0
+marimba:1.0
+ladle:1.0
+tarantula:1.0
+corn:3.0
+bib:1.0
+screwdriver:1.0
+lotion:1.0
+Christmas stocking:1.0
+power drill:1.0
+confectionery:4.0
+spatula:3.0
+diaper:1.0
+knot:1.0
+vacuum:4.0
+park bench:1.0
+patio:3.0
+strainer:1.0
+ear:1.0
+hen:1.0
+shoe shop:1.0
+barrow:2.0
+Dutch oven:1.0
+folding chair:3.0
+croquet ball:4.0
+wool:1.0
+burrito:1.0
+sliding door:1.0
+tricycle:3.0
+can opener:1.0
+sleeping bag:2.0
+paper towel:1.0
+dining table:3.0
+tape player:1.0
+punching bag:2.0
+crutch:1.0
+hair spray:1.0
+sax:1.0
+ice lolly:5.0
+jersey:1.0
+knee pad:1.0
+swing:3.0
+studio couch:1.0
+jean:1.0
+pajama:6.0
+chain saw:1.0

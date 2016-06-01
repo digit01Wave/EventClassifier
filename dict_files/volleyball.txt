@@ -1,0 +1,53 @@
+wig:1.0
+bow tie:1.0
+rugby ball:5.0
+shield:1.0
+maillot:4.0
+ballplayer:1.0
+puck:3.0
+scoreboard:1.0
+bannister:1.0
+jigsaw puzzle:1.0
+swimming trunks:2.0
+golf ball:2.0
+racket:2.0
+military uniform:2.0
+bib:1.0
+basketball:7.0
+tennis ball:1.0
+menu:1.0
+balloon:1.0
+picket fence:1.0
+lampshade:1.0
+balance beam:2.0
+suit:1.0
+horizontal bar:3.0
+bathing cap:1.0
+stage:1.0
+comic book:4.0
+ping-pong ball:1.0
+book jacket:1.0
+umbrella:1.0
+parallel bars:1.0
+envelope:2.0
+vase:1.0
+baseball:5.0
+soccer ball:8.0
+coil:3.0
+plate rack:1.0
+bearskin:6.0
+pitcher:1.0
+rule:1.0
+buckle:1.0
+volleyball:151.0
+bikini:2.0
+web site:1.0
+ice lolly:1.0
+jersey:1.0
+knee pad:20.0
+necklace:1.0
+jean:1.0
+tray:1.0
+pillow:1.0
+pajama:1.0
+brassiere:1.0

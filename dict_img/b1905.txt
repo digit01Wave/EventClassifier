@@ -1,0 +1,84 @@
+wig:5.0
+bow tie:2.0
+coffee mug:1.0
+guinea pig:1.0
+theater curtain:2.0
+torch:10.0
+fur coat:1.0
+neck brace:1.0
+revolver:1.0
+seat belt:1.0
+planetarium:1.0
+sax:3.0
+radio:1.0
+lab coat:1.0
+vacuum:1.0
+caldron:1.0
+candle:6.0
+sweatshirt:1.0
+sliding door:1.0
+cellular telephone:4.0
+EntleBucher:1.0
+collie:1.0
+oxygen mask:1.0
+goblet:1.0
+chain mail:1.0
+cup:1.0
+bassoon:1.0
+English springer:1.0
+projector:1.0
+Greater Swiss Mountain dog:2.0
+cloak:1.0
+panpipe:1.0
+basenji:1.0
+cinema:1.0
+fire screen:2.0
+wok:1.0
+prison:2.0
+French horn:1.0
+cheetah:1.0
+lipstick:1.0
+matchstick:1.0
+beer glass:4.0
+electric guitar:1.0
+Border collie:2.0
+ping-pong ball:2.0
+Indian cobra:1.0
+flute:1.0
+cocktail shaker:1.0
+Dutch oven:2.0
+suit:2.0
+microphone:1.0
+syringe:1.0
+steel drum:1.0
+abaya:1.0
+remote control:1.0
+red wine:3.0
+miniskirt:2.0
+lighter:1.0
+drumstick:3.0
+guillotine:1.0
+traffic light:1.0
+trench coat:2.0
+barrel:1.0
+stage:5.0
+television:1.0
+eggnog:1.0
+marimba:2.0
+restaurant:2.0
+limousine:2.0
+iPod:1.0
+groom:2.0
+guenon:1.0
+punching bag:1.0
+crutch:2.0
+marmoset:1.0
+hair spray:6.0
+kimono:1.0
+pajama:2.0
+corkscrew:1.0
+stethoscope:1.0
+jean:3.0
+Band Aid:1.0
+spotlight:1.0
+jersey:6.0

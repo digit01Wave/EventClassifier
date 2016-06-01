@@ -1,0 +1,26 @@
+wig:1.0
+coffee mug:1.0
+neck brace:2.0
+bonnet:2.0
+candle:5.0
+ice cream:1.0
+goblet:1.0
+teddy:1.0
+menu:1.0
+balloon:6.0
+cloak:1.0
+limousine:1.0
+maraca:1.0
+plate:2.0
+envelope:1.0
+lotion:1.0
+walking stick:1.0
+trench coat:1.0
+eggnog:1.0
+restaurant:1.0
+groom:2.0
+hair spray:1.0
+bakery:2.0
+sombrero:2.0
+cowboy hat:2.0
+abaya:1.0

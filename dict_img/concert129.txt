@@ -1,0 +1,4 @@
+electric guitar:4.0
+hand blower:1.0
+microphone:2.0
+stage:17.0

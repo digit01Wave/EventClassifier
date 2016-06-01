@@ -1,0 +1,68 @@
+pole:1.0
+wig:1.0
+rugby ball:11.0
+stretcher:1.0
+football helmet:66.0
+seat belt:1.0
+maillot:1.0
+ballplayer:29.0
+scoreboard:30.0
+parachute:4.0
+hook:1.0
+jigsaw puzzle:4.0
+web site:8.0
+radio:1.0
+volleyball:7.0
+racket:6.0
+prayer rug:1.0
+slot:2.0
+basketball:2.0
+sarong:1.0
+tennis ball:2.0
+menu:1.0
+balloon:1.0
+book jacket:1.0
+lab coat:1.0
+fountain:1.0
+balance beam:1.0
+miniskirt:1.0
+flagpole:1.0
+horizontal bar:3.0
+bathing cap:2.0
+chainlink fence:2.0
+bubble:1.0
+maypole:1.0
+comic book:4.0
+king penguin:1.0
+racer:1.0
+crash helmet:1.0
+oscilloscope:8.0
+brassiere:1.0
+screen:2.0
+envelope:1.0
+croquet ball:1.0
+dome:1.0
+whistle:1.0
+binder:3.0
+soccer ball:30.0
+abacus:1.0
+stage:2.0
+television:1.0
+lawn mower:1.0
+maraca:1.0
+rule:3.0
+borzoi:1.0
+carpenter's kit:1.0
+golf ball:4.0
+bow:2.0
+pool table:1.0
+wallet:1.0
+shower curtain:1.0
+knee pad:2.0
+safety pin:2.0
+plunger:1.0
+modem:3.0
+tray:1.0
+English springer:1.0
+jersey:1.0
+ski:1.0

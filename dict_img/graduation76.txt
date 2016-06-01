@@ -1,0 +1,36 @@
+bow tie:2.0
+shield:1.0
+cinema:1.0
+maypole:1.0
+library:2.0
+bannister:1.0
+fiddler crab:1.0
+web site:1.0
+mortarboard:17.0
+cornet:1.0
+academic gown:17.0
+thimble:1.0
+suit:1.0
+unicycle:1.0
+comic book:2.0
+ballplayer:1.0
+solar dish:1.0
+king penguin:1.0
+motor scooter:2.0
+oboe:1.0
+altar:1.0
+flute:1.0
+theater curtain:1.0
+toyshop:1.0
+feather boa:1.0
+stage:4.0
+bearskin:1.0
+drum:1.0
+restaurant:1.0
+limousine:2.0
+groom:2.0
+punching bag:1.0
+bow:1.0
+parking meter:1.0
+abaya:1.0
+home theater:1.0

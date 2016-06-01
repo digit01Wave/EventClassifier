@@ -1,0 +1,65 @@
+table lamp:1.0
+clog:1.0
+packet:1.0
+shield:1.0
+chain:1.0
+medicine chest:1.0
+bookshop:2.0
+library:2.0
+china cabinet:1.0
+prayer rug:3.0
+bassinet:1.0
+scabbard:1.0
+water jug:1.0
+rubber eraser:1.0
+quill:5.0
+book jacket:9.0
+screw:3.0
+marimba:1.0
+wallet:1.0
+bassoon:1.0
+menu:9.0
+broom:1.0
+bakery:2.0
+lab coat:1.0
+lampshade:1.0
+cradle:1.0
+pill bottle:1.0
+shoe shop:2.0
+shoji:1.0
+miniskirt:1.0
+toilet seat:1.0
+grocery store:1.0
+cash machine:1.0
+snail:2.0
+trilobite:2.0
+envelope:1.0
+pick:1.0
+pitcher:1.0
+lotion:1.0
+padlock:1.0
+binder:1.0
+acorn:1.0
+crib:1.0
+lighter:2.0
+coil:2.0
+brass:3.0
+vase:2.0
+refrigerator:1.0
+Band Aid:1.0
+slide rule:3.0
+conch:1.0
+mortar:1.0
+wooden spoon:1.0
+punching bag:1.0
+perfume:2.0
+toilet tissue:1.0
+switch:1.0
+crossword puzzle:1.0
+barbershop:1.0
+washbasin:1.0
+turnstile:1.0
+chiton:1.0
+bath towel:1.0
+meerkat:1.0
+artichoke:1.0

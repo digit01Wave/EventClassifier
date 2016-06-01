@@ -1,0 +1,18 @@
+folding chair:2.0
+croquet ball:1.0
+cardigan:1.0
+bow tie:1.0
+sleeping bag:1.0
+golfcart:1.0
+steel drum:1.0
+picket fence:2.0
+pajama:3.0
+limousine:1.0
+cowboy hat:1.0
+maze:2.0
+mortarboard:9.0
+sunscreen:1.0
+stole:1.0
+pencil box:1.0
+patio:2.0
+sombrero:1.0

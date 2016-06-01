@@ -1,0 +1,52 @@
+puck:1.0
+sunscreen:1.0
+bonnet:1.0
+spatula:1.0
+swimming trunks:2.0
+dough:2.0
+punching bag:1.0
+candle:2.0
+dumbbell:1.0
+prayer rug:1.0
+ice cream:1.0
+trifle:1.0
+scale:1.0
+maraca:4.0
+ocarina:1.0
+mosque:1.0
+stone wall:1.0
+crossword puzzle:1.0
+pill bottle:2.0
+pinwheel:2.0
+carton:1.0
+plate:1.0
+cash machine:1.0
+sunglasses:1.0
+envelope:1.0
+corn:2.0
+bib:4.0
+Christmas stocking:1.0
+nipple:1.0
+sandal:1.0
+diaper:2.0
+maze:1.0
+shower curtain:1.0
+ear:1.0
+barrel:1.0
+shoe shop:2.0
+croquet ball:2.0
+bathtub:1.0
+restaurant:2.0
+hair slide:1.0
+tricycle:1.0
+wooden spoon:3.0
+golf ball:2.0
+wardrobe:1.0
+bakery:1.0
+ice lolly:6.0
+pajama:8.0
+swing:1.0
+paper towel:3.0
+plunger:1.0
+Band Aid:1.0
+patio:1.0

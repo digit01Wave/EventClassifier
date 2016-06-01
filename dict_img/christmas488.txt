@@ -1,0 +1,35 @@
+table lamp:1.0
+beer bottle:1.0
+barber chair:1.0
+pot:1.0
+meat loaf:1.0
+chocolate sauce:1.0
+jigsaw puzzle:1.0
+studio couch:2.0
+greenhouse:1.0
+candle:4.0
+ice cream:1.0
+toyshop:1.0
+teddy:1.0
+cloak:1.0
+rocking chair:1.0
+wok:1.0
+frying pan:1.0
+pinwheel:2.0
+zucchini:1.0
+plate:3.0
+altar:1.0
+envelope:1.0
+vestment:1.0
+vase:1.0
+mobile home:1.0
+butcher shop:1.0
+cucumber:1.0
+saltshaker:1.0
+window shade:1.0
+teapot:1.0
+throne:1.0
+china cabinet:1.0
+dining table:4.0
+mortar:1.0
+bakery:2.0

@@ -1,0 +1,70 @@
+clog:1.0
+car mirror:1.0
+seat belt:2.0
+lakeside:4.0
+maillot:3.0
+ballplayer:1.0
+wool:1.0
+Italian greyhound:1.0
+sunscreen:13.0
+breakwater:2.0
+bannister:1.0
+Dungeness crab:1.0
+sandbar:4.0
+garter snake:1.0
+umbrella:1.0
+sweatshirt:1.0
+trimaran:1.0
+coho:1.0
+cellular telephone:3.0
+koala:1.0
+diamondback:1.0
+sarong:3.0
+chain mail:1.0
+harmonica:2.0
+sombrero:7.0
+terrapin:1.0
+Loafer:1.0
+balance beam:1.0
+flagpole:1.0
+pop bottle:1.0
+bathing cap:1.0
+valley:1.0
+beer glass:2.0
+caldron:1.0
+paintbrush:2.0
+digital clock:1.0
+basset:1.0
+Indian cobra:1.0
+sunglasses:27.0
+stole:1.0
+Dutch oven:4.0
+water bottle:1.0
+ashcan:1.0
+dam:1.0
+corn:1.0
+steel drum:3.0
+whistle:1.0
+oxygen mask:1.0
+sunglass:32.0
+rifle:1.0
+ear:1.0
+plunger:2.0
+refrigerator:1.0
+cliff:1.0
+shower cap:1.0
+apiary:1.0
+matchstick:1.0
+burrito:2.0
+barbershop:2.0
+tench:1.0
+hognose snake:1.0
+teddy:1.0
+bucket:2.0
+hair spray:2.0
+ice lolly:1.0
+cowboy hat:7.0
+volcano:1.0
+jean:2.0
+tray:2.0
+hatchet:1.0

@@ -1,0 +1,46 @@
+bow tie:5.0
+gown:5.0
+medicine chest:1.0
+caldron:1.0
+library:4.0
+paper towel:1.0
+file:1.0
+candle:2.0
+dumbbell:1.0
+cellular telephone:1.0
+academic gown:1.0
+marimba:2.0
+menu:2.0
+grand piano:1.0
+cloak:1.0
+lab coat:4.0
+half track:1.0
+shoe shop:1.0
+wok:1.0
+Windsor tie:2.0
+horizontal bar:1.0
+laptop:1.0
+paintbrush:2.0
+hoopskirt:3.0
+suit:4.0
+envelope:1.0
+vestment:1.0
+vase:1.0
+binoculars:1.0
+binder:1.0
+toyshop:1.0
+horse cart:3.0
+refrigerator:1.0
+feather boa:1.0
+organ:3.0
+restaurant:4.0
+groom:70.0
+amphibian:1.0
+perfume:1.0
+hair spray:1.0
+bakery:1.0
+notebook:1.0
+ice lolly:1.0
+Kerry blue terrier:1.0
+abaya:1.0
+tray:1.0

@@ -1,0 +1,122 @@
+mitten:3.0
+shower cap:2.0
+spatula:1.0
+studio couch:1.0
+dumbbell:1.0
+alp:1.0
+geyser:1.0
+pill bottle:1.0
+balance beam:1.0
+lens cap:1.0
+carton:1.0
+Indian cobra:1.0
+CD player:1.0
+parallel bars:1.0
+steel drum:7.0
+vase:1.0
+space heater:1.0
+tricycle:1.0
+malamute:1.0
+chiffonier:1.0
+punching bag:1.0
+ice lolly:2.0
+bow tie:3.0
+cairn:1.0
+packet:1.0
+jigsaw puzzle:1.0
+sewing machine:1.0
+Border terrier:1.0
+sweatshirt:2.0
+poncho:1.0
+Great Pyrenees:1.0
+velvet:1.0
+chain mail:2.0
+mountain tent:1.0
+Chesapeake Bay retriever:1.0
+cradle:5.0
+crossword puzzle:3.0
+wok:1.0
+unicycle:1.0
+nipple:3.0
+washer:1.0
+schipperke:1.0
+remote control:1.0
+ski mask:1.0
+clumber:1.0
+tub:1.0
+hand blower:2.0
+Irish terrier:1.0
+dishwasher:1.0
+drum:16.0
+sleeping bag:6.0
+hair spray:1.0
+dogsled:1.0
+cowboy hat:1.0
+Band Aid:11.0
+jersey:1.0
+wig:8.0
+seat belt:4.0
+pot:2.0
+Italian greyhound:1.0
+wooden spoon:1.0
+gong:3.0
+weasel:1.0
+syringe:1.0
+Lakeland terrier:1.0
+maraca:5.0
+traffic light:1.0
+sock:2.0
+dung beetle:1.0
+lab coat:1.0
+hen-of-the-woods:1.0
+hermit crab:1.0
+soft-coated wheaten terrier:3.0
+drumstick:12.0
+valley:3.0
+bubble:1.0
+Christmas stocking:10.0
+racer:1.0
+diaper:6.0
+toilet seat:1.0
+minibus:2.0
+dam:1.0
+comic book:2.0
+bucket:1.0
+crutch:1.0
+cab:1.0
+plunger:3.0
+mink:1.0
+Crock Pot:1.0
+doormat:2.0
+rugby ball:1.0
+bassinet:13.0
+barber chair:1.0
+ram:1.0
+neck brace:1.0
+paper towel:1.0
+hog:2.0
+cardigan:1.0
+toaster:1.0
+panpipe:1.0
+chest:1.0
+kimono:2.0
+miniskirt:1.0
+banjo:2.0
+beer glass:1.0
+paintbrush:1.0
+West Highland white terrier:2.0
+piggy bank:2.0
+bib:2.0
+flute:1.0
+photocopier:1.0
+soccer ball:3.0
+refrigerator:1.0
+cliff:5.0
+feather boa:2.0
+go-kart:1.0
+hair slide:2.0
+window screen:1.0
+measuring cup:3.0
+pajama:38.0
+jean:1.0
+bath towel:3.0

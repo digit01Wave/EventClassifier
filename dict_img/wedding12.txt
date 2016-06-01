@@ -1,0 +1,121 @@
+gown:14.0
+maypole:5.0
+soup bowl:1.0
+spatula:1.0
+swimming trunks:1.0
+dough:1.0
+trifle:1.0
+goblet:3.0
+accordion:1.0
+menu:2.0
+grand piano:1.0
+thimble:2.0
+Windsor tie:5.0
+French horn:2.0
+grocery store:3.0
+plate:3.0
+hoopskirt:3.0
+vase:7.0
+boathouse:2.0
+red wine:2.0
+vacuum:1.0
+croquet ball:4.0
+power drill:1.0
+borzoi:1.0
+perfume:1.0
+nipple:2.0
+abaya:1.0
+tray:2.0
+library:1.0
+candle:4.0
+poncho:1.0
+ice cream:1.0
+Dutch oven:1.0
+lampshade:4.0
+cradle:2.0
+wok:2.0
+ice lolly:3.0
+cocktail shaker:2.0
+cauliflower:4.0
+beacon:2.0
+saltshaker:2.0
+hand blower:1.0
+stage:2.0
+folding chair:1.0
+dishwasher:1.0
+eggnog:1.0
+restaurant:32.0
+conch:1.0
+sleeping bag:1.0
+hatchet:2.0
+bow:1.0
+hair spray:2.0
+wall clock:2.0
+iron:1.0
+Band Aid:1.0
+pajama:4.0
+wig:3.0
+maillot:2.0
+pot:2.0
+bonnet:1.0
+wooden spoon:1.0
+church:3.0
+mortarboard:1.0
+wine bottle:4.0
+confectionery:2.0
+projector:2.0
+maraca:1.0
+lab coat:2.0
+hen-of-the-woods:1.0
+suit:4.0
+flagpole:4.0
+maze:1.0
+limousine:3.0
+lawn mower:1.0
+overskirt:1.0
+oboe:1.0
+altar:10.0
+hot pot:1.0
+mobile home:1.0
+binoculars:1.0
+diaper:1.0
+dining table:11.0
+crutch:1.0
+bikini:2.0
+Kerry blue terrier:1.0
+spotlight:1.0
+Crock Pot:1.0
+bassinet:2.0
+handkerchief:3.0
+cinema:1.0
+sunscreen:2.0
+paper towel:3.0
+English foxhound:1.0
+violin:2.0
+stole:1.0
+ringneck snake:1.0
+toilet tissue:3.0
+marimba:1.0
+bassoon:2.0
+washbasin:1.0
+picket fence:14.0
+shoji:2.0
+miniskirt:1.0
+beer glass:1.0
+flute:2.0
+Ibizan hound:1.0
+sarong:6.0
+cucumber:1.0
+cello:3.0
+soccer ball:1.0
+broccoli:1.0
+plate rack:4.0
+burrito:1.0
+groom:29.0
+window screen:1.0
+bell cote:1.0
+bakery:4.0
+jersey:1.0
+apron:3.0
+turnstile:1.0
+patio:1.0

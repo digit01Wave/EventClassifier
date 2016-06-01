@@ -1,3 +1,10 @@
+THINGS TO DO:
+-write bloody paper
+-write concept detector
+-train Christmas
+-pit trained classifier based on images against each other
+
+
 awards-ceremony:
     might want to only use the first 50
     but actually it generally sucks
@@ -6,10 +13,7 @@ car-accident:
     don't yet have a classifier for wreckage (perhaps not the best 'event' to look for)
 
 birthday-party:
-    missing cake?
-
-play:
-    there are too many things in the play...(maybe ignore?)
+    missing cake? (lots of candles though...)
 
 luncheon:
     seems to be a lot of websites later becuase started taking pictures of menus
@@ -22,10 +26,12 @@ snowboarding mistaken for skiing
 
 bocce kinda sucks too: got croquet ball a lot
 
-hiking kinda sucks
+hiking kinda sucks so will just stick it with rock climbing for now
+
+Seminar maybe not the best becuase has a lot of cinema and stage... (can be mistaken with movies but ok)
 
 concert very good but the stage keeps taking up more stuff than it
-    maybe lower the relative stuff
+    maybe lower the relative stuff --> update, did them both and both not bad...
 
 Chirstmas looks pretty random though seems to do a bit better when include all the items
 
@@ -34,6 +40,16 @@ St. patricks day also pretty useless
 exhibition -wait - thinks it is a picture place/movie house...
 
 after b1750 we did proper tag adding
+
+Things we have yet to include/modify
+-bday with birthday-party (DONE) //actually no. it seems like bday is closter to kids
+-chirstmas
+-probably need to delete concert 50
+-maybe combine concert and concertAll?
+-easter is a biiiit iffy (ok, very iffy. Keeps seeing egg as a croquet ball)
+-perhaps just keep pary
+
+butterply exhibition
 
 HMM:
 x Birthday 
@@ -50,3 +66,114 @@ Road Trip
 x St. Patrick's Day
 X Skiing
 x Wedding
+
+SUCCESS!!! FOR graduation76.txt ( 99.8438006686
+SUCCESS!!! FOR skiing477.txt ( 77.808291353
+SUCCESS!!! FOR children_birthday1818.txt ( 16.224389978 )
+SUCCESS!!! FOR exhibition2799.txt ( 0.217424588317 )
+SUCCESS!!! FOR concert123.txt ( 26.1348102979
+SUCCESS!!! FOR exhibition3110.txt ( 6.1039924966 )
+#######################################################
+FAILURE: Mapped  children_birthday1864.txt to wedding ( 13.1752695145 )
+#######################################################
+SUCCESS!!! FOR concert129.txt ( 26.7628811222
+SUCCESS!!! FOR concert142.txt ( 19.8685461449
+SUCCESS!!! FOR cruise580.txt ( 54.3513166576
+SUCCESS!!! FOR concert126.txt ( 21.598318318
+SUCCESS!!! FOR wedding5.txt ( 42.907542074
+#######################################################
+FAILURE: Mapped  christmas481.txt to party50 ( 98.4981272177 )
+#######################################################
+SUCCESS!!! FOR badminton.txt ( 70.3865409239
+SUCCESS!!! FOR cruise581.txt ( 18.7503672016
+SUCCESS!!! FOR rowing.txt ( 99.9999335491
+SUCCESS!!! FOR graduation70.txt ( 99.936771897
+SUCCESS!!! FOR children_birthday1823.txt ( 0.298186820923 )
+SUCCESS!!! FOR graduation63.txt ( 84.6315660537
+SUCCESS!!! FOR children_birthday1837.txt ( 10.9317241505 )
+SUCCESS!!! FOR sailing.txt ( 100.0
+SUCCESS!!! FOR concert130.txt ( 12.8217289827
+SUCCESS!!! FOR children_birthday1865.txt ( 22.5154552653 )
+SUCCESS!!! FOR cruise677.txt ( 43.5071378034
+SUCCESS!!! FOR cruise4403.txt ( 2.87990860923
+SUCCESS!!! FOR skiing719.txt ( 50.4946806517
+#######################################################
+FAILURE: Mapped  cruise3560.txt to rock-climbing ( 1.47977873087 )
+#######################################################
+SUCCESS!!! FOR concert145.txt ( 28.917762142
+#######################################################
+FAILURE: Mapped  christmas500.txt to croquet ( 0.0307335429683 )
+#######################################################
+SUCCESS!!! FOR wedding847.txt ( 37.7991276707
+#######################################################
+FAILURE: Mapped  exhibition2800.txt to luncheon ( 1.30210710712 )
+#######################################################
+SUCCESS!!! FOR skiing718.txt ( 90.9924368229
+SUCCESS!!! FOR wedding12.txt ( 15.4250041079
+#######################################################
+FAILURE: Mapped  children_birthday1842.txt to office-meeting ( 1.69437523522 )
+#######################################################
+#######################################################
+FAILURE: Mapped  christmas1827.txt to rock-climbing ( 36.5054766856 )
+#######################################################
+SUCCESS!!! FOR exhibition2801.txt ( 0.245896790936 )
+SUCCESS!!! FOR cruise1887.txt ( 31.594157093
+SUCCESS!!! FOR wedding848.txt ( 29.8254102588
+SUCCESS!!! FOR wedding850.txt ( 23.8647990399
+#######################################################
+FAILURE: Mapped  children_birthday1826.txt to beach-play ( 18.0873275168 )
+#######################################################
+SUCCESS!!! FOR football.txt ( 100.0
+#######################################################
+FAILURE: Mapped  graduation1451.txt to football ( 24.8825416202 )
+#######################################################
+SUCCESS!!! FOR wedding23.txt ( 40.0491718545
+#######################################################
+FAILURE: Mapped  christmas488.txt to birthday-party ( 10.9087232111 )
+#######################################################
+SUCCESS!!! FOR skiing712.txt ( 90.7546486345
+SUCCESS!!! FOR skiing713.txt ( 91.0441557666
+#######################################################
+FAILURE: Mapped  children_birthday1789.txt to rowing ( 33.1170390683 )
+#######################################################
+#######################################################
+FAILURE: Mapped  children_birthday174.txt to beach-play ( 7.87631941299 )
+#######################################################
+#######################################################
+FAILURE: Mapped  children_birthday1747.txt to croquet ( 7.87618133076 )
+#######################################################
+#######################################################
+FAILURE: Mapped  exhibition1599.txt to cruise ( 4.27987254091 )
+#######################################################
+SUCCESS!!! FOR graduation67.txt ( 99.8605140504
+SUCCESS!!! FOR children_birthday1861.txt ( 12.6424005999 )
+SUCCESS!!! FOR exhibition3100.txt ( 4.44812314944 )
+FINAL STATISITCS:
+        successes: 39 
+        errors: 14 
+Percentage: 0.735849056604
+
+Reasons things failed:
+1. FAILURE: Mapped  christmas481.txt to party50 ( 6.49323996647 )     #still unsure
+2. FAILURE: Mapped  badminton.txt to volleyball ( 22.24056962 ) #see to do
+3. FAILURE: Mapped  cruise3560.txt to rock-climbing ( 1.48725751227 ) #cruise mainly dealt with outside. May need to train on cruise vacation
+4. FAILURE: Mapped  christmas500.txt to croquet ( 0.100443213511 ) #dude really need to train on a tree
+5. FAILURE: Mapped  exhibition2800.txt to luncheon ( 1.27184671298 ) #understandable. just looks like a bunch of items
+6. FAILURE: Mapped  christmas1827.txt to rock-climbing ( 38.1541673014 ) #seems to have a lot of pajamas (not christmas party - more of unwrapping presents. Thought it was rock climbing becasue there was a cliff)
+7. FAILURE: Mapped  children_birthday1826.txt to beach-play ( 18.7026096725 ) #haha, child ate a mess so they thought it was sunscreen
+8. FAILURE: Mapped  christmas488.txt to birthday-party ( 10.9178524704 ) #had a candle
+9. FAILURE: Mapped  children_birthday1789.txt to rowing ( 33.2353655697 ) #pool party...but really need a better category
+10. FAILURE: Mapped  children_birthday174.txt to beach-play ( 7.97782947579 ) #generally all these beach ones is because mistaking dipers for swimming trunks
+11. FAILURE: Mapped  children_birthday1747.txt to croquet ( 8.27343094003 ) ####WOW I REALLY DONT KNOW
+12. FAILURE: Mapped  exhibition1599.txt to cruise ( 4.53256255035 ) ##idk. just a bunch of random equally likely stuff: envelope, binder, bubble, etc...
+13. FAILURE: Mapped  football.txt to volleyball ( 6.90329899447 )
+
+THINGS TO DO IN GENERAL:
+-train on children's birthdays
+-actually - train on a CAKE
+-badminton wrong because only did OR tags. Can still to naive bayes with tags that super matter (0.3?)
+-MAAAYB add tv to exhibition (like a painting)
+-try testing on image collections against each other...
+
+    exhibition: can't see picture fra
+    

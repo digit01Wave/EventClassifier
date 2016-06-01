@@ -1,0 +1,27 @@
+library:1.0
+shower cap:1.0
+jigsaw puzzle:2.0
+studio couch:1.0
+candle:4.0
+toyshop:6.0
+maraca:3.0
+sombrero:1.0
+toaster:1.0
+rocking chair:1.0
+potter's wheel:1.0
+apron:1.0
+confectionery:1.0
+desk:1.0
+feather boa:1.0
+hand blower:1.0
+folding chair:1.0
+drum:1.0
+restaurant:1.0
+groom:2.0
+hair spray:1.0
+bakery:3.0
+snorkel:1.0
+ice lolly:1.0
+cradle:1.0
+jean:1.0
+pajama:3.0

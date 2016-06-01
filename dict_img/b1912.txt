@@ -1,0 +1,91 @@
+bull mastiff:2.0
+electric guitar:1.0
+shower cap:1.0
+swimming trunks:1.0
+oxcart:1.0
+standard poodle:1.0
+dumbbell:1.0
+cellular telephone:1.0
+harmonica:1.0
+potter's wheel:1.0
+stopwatch:1.0
+Angora:1.0
+rain barrel:1.0
+ping-pong ball:1.0
+Indian cobra:1.0
+sunglasses:3.0
+marimba:1.0
+parallel bars:1.0
+steel drum:1.0
+whistle:1.0
+croquet ball:6.0
+acoustic guitar:2.0
+ice lolly:3.0
+lumbermill:1.0
+bow tie:5.0
+thresher:1.0
+torch:1.0
+guillotine:1.0
+candle:1.0
+briard:1.0
+lesser panda:1.0
+jinrikisha:1.0
+bikini:3.0
+unicycle:2.0
+pencil box:2.0
+totem pole:1.0
+sarong:8.0
+pug:1.0
+groenendael:2.0
+baseball:1.0
+park bench:1.0
+Newfoundland:3.0
+folding chair:1.0
+Shetland sheepdog:1.0
+golf ball:1.0
+cowboy hat:2.0
+safety pin:1.0
+Band Aid:1.0
+pillow:1.0
+Pekinese:1.0
+wig:1.0
+maillot:7.0
+prayer rug:2.0
+Shih-Tzu:1.0
+Pomeranian:3.0
+English springer:1.0
+lab coat:1.0
+carousel:1.0
+flagpole:1.0
+drumstick:1.0
+limousine:1.0
+lawn mower:1.0
+golfcart:7.0
+rifle:1.0
+minibus:3.0
+restaurant:2.0
+crutch:2.0
+centipede:1.0
+Gordon setter:1.0
+plunger:1.0
+rugby ball:6.0
+cinema:1.0
+guinea pig:1.0
+sunscreen:11.0
+racket:2.0
+leafhopper:1.0
+balloon:2.0
+jersey:2.0
+kimono:1.0
+miniskirt:1.0
+matchstick:2.0
+piggy bank:1.0
+sunglass:5.0
+soccer ball:9.0
+milk can:1.0
+groom:1.0
+mask:1.0
+bakery:1.0
+pajama:1.0
+barrel:1.0
+bath towel:3.0

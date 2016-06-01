@@ -1,0 +1,14 @@
+shovel:1.0
+streetcar:1.0
+dogsled:3.0
+viaduct:1.0
+picket fence:1.0
+pole:1.0
+geyser:1.0
+snowmobile:5.0
+stupa:1.0
+chainlink fence:1.0
+electric locomotive:1.0
+ski:9.0
+alp:20.0
+cliff:1.0

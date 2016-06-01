@@ -1,0 +1,103 @@
+coffee mug:1.0
+laptop:1.0
+ocarina:1.0
+water jug:1.0
+trifle:1.0
+mixing bowl:2.0
+harmonica:1.0
+grand piano:4.0
+rocking chair:3.0
+cassette:1.0
+plate:8.0
+sunglasses:1.0
+marimba:7.0
+bib:2.0
+photocopier:1.0
+whistle:2.0
+chain saw:1.0
+vacuum:1.0
+oxygen mask:2.0
+power drill:6.0
+tricycle:3.0
+carpenter's kit:1.0
+punching bag:1.0
+ice lolly:11.0
+hook:1.0
+quilt:1.0
+packet:1.0
+pretzel:1.0
+nail:1.0
+jigsaw puzzle:2.0
+mashed potato:1.0
+candle:5.0
+hammer:1.0
+toyshop:6.0
+unicycle:1.0
+nipple:10.0
+umbrella:1.0
+soup bowl:2.0
+corn:1.0
+park bench:1.0
+tub:1.0
+hand blower:1.0
+folding chair:1.0
+dishwasher:1.0
+restaurant:2.0
+maraca:4.0
+bow:1.0
+swing:1.0
+pajama:8.0
+guacamole:3.0
+seat belt:1.0
+forklift:1.0
+crib:2.0
+bonnet:1.0
+wooden spoon:5.0
+moped:1.0
+syringe:1.0
+gasmask:1.0
+confectionery:1.0
+teddy:1.0
+lab coat:2.0
+pinwheel:1.0
+comic book:1.0
+lawn mower:1.0
+pitcher:1.0
+hot pot:2.0
+Christmas stocking:1.0
+racer:1.0
+library:1.0
+upright:1.0
+crane:1.0
+television:1.0
+dining table:6.0
+strawberry:1.0
+knee pad:1.0
+studio couch:1.0
+plunger:1.0
+bassinet:2.0
+handkerchief:1.0
+sunscreen:2.0
+paper towel:2.0
+mouse:1.0
+screw:1.0
+hoopskirt:1.0
+washbasin:1.0
+balloon:7.0
+toaster:1.0
+picket fence:1.0
+bagel:1.0
+frying pan:1.0
+American lobster:1.0
+paintbrush:2.0
+motor scooter:1.0
+soap dispenser:1.0
+shopping basket:3.0
+screwdriver:7.0
+scale:1.0
+burrito:1.0
+bakery:3.0
+necklace:1.0
+bath towel:1.0
+patio:1.0
+diaper:6.0

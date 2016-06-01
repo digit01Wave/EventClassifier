@@ -1,0 +1,5 @@
+shovel:2.0
+valley:2.0
+ski:14.0
+sandbar:1.0
+alp:17.0

@@ -1,0 +1,29 @@
+Crock Pot:1.0
+bow tie:3.0
+bookshop:1.0
+neck brace:3.0
+Dungeness crab:1.0
+lab coat:5.0
+candle:8.0
+violin:1.0
+ocarina:1.0
+table lamp:1.0
+goblet:1.0
+panpipe:1.0
+lampshade:1.0
+wok:1.0
+Windsor tie:1.0
+Tibetan mastiff:1.0
+limousine:2.0
+plate:4.0
+cocktail shaker:2.0
+marimba:1.0
+head cabbage:1.0
+whistle:1.0
+shoe shop:1.0
+dishwasher:1.0
+restaurant:6.0
+groom:3.0
+hair spray:1.0
+bakery:1.0
+pajama:1.0

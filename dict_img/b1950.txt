@@ -1,0 +1,43 @@
+wig:1.0
+seat belt:1.0
+fur coat:1.0
+library:1.0
+sunscreen:1.0
+ice lolly:2.0
+wooden spoon:1.0
+jigsaw puzzle:3.0
+dough:2.0
+syringe:1.0
+candle:8.0
+ocarina:3.0
+water jug:1.0
+trifle:1.0
+toyshop:2.0
+maraca:4.0
+rocking chair:1.0
+ice cream:1.0
+miniskirt:1.0
+drumstick:1.0
+pinwheel:3.0
+bubble:1.0
+ping-pong ball:2.0
+apron:1.0
+Granny Smith:1.0
+lotion:1.0
+whistle:1.0
+nipple:2.0
+stethoscope:2.0
+diaper:4.0
+horizontal bar:1.0
+park bench:1.0
+ear:1.0
+folding chair:1.0
+groom:3.0
+bow:2.0
+hair spray:1.0
+barbershop:1.0
+swing:3.0
+cowboy hat:1.0
+Band Aid:2.0
+bath towel:1.0
+pajama:6.0

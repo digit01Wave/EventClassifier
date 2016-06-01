@@ -1,0 +1,61 @@
+wig:32.0
+gown:5.0
+groom:2.0
+face powder:1.0
+maillot:32.0
+fur coat:1.0
+neck brace:1.0
+sunscreen:1.0
+plunger:1.0
+swimming trunks:1.0
+dough:1.0
+cleaver:1.0
+candle:4.0
+spindle:1.0
+stole:1.0
+wine bottle:1.0
+muzzle:1.0
+sandal:1.0
+sarong:6.0
+chain mail:4.0
+harmonica:1.0
+grand piano:4.0
+bikini:1.0
+suit:1.0
+Windsor tie:2.0
+pop bottle:1.0
+carton:1.0
+limousine:1.0
+paintbrush:1.0
+restaurant:1.0
+cocktail shaker:1.0
+breastplate:1.0
+water bottle:1.0
+brassiere:2.0
+miniskirt:18.0
+television:2.0
+lotion:2.0
+Christmas stocking:1.0
+whistle:1.0
+red wine:1.0
+llama:1.0
+vacuum:1.0
+drum:1.0
+jean:5.0
+stage:3.0
+dishwasher:3.0
+oxygen mask:2.0
+feather boa:5.0
+dining table:1.0
+conch:1.0
+bubble:1.0
+accordion:2.0
+pretzel:1.0
+crutch:2.0
+pool table:1.0
+hair spray:5.0
+bakery:1.0
+barbershop:1.0
+jigsaw puzzle:2.0
+home theater:3.0
+pajama:3.0

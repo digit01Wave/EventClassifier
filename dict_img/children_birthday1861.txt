@@ -1,0 +1,26 @@
+crib:1.0
+jigsaw puzzle:2.0
+dumbbell:1.0
+mousetrap:1.0
+packet:1.0
+toyshop:4.0
+maraca:3.0
+balloon:10.0
+chest:1.0
+cradle:1.0
+toilet seat:2.0
+pencil box:1.0
+comic book:1.0
+altar:1.0
+Christmas stocking:2.0
+diaper:1.0
+lighter:1.0
+desk:1.0
+plunger:1.0
+feather boa:1.0
+accordion:1.0
+harmonica:1.0
+punching bag:2.0
+joystick:1.0
+crayfish:1.0
+pajama:4.0

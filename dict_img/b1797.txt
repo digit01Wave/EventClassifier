@@ -1,0 +1,87 @@
+clog:1.0
+theater curtain:3.0
+scoreboard:1.0
+spatula:1.0
+mixing bowl:1.0
+trifle:1.0
+goblet:2.0
+cup:1.0
+grand piano:1.0
+cloak:1.0
+rocking chair:1.0
+pill bottle:1.0
+crossword puzzle:1.0
+laptop:1.0
+digital clock:1.0
+sunglasses:1.0
+ladle:1.0
+tobacco shop:1.0
+bib:2.0
+lighter:2.0
+abacus:1.0
+nipple:1.0
+bow tie:3.0
+bannister:1.0
+jigsaw puzzle:1.0
+candle:6.0
+sweatshirt:2.0
+poncho:1.0
+quill:1.0
+velvet:1.0
+go-kart:1.0
+cradle:1.0
+lens cap:1.0
+crash helmet:1.0
+ice lolly:3.0
+washer:1.0
+cellular telephone:2.0
+soup bowl:1.0
+bookcase:1.0
+strainer:1.0
+stage:2.0
+dishwasher:1.0
+drum:1.0
+sleeping bag:3.0
+hatchet:1.0
+hair spray:2.0
+remote control:1.0
+swing:1.0
+cowboy hat:1.0
+Band Aid:4.0
+jersey:5.0
+wig:7.0
+seat belt:4.0
+crib:1.0
+wooden spoon:2.0
+pole:1.0
+syringe:3.0
+mortarboard:1.0
+mousetrap:1.0
+lab coat:1.0
+suit:1.0
+pinwheel:2.0
+limousine:3.0
+stethoscope:1.0
+diaper:2.0
+bucket:2.0
+strawberry:1.0
+barbershop:1.0
+bassinet:1.0
+neck brace:1.0
+planetarium:1.0
+studio couch:2.0
+stole:1.0
+bassoon:1.0
+coffeepot:1.0
+potter's wheel:1.0
+miniskirt:2.0
+matchstick:1.0
+beer glass:3.0
+paintbrush:1.0
+cleaver:2.0
+shoe shop:1.0
+feather boa:1.0
+chain mail:1.0
+measuring cup:1.0
+pajama:10.0
+bath towel:1.0

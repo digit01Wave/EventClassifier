@@ -1,0 +1,124 @@
+beer bottle:2.0
+clog:2.0
+laptop:1.0
+scoreboard:1.0
+greenhouse:1.0
+shopping cart:1.0
+sliding door:4.0
+trifle:1.0
+swab:1.0
+menu:7.0
+container ship:1.0
+cradle:2.0
+toilet seat:1.0
+carton:1.0
+grocery store:5.0
+ping-pong ball:1.0
+plate:2.0
+radiator:1.0
+ladle:1.0
+safe:1.0
+parallel bars:5.0
+photocopier:1.0
+street sign:1.0
+dock:3.0
+space heater:1.0
+desk:5.0
+window shade:1.0
+pier:1.0
+jackfruit:1.0
+dining table:1.0
+perfume:1.0
+four-poster:1.0
+tray:1.0
+quilt:4.0
+bucket:1.0
+promontory:1.0
+jigsaw puzzle:1.0
+sewing machine:1.0
+drilling platform:10.0
+racket:2.0
+book jacket:2.0
+desktop computer:1.0
+analog clock:1.0
+water bottle:1.0
+microwave:2.0
+lampshade:1.0
+running shoe:1.0
+butcher shop:2.0
+fountain:1.0
+water tower:1.0
+wok:4.0
+washer:1.0
+pirate:1.0
+slot:5.0
+slide rule:1.0
+beacon:2.0
+drum:1.0
+restaurant:18.0
+lifeboat:1.0
+wall clock:2.0
+fireboat:7.0
+swing:2.0
+safety pin:1.0
+home theater:2.0
+schooner:1.0
+pillow:2.0
+stretcher:1.0
+guacamole:1.0
+crib:1.0
+hook:1.0
+pole:1.0
+seashore:1.0
+wine bottle:2.0
+confectionery:2.0
+projector:1.0
+teddy:1.0
+gondola:1.0
+traffic light:1.0
+cinema:1.0
+lab coat:1.0
+carousel:4.0
+flagpole:3.0
+pinwheel:1.0
+envelope:3.0
+diaper:3.0
+wardrobe:6.0
+crane:9.0
+television:2.0
+harvester:1.0
+tape player:1.0
+wallet:1.0
+paper towel:3.0
+bathtub:3.0
+shower curtain:4.0
+rotisserie:1.0
+barber chair:1.0
+canoe:2.0
+lakeside:1.0
+medicine chest:3.0
+china cabinet:2.0
+studio couch:8.0
+file:2.0
+toilet tissue:3.0
+washbasin:2.0
+balloon:1.0
+coffeepot:1.0
+bakery:7.0
+frying pan:1.0
+horizontal bar:1.0
+solar dish:1.0
+screw:1.0
+soap dispenser:2.0
+toyshop:1.0
+coil:1.0
+brass:2.0
+shoe shop:1.0
+plate rack:1.0
+burrito:1.0
+hair slide:1.0
+liner:6.0
+switch:2.0
+turnstile:1.0
+bath towel:1.0
+patio:1.0

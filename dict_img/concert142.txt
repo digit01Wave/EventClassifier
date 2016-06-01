@@ -1,0 +1,45 @@
+stretcher:3.0
+electric guitar:10.0
+triceratops:2.0
+barbell:2.0
+pole:1.0
+rotisserie:6.0
+trombone:7.0
+violin:5.0
+hammer:1.0
+quill:1.0
+cornet:3.0
+microphone:14.0
+basketball:1.0
+projector:1.0
+accordion:1.0
+bassoon:1.0
+mouse:1.0
+scuba diver:2.0
+panpipe:1.0
+steam locomotive:1.0
+lampshade:1.0
+crash helmet:1.0
+drumstick:6.0
+banjo:2.0
+bubble:1.0
+hammerhead:1.0
+bookshop:1.0
+marimba:3.0
+envelope:1.0
+great white shark:1.0
+stethoscope:1.0
+chain saw:1.0
+horizontal bar:1.0
+refrigerator:1.0
+stage:31.0
+carton:1.0
+drum:2.0
+acoustic guitar:1.0
+maraca:1.0
+sax:2.0
+jack-o'-lantern:1.0
+cello:2.0
+joystick:1.0
+modem:1.0
+spotlight:7.0

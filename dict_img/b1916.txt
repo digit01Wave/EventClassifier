@@ -1,0 +1,23 @@
+bonnet:2.0
+candle:1.0
+stole:1.0
+book jacket:1.0
+sandal:1.0
+picket fence:1.0
+miniskirt:1.0
+apron:3.0
+altar:1.0
+jinrikisha:1.0
+envelope:1.0
+tripod:1.0
+cowboy boot:1.0
+confectionery:1.0
+shoe shop:1.0
+restaurant:2.0
+hair spray:1.0
+bakery:2.0
+toyshop:1.0
+cowboy hat:1.0
+jean:1.0
+tray:1.0
+spotlight:1.0

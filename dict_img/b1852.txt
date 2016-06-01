@@ -1,0 +1,35 @@
+bell pepper:1.0
+pot:3.0
+torch:1.0
+meat loaf:1.0
+dough:1.0
+greenhouse:7.0
+buckeye:1.0
+candle:2.0
+trifle:2.0
+lemon:1.0
+soup bowl:1.0
+picket fence:3.0
+bagel:1.0
+wok:1.0
+prison:1.0
+monarch:1.0
+barrow:1.0
+grocery store:1.0
+viaduct:1.0
+cauliflower:1.0
+head cabbage:1.0
+Granny Smith:2.0
+cardoon:2.0
+echidna:1.0
+French loaf:1.0
+acorn:1.0
+broccoli:1.0
+hummingbird:1.0
+coral fungus:1.0
+cabbage butterfly:1.0
+bee:2.0
+freight car:2.0
+daisy:1.0
+sea urchin:1.0
+tray:2.0

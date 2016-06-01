@@ -1,0 +1,76 @@
+wig:2.0
+gown:3.0
+bassinet:1.0
+football helmet:1.0
+apron:2.0
+maillot:3.0
+Italian greyhound:1.0
+library:1.0
+groom:8.0
+bonnet:2.0
+jigsaw puzzle:2.0
+dough:1.0
+shower cap:1.0
+candle:3.0
+sweatshirt:1.0
+poncho:1.0
+stole:1.0
+ice cream:1.0
+harp:1.0
+packet:1.0
+hand blower:2.0
+hoopskirt:12.0
+cardigan:1.0
+brassiere:1.0
+coffee mug:1.0
+menu:1.0
+balloon:1.0
+beer glass:1.0
+sock:1.0
+bikini:3.0
+lampshade:1.0
+cradle:1.0
+fountain:1.0
+balance beam:5.0
+miniskirt:4.0
+crash helmet:1.0
+barbershop:1.0
+cup:1.0
+bubble:2.0
+American lobster:1.0
+restaurant:7.0
+piggy bank:1.0
+plate:1.0
+sunglasses:1.0
+iron:1.0
+overskirt:6.0
+soup bowl:1.0
+bib:1.0
+parallel bars:1.0
+shopping basket:1.0
+maraca:1.0
+sarong:5.0
+toyshop:1.0
+stethoscope:1.0
+diaper:2.0
+sunglass:1.0
+vacuum:1.0
+wardrobe:1.0
+tub:1.0
+sunscreen:1.0
+fur coat:1.0
+teapot:1.0
+Christmas stocking:1.0
+tray:1.0
+dining table:6.0
+hair slide:2.0
+tricycle:1.0
+hair spray:11.0
+bakery:4.0
+ice lolly:8.0
+knee pad:1.0
+swing:3.0
+paper towel:1.0
+Band Aid:6.0
+bath towel:2.0
+pajama:6.0

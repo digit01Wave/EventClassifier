@@ -1,0 +1,59 @@
+doormat:1.0
+Siberian husky:1.0
+maypole:2.0
+goblet:1.0
+sunscreen:2.0
+motor scooter:1.0
+oxcart:1.0
+moped:1.0
+guillotine:1.0
+American lobster:1.0
+mousetrap:1.0
+sliding door:3.0
+microphone:1.0
+toyshop:3.0
+Dutch oven:1.0
+waffle iron:1.0
+croquet ball:1.0
+harmonica:1.0
+tricycle:1.0
+pretzel:1.0
+water jug:1.0
+beer glass:1.0
+banana:1.0
+paintbrush:1.0
+plate:1.0
+sorrel:4.0
+umbrella:1.0
+sarong:2.0
+kelpie:1.0
+corn:1.0
+American Staffordshire terrier:1.0
+shopping basket:1.0
+Norwegian elkhound:1.0
+bluetick:4.0
+stethoscope:1.0
+vacuum:1.0
+park bench:1.0
+window shade:2.0
+standard schnauzer:1.0
+ice cream:1.0
+barrow:1.0
+folding chair:1.0
+television:1.0
+restaurant:3.0
+conch:1.0
+dining table:3.0
+window screen:2.0
+rain barrel:1.0
+hair spray:1.0
+bakery:2.0
+Persian cat:1.0
+lawn mower:1.0
+swing:1.0
+cowboy hat:4.0
+sombrero:1.0
+crayfish:1.0
+Dandie Dinmont:1.0
+wing:1.0
+greenhouse:1.0

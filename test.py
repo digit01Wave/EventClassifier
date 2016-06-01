@@ -4,16 +4,16 @@ Created on Fri May 20 13:04:05 2016
 
 @author: jessica
 """
-
-import naive_bayes_detector as nb
+from __future__ import division
 import my_googlenet_classify as gClassify
 from os import listdir
 from os.path import isfile, join
-    
+import file_dictionary as fd
+
 
 def info(foldername):
-    b = gClassify.get_folder_tags("/home/jessica/Documents/birthday/"+foldername)
-    nb.dict_to_file(b, 'dict_img/b'+foldername+'.txt')
+    b = gClassify.get_folder_tags("/home/jessica/Documents/children_birthday/"+foldername)
+    fd.dict_to_file(b, 'dict_img/children_birthday'+foldername+'.txt')
 
 class Converter:
     def __init__(self):
@@ -29,19 +29,10 @@ class Converter:
     def convert(self, folder_path):
         filenames = [join(folder_path,f) for f in listdir(folder_path) if isfile(join(folder_path, f))]
         for filename in filenames:        
-            d = nb.file_to_dict(filename)
+            d = fd.file_to_dict(filename)
             new_d = {}
             for key in d:
                 if key not in self._convert_set:
                     new_d[key] = d[key]
-            nb.dict_to_file(new_d, filename, append=False)
-    
-    
-'''
-features_list = get_features_list(r_seed)
-    train_set = features_list[:n_train]
-    test_set = features_list[n_train:]
-    classifier = nltk.NaiveBayesClassifier.train(train_set)
-    classifier.show_most_informative_features(n_features)
-    return '{:.4f}'.format(nltk.classify.accuracy
-    '''
+            fd.dict_to_file(new_d, filename, append=False)
+

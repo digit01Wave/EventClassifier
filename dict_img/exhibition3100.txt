@@ -1,0 +1,36 @@
+wall clock:3.0
+cinema:2.0
+fire engine:1.0
+quill:1.0
+jigsaw puzzle:7.0
+file:1.0
+church:1.0
+water jug:1.0
+book jacket:7.0
+monitor:6.0
+lampshade:1.0
+chest:1.0
+birdhouse:1.0
+prison:1.0
+flagpole:1.0
+jack-o'-lantern:1.0
+pinwheel:2.0
+comic book:13.0
+rain barrel:1.0
+slot:1.0
+cash machine:1.0
+ashcan:1.0
+altar:1.0
+screen:2.0
+envelope:2.0
+mailbox:2.0
+binder:1.0
+library:1.0
+desk:1.0
+vault:1.0
+television:3.0
+mask:1.0
+barbershop:2.0
+paddlewheel:1.0
+turnstile:1.0
+tray:1.0

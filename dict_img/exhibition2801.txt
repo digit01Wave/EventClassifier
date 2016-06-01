@@ -1,0 +1,103 @@
+theater curtain:2.0
+scoreboard:1.0
+shower cap:1.0
+ocarina:2.0
+sliding door:3.0
+cornet:1.0
+slot:5.0
+monitor:2.0
+swab:4.0
+grand piano:1.0
+rocking chair:1.0
+prison:10.0
+carton:2.0
+ski:1.0
+laptop:1.0
+apron:2.0
+sunglasses:1.0
+marimba:1.0
+tobacco shop:1.0
+steel drum:2.0
+whistle:1.0
+vacuum:4.0
+window shade:1.0
+organ:2.0
+abaya:1.0
+tray:1.0
+torch:1.0
+packet:1.0
+bannister:1.0
+sewing machine:4.0
+drilling platform:1.0
+guillotine:2.0
+candle:1.0
+military uniform:1.0
+book jacket:6.0
+fountain pen:1.0
+toyshop:6.0
+go-kart:1.0
+butcher shop:1.0
+pencil box:1.0
+sarong:1.0
+lotion:1.0
+park bench:1.0
+hand blower:1.0
+stage:6.0
+folding chair:1.0
+restaurant:8.0
+bow:1.0
+hair spray:4.0
+notebook:1.0
+wall clock:3.0
+vault:1.0
+home theater:1.0
+pajama:3.0
+wig:3.0
+ballpoint:2.0
+stretcher:1.0
+triceratops:1.0
+pole:2.0
+confectionery:6.0
+projector:1.0
+lab coat:2.0
+plastic bag:1.0
+carousel:1.0
+comic book:5.0
+passenger car:1.0
+bookshop:4.0
+altar:1.0
+Christmas stocking:1.0
+library:4.0
+crutch:6.0
+barbershop:1.0
+bathtub:1.0
+cock:1.0
+spotlight:1.0
+shower curtain:2.0
+Crock Pot:1.0
+palace:1.0
+cinema:1.0
+medicine chest:3.0
+paper towel:1.0
+mouse:1.0
+cardigan:1.0
+toaster:1.0
+panpipe:1.0
+kimono:6.0
+miniskirt:4.0
+paintbrush:1.0
+screwdriver:1.0
+desktop computer:1.0
+cleaver:1.0
+bullet train:1.0
+shoe shop:7.0
+bearskin:2.0
+groom:7.0
+bakery:2.0
+measuring cup:1.0
+jersey:6.0
+paddlewheel:1.0
+necklace:1.0
+turnstile:1.0
+jean:9.0
+patio:1.0

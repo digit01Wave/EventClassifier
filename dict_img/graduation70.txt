@@ -1,0 +1,68 @@
+bow tie:4.0
+groom:3.0
+maypole:1.0
+fur coat:1.0
+library:3.0
+revolver:1.0
+wooden spoon:1.0
+jigsaw puzzle:1.0
+sax:1.0
+Dungeness crab:1.0
+holster:1.0
+trifle:1.0
+mortarboard:39.0
+perfume:1.0
+stole:1.0
+wine bottle:2.0
+cornet:2.0
+slot:3.0
+academic gown:35.0
+marimba:2.0
+harmonica:1.0
+buckle:1.0
+oboe:3.0
+cloak:2.0
+panpipe:1.0
+suit:2.0
+crossword puzzle:1.0
+African grey:1.0
+wok:1.0
+prison:1.0
+unicycle:1.0
+pop bottle:1.0
+wool:1.0
+American lobster:1.0
+balance beam:1.0
+plate:2.0
+flute:1.0
+mushroom:1.0
+water bottle:1.0
+vulture:1.0
+corn:1.0
+miniskirt:2.0
+envelope:1.0
+vestment:2.0
+lotion:1.0
+redbone:1.0
+basketball:1.0
+measuring cup:1.0
+neck brace:1.0
+abaya:1.0
+cleaver:1.0
+abacus:1.0
+shoe shop:1.0
+stage:1.0
+beaker:1.0
+eggnog:1.0
+restaurant:6.0
+conch:1.0
+trolleybus:1.0
+dining table:1.0
+crutch:2.0
+hair spray:1.0
+cellular telephone:1.0
+bobsled:1.0
+dough:1.0
+plunger:2.0
+crayfish:1.0
+grand piano:1.0

@@ -1,0 +1,228 @@
+beer bottle:1.0
+macaque:1.0
+mitten:1.0
+theater curtain:2.0
+viaduct:1.0
+tile roof:1.0
+spatula:2.0
+mud turtle:1.0
+swimming trunks:2.0
+dough:2.0
+greenhouse:1.0
+sundial:1.0
+alp:2.0
+banded gecko:2.0
+slot:1.0
+geyser:2.0
+common newt:1.0
+brassiere:1.0
+whiptail:2.0
+menu:1.0
+grand piano:1.0
+cheeseburger:1.0
+butcher shop:1.0
+night snake:1.0
+prison:2.0
+orange:1.0
+lens cap:1.0
+carton:1.0
+stove:1.0
+grocery store:2.0
+hip:1.0
+Pembroke:1.0
+sunglasses:1.0
+rock crab:1.0
+ladle:1.0
+brain coral:1.0
+cannon:1.0
+tobacco shop:2.0
+parallel bars:2.0
+photocopier:1.0
+dock:2.0
+snorkel:3.0
+space heater:1.0
+vizsla:1.0
+window shade:1.0
+pier:1.0
+jackfruit:2.0
+oxygen mask:1.0
+beach wagon:1.0
+thunder snake:1.0
+isopod:1.0
+punching bag:2.0
+megalith:1.0
+ice lolly:1.0
+knee pad:1.0
+squirrel monkey:1.0
+volcano:2.0
+tray:1.0
+junco:1.0
+bow tie:1.0
+ashcan:1.0
+quilt:3.0
+grasshopper:1.0
+library:2.0
+promontory:13.0
+bannister:2.0
+vine snake:1.0
+web site:1.0
+mashed potato:2.0
+drilling platform:1.0
+ice cream:1.0
+totem pole:1.0
+English setter:1.0
+sombrero:1.0
+microwave:1.0
+lampshade:1.0
+Granny Smith:1.0
+green lizard:1.0
+fountain:3.0
+sliding door:4.0
+wok:1.0
+Labrador retriever:1.0
+loggerhead:1.0
+stingray:1.0
+king snake:1.0
+pirate:2.0
+trifle:1.0
+cocktail shaker:1.0
+sarong:2.0
+yurt:1.0
+stinkhorn:1.0
+vestment:1.0
+binder:1.0
+saltshaker:1.0
+four-poster:2.0
+park bench:2.0
+agama:1.0
+Ibizan hound:1.0
+Newfoundland:1.0
+stage:6.0
+bathtub:1.0
+restaurant:11.0
+conch:1.0
+sleeping bag:1.0
+hatchet:1.0
+swab:1.0
+dhole:1.0
+shower curtain:1.0
+projectile:1.0
+vault:2.0
+castle:1.0
+Band Aid:1.0
+lacewing:1.0
+backpack:1.0
+pajama:2.0
+wig:1.0
+barn spider:1.0
+seat belt:1.0
+patas:1.0
+forklift:1.0
+Italian greyhound:1.0
+breakwater:5.0
+hook:2.0
+pole:2.0
+seashore:12.0
+toilet seat:1.0
+stupa:1.0
+radio telescope:1.0
+trimaran:1.0
+bullet train:1.0
+American chameleon:2.0
+plow:1.0
+confectionery:1.0
+streetcar:1.0
+waffle iron:1.0
+canoe:1.0
+airliner:1.0
+walking stick:1.0
+submarine:1.0
+dung beetle:1.0
+rocking chair:1.0
+shoe shop:1.0
+suit:4.0
+flagpole:1.0
+maze:1.0
+hen:1.0
+alligator lizard:2.0
+limousine:2.0
+banana:4.0
+passenger car:2.0
+triceratops:1.0
+altar:1.0
+water snake:1.0
+envelope:1.0
+Christmas stocking:1.0
+brown bear:1.0
+diaper:1.0
+pop bottle:1.0
+wardrobe:3.0
+china cabinet:1.0
+minibus:3.0
+valley:12.0
+dining table:1.0
+bucket:1.0
+crutch:1.0
+pool table:2.0
+bikini:2.0
+cicada:1.0
+barbershop:1.0
+hand blower:1.0
+paper towel:1.0
+lorikeet:1.0
+schooner:1.0
+cock:1.0
+robin:1.0
+fireboat:1.0
+table lamp:1.0
+rotisserie:3.0
+barber chair:1.0
+palace:4.0
+cinema:2.0
+lakeside:12.0
+purse:1.0
+sunscreen:2.0
+space shuttle:2.0
+studio couch:2.0
+sandbar:7.0
+ringneck snake:1.0
+toilet tissue:2.0
+collie:1.0
+lemon:1.0
+leatherback turtle:1.0
+capuchin:1.0
+head cabbage:1.0
+eft:1.0
+picket fence:1.0
+stone wall:1.0
+miniskirt:1.0
+horizontal bar:1.0
+Brittany spaniel:1.0
+plate:3.0
+hog:1.0
+red wolf:1.0
+monastery:2.0
+pomegranate:1.0
+swing:2.0
+warplane:1.0
+shopping basket:1.0
+whippet:1.0
+binoculars:1.0
+mosquito net:1.0
+cleaver:1.0
+brass:1.0
+hermit crab:3.0
+cliff:12.0
+mobile home:1.0
+chiton:1.0
+dragonfly:1.0
+liner:11.0
+bell cote:1.0
+bakery:2.0
+paddlewheel:1.0
+minivan:3.0
+turnstile:1.0
+jean:1.0
+bath towel:2.0
+wing:2.0
+patio:3.0

@@ -1,0 +1,31 @@
+rugby ball:3.0
+torch:3.0
+sunscreen:12.0
+spatula:2.0
+swimming trunks:7.0
+syringe:1.0
+candle:2.0
+mixing bowl:1.0
+ice cream:2.0
+Dutch oven:1.0
+carousel:1.0
+nipple:1.0
+American lobster:5.0
+paintbrush:2.0
+sunglasses:1.0
+sarong:2.0
+pomegranate:1.0
+whistle:1.0
+stethoscope:1.0
+diaper:15.0
+sunglass:1.0
+park bench:1.0
+cleaver:2.0
+lipstick:2.0
+Band Aid:1.0
+groom:1.0
+bucket:3.0
+volleyball:1.0
+ice lolly:9.0
+cowboy hat:9.0
+crayfish:4.0

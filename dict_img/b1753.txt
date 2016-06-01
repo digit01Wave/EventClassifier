@@ -1,0 +1,112 @@
+fur coat:1.0
+soup bowl:1.0
+lumbermill:1.0
+mountain bike:1.0
+ocarina:2.0
+cellular telephone:2.0
+goblet:3.0
+harmonica:4.0
+basenji:1.0
+Windsor tie:2.0
+wool:4.0
+ping-pong ball:9.0
+plate:11.0
+sunglasses:3.0
+ladle:2.0
+bib:1.0
+steel drum:1.0
+red wine:2.0
+abacus:1.0
+chainlink fence:14.0
+punching bag:1.0
+perfume:2.0
+eel:1.0
+ice lolly:2.0
+abaya:1.0
+tray:2.0
+bow tie:1.0
+torch:1.0
+meat loaf:1.0
+packet:1.0
+jigsaw puzzle:2.0
+Dungeness crab:1.0
+candle:11.0
+sweatshirt:2.0
+poncho:3.0
+hammer:2.0
+military uniform:1.0
+quill:2.0
+harp:1.0
+lipstick:3.0
+sombrero:1.0
+crossword puzzle:2.0
+unicycle:1.0
+trifle:1.0
+cocktail shaker:1.0
+sarong:2.0
+brassiere:1.0
+hand blower:1.0
+dishwasher:1.0
+spiny lobster:1.0
+restaurant:25.0
+hatchet:1.0
+accordion:1.0
+hair spray:4.0
+Band Aid:10.0
+pajama:26.0
+wig:11.0
+face powder:1.0
+seat belt:3.0
+rhinoceros beetle:1.0
+wooden spoon:1.0
+moped:1.0
+syringe:1.0
+wine bottle:3.0
+academic gown:1.0
+maraca:2.0
+lab coat:4.0
+Loafer:1.0
+miniature pinscher:1.0
+suit:1.0
+limousine:5.0
+Petri dish:1.0
+hot pot:1.0
+Christmas stocking:1.0
+bicycle-built-for-two:1.0
+armadillo:1.0
+diaper:3.0
+Dutch oven:1.0
+dining table:1.0
+crutch:5.0
+barbershop:1.0
+plunger:2.0
+Crock Pot:1.0
+gong:1.0
+handkerchief:1.0
+guinea pig:1.0
+neck brace:5.0
+sunscreen:2.0
+paper towel:2.0
+stole:5.0
+toilet tissue:1.0
+cardigan:3.0
+balloon:1.0
+panpipe:1.0
+ice cream:4.0
+miniskirt:3.0
+frying pan:1.0
+beer glass:4.0
+American lobster:2.0
+water bottle:1.0
+plane:1.0
+cucumber:1.0
+sunglass:1.0
+shoe shop:1.0
+groom:4.0
+mask:1.0
+volleyball:1.0
+parking meter:1.0
+stethoscope:1.0
+jean:4.0
+crayfish:2.0
+hotdog:1.0
