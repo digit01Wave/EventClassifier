@@ -1,0 +1,55 @@
+entertainment center:1.0
+mitten:1.0
+quilt:7.0
+lakeside:2.0
+medicine chest:3.0
+black swan:1.0
+desk:1.0
+purse:1.0
+packet:1.0
+pretzel:1.0
+goose:1.0
+wardrobe:1.0
+studio couch:1.0
+sliding door:2.0
+pencil sharpener:1.0
+ear:1.0
+velvet:1.0
+handkerchief:1.0
+park bench:1.0
+English springer:1.0
+Saint Bernard:1.0
+bagel:1.0
+lens cap:1.0
+shoji:2.0
+Windsor tie:1.0
+wall clock:1.0
+mailbag:1.0
+American lobster:1.0
+schooner:1.0
+reflex camera:1.0
+water bottle:1.0
+ashcan:1.0
+corn:1.0
+envelope:1.0
+binoculars:1.0
+bookcase:1.0
+library:1.0
+rifle:1.0
+walking stick:1.0
+crane:1.0
+window shade:7.0
+refrigerator:1.0
+plate rack:1.0
+china cabinet:1.0
+sleeping bag:1.0
+radiator:1.0
+window screen:3.0
+pirate:1.0
+barbershop:1.0
+chiffonier:1.0
+four-poster:3.0
+crayfish:1.0
+tray:1.0
+pillow:3.0
+hotdog:1.0

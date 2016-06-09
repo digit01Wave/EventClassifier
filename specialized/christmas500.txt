@@ -1,0 +1,69 @@
+Crock Pot:1.0
+gown:1.0
+clog:1.0
+cassette player:2.0
+butcher shop:1.0
+lakeside:1.0
+null:0.0
+bookshop:1.0
+library:2.0
+chocolate sauce:1.0
+prayer rug:1.0
+sax:1.0
+greenhouse:1.0
+candle:1.0
+rubber eraser:1.0
+ice cream:1.0
+book jacket:1.0
+Windsor tie:1.0
+confectionery:2.0
+waffle iron:1.0
+park bench:2.0
+sombrero:1.0
+thimble:1.0
+lab coat:1.0
+picket fence:1.0
+chest:1.0
+rocking chair:1.0
+shoe shop:2.0
+miniskirt:1.0
+barbershop:2.0
+banjo:2.0
+bubble:2.0
+potter's wheel:1.0
+bonnet:1.0
+grocery store:2.0
+Brittany spaniel:1.0
+umbrella:1.0
+cocktail shaker:1.0
+oboe:3.0
+china cabinet:1.0
+flute:1.0
+spider web:1.0
+vestment:1.0
+Christmas stocking:2.0
+cake:1.0
+toyshop:2.0
+wig:3.0
+desk:1.0
+upright:1.0
+clumber:1.0
+altar:2.0
+throne:2.0
+folding chair:1.0
+croquet ball:1.0
+bolo tie:1.0
+acoustic guitar:1.0
+restaurant:1.0
+limousine:1.0
+groom:2.0
+tape player:2.0
+window screen:1.0
+crutch:1.0
+hair spray:3.0
+christmas tree:2.0
+ice lolly:1.0
+cello:1.0
+chiffonier:1.0
+Chihuahua:1.0
+pajama:1.0

@@ -1,0 +1,41 @@
+face powder:1.0
+electric guitar:13.0
+torch:4.0
+jigsaw puzzle:1.0
+sax:3.0
+violin:5.0
+ocarina:1.0
+cornet:3.0
+book jacket:1.0
+microphone:10.0
+accordion:5.0
+bassoon:5.0
+grand piano:2.0
+panpipe:6.0
+rock crab:1.0
+miniskirt:4.0
+flagpole:1.0
+drumstick:4.0
+bathing cap:1.0
+matchstick:1.0
+comic book:1.0
+carousel:1.0
+marimba:1.0
+oboe:1.0
+brassiere:1.0
+flute:4.0
+steel drum:2.0
+French horn:1.0
+hand blower:1.0
+stage:12.0
+folding chair:1.0
+banjo:1.0
+drum:2.0
+acoustic guitar:7.0
+whistle:1.0
+harmonica:2.0
+volleyball:1.0
+crutch:1.0
+bikini:1.0
+cello:6.0
+crayfish:1.0

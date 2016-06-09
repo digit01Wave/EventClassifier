@@ -1,0 +1,29 @@
+doormat:1.0
+face powder:1.0
+apron:1.0
+forklift:1.0
+wooden spoon:1.0
+candle:4.0
+quill:1.0
+trifle:1.0
+toyshop:2.0
+mixing bowl:1.0
+sombrero:1.0
+balloon:1.0
+seat belt:1.0
+ice lolly:2.0
+washer:1.0
+marimba:1.0
+restaurant:1.0
+plate:1.0
+Petri dish:1.0
+Christmas stocking:1.0
+diaper:1.0
+feather boa:1.0
+dining table:2.0
+groom:1.0
+hair spray:2.0
+nipple:1.0
+Band Aid:2.0
+pajama:3.0
+cake:5.0

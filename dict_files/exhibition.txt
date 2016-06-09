@@ -1,0 +1,158 @@
+entertainment center:2.0
+knot:1.0
+coffee mug:1.0
+theater curtain:2.0
+scoreboard:2.0
+barbell:1.0
+radio:1.0
+greenhouse:2.0
+sliding door:11.0
+slot:3.0
+monitor:4.0
+cup:1.0
+grand piano:1.0
+container ship:2.0
+potter's wheel:1.0
+cassette:1.0
+balance beam:1.0
+prison:18.0
+French horn:1.0
+crossword puzzle:1.0
+carton:6.0
+ski:1.0
+laptop:1.0
+grocery store:9.0
+cash machine:22.0
+sunglasses:1.0
+pay-phone:3.0
+crate:1.0
+tobacco shop:2.0
+parallel bars:1.0
+screwdriver:1.0
+dock:1.0
+lighter:1.0
+desk:1.0
+pier:1.0
+bathing cap:1.0
+barrow:1.0
+flamingo:1.0
+carpenter's kit:1.0
+perfume:2.0
+nipple:2.0
+abaya:1.0
+jean:2.0
+fire engine:2.0
+bookshop:4.0
+library:10.0
+bannister:3.0
+web site:4.0
+sewing machine:4.0
+drilling platform:1.0
+guillotine:2.0
+candle:1.0
+military uniform:2.0
+barn:1.0
+loudspeaker:1.0
+toyshop:10.0
+kimono:1.0
+microwave:3.0
+butcher shop:1.0
+fountain:1.0
+water jug:1.0
+unicycle:1.0
+washer:2.0
+umbrella:1.0
+screen:1.0
+mailbox:1.0
+binder:7.0
+tub:1.0
+stage:8.0
+beaker:3.0
+restaurant:12.0
+iPod:1.0
+accordion:1.0
+fireboat:2.0
+vault:8.0
+home theater:10.0
+stretcher:1.0
+cassette player:1.0
+pot:1.0
+crib:1.0
+gas pump:10.0
+breakwater:1.0
+hook:3.0
+church:1.0
+birdhouse:1.0
+confectionery:5.0
+streetcar:4.0
+projector:2.0
+gondola:1.0
+airliner:1.0
+recreational vehicle:1.0
+shoe shop:3.0
+suit:1.0
+maze:1.0
+comic book:4.0
+printer:1.0
+passenger car:1.0
+throne:2.0
+altar:2.0
+envelope:1.0
+hard disc:1.0
+packet:1.0
+toilet seat:1.0
+wardrobe:1.0
+crane:1.0
+television:3.0
+dining table:1.0
+bucket:1.0
+crutch:2.0
+pool table:3.0
+Dungeness crab:1.0
+moving van:1.0
+barbershop:6.0
+paper towel:1.0
+bathtub:2.0
+apiary:1.0
+spotlight:14.0
+shower curtain:1.0
+rugby ball:2.0
+gong:1.0
+car mirror:1.0
+palace:1.0
+cinema:18.0
+medicine chest:5.0
+liner:1.0
+space shuttle:3.0
+planetarium:1.0
+studio couch:2.0
+file:1.0
+vending machine:10.0
+washbasin:4.0
+bakery:2.0
+panpipe:1.0
+fire screen:1.0
+shoji:2.0
+horizontal bar:1.0
+espresso maker:3.0
+safe:3.0
+paddlewheel:1.0
+water bottle:2.0
+soap dispenser:4.0
+steel drum:1.0
+desktop computer:2.0
+mosquito net:1.0
+scale:2.0
+sunglass:1.0
+coil:1.0
+bullet train:3.0
+airship:3.0
+refrigerator:7.0
+castle:1.0
+window screen:1.0
+switch:2.0
+parking meter:1.0
+turnstile:21.0
+barrel:1.0
+modem:1.0
+patio:1.0

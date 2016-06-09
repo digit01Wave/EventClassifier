@@ -1,0 +1,113 @@
+entertainment center:2.0
+beer bottle:1.0
+laptop:3.0
+shower cap:1.0
+spatula:1.0
+swimming trunks:1.0
+dough:2.0
+shopping cart:1.0
+ocarina:1.0
+water jug:3.0
+cornet:1.0
+trifle:2.0
+goblet:2.0
+swab:1.0
+menu:2.0
+coffee mug:1.0
+pickelhaube:1.0
+rocking chair:2.0
+French horn:1.0
+wool:1.0
+grocery store:1.0
+plate:1.0
+hoopskirt:1.0
+tobacco shop:2.0
+steel drum:1.0
+vase:1.0
+red wine:1.0
+abacus:1.0
+gown:1.0
+wooden spoon:1.0
+carpenter's kit:1.0
+ice lolly:2.0
+tray:1.0
+bow tie:4.0
+quilt:2.0
+bookshop:1.0
+library:2.0
+jigsaw puzzle:3.0
+trombone:1.0
+candle:3.0
+sweatshirt:1.0
+poncho:1.0
+ice cream:3.0
+harp:1.0
+toyshop:4.0
+breastplate:1.0
+chain mail:1.0
+harmonica:1.0
+cocktail shaker:3.0
+sarong:4.0
+teddy:1.0
+vestment:2.0
+bookcase:3.0
+strainer:1.0
+hand blower:1.0
+mixing bowl:1.0
+throne:1.0
+dishwasher:2.0
+eggnog:4.0
+drum:2.0
+restaurant:17.0
+accordion:3.0
+brassiere:1.0
+hair spray:4.0
+safety pin:1.0
+pillow:1.0
+jersey:2.0
+wig:6.0
+table lamp:1.0
+cassette player:1.0
+prayer rug:1.0
+birdhouse:2.0
+confectionery:8.0
+maraca:2.0
+lab coat:3.0
+plastic bag:1.0
+suit:2.0
+pop bottle:2.0
+comic book:2.0
+oboe:2.0
+altar:1.0
+Christmas stocking:4.0
+wardrobe:2.0
+trench coat:1.0
+cuirass:1.0
+carton:1.0
+dining table:5.0
+tape player:1.0
+barbershop:5.0
+iron:1.0
+mortar:1.0
+plunger:4.0
+Crock Pot:2.0
+rugby ball:1.0
+barber chair:1.0
+handkerchief:1.0
+studio couch:2.0
+file:1.0
+stole:3.0
+toilet tissue:1.0
+cardigan:3.0
+toaster:1.0
+potter's wheel:2.0
+miniskirt:1.0
+American lobster:1.0
+notebook:2.0
+groom:6.0
+bakery:2.0
+pajama:14.0
+jean:1.0
+bath towel:1.0
+christmas tree:1.0
+cake:6.0

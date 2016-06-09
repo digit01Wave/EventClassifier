@@ -1,0 +1,62 @@
+macaque:1.0
+shield:3.0
+manhole cover:1.0
+theater curtain:2.0
+triceratops:9.0
+terrapin:1.0
+ruffed grouse:1.0
+prayer rug:1.0
+sax:1.0
+Dungeness crab:1.0
+goldfinch:1.0
+stupa:1.0
+spotlight:1.0
+file:1.0
+harp:1.0
+book jacket:1.0
+toyshop:1.0
+palace:1.0
+vending machine:1.0
+bassoon:1.0
+menu:3.0
+grand piano:1.0
+oscilloscope:1.0
+bakery:1.0
+kimono:1.0
+fountain:1.0
+stinkhorn:1.0
+gondola:1.0
+wolf spider:1.0
+ant:1.0
+bookshop:1.0
+breastplate:2.0
+oboe:1.0
+altar:2.0
+safe:1.0
+pitcher:1.0
+vestment:1.0
+vase:1.0
+king crab:1.0
+armadillo:1.0
+killer whale:1.0
+desk:1.0
+wardrobe:3.0
+shoe shop:2.0
+stage:1.0
+throne:7.0
+nail:1.0
+spiny lobster:1.0
+drum:2.0
+dining table:1.0
+conch:1.0
+mortar:1.0
+restaurant:1.0
+mask:5.0
+scabbard:1.0
+perfume:1.0
+centipede:1.0
+wall clock:1.0
+pick:1.0
+necklace:1.0
+sombrero:1.0
+buckle:1.0

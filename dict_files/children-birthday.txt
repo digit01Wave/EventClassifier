@@ -1,0 +1,93 @@
+spatula:2.0
+swimming trunks:1.0
+rubber eraser:4.0
+ocarina:1.0
+slot:3.0
+mixing bowl:1.0
+swab:2.0
+menu:5.0
+broom:1.0
+thimble:2.0
+toilet seat:2.0
+hip:1.0
+apron:1.0
+sunglasses:1.0
+bib:2.0
+whistle:5.0
+nipple:2.0
+tray:11.0
+packet:6.0
+jigsaw puzzle:10.0
+web site:10.0
+candle:30.0
+quill:1.0
+book jacket:2.0
+toyshop:21.0
+sombrero:1.0
+paddle:1.0
+cradle:2.0
+ice lolly:4.0
+pencil box:3.0
+trifle:1.0
+umbrella:2.0
+remote control:1.0
+tub:1.0
+restaurant:3.0
+sleeping bag:1.0
+cup:1.0
+wall clock:1.0
+pick:1.0
+cowboy hat:2.0
+safety pin:1.0
+Band Aid:2.0
+pillow:4.0
+jersey:1.0
+pot:1.0
+crib:3.0
+bonnet:1.0
+mousetrap:1.0
+birdhouse:1.0
+confectionery:21.0
+maraca:3.0
+sock:1.0
+carousel:1.0
+maze:1.0
+pinwheel:8.0
+bubble:1.0
+altar:7.0
+envelope:16.0
+Christmas stocking:2.0
+bottlecap:1.0
+library:2.0
+teapot:1.0
+dining table:2.0
+comic book:12.0
+bucket:2.0
+bikini:1.0
+plunger:2.0
+bathtub:1.0
+shower curtain:4.0
+doormat:1.0
+bassinet:1.0
+handkerchief:3.0
+plate:1.0
+purse:2.0
+chocolate sauce:1.0
+mouse:1.0
+toilet tissue:1.0
+balloon:23.0
+paintbrush:1.0
+piggy bank:4.0
+soap dispenser:1.0
+mosquito net:1.0
+sunglass:1.0
+coil:1.0
+plate rack:1.0
+feather boa:2.0
+groom:1.0
+mask:1.0
+bakery:16.0
+pajama:2.0
+necklace:1.0
+joystick:1.0
+diaper:4.0

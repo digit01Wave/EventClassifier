@@ -1,0 +1,112 @@
+fur coat:1.0
+barbell:1.0
+spatula:1.0
+dough:1.0
+cornet:1.0
+trifle:1.0
+mixing bowl:1.0
+brassiere:1.0
+backpack:1.0
+Afghan hound:1.0
+rocking chair:2.0
+balance beam:1.0
+crossword puzzle:1.0
+ping-pong ball:1.0
+apron:3.0
+sunglasses:5.0
+marimba:7.0
+scoreboard:1.0
+screwdriver:1.0
+chain saw:1.0
+barrow:1.0
+croquet ball:1.0
+oxygen mask:1.0
+tricycle:1.0
+marmoset:1.0
+ice lolly:2.0
+tray:4.0
+bow tie:3.0
+quilt:1.0
+jigsaw puzzle:8.0
+Dungeness crab:1.0
+poncho:4.0
+hammer:1.0
+Dutch oven:3.0
+refrigerator:3.0
+cradle:1.0
+fountain:1.0
+pencil box:2.0
+potter's wheel:1.0
+iron:1.0
+sarong:9.0
+vestment:3.0
+park bench:7.0
+dalmatian:9.0
+stage:4.0
+throne:1.0
+folding chair:4.0
+drum:3.0
+restaurant:11.0
+sleeping bag:1.0
+accordion:2.0
+hair spray:1.0
+swing:2.0
+cowboy hat:3.0
+Band Aid:1.0
+pajama:16.0
+wig:3.0
+maillot:1.0
+caldron:1.0
+crib:1.0
+cloak:1.0
+weasel:1.0
+mortarboard:16.0
+academic gown:17.0
+maraca:2.0
+lab coat:4.0
+polecat:1.0
+drumstick:1.0
+golfcart:1.0
+overskirt:2.0
+oboe:1.0
+cup:1.0
+envelope:1.0
+hot pot:1.0
+Christmas stocking:1.0
+stethoscope:1.0
+diaper:1.0
+maze:3.0
+upright:1.0
+burrito:1.0
+television:1.0
+dining table:9.0
+crutch:10.0
+barbershop:3.0
+knee pad:1.0
+plunger:3.0
+Crock Pot:3.0
+barber chair:1.0
+plate:5.0
+neck brace:1.0
+sunscreen:2.0
+sax:1.0
+studio couch:1.0
+stole:4.0
+cardigan:1.0
+hoopskirt:2.0
+bassoon:1.0
+toaster:1.0
+chest:1.0
+kimono:2.0
+miniskirt:7.0
+black-footed ferret:1.0
+paintbrush:1.0
+steel drum:8.0
+koala:2.0
+sunglass:3.0
+shoe shop:6.0
+feather boa:3.0
+groom:3.0
+jersey:8.0
+bath towel:1.0
+hotdog:1.0

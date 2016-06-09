@@ -1,8 +1,8 @@
 THINGS TO DO:
 -write bloody paper
 -write concept detector
--train Christmas
--pit trained classifier based on images against each other
+-remember to combine exhibition and art exhibition together later
+-pit trained classifier based on images against each other //probably not as good
 
 
 awards-ceremony:
@@ -49,7 +49,7 @@ Things we have yet to include/modify
 -easter is a biiiit iffy (ok, very iffy. Keeps seeing egg as a croquet ball)
 -perhaps just keep pary
 
-butterply exhibition
+-we combined art exhibition and exhibition together
 
 HMM:
 x Birthday 
@@ -67,91 +67,211 @@ x St. Patrick's Day
 X Skiing
 x Wedding
 
-SUCCESS!!! FOR graduation76.txt ( 99.8438006686
-SUCCESS!!! FOR skiing477.txt ( 77.808291353
-SUCCESS!!! FOR children_birthday1818.txt ( 16.224389978 )
-SUCCESS!!! FOR exhibition2799.txt ( 0.217424588317 )
-SUCCESS!!! FOR concert123.txt ( 26.1348102979
-SUCCESS!!! FOR exhibition3110.txt ( 6.1039924966 )
+SUCCESS!!! FOR graduation76.txt ( 159.482543841
+SUCCESS!!! FOR skiing477.txt ( 77.731548279
+SUCCESS!!! FOR children_birthday1818.txt ( 16.5914981509 )
+SUCCESS!!! FOR exhibition2799.txt ( 1.26746978392
+SUCCESS!!! FOR concert123.txt ( 27.6827726701
+SUCCESS!!! FOR graduation1462.txt ( 90.5739406834
 #######################################################
-FAILURE: Mapped  children_birthday1864.txt to wedding ( 13.1752695145 )
+FAILURE: Mapped  exhibition3143.txt to office-meeting ( 2.28035644583 )
+List returned was  [('office-meeting', 21.96588010820323), ('sailing', 19.685523662377253), ('exhibition', 11.759834356833345), ('christmas50', 8.972155090400186), ('easter', 8.1718075803388), ('luncheon', 5.923092346028774), ('seminar', 3.9418915862908257), ('birthday-party', 2.631734916770213), ('rowing', 2.263038767686903), ('awards-ceremony', 2.210742774128574)]
 #######################################################
-SUCCESS!!! FOR concert129.txt ( 26.7628811222
-SUCCESS!!! FOR concert142.txt ( 19.8685461449
-SUCCESS!!! FOR cruise580.txt ( 54.3513166576
-SUCCESS!!! FOR concert126.txt ( 21.598318318
-SUCCESS!!! FOR wedding5.txt ( 42.907542074
+SUCCESS!!! FOR exhibition3110.txt ( 15.1120476207
 #######################################################
-FAILURE: Mapped  christmas481.txt to party50 ( 98.4981272177 )
-#######################################################
-SUCCESS!!! FOR badminton.txt ( 70.3865409239
-SUCCESS!!! FOR cruise581.txt ( 18.7503672016
-SUCCESS!!! FOR rowing.txt ( 99.9999335491
-SUCCESS!!! FOR graduation70.txt ( 99.936771897
-SUCCESS!!! FOR children_birthday1823.txt ( 0.298186820923 )
-SUCCESS!!! FOR graduation63.txt ( 84.6315660537
-SUCCESS!!! FOR children_birthday1837.txt ( 10.9317241505 )
-SUCCESS!!! FOR sailing.txt ( 100.0
-SUCCESS!!! FOR concert130.txt ( 12.8217289827
-SUCCESS!!! FOR children_birthday1865.txt ( 22.5154552653 )
-SUCCESS!!! FOR cruise677.txt ( 43.5071378034
-SUCCESS!!! FOR cruise4403.txt ( 2.87990860923
-SUCCESS!!! FOR skiing719.txt ( 50.4946806517
-#######################################################
-FAILURE: Mapped  cruise3560.txt to rock-climbing ( 1.47977873087 )
-#######################################################
-SUCCESS!!! FOR concert145.txt ( 28.917762142
-#######################################################
-FAILURE: Mapped  christmas500.txt to croquet ( 0.0307335429683 )
-#######################################################
-SUCCESS!!! FOR wedding847.txt ( 37.7991276707
-#######################################################
-FAILURE: Mapped  exhibition2800.txt to luncheon ( 1.30210710712 )
-#######################################################
-SUCCESS!!! FOR skiing718.txt ( 90.9924368229
-SUCCESS!!! FOR wedding12.txt ( 15.4250041079
-#######################################################
-FAILURE: Mapped  children_birthday1842.txt to office-meeting ( 1.69437523522 )
+FAILURE: Mapped  christmas5341.txt to office-meeting ( 2.46577007719 )
+List returned was  [('office-meeting', 25.037256488550575), ('luncheon', 22.57148641135625), ('party50', 11.258937720684466), ('awards-ceremony', 9.279050301931363), ('christmas50', 8.487915580400687), ('birthday-party', 5.7180353514548665), ('seminar', 5.562029098198223), ('wedding', 4.909504513783972), ('exhibition', 2.8061826199256386), ('car-accident', 1.8410669905179426)]
 #######################################################
 #######################################################
-FAILURE: Mapped  christmas1827.txt to rock-climbing ( 36.5054766856 )
+FAILURE: Mapped  children_birthday1864.txt to wedding ( 13.9172123015 )
+List returned was  [('wedding', 25.368337096238413), ('luncheon', 11.45112479468905), ('birthday-party', 10.618341502341408), ('office-meeting', 10.301926384022359), ('party50', 7.464686469516233), ('beach-play', 5.285446601897865), ('awards-ceremony', 4.681677587641437), ('christmas50', 4.168934197922465), ('seminar', 3.4959046090681185), ('easter', 3.397357521107305)]
 #######################################################
-SUCCESS!!! FOR exhibition2801.txt ( 0.245896790936 )
-SUCCESS!!! FOR cruise1887.txt ( 31.594157093
-SUCCESS!!! FOR wedding848.txt ( 29.8254102588
-SUCCESS!!! FOR wedding850.txt ( 23.8647990399
+SUCCESS!!! FOR graduation1475.txt ( 111.708076703
 #######################################################
-FAILURE: Mapped  children_birthday1826.txt to beach-play ( 18.0873275168 )
+FAILURE: Mapped  children_birthday1870.txt to croquet ( 8.9015514804 )
+List returned was  [('croquet', 27.84883199013688), ('birthday-party', 18.947280509741663), ('easter', 11.154508942307837), ('office-meeting', 6.11407106707372), ('party50', 5.214854526584702), ('beach-play', 4.824631833224662), ('luncheon', 3.7267881262427984), ('tennis', 3.3687264693340198), ('wedding', 3.25440183595576), ('football', 2.987696372396018)]
+#######################################################
+SUCCESS!!! FOR skiing724.txt ( 91.4231327797
+SUCCESS!!! FOR concert129.txt ( 28.3847698924
+SUCCESS!!! FOR graduation1507.txt ( 90.3813100542
+SUCCESS!!! FOR concert142.txt ( 31.7326239474
+SUCCESS!!! FOR concert147.txt ( 39.7536901834
+SUCCESS!!! FOR cruise580.txt ( 55.0796409058
+SUCCESS!!! FOR concert126.txt ( 29.905148592
+SUCCESS!!! FOR graduation1457.txt ( 73.4766991707
+SUCCESS!!! FOR wedding5.txt ( 54.5306754674
+#######################################################
+FAILURE: Mapped  exhibition3148.txt to concert ( 8.40208292872 )
+List returned was  [('concert', 20.909952867874317), ('awards-ceremony', 12.50786993915814), ('exhibition', 11.480698922279228), ('seminar', 11.426397225912552), ('party50', 9.327505638554626), ('christmas50', 8.46676806461594), ('office-meeting', 5.827549016332509), ('birthday-party', 4.445333579385431), ('wedding', 4.23460364238063), ('luncheon', 3.746355974251624)]
+#######################################################
+#######################################################
+FAILURE: Mapped  christmas481.txt to party50 ( 98.5203501493 )
+List returned was  [('party50', 99.05318599402602), ('christmas50', 0.5328358447690323), ('birthday-party', 0.2519811501199225), ('volleyball', 0.08461440805936868), ('wedding', 0.04257694578383378), ('office-meeting', 0.026954199361248134), ('awards-ceremony', 0.007851457880553959), ('car-accident', 0.0), ('concert', 0.0), ('rock-climbing', 0.0)]
+#######################################################
+SUCCESS!!! FOR badminton.txt ( 76.1822816608
+SUCCESS!!! FOR skiing722.txt ( 100.436374802
+SUCCESS!!! FOR cruise581.txt ( 19.1502750765
+SUCCESS!!! FOR concert2055.txt ( 47.556270193
+SUCCESS!!! FOR rowing.txt ( 107.927913155
+SUCCESS!!! FOR graduation70.txt ( 120.383798668
+SUCCESS!!! FOR children_birthday1823.txt ( 0.247688158294 )
+SUCCESS!!! FOR graduation63.txt ( 86.9207654662
+SUCCESS!!! FOR concert2054.txt ( 28.9880511151
+SUCCESS!!! FOR graduation1523.txt ( 90.4210205136
+SUCCESS!!! FOR children_birthday1837.txt ( 10.720508477 )
+SUCCESS!!! FOR sailing.txt ( 100.043312722
+SUCCESS!!! FOR graduation1465.txt ( 57.3518198912
+SUCCESS!!! FOR concert130.txt ( 100.0
+SUCCESS!!! FOR children_birthday1865.txt ( 22.5356453631 )
+SUCCESS!!! FOR cruise677.txt ( 43.6704595919
+SUCCESS!!! FOR cruise4403.txt ( 3.16719752837
+SUCCESS!!! FOR skiing720.txt ( 93.2413980612
+#######################################################
+FAILURE: Mapped  christmas5352.txt to wedding ( 2.45953015496 )
+List returned was  [('wedding', 12.690781711666755), ('birthday-party', 10.231251556709234), ('party50', 10.060466014621834), ('christmas50', 9.948639162652974), ('luncheon', 9.825822729109932), ('office-meeting', 7.990253677317314), ('skiing', 6.108529408064385), ('easter', 5.822886896694623), ('car-accident', 4.771562206222881), ('exhibition', 4.391619453794685)]
+#######################################################
+SUCCESS!!! FOR skiing719.txt ( 50.5226545443
+SUCCESS!!! FOR cruise6184.txt ( 22.4820036171
+#######################################################
+FAILURE: Mapped  cruise3560.txt to rock-climbing ( 1.59455940211 )
+List returned was  [('rock-climbing', 27.526390111677106), ('cruise', 25.931830709566604), ('beach-play', 9.550629445967061), ('beach-bonfire', 4.667027976039439), ('concert', 4.091298697467204), ('seminar', 3.6035787083139867), ('exhibition', 3.1338386413400663), ('luncheon', 2.963775039332455), ('awards-ceremony', 2.647600477677773), ('party50', 2.402871372158711)]
+#######################################################
+SUCCESS!!! FOR concert145.txt ( 26.2656731248
+#######################################################
+FAILURE: Mapped  christmas500.txt to wedding ( 0.716325326955 )
+List returned was  [('wedding', 14.687649494015986), ('croquet', 13.971324167061173), ('birthday-party', 11.821643655346673), ('office-meeting', 10.01988556812169), ('christmas50', 9.885560057333699), ('exhibition', 8.363731516045332), ('seminar', 6.438455135407952), ('awards-ceremony', 5.666788095499573), ('party50', 5.483177494944503), ('easter', 4.520104209755248)]
+#######################################################
+SUCCESS!!! FOR wedding847.txt ( 48.2938146503
+SUCCESS!!! FOR skiing721.txt ( 86.9733524007
+SUCCESS!!! FOR children_birthday1889.txt ( 0.2129410867 )
+#######################################################
+FAILURE: Mapped  exhibition2800.txt to luncheon ( 1.40777461018 )
+List returned was  [('luncheon', 17.072062279926016), ('awards-ceremony', 15.664287669741157), ('exhibition', 11.44134232283894), ('seminar', 9.058680717074463), ('graduation', 7.2331649183537845), ('party50', 6.089992986857048), ('birthday-party', 5.992638856220849), ('office-meeting', 5.962148613580632), ('christmas50', 5.411787017092549), ('croquet', 4.650232792459798)]
+#######################################################
+SUCCESS!!! FOR graduation1478.txt ( 29.5935532673
+#######################################################
+FAILURE: Mapped  exhibition3119.txt to office-meeting ( 1.04739637366 )
+List returned was  [('office-meeting', 27.247787050695877), ('exhibition', 26.20039067703442), ('luncheon', 11.874513625619452), ('christmas50', 5.816103472349314), ('croquet', 5.268835305028415), ('birthday-party', 3.621801217103625), ('concert', 3.4794182640038187), ('party50', 3.11811779261217), ('graduation', 2.6462728992539835), ('badminton', 2.580578294661837)]
+#######################################################
+SUCCESS!!! FOR skiing718.txt ( 92.1965104722
+SUCCESS!!! FOR wedding12.txt ( 16.828609151
+#######################################################
+FAILURE: Mapped  children_birthday1842.txt to office-meeting ( 4.9445252928 )
+List returned was  [('office-meeting', 20.65615743476535), ('birthday-party', 15.711632141967208), ('party50', 9.893602912218485), ('beach-play', 9.308655638309919), ('exhibition', 7.9191187079312515), ('seminar', 7.495932457149309), ('wedding', 6.030689868047562), ('luncheon', 4.918898285119511), ('christmas50', 3.668766930394801), ('volleyball', 3.3043165675659596)]
+#######################################################
+SUCCESS!!! FOR graduation1504.txt ( 91.1519391645
+SUCCESS!!! FOR exhibition3147.txt ( 9.90323085905
+#######################################################
+FAILURE: Mapped  graduation1468.txt to office-meeting ( 31.5260501411 )
+List returned was  [('office-meeting', 44.72068021115154), ('wedding', 13.194630070078597), ('birthday-party', 8.41821462102561), ('seminar', 5.334337879357306), ('party50', 5.308271727838985), ('luncheon', 5.274084955586409), ('awards-ceremony', 3.3746713538907382), ('easter', 3.000341623595939), ('volleyball', 2.5299743916694073), ('exhibition', 2.4897410544638436)]
+#######################################################
+#######################################################
+FAILURE: Mapped  christmas1827.txt to rock-climbing ( 36.9803798327 )
+List returned was  [('rock-climbing', 47.91324817185529), ('party50', 10.932868339186665), ('easter', 8.213389967264938), ('christmas50', 5.97199644335646), ('beach-play', 5.816578941199614), ('football', 4.7981303675051326), ('skiing', 3.4567856875370646), ('birthday-party', 2.7325968758209154), ('office-meeting', 1.9745438415860703), ('wedding', 1.5681993091545763)]
+#######################################################
+SUCCESS!!! FOR cruise4460.txt ( 37.1220328746
+SUCCESS!!! FOR exhibition2801.txt ( 4.11813743143
+SUCCESS!!! FOR concert2053.txt ( 27.8749293341
+warning: no events match given tags
+#######################################################
+FAILURE: Mapped  christmas5361.txt to None
+#######################################################
+SUCCESS!!! FOR cruise1887.txt ( 29.4121556211
+SUCCESS!!! FOR wedding848.txt ( 34.6086732323
+SUCCESS!!! FOR cruise4441.txt ( 99.9994496628
+SUCCESS!!! FOR wedding850.txt ( 26.029633115
+SUCCESS!!! FOR cruise6185.txt ( 15.1177106935
+SUCCESS!!! FOR seminar.txt ( 8.48839272338
+SUCCESS!!! FOR skiing725.txt ( 92.2101504287
+#######################################################
+FAILURE: Mapped  exhibition3124.txt to concert ( 0.0487868161456 )
+List returned was  [('concert', 14.347793356335611), ('christmas50', 14.299006540189968), ('awards-ceremony', 11.986269648757789), ('luncheon', 9.479626886849113), ('seminar', 8.245690158516362), ('party50', 7.1252792808985514), ('office-meeting', 6.381255559733157), ('exhibition', 5.860559624184895), ('wedding', 5.724416461529465), ('birthday-party', 5.40055041268223)]
+#######################################################
+#######################################################
+FAILURE: Mapped  children_birthday1826.txt to beach-play ( 15.8959474957 )
+List returned was  [('beach-play', 33.86311772252882), ('beach-bonfire', 17.967170226843677), ('volleyball', 12.899474704261438), ('birthday-party', 12.258820803181951), ('party50', 6.192892734265033), ('wedding', 4.910681505226059), ('football', 3.8727226502608634), ('easter', 2.2478127144789393), ('concert', 2.044907129409045), ('badminton', 1.7220968174501032)]
+#######################################################
+#######################################################
+FAILURE: Mapped  cruise4432.txt to rock-climbing ( 11.3817802482 )
+List returned was  [('rock-climbing', 24.528226108264114), ('beach-play', 13.146445860032847), ('cruise', 11.88051985800648), ('wedding', 5.769481791822919), ('beach-bonfire', 5.6757695698649036), ('awards-ceremony', 4.698895447551493), ('concert', 4.291598684272139), ('exhibition', 3.4822550216018535), ('sailing', 3.2924767143334255), ('football', 3.16706199858304)]
+#######################################################
+#######################################################
+FAILURE: Mapped  cruise4450.txt to beach-play ( 5.33683142055 )
+List returned was  [('beach-play', 24.07129513538928), ('beach-bonfire', 18.734463714838377), ('easter', 7.861839591597129), ('party50', 5.657032590047976), ('skiing', 5.582570226922102), ('office-meeting', 5.55589908611907), ('exhibition', 5.204603759405054), ('rowing', 3.9000661425047283), ('awards-ceremony', 3.3287805848670415), ('concert', 3.1560373935655415)]
+#######################################################
+#######################################################
+FAILURE: Mapped  children_birthday1880.txt to croquet ( 7.8752514141 )
+List returned was  [('croquet', 21.050181226807112), ('football', 13.174929812709058), ('birthday-party', 9.484644980951483), ('beach-play', 8.910251509639185), ('badminton', 8.438556125764547), ('tennis', 8.327345808970357), ('easter', 8.027684249249567), ('party50', 4.64845460546939), ('volleyball', 4.001282667259332), ('christmas50', 2.5975005558378745)]
 #######################################################
 SUCCESS!!! FOR football.txt ( 100.0
 #######################################################
-FAILURE: Mapped  graduation1451.txt to football ( 24.8825416202 )
+FAILURE: Mapped  graduation1451.txt to football ( 16.9257064762 )
+List returned was  [('football', 55.49856630125001), ('concert', 38.572859825085835), ('tennis', 5.765856691016214), ('volleyball', 0.06374471272141069), ('awards-ceremony', 0.04567417051447837), ('badminton', 0.03129732630420674), ('exhibition', 0.015836789343511862), ('beach-play', 0.006164183764342119), ('christmas50', 0.0), ('car-accident', 0.0)]
 #######################################################
-SUCCESS!!! FOR wedding23.txt ( 40.0491718545
+SUCCESS!!! FOR wedding869.txt ( 47.2115491516
+SUCCESS!!! FOR wedding862.txt ( 48.5232903321
+SUCCESS!!! FOR wedding23.txt ( 45.0996201239
 #######################################################
-FAILURE: Mapped  christmas488.txt to birthday-party ( 10.9087232111 )
-#######################################################
-SUCCESS!!! FOR skiing712.txt ( 90.7546486345
-SUCCESS!!! FOR skiing713.txt ( 91.0441557666
-#######################################################
-FAILURE: Mapped  children_birthday1789.txt to rowing ( 33.1170390683 )
-#######################################################
-#######################################################
-FAILURE: Mapped  children_birthday174.txt to beach-play ( 7.87631941299 )
+FAILURE: Mapped  christmas5356.txt to birthday-party ( 4.52026810699 )
+List returned was  [('birthday-party', 20.291432095578774), ('christmas50', 15.771163988593162), ('party50', 14.36415580029323), ('exhibition', 10.205005122128574), ('beach-play', 7.625597024108152), ('office-meeting', 6.129851689056981), ('seminar', 5.69075134871099), ('luncheon', 5.400947948271799), ('wedding', 4.9655124524872205), ('awards-ceremony', 4.633749190770867)]
 #######################################################
 #######################################################
-FAILURE: Mapped  children_birthday1747.txt to croquet ( 7.87618133076 )
+FAILURE: Mapped  christmas488.txt to birthday-party ( 10.3650753879 )
+List returned was  [('birthday-party', 30.91593528875788), ('luncheon', 20.55085990090781), ('office-meeting', 14.882588900132198), ('easter', 8.630919779668183), ('wedding', 8.523017338496155), ('party50', 5.526383968588017), ('christmas50', 3.502570495436981), ('beach-play', 2.946782196513007), ('graduation', 1.4579155684730256), ('exhibition', 1.3589879529361477)]
+#######################################################
+SUCCESS!!! FOR skiing712.txt ( 90.7534047514
+SUCCESS!!! FOR wedding866.txt ( 27.7297337179
+SUCCESS!!! FOR skiing713.txt ( 94.5512870549
+SUCCESS!!! FOR cruise4459.txt ( 43.152872649
+#######################################################
+FAILURE: Mapped  children_birthday1789.txt to rowing ( 33.9542130293 )
+List returned was  [('rowing', 50.235554305425154), ('beach-play', 16.28134127613546), ('wedding', 9.57649033026465), ('birthday-party', 3.843583696027622), ('party50', 3.617755492142674), ('office-meeting', 3.356403824769309), ('christmas50', 2.2877940089474995), ('luncheon', 1.9954134525064326), ('badminton', 1.842428392986895), ('awards-ceremony', 1.7794456962319742)]
 #######################################################
 #######################################################
-FAILURE: Mapped  exhibition1599.txt to cruise ( 4.27987254091 )
+FAILURE: Mapped  christmas5353.txt to office-meeting ( 3.22828657343 )
+List returned was  [('office-meeting', 17.11701174988212), ('wedding', 13.88872517645217), ('luncheon', 13.460891831614072), ('birthday-party', 12.533815385222463), ('seminar', 8.559936657644188), ('exhibition', 7.349556918163835), ('party50', 7.10780744748451), ('christmas50', 6.58018374754204), ('easter', 3.953918447928507), ('awards-ceremony', 3.723377312640537)]
 #######################################################
-SUCCESS!!! FOR graduation67.txt ( 99.8605140504
-SUCCESS!!! FOR children_birthday1861.txt ( 12.6424005999 )
-SUCCESS!!! FOR exhibition3100.txt ( 4.44812314944 )
+#######################################################
+FAILURE: Mapped  children_birthday174.txt to beach-play ( 8.15348379292 )
+List returned was  [('beach-play', 20.696358004261675), ('birthday-party', 12.542874211341736), ('party50', 9.805409777979127), ('easter', 8.548475577037316), ('wedding', 7.990879200207853), ('croquet', 7.912519590572425), ('rock-climbing', 5.198928520948465), ('exhibition', 5.091452073807545), ('badminton', 3.780249666084168), ('rowing', 3.563078909721801)]
+#######################################################
+#######################################################
+FAILURE: Mapped  children_birthday1747.txt to croquet ( 7.91842847868 )
+List returned was  [('croquet', 28.03529322682915), ('easter', 20.116864748152942), ('birthday-party', 14.4320237102636), ('beach-play', 8.951552845449392), ('party50', 6.369995210037424), ('luncheon', 5.491387365176605), ('wedding', 3.075110090403558), ('exhibition', 2.636993577121963), ('christmas50', 2.187570843235938), ('seminar', 1.9964027321939162)]
+#######################################################
+SUCCESS!!! FOR exhibition3129.txt ( 6.98893554518
+#######################################################
+FAILURE: Mapped  exhibition1599.txt to cruise ( 4.16335117675 )
+List returned was  [('cruise', 15.478535128768844), ('luncheon', 11.31518395202223), ('exhibition', 10.029725158644254), ('christmas50', 7.936479011388871), ('party50', 7.15787518296698), ('awards-ceremony', 6.0489296791326135), ('concert', 5.913141562291726), ('wedding', 5.301849259495191), ('graduation', 4.228887611873288), ('seminar', 4.121261481658563)]
+#######################################################
+SUCCESS!!! FOR cruise4463.txt ( 99.988391515
+#######################################################
+FAILURE: Mapped  christmas5337.txt to birthday-party ( 2.52423219971 )
+List returned was  [('birthday-party', 17.146191275618765), ('christmas50', 14.621959075912038), ('party50', 12.545193498339986), ('exhibition', 12.2904537149979), ('office-meeting', 6.691376241365778), ('luncheon', 6.626792809908705), ('seminar', 6.053412639723075), ('beach-play', 5.011499829941048), ('awards-ceremony', 4.329332777072751), ('wedding', 4.269266238309181)]
+#######################################################
+SUCCESS!!! FOR graduation67.txt ( 99.9144199542
+SUCCESS!!! FOR children_birthday1861.txt ( 12.4102732999 )
+SUCCESS!!! FOR wedding873.txt ( 31.000290588
+SUCCESS!!! FOR exhibition3100.txt ( 2.68453491533
 FINAL STATISITCS:
-        successes: 39 
-        errors: 14 
-Percentage: 0.735849056604
+k= 0    Percent Error: 0.292929292929
+k= 1    Percent Error: 0.242424242424
+k= 2    Percent Error: 0.161616161616
+k= 3    Percent Error: 0.141414141414
+k= 4    Percent Error: 0.141414141414
+k= 5    Percent Error: 0.141414141414
+k= 6    Percent Error: 0.141414141414
+k= 7    Percent Error: 0.131313131313
+k= 8    Percent Error: 0.131313131313
+k= 9    Percent Error: 0.131313131313
+type errors
+        children_birthday = 8
+        cruise = 3
+        exhibition = 6
+        graduation = 2
+        christmas = 9
+final errors: [29, 24, 16, 14, 14, 14, 14, 13, 13, 13]
+total 99
 
 Reasons things failed:
 1. FAILURE: Mapped  christmas481.txt to party50 ( 6.49323996647 )     #still unsure

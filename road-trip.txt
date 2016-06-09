@@ -1,0 +1,158 @@
+gown:1.0
+ballplayer:1.0
+viaduct:4.0
+fur coat:2.0
+swimming trunks:1.0
+panpipe:2.0
+ocarina:1.0
+sports car:1.0
+alp:1.0
+cellular telephone:1.0
+garbage truck:1.0
+monitor:2.0
+swab:2.0
+broom:2.0
+suspension bridge:3.0
+cloak:1.0
+hay:1.0
+kimono:1.0
+Windsor tie:1.0
+Angora:1.0
+wool:1.0
+laptop:2.0
+ping-pong ball:5.0
+apron:2.0
+cash machine:1.0
+scoreboard:1.0
+sunglasses:1.0
+marimba:1.0
+dam:5.0
+parallel bars:3.0
+minibus:14.0
+street sign:3.0
+whistle:1.0
+desk:2.0
+window shade:2.0
+barrow:1.0
+toy poodle:1.0
+croquet ball:1.0
+beach wagon:2.0
+punching bag:2.0
+perfume:1.0
+ice lolly:1.0
+volcano:1.0
+bow tie:2.0
+fire engine:2.0
+torch:4.0
+library:4.0
+promontory:2.0
+bannister:2.0
+web site:10.0
+racket:1.0
+candle:1.0
+sweatshirt:2.0
+military uniform:1.0
+cocktail shaker:1.0
+book jacket:6.0
+Bedlington terrier:2.0
+toyshop:1.0
+sarong:3.0
+go-kart:2.0
+tow truck:2.0
+pickup:2.0
+freight car:1.0
+potter's wheel:1.0
+flute:1.0
+umbrella:1.0
+totem pole:1.0
+Dutch oven:1.0
+pug:1.0
+vestment:1.0
+binder:1.0
+academic gown:2.0
+trailer truck:14.0
+convertible:5.0
+stage:3.0
+wire-haired fox terrier:2.0
+dishwasher:1.0
+restaurant:2.0
+jeep:3.0
+hair spray:4.0
+miniature poodle:1.0
+swing:1.0
+castle:2.0
+jersey:2.0
+wig:1.0
+stretcher:1.0
+seat belt:6.0
+maillot:7.0
+caldron:1.0
+pole:2.0
+seashore:3.0
+clumber:2.0
+radio telescope:1.0
+tub:1.0
+basketball:2.0
+lab coat:5.0
+Loafer:2.0
+recreational vehicle:2.0
+suit:3.0
+maze:1.0
+valley:7.0
+limousine:3.0
+golfcart:3.0
+bookshop:2.0
+oboe:2.0
+soft-coated wheaten terrier:2.0
+school bus:1.0
+grille:1.0
+bottlecap:1.0
+racer:10.0
+trench coat:1.0
+television:3.0
+comic book:2
+crutch:1.0
+bikini:1.0
+barbershop:3.0
+cello:1.0
+bobsled:3.0
+cab:4.0
+plunger:2.0
+bathtub:1.0
+notebook:1.0
+tractor:1.0
+rugby ball:1.0
+police van:1.0
+car mirror:3.0
+bubble:1.0
+lakeside:4.0
+guinea pig:1.0
+neck brace:1.0
+sunscreen:1.0
+planetarium:1.0
+paper towel:1.0
+stole:2.0
+microphone:1.0
+washbasin:1.0
+speedboat:1.0
+Blenheim spaniel:1.0
+fire screen:1.0
+miniskirt:4.0
+banjo:1.0
+wombat:1.0
+plate:1.0
+minivan:7.0
+photocopier:1.0
+desktop computer:1.0
+milk can:1.0
+cliff:1.0
+Model T:1.0
+groom:6.0
+bicycle-built-for-two:2.0
+volleyball:1.0
+breastplate:2.0
+amphibian:2.0
+pajama:8.0
+ambulance:1.0
+jean:3.0
+wing:1.0

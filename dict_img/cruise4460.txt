@@ -1,0 +1,194 @@
+coffee mug:3.0
+theater curtain:9.0
+fur coat:1.0
+ice lolly:2.0
+megalith:1.0
+greenhouse:1.0
+spindle:1.0
+sliding door:7.0
+slot:1.0
+goblet:2.0
+grand piano:2.0
+container ship:3.0
+rocking chair:3.0
+seat belt:1.0
+prison:3.0
+crossword puzzle:1.0
+carton:1.0
+laptop:1.0
+grocery store:1.0
+plate:3.0
+radiator:1.0
+ladle:1.0
+dam:4.0
+bib:1.0
+steel drum:1.0
+whistle:1.0
+chain saw:1.0
+knot:2.0
+desk:1.0
+window shade:3.0
+pier:17.0
+barrow:2.0
+hook:1.0
+nipple:2.0
+steel arch bridge:1.0
+four-poster:2.0
+tray:1.0
+speedboat:2.0
+bow tie:2.0
+nematode:1.0
+quilt:1.0
+bookshop:1.0
+library:1.0
+promontory:8.0
+nail:1.0
+bannister:4.0
+jigsaw puzzle:1.0
+moving van:1.0
+Dungeness crab:1.0
+drilling platform:5.0
+sweatshirt:3.0
+poncho:3.0
+military uniform:1.0
+ice cream:2.0
+harp:2.0
+book jacket:1.0
+toyshop:1.0
+sarong:2.0
+wreck:1.0
+sombrero:1.0
+lampshade:1.0
+cradle:3.0
+fountain:6.0
+water jug:2.0
+rock crab:1.0
+monastery:2.0
+barbershop:1.0
+breastplate:1.0
+starfish:1.0
+electric fan:1.0
+dome:1.0
+scoreboard:2.0
+beacon:3.0
+volcano:2.0
+park bench:3.0
+hand blower:1.0
+stage:6.0
+throne:1.0
+folding chair:1.0
+bathtub:1.0
+restaurant:9.0
+lifeboat:1.0
+sleeping bag:1.0
+submarine:1.0
+toilet tissue:1.0
+wall clock:1.0
+fireboat:10.0
+swing:1.0
+cowboy hat:1.0
+vault:6.0
+home theater:2.0
+Band Aid:1.0
+pajama:4.0
+wig:3.0
+electric guitar:1.0
+shovel:1.0
+suspension bridge:2.0
+crib:7.0
+breakwater:23.0
+wooden spoon:1.0
+bassinet:1.0
+seashore:17.0
+stupa:4.0
+church:2.0
+chime:1.0
+radio telescope:1.0
+football helmet:1.0
+confectionery:1.0
+teddy:1.0
+gondola:1.0
+airliner:3.0
+lab coat:2.0
+Loafer:1.0
+suit:2.0
+flagpole:2.0
+passenger car:1.0
+overskirt:1.0
+obelisk:2.0
+altar:1.0
+Windsor tie:4.0
+diaper:1.0
+wardrobe:6.0
+sunscreen:2.0
+reel:1.0
+aircraft carrier:4.0
+water tower:3.0
+television:2.0
+wool:1.0
+dining table:2.0
+bucket:1.0
+crutch:1.0
+freight car:1.0
+paper towel:1.0
+plunger:1.0
+schooner:5.0
+spotlight:1.0
+shower curtain:4.0
+table lamp:1.0
+rugby ball:1.0
+rotisserie:2.0
+barber chair:1.0
+palace:8.0
+cinema:2.0
+lakeside:21.0
+medicine chest:2.0
+neck brace:3.0
+liner:24.0
+chocolate sauce:2.0
+planetarium:2.0
+sax:1.0
+studio couch:2.0
+pedestal:7.0
+stole:8.0
+screw:1.0
+cardigan:6.0
+marimba:1.0
+washbasin:1.0
+balloon:1.0
+toaster:1.0
+switch:1.0
+hamper:1.0
+bagel:1.0
+kimono:2.0
+quill:1.0
+miniskirt:1.0
+horizontal bar:1.0
+fire screen:1.0
+paintbrush:2.0
+solar dish:1.0
+water bottle:2.0
+parallel bars:1.0
+projectile:1.0
+warplane:1.0
+mosquito net:1.0
+sunglass:1.0
+coil:1.0
+airship:8.0
+refrigerator:1.0
+cliff:5.0
+bearskin:1.0
+dock:13.0
+castle:1.0
+groom:2.0
+window screen:2.0
+bell cote:4.0
+bakery:1.0
+paddlewheel:6.0
+ambulance:1.0
+turnstile:2.0
+jean:2.0
+crayfish:1.0
+bath towel:1.0
+wing:5.0
+patio:2.0

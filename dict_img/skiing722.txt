@@ -1,0 +1,12 @@
+oxygen mask:1.0
+shovel:1.0
+stretcher:1.0
+pole:1.0
+snorkel:1.0
+dogsled:2.0
+snowmobile:9.0
+bobsled:2.0
+ski mask:2.0
+ski:10.0
+alp:2.0
+chain saw:1.0

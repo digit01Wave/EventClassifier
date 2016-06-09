@@ -1,0 +1,11 @@
+microphone:5.0
+oboe:1.0
+bassoon:1.0
+harmonica:3.0
+electric guitar:12.0
+flute:1.0
+seat belt:1.0
+guillotine:1.0
+drumstick:1.0
+banjo:1.0
+stage:6.0

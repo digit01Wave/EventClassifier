@@ -1,0 +1,6 @@
+sea lion:1.0
+lakeside:1.0
+liner:23.0
+dock:1.0
+fountain:1.0
+stupa:1.0

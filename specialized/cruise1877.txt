@@ -1,0 +1,83 @@
+pelican:1.0
+macaque:2.0
+beer bottle:1.0
+kite:2.0
+palace:3.0
+coffee mug:2.0
+barracouta:1.0
+packet:2.0
+promontory:1.0
+breakwater:1.0
+park bench:1.0
+web site:1.0
+seashore:2.0
+greenhouse:1.0
+hummingbird:1.0
+sundial:1.0
+barbershop:1.0
+pedestal:2.0
+stole:1.0
+hamper:1.0
+book jacket:1.0
+plow:1.0
+confectionery:1.0
+streetcar:1.0
+chain:1.0
+analog clock:1.0
+cup:1.0
+sombrero:1.0
+speedboat:2.0
+brass:1.0
+mosque:1.0
+panpipe:1.0
+picket fence:1.0
+submarine:1.0
+fountain:2.0
+night snake:1.0
+prison:3.0
+amphibian:1.0
+pinwheel:1.0
+king snake:1.0
+comic book:1.0
+pot:1.0
+fig:1.0
+apron:1.0
+sunglasses:1.0
+cellular telephone:1.0
+beer glass:1.0
+monastery:2.0
+restaurant:1.0
+goose:1.0
+street sign:1.0
+Christmas stocking:2.0
+dock:1.0
+boa constrictor:1.0
+sunglass:1.0
+monarch:1.0
+upright:1.0
+crane:2.0
+pier:5.0
+custard apple:1.0
+triumphal arch:2.0
+albatross:3.0
+wool:1.0
+acoustic guitar:1.0
+dam:2.0
+bottlecap:1.0
+lifeboat:3.0
+tray:1.0
+tennis ball:1.0
+Dungeness crab:1.0
+liner:2.0
+bell cote:1.0
+bakery:1.0
+wall clock:1.0
+cannon:2.0
+gondola:1.0
+cowboy hat:1.0
+vault:1.0
+grocery store:2.0
+apiary:1.0
+electric guitar:1.0
+christmas tree:1.0
+cake:1.0

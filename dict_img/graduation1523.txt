@@ -1,0 +1,14 @@
+gown:4.0
+academic gown:8.0
+sarong:1.0
+groom:1.0
+pinwheel:1.0
+crutch:1.0
+cowboy boot:2.0
+whistle:1.0
+fountain:3.0
+miniskirt:3.0
+suit:1.0
+mortarboard:28.0
+bell cote:1.0
+jean:1.0

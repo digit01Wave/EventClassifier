@@ -1,0 +1,31 @@
+Crock Pot:4.0
+bookshop:1.0
+packet:1.0
+prayer rug:1.0
+pole:1.0
+paper towel:1.0
+poncho:1.0
+gasmask:1.0
+birdhouse:1.0
+scale:1.0
+book jacket:1.0
+toilet tissue:1.0
+toyshop:1.0
+velvet:1.0
+stole:1.0
+microwave:1.0
+plastic bag:1.0
+kimono:1.0
+wool:1.0
+comic book:3.0
+sarong:3.0
+pay-phone:1.0
+parallel bars:1.0
+vestment:1.0
+Christmas stocking:3.0
+confectionery:1.0
+library:1.0
+rifle:1.0
+spatula:1.0
+jigsaw puzzle:1.0
+pajama:4.0

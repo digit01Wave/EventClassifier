@@ -1,0 +1,50 @@
+gown:21.0
+bow tie:3.0
+theater curtain:2.0
+torch:1.0
+nail:1.0
+spatula:1.0
+dining table:1.0
+radio:1.0
+candle:3.0
+violin:1.0
+hammer:1.0
+wine bottle:1.0
+trifle:1.0
+confectionery:1.0
+hoopskirt:9.0
+slot:1.0
+bassoon:1.0
+oboe:1.0
+lab coat:2.0
+Petri dish:1.0
+suit:1.0
+limousine:1.0
+ping-pong ball:1.0
+plate:2.0
+cash machine:1.0
+umbrella:1.0
+overskirt:1.0
+ladle:2.0
+altar:2.0
+screen:1.0
+flute:1.0
+bottlecap:2.0
+power drill:1.0
+toyshop:1.0
+red wine:1.0
+sunglass:1.0
+sunglasses:1.0
+home theater:1.0
+stage:6.0
+restaurant:10.0
+hatchet:1.0
+groom:34.0
+pool table:1.0
+bakery:2.0
+barbershop:1.0
+apron:1.0
+vault:1.0
+jean:2.0
+modem:1.0
+spotlight:2.0

@@ -1,0 +1,32 @@
+medicine chest:1.0
+laptop:1.0
+packet:1.0
+jigsaw puzzle:1.0
+web site:2.0
+punching bag:1.0
+chime:1.0
+sliding door:5.0
+pencil sharpener:1.0
+book jacket:1.0
+projector:3.0
+menu:1.0
+monitor:1.0
+prison:2.0
+horizontal bar:1.0
+bubble:1.0
+radiator:1.0
+electric fan:1.0
+binder:1.0
+bookcase:2.0
+library:3.0
+rifle:1.0
+cleaver:1.0
+brass:1.0
+stage:1.0
+restaurant:1.0
+volleyball:1.0
+patio:1.0
+cello:1.0
+home theater:2.0
+spotlight:3.0
+shower curtain:1.0

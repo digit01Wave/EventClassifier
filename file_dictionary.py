@@ -8,26 +8,7 @@ from os import listdir
 from os.path import isfile, join
 from collections import defaultdict, Counter
 
-def _get_image_links(filename, delimiter=";;;", index=1):
-    """
-    pulls imagelinks from given filename that is in some delimited format
-    
-    Parameters
-    ------------
-    filename:str: path to txt file
-    delimeter:str: separating character string used to separate pieces of info in same entry
-    index: index of delimited strings where link is
-    
-    Returns
-    ----------
-    list[str]: list of pulled links
-    """
-    ans = []
-    with open(filename, 'r') as myFile:
-        for line in myFile:
-            temp = line.split(delimiter)
-            ans.append(temp[index])
-    return ans
+
 
 
 def dict_to_file(d, filename, append=False):

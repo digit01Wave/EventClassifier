@@ -1,0 +1,132 @@
+shield:1.0
+theater curtain:4.0
+triumphal arch:2.0
+greenhouse:1.0
+studio couch:1.0
+dumbbell:1.0
+sliding door:2.0
+harmonica:1.0
+grand piano:1.0
+container ship:5.0
+cloak:1.0
+stone wall:2.0
+cassette:1.0
+prison:2.0
+carton:1.0
+maypole:1.0
+schooner:1.0
+cash machine:1.0
+dam:1.0
+tobacco shop:2.0
+street sign:3.0
+dock:9.0
+boathouse:2.0
+desk:3.0
+pier:2.0
+organ:1.0
+punching bag:1.0
+lumbermill:1.0
+quilt:1.0
+Samoyed:1.0
+bookshop:1.0
+packet:1.0
+promontory:3.0
+moving van:1.0
+drilling platform:1.0
+guillotine:1.0
+military uniform:1.0
+book jacket:1.0
+fountain pen:1.0
+toyshop:1.0
+butcher shop:1.0
+fountain:1.0
+barbershop:4.0
+cocktail shaker:1.0
+binder:1.0
+park bench:1.0
+stage:1.0
+throne:1.0
+folding chair:1.0
+restaurant:26.0
+lifeboat:1.0
+accordion:1.0
+hair spray:1.0
+shower curtain:1.0
+swing:1.0
+vault:2.0
+home theater:3.0
+shopping cart:1.0
+suspension bridge:2.0
+breakwater:9.0
+hook:1.0
+seashore:4.0
+stupa:1.0
+church:4.0
+radio telescope:2.0
+streetcar:1.0
+projector:1.0
+submarine:5.0
+gondola:1.0
+lab coat:2.0
+plastic bag:2.0
+refrigerator:1.0
+carousel:3.0
+fire engine:1.0
+flagpole:3.0
+horse cart:2.0
+catamaran:1.0
+passenger car:2.0
+obelisk:1.0
+altar:6.0
+envelope:1.0
+stethoscope:1.0
+library:1.0
+rifle:1.0
+wardrobe:3.0
+trench coat:1.0
+aircraft carrier:5.0
+television:2.0
+crutch:1.0
+freight car:1.0
+cello:2.0
+cab:1.0
+bathtub:1.0
+fireboat:1.0
+rotisserie:1.0
+barber chair:1.0
+palace:13.0
+cinema:7.0
+lakeside:6.0
+medicine chest:2.0
+china cabinet:1.0
+planetarium:1.0
+sax:1.0
+paper towel:2.0
+pedestal:4.0
+loudspeaker:1.0
+vending machine:1.0
+washbasin:1.0
+switch:1.0
+panpipe:1.0
+kimono:2.0
+cannon:1.0
+jinrikisha:1.0
+motor scooter:1.0
+monastery:5.0
+soap dispenser:1.0
+binoculars:1.0
+desktop computer:1.0
+worm fence:1.0
+brass:3.0
+castle:5.0
+shoe shop:1.0
+cliff:1.0
+bearskin:1.0
+liner:17.0
+volleyball:1.0
+bell cote:8.0
+bakery:2.0
+turnstile:4.0
+joystick:1.0
+bath towel:1.0
+patio:1.0

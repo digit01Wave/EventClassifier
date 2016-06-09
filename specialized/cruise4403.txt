@@ -1,0 +1,272 @@
+gown:1.0
+macaque:2.0
+indri:1.0
+manhole cover:1.0
+entertainment center:1.0
+maypole:2.0
+viaduct:5.0
+scoreboard:3.0
+tile roof:5.0
+triumphal arch:10.0
+spatula:1.0
+mud turtle:3.0
+megalith:2.0
+lumbermill:3.0
+sundial:4.0
+ocarina:1.0
+alp:2.0
+kite:1.0
+garbage truck:5.0
+geyser:1.0
+accordion:1.0
+basketball:1.0
+container ship:7.0
+mosque:18.0
+gas pump:1.0
+cougar:1.0
+fire screen:2.0
+balance beam:3.0
+prison:2.0
+toilet seat:1.0
+Angora:1.0
+Egyptian cat:1.0
+caldron:1.0
+schooner:6.0
+hip:2.0
+cash machine:1.0
+sunglasses:2.0
+radiator:1.0
+oscilloscope:1.0
+pay-phone:1.0
+cannon:3.0
+tobacco shop:2.0
+parallel bars:2.0
+street sign:2.0
+dock:17.0
+boathouse:11.0
+llama:1.0
+horizontal bar:1.0
+terrapin:3.0
+pier:44.0
+barrow:3.0
+toy terrier:1.0
+jaguar:3.0
+window shade:4.0
+tricycle:2.0
+trolleybus:1.0
+harvester:1.0
+oxcart:1.0
+cabbage butterfly:1.0
+snow leopard:1.0
+ox:1.0
+squirrel monkey:3.0
+volcano:2.0
+honeycomb:1.0
+tray:3.0
+greenhouse:6.0
+jean:1.0
+moped:1.0
+quilt:1.0
+fire engine:2.0
+hare:1.0
+bookshop:1.0
+library:5.0
+promontory:9.0
+bannister:6.0
+jigsaw puzzle:3.0
+ping-pong ball:1.0
+zebra:1.0
+hummingbird:1.0
+drilling platform:11.0
+crutch:1.0
+hamper:1.0
+book jacket:1.0
+toyshop:2.0
+sarong:2.0
+wreck:13.0
+sombrero:2.0
+jeep:1.0
+whippet:1.0
+china cabinet:1.0
+fountain:21.0
+sliding door:2.0
+French bulldog:2.0
+barbershop:1.0
+pirate:8.0
+Boston bull:1.0
+umbrella:7.0
+totem pole:1.0
+breastplate:1.0
+trilobite:1.0
+yurt:2.0
+electric fan:1.0
+dome:9.0
+vestment:3.0
+mailbox:1.0
+beacon:6.0
+spider monkey:2.0
+catamaran:1.0
+common iguana:2.0
+park bench:1.0
+American egret:1.0
+guenon:1.0
+stage:1.0
+throne:7.0
+Indian elephant:1.0
+restaurant:8.0
+lifeboat:5.0
+mortar:1.0
+shield:1.0
+bow:1.0
+wall clock:1.0
+white stork:1.0
+orangutan:7.0
+swing:2.0
+vault:7.0
+castle:3.0
+lacewing:1.0
+plate rack:1.0
+pajama:3.0
+pelican:2.0
+stretcher:1.0
+triceratops:4.0
+suspension bridge:8.0
+pot:8.0
+forklift:3.0
+Saluki:1.0
+breakwater:18.0
+hook:2.0
+pole:7.0
+seashore:52.0
+stupa:13.0
+church:13.0
+chime:3.0
+radio telescope:3.0
+sulphur butterfly:1.0
+trimaran:1.0
+birdhouse:1.0
+electric locomotive:1.0
+plow:1.0
+confectionery:2.0
+streetcar:5.0
+snowplow:1.0
+gondola:7.0
+traffic light:3.0
+canoe:2.0
+airliner:2.0
+three-toed sloth:1.0
+lab coat:2.0
+steam locomotive:1.0
+submarine:4.0
+rocking chair:1.0
+carousel:3.0
+medicine chest:1.0
+flagpole:18.0
+maze:1.0
+Madagascar cat:1.0
+valley:4.0
+limousine:1.0
+banana:2.0
+lawn mower:1.0
+steel arch bridge:7.0
+cliff dwelling:1.0
+corn:2.0
+torch:1.0
+obelisk:7.0
+altar:12.0
+grey whale:1.0
+gar:1.0
+crate:1.0
+missile:2.0
+tiger:5.0
+bicycle-built-for-two:1.0
+proboscis monkey:1.0
+limpkin:2.0
+shower curtain:2.0
+crane:29.0
+pinwheel:1.0
+aircraft carrier:3.0
+otter:1.0
+water tower:2.0
+minibus:3.0
+carton:1.0
+dining table:3.0
+tench:1.0
+trailer truck:1.0
+bee:2.0
+wallet:1.0
+freight car:2.0
+cab:5.0
+digital clock:1.0
+apiary:1.0
+spotlight:1.0
+fireboat:6.0
+doormat:1.0
+police van:1.0
+palace:45.0
+cinema:3.0
+lakeside:64.0
+tiger cat:4.0
+liner:10.0
+parachute:3.0
+planetarium:5.0
+sandbar:3.0
+quail:1.0
+home theater:1.0
+pedestal:16.0
+Komodo dragon:2.0
+bubble:2.0
+siamang:1.0
+vizsla:1.0
+koala:1.0
+leatherback turtle:1.0
+vending machine:1.0
+stole:1.0
+speedboat:2.0
+titi:2.0
+bakery:1.0
+picket fence:3.0
+chest:3.0
+kimono:4.0
+thatch:2.0
+shoji:1.0
+miniskirt:1.0
+monarch:3.0
+wing:2.0
+bonnet:1.0
+solar dish:6.0
+racer:1.0
+motor scooter:1.0
+abacus:2.0
+ashcan:2.0
+monastery:11.0
+pineapple:1.0
+warplane:1.0
+shopping basket:1.0
+binoculars:1.0
+yawl:1.0
+rapeseed:2.0
+sunglass:1.0
+safety pin:1.0
+coil:2.0
+brass:4.0
+vase:2.0
+airship:14.0
+cliff:3.0
+mobile home:1.0
+stingray:1.0
+groom:1.0
+mask:2.0
+window screen:2.0
+volleyball:1.0
+bell cote:25.0
+switch:1.0
+Arabian camel:1.0
+amphibian:4.0
+paddlewheel:4.0
+minivan:1.0
+turnstile:3.0
+barrel:1.0
+balloon:2.0
+patio:10.0
+christmas tree:8.0

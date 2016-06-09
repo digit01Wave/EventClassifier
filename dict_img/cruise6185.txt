@@ -1,0 +1,127 @@
+ballplayer:1.0
+scoreboard:1.0
+shower cap:2.0
+swimming trunks:3.0
+mountain bike:1.0
+ocarina:1.0
+banded gecko:1.0
+garbage truck:1.0
+swab:1.0
+whiptail:1.0
+container ship:1.0
+mosque:2.0
+potter's wheel:1.0
+Windsor tie:1.0
+wool:1.0
+grocery store:1.0
+sunglasses:4.0
+pay-phone:1.0
+dam:1.0
+tobacco shop:2.0
+parallel bars:3.0
+vase:4.0
+dock:1.0
+snorkel:1.0
+chain saw:1.0
+vacuum:1.0
+pier:2.0
+croquet ball:1.0
+organ:1.0
+punching bag:1.0
+ice lolly:1.0
+electric ray:1.0
+torch:1.0
+promontory:4.0
+moving van:1.0
+drilling platform:1.0
+trombone:1.0
+candle:1.0
+sweatshirt:1.0
+toyshop:1.0
+wreck:1.0
+sombrero:2.0
+paddle:1.0
+loggerhead:4.0
+cornet:1.0
+pirate:1.0
+umbrella:1.0
+sarong:2.0
+yurt:1.0
+vestment:1.0
+tub:1.0
+throne:1.0
+sea lion:1.0
+restaurant:24.0
+conch:1.0
+accordion:1.0
+wall clock:1.0
+swing:1.0
+cowboy hat:1.0
+pajama:2.0
+wig:4.0
+coho:1.0
+suspension bridge:1.0
+maillot:1.0
+pot:1.0
+terrapin:1.0
+breakwater:1.0
+pole:1.0
+seashore:12.0
+confectionery:2.0
+handkerchief:1.0
+maraca:1.0
+gondola:1.0
+canoe:1.0
+lab coat:4.0
+rocking chair:1.0
+carousel:2.0
+suit:2.0
+flagpole:1.0
+pop bottle:1.0
+cliff:2.0
+golfcart:1.0
+obelisk:1.0
+altar:1.0
+water snake:1.0
+gar:1.0
+killer whale:1.0
+mobile home:2.0
+armadillo:1.0
+sturgeon:1.0
+dining table:2.0
+stethoscope:1.0
+crutch:2.0
+barbershop:1.0
+bobsled:1.0
+plunger:1.0
+schooner:1.0
+fireboat:1.0
+palace:2.0
+cinema:2.0
+lakeside:8.0
+neck brace:2.0
+liner:8.0
+china cabinet:1.0
+sandbar:6.0
+leatherback turtle:1.0
+American alligator:2.0
+panpipe:1.0
+picket fence:1.0
+kimono:4.0
+miniskirt:1.0
+hammerhead:1.0
+water bottle:1.0
+ashcan:1.0
+monastery:1.0
+tiger shark:1.0
+sunglass:2.0
+street sign:2.0
+alligator lizard:1.0
+feather boa:1.0
+whistle:1.0
+groom:2.0
+window screen:1.0
+bell cote:2.0
+turnstile:1.0
+jean:1.0
+patio:3.0

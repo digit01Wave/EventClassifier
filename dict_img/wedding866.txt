@@ -1,0 +1,77 @@
+gown:5.0
+perfume:1.0
+palace:2.0
+plate:1.0
+Great Pyrenees:1.0
+Samoyed:1.0
+theater curtain:5.0
+bookshop:1.0
+library:1.0
+window screen:1.0
+bonnet:1.0
+planetarium:1.0
+pole:1.0
+Brittany spaniel:1.0
+sundial:1.0
+screen:1.0
+mortarboard:1.0
+rubber eraser:1.0
+quill:1.0
+loudspeaker:1.0
+toilet tissue:1.0
+dumbbell:1.0
+projector:1.0
+swab:1.0
+beacon:2.0
+menu:1.0
+English springer:1.0
+book jacket:1.0
+mosque:5.0
+picket fence:1.0
+plastic bag:2.0
+fountain:2.0
+water tower:7.0
+shoji:2.0
+maze:1.0
+pinwheel:1.0
+carton:1.0
+laptop:1.0
+paintbrush:1.0
+restaurant:1.0
+consomme:2.0
+golfcart:1.0
+printer:1.0
+umbrella:3.0
+kuvasz:1.0
+hoopskirt:1.0
+obelisk:1.0
+altar:3.0
+soap dispenser:1.0
+minivan:1.0
+envelope:2.0
+dishwasher:1.0
+vase:1.0
+binder:2.0
+plane:1.0
+scale:1.0
+horizontal bar:1.0
+wardrobe:1.0
+plunger:1.0
+monitor:2.0
+folding chair:1.0
+television:4.0
+dining table:3.0
+sleeping bag:1.0
+groom:20.0
+cabbage butterfly:1.0
+punching bag:1.0
+bell cote:1.0
+dome:3.0
+megalith:1.0
+swing:1.0
+washbasin:1.0
+home theater:1.0
+notebook:1.0
+bath towel:1.0
+spotlight:1.0
+patio:2.0

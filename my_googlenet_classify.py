@@ -63,6 +63,7 @@ from os.path import isfile, join
 """imagenet_2012_challenge_label_map_proto.pbtxt."""
 model_dir = '/tmp/imagenet'
 
+
 """Display this many predictions."""
 num_top_predictions = 5
 
@@ -136,11 +137,20 @@ class NodeLookup(object):
     return self.node_lookup[node_id]
 
 
+
 def create_graph():
   """Creates a graph from saved GraphDef file and returns a saver."""
   # Creates graph from saved graph_def.pb.
   with tf.gfile.FastGFile(os.path.join(
       model_dir, 'classify_image_graph_def.pb'), 'rb') as f:
+    graph_def = tf.GraphDef()
+    graph_def.ParseFromString(f.read())
+    _ = tf.import_graph_def(graph_def, name='')
+    
+def create_graph2(graph_path = '/home/jessica/Documents/classifier_files/retrained_graph.pb'):
+  """Creates a graph from saved GraphDef file and returns a saver."""
+  # Creates graph from saved graph_def.pb.
+  with tf.gfile.FastGFile(graph_path, 'rb') as f:
     graph_def = tf.GraphDef()
     graph_def.ParseFromString(f.read())
     _ = tf.import_graph_def(graph_def, name='')
@@ -208,7 +218,7 @@ def get_collection_tags(image_collection_links, rel_threshold=0.3, current_dict 
     """
     import urllib
     
-    filename ="temp.jpg"
+    filename ="/home/jessica/Documents/temp.jpg"
     if(current_dict == None):
         ans = defaultdict(float)
     else:
@@ -367,7 +377,183 @@ def get_folder_tags(folder_path, rel_threshold=0.3, current_dict = None):
     print("Final Error Count:", err_count)
     return ans
         
+###############################################################################
+        #NEW CLASSIFIER
+###############################################################################
 
+special_nodes = {0:'cake', 1:'christmas tree', 2:'null'}
+
+def get_folder_tags2(folder_path, threshold=0.8, graph_path='/home/jessica/Documents/classifier_files/retrained_graph.pb', current_dict = None):
+    """
+    Returns a counter dict representing the features for the given list of image urls. The features will be used to
+    classify the collection to an event. The dict includes the following fields (the order doesn't matter):
+
+    Parameters
+    ----------
+    image_collection : list[str]
+        List of image file paths (can be relative or absolute)
+    rel_threshold:float:
+        only take tags that have a probability of at least this fraction of the first result
+
+    Returns
+    -------
+    Dict[dict[str:count] or str:str]
+        3 features for each collection.
+
+    """
+    
+    if(current_dict == None):
+        ans = defaultdict(float)
+    else:
+        ans = current_dict
+    err_count = 0
+    
+    # Creates graph from saved GraphDef.
+    create_graph2(graph_path)
+    
+
+    im_names = [join(folder_path,f) for f in listdir(folder_path) if isfile(join(folder_path, f))]
+
+    for i, filename in enumerate(im_names):
+        print("{}: now processing ({})".format(i, filename))
+        if(not filename.endswith(".jpg")):
+            print("SKIPPING THIS ONE BECAUSE NOT A PHOTO~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+            continue
+        
+#        try:
+        image_data = tf.gfile.FastGFile(filename, 'rb').read()
+        
+        with tf.Session() as sess:
+            # Some useful tensors:
+            # 'softmax:0': A tensor containing the normalized prediction across
+            #   1000 labels.
+            # 'pool_3:0': A tensor containing the next-to-last layer containing 2048
+            #   float description of the image.
+            # 'DecodeJpeg/contents:0': A tensor containing a string providing JPEG
+            #   encoding of the image.
+            # Runs the softmax tensor by feeding the image_data as input to the graph.
+            softmax_tensor = sess.graph.get_tensor_by_name('final_result:0')
+            predictions = sess.run(softmax_tensor,
+                                   {'DecodeJpeg/contents:0': image_data})
+            predictions = np.squeeze(predictions)
+        
+            # Creates node ID --> English string lookup.
+            #node_lookup = NodeLookup()
+        
+            temp_tags = []
+            top_k = predictions.argsort()[-num_top_predictions:][::-1]
+            for node_id in top_k:
+                #human_string = node_lookup.id_to_string(node_id)
+                score = predictions[node_id]
+                temp_tags.append((node_id, score))
+                
+                
+#        except:
+#            print("ERROR ###################################")
+#            err_count +=1
+#            print("Could not give tags to image.")
+#            print("ERROR ###################################")
+#            continue
+        
+        #keep only the tags that overcome the certain threshold
+        print("tags = [{}]".format(temp_tags))
+                
+        for tag_score in temp_tags:
+            if(tag_score[0] != 2 and tag_score[1] > threshold):
+                ans[special_nodes[tag_score[0]]] += 1 
+                print("\tadded " + special_nodes[tag_score[0]])
+    print("Final Error Count:", err_count)
+    return ans
+    
+def get_collection_tags2(image_collection_links, threshold = 0.8, current_dict = None):
+    """
+    Returns a counter dict representing the features for the given list of image urls. The features will be used to
+    classify the collection to an event. The dict includes the following fields (the order doesn't matter):
+
+    Parameters
+    ----------
+    image_collection : list[str]
+        List of image file paths (can be relative or absolute)
+    rel_threshold:float:
+        only take tags that have a probability of at least this fraction of the first result
+
+    Returns
+    -------
+    Dict[dict[str:count] or str:str]
+        3 features for each collection.
+
+    """
+    import urllib
+    
+    filename ="temp.jpg"
+    if(current_dict == None):
+        ans = defaultdict(float)
+    else:
+        ans = current_dict
+    err_count = 0
+    
+    # Creates graph from saved GraphDef.
+    create_graph2()
+            
+    for i, img_link in enumerate(image_collection_links):
+        if(img_link.endswith("png")): #skip items that are png images
+            print("###########################################################")
+            print("Error: picture is a png (need jpg)")
+            print("###########################################################")  
+            continue
+        #get url
+        try:
+            print("{}: retreiving url({})".format(i, img_link))
+            urllib.urlretrieve(img_link, filename)
+            print("retrieval complete!")
+        except:
+            print("###########################################################")
+            print("Error: URL is not retreivalbe")
+            print("###########################################################")            
+            continue
+        
+        print("now processing...")
+        
+        
+        try:
+            image_data = tf.gfile.FastGFile(filename, 'rb').read()
+            
+            with tf.Session() as sess:
+                # Some useful tensors:
+                # 'softmax:0': A tensor containing the normalized prediction across
+                #   1000 labels.
+                # 'pool_3:0': A tensor containing the next-to-last layer containing 2048
+                #   float description of the image.
+                # 'DecodeJpeg/contents:0': A tensor containing a string providing JPEG
+                #   encoding of the image.
+                # Runs the softmax tensor by feeding the image_data as input to the graph.
+                softmax_tensor = sess.graph.get_tensor_by_name('final_result:0')
+                predictions = sess.run(softmax_tensor,
+                                       {'DecodeJpeg/contents:0': image_data})
+                predictions = np.squeeze(predictions)
+            
+                temp_tags = []
+                top_k = predictions.argsort()[-num_top_predictions:][::-1]
+                for node_id in top_k:
+                    score = predictions[node_id]
+                    temp_tags.append((node_id, score))
+            
+        except:
+            print("ERROR ###################################")
+            err_count +=1
+            print("Could not give tags to image.")
+            print("ERROR ###################################")
+            continue
+        
+        #keep only the tags that overcome the certain threshold
+        print("tags = [{}]".format(temp_tags))
+                
+        for tag_score in temp_tags:
+            if(tag_score[0] != 2 and tag_score[1] > threshold):
+                ans[special_nodes[tag_score[0]]] += 1 
+                print("\tadded " + special_nodes[tag_score[0]])
+    print("Final Error Count:", err_count)
+    return ans
 
 def maybe_download_and_extract():
   """Download and extract model tar file."""

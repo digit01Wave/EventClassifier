@@ -1,0 +1,26 @@
+bow tie:1.0
+lab coat:5.0
+candle:1.0
+ocarina:1.0
+water jug:1.0
+cellular telephone:1.0
+book jacket:1.0
+panpipe:1.0
+miniskirt:1.0
+toilet seat:2.0
+comic book:1.0
+apron:3.0
+sarong:1.0
+parallel bars:1.0
+soap dispenser:2.0
+bib:1.0
+vestment:1.0
+diaper:1.0
+bullet train:3.0
+hand blower:1.0
+shoe shop:1.0
+bearskin:2.0
+drum:1.0
+restaurant:1.0
+groom:1.0
+pajama:1.0

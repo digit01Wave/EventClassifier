@@ -1,0 +1,62 @@
+wig:1.0
+gown:1.0
+curly-coated retriever:1.0
+canoe:5.0
+maillot:3.0
+maypole:1.0
+purse:1.0
+sunscreen:2.0
+swimming trunks:13.0
+lab coat:1.0
+guillotine:1.0
+candle:1.0
+Christmas stocking:3.0
+giant schnauzer:1.0
+toyshop:3.0
+mask:2.0
+harmonica:1.0
+gasmask:2.0
+flat-coated retriever:1.0
+bakery:1.0
+paddle:6.0
+rocking chair:2.0
+carousel:1.0
+crash helmet:1.0
+bathing cap:10.0
+rain barrel:1.0
+kimono:3.0
+golfcart:1.0
+sunglasses:3.0
+sarong:15.0
+Rottweiler:2.0
+Labrador retriever:1.0
+steel drum:2.0
+thatch:1.0
+snorkel:7.0
+sunglass:2.0
+ski mask:1.0
+park bench:2.0
+drum:1.0
+tub:4.0
+wallet:1.0
+Newfoundland:1.0
+barrel:1.0
+throne:1.0
+folding chair:2.0
+dishwasher:1.0
+feather boa:1.0
+restaurant:2.0
+groom:5.0
+bucket:2.0
+crutch:1.0
+hair spray:3.0
+bikini:8.0
+groenendael:1.0
+ice lolly:2.0
+pajama:2.0
+knee pad:1.0
+swing:1.0
+abaya:1.0
+plunger:8.0
+tray:1.0
+patio:3.0

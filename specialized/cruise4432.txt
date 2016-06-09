@@ -1,0 +1,211 @@
+gown:3.0
+clog:1.0
+theater curtain:2.0
+fur coat:2.0
+barbell:1.0
+triumphal arch:1.0
+swimming trunks:7.0
+greenhouse:3.0
+file:1.0
+mongoose:1.0
+dishrag:1.0
+sliding door:1.0
+slot:2.0
+sandal:2.0
+monitor:1.0
+grand piano:2.0
+container ship:2.0
+cougar:1.0
+potter's wheel:2.0
+balance beam:3.0
+horse cart:1.0
+toilet seat:2.0
+mailbag:1.0
+laptop:1.0
+schooner:1.0
+apron:3.0
+sunglasses:1.0
+marimba:1.0
+pay-phone:1.0
+scoreboard:1.0
+jacamar:1.0
+parallel bars:2.0
+vase:2.0
+cowboy boot:1.0
+dock:2.0
+boathouse:1.0
+vacuum:1.0
+pier:4.0
+barrow:2.0
+jackfruit:2.0
+flamingo:1.0
+jaguar:1.0
+punching bag:1.0
+ox:1.0
+marmoset:1.0
+megalith:6.0
+jellyfish:1.0
+abaya:1.0
+sea slug:1.0
+oxcart:2.0
+bow tie:2.0
+hare:1.0
+torch:2.0
+packet:1.0
+promontory:5.0
+bannister:8.0
+lion:1.0
+zebra:1.0
+trombone:1.0
+candle:1.0
+bee:1.0
+lesser panda:2.0
+totem pole:1.0
+jinrikisha:1.0
+toyshop:2.0
+wreck:3.0
+refrigerator:1.0
+sombrero:2.0
+car wheel:1.0
+lampshade:1.0
+butcher shop:2.0
+fountain:3.0
+hoopskirt:1.0
+cocktail shaker:1.0
+sarong:11.0
+American Staffordshire terrier:1.0
+dome:1.0
+vestment:1.0
+mailbox:1.0
+beacon:1.0
+spider monkey:1.0
+common iguana:1.0
+park bench:3.0
+strainer:1.0
+dalmatian:1.0
+stage:2.0
+cliff dwelling:4.0
+drum:1.0
+sea lion:1.0
+restaurant:2.0
+lifeboat:3.0
+mortar:1.0
+golf ball:1.0
+spotlight:4.0
+notebook:1.0
+white stork:1.0
+orangutan:1.0
+swing:3.0
+cowboy hat:3.0
+wallaby:1.0
+pajama:2.0
+wig:1.0
+pelican:1.0
+African crocodile:2.0
+confectionery:1.0
+seat belt:1.0
+maillot:23.0
+pot:2.0
+breakwater:5.0
+goldfish:1.0
+pole:2.0
+rotisserie:2.0
+seashore:8.0
+trimaran:1.0
+tub:2.0
+basketball:1.0
+whistle:1.0
+teddy:1.0
+American alligator:2.0
+sock:1.0
+police van:1.0
+lab coat:1.0
+hen-of-the-woods:1.0
+African grey:1.0
+carousel:1.0
+suit:1.0
+daisy:1.0
+drumstick:1.0
+hen:1.0
+valley:4.0
+limousine:6.0
+steel arch bridge:1.0
+throne:1.0
+sorrel:1.0
+overskirt:2.0
+pitcher:1.0
+gar:1.0
+thatch:2.0
+racer:1.0
+toucan:3.0
+proboscis monkey:1.0
+little blue heron:2.0
+crane:1.0
+sturgeon:1.0
+reel:1.0
+teapot:1.0
+aircraft carrier:2.0
+china cabinet:1.0
+minibus:1.0
+dam:1.0
+crutch:1.0
+pool table:3.0
+bikini:3.0
+cello:1.0
+studio couch:1.0
+plunger:1.0
+bathtub:1.0
+robin:1.0
+tractor:1.0
+Crock Pot:1.0
+doormat:1.0
+gong:3.0
+macaw:12.0
+football helmet:2.0
+cinema:2.0
+lakeside:5.0
+suspension bridge:3.0
+paper towel:1.0
+sandbar:8.0
+vulture:1.0
+bow:1.0
+barracouta:1.0
+pedestal:1.0
+koala:2.0
+starfish:1.0
+vending machine:1.0
+stole:1.0
+balloon:1.0
+maze:2.0
+chest:1.0
+stone wall:7.0
+miniskirt:9.0
+hornbill:1.0
+book jacket:1.0
+coucal:1.0
+minivan:1.0
+monastery:1.0
+lorikeet:2.0
+iron:1.0
+binoculars:1.0
+yawl:1.0
+Great Dane:1.0
+sunglass:2.0
+vault:4.0
+coil:2.0
+howler monkey:1.0
+airship:1.0
+shoe shop:3.0
+cliff:7.0
+tiger:1.0
+sea cucumber:1.0
+groom:3.0
+mask:3.0
+liner:3.0
+bakery:1.0
+snorkel:1.0
+paddlewheel:1.0
+ambulance:1.0
+turnstile:4.0
+patio:4.0
+cake:2.0

@@ -1,0 +1,8 @@
+wig:1.0
+microphone:4.0
+electric guitar:2.0
+torch:3.0
+suit:1.0
+violin:1.0
+spotlight:6.0
+stage:14.0

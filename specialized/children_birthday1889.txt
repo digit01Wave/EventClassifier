@@ -1,0 +1,89 @@
+gown:3.0
+coffee mug:1.0
+theater curtain:1.0
+barbell:3.0
+spatula:2.0
+Cardigan:1.0
+dumbbell:11.0
+trifle:1.0
+cup:1.0
+balance beam:25.0
+carton:1.0
+ski:1.0
+ping-pong ball:13.0
+plate:1.0
+cash machine:1.0
+hoopskirt:5.0
+parallel bars:6.0
+lighter:1.0
+chainlink fence:3.0
+toy poodle:1.0
+punching bag:6.0
+abaya:1.0
+quilt:1.0
+packet:1.0
+racket:3.0
+candle:8.0
+sweatshirt:1.0
+ice cream:1.0
+toyshop:2.0
+lipstick:2.0
+go-kart:1.0
+tennis ball:1.0
+mountain tent:1.0
+cellular telephone:1.0
+umbrella:2.0
+remote control:1.0
+rubber eraser:1.0
+stage:3.0
+drum:1.0
+restaurant:2.0
+sleeping bag:7.0
+hair spray:4.0
+swing:1.0
+Band Aid:2.0
+pillow:1.0
+jersey:1.0
+wig:1.0
+stretcher:3.0
+bonnet:1.0
+wooden spoon:1.0
+syringe:1.0
+mortarboard:3.0
+basketball:1.0
+maraca:5.0
+lab coat:2.0
+Loafer:1.0
+pinwheel:1.0
+bubble:1.0
+overskirt:1.0
+envelope:1.0
+diaper:1.0
+trench coat:1.0
+television:1.0
+dining table:1.0
+pool table:7.0
+bikini:1.0
+bobsled:1.0
+paper towel:1.0
+parachute:11.0
+sax:1.0
+studio couch:4.0
+balloon:10.0
+bagel:3.0
+kimono:2.0
+miniskirt:1.0
+horizontal bar:15.0
+matchstick:1.0
+pizza:2.0
+flute:1.0
+binoculars:1.0
+soccer ball:2.0
+burrito:2.0
+hair slide:2.0
+groom:4.0
+volleyball:1.0
+bakery:2.0
+jean:2.0
+hotdog:3.0
+cake:8.0

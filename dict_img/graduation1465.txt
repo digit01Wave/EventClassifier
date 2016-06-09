@@ -1,0 +1,39 @@
+wig:3.0
+gown:1.0
+cinema:1.0
+maillot:2.0
+theater curtain:1.0
+guillotine:1.0
+candle:1.0
+mortarboard:15.0
+poncho:2.0
+ice cream:1.0
+rubber eraser:1.0
+academic gown:7.0
+lipstick:2.0
+waffle iron:1.0
+picket fence:1.0
+kimono:1.0
+miniskirt:2.0
+maypole:1.0
+paintbrush:1.0
+plate:3.0
+sunglasses:2.0
+soup bowl:2.0
+ladle:2.0
+vestment:1.0
+hot pot:2.0
+sarong:2.0
+overskirt:2.0
+ear:1.0
+stage:3.0
+bathtub:1.0
+feather boa:1.0
+power drill:1.0
+groom:2.0
+hair spray:1.0
+bobsled:1.0
+plunger:1.0
+Band Aid:3.0
+bath towel:1.0
+pajama:4.0

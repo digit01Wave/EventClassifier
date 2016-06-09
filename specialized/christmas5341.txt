@@ -1,0 +1,73 @@
+wig:9.0
+bow tie:3.0
+tabby:4.0
+barber chair:1.0
+quilt:4.0
+seat belt:6.0
+tape player:1.0
+stove:2.0
+Italian greyhound:1.0
+three-toed sloth:1.0
+shower cap:4.0
+spatula:1.0
+studio couch:3.0
+lab coat:1.0
+limousine:3.0
+syringe:3.0
+poncho:2.0
+stole:4.0
+strainer:1.0
+jinrikisha:1.0
+rocking chair:1.0
+velvet:1.0
+chain mail:1.0
+Loafer:1.0
+sombrero:1.0
+Persian cat:3.0
+cloak:2.0
+microwave:2.0
+plastic bag:3.0
+china cabinet:1.0
+potter's wheel:1.0
+cassette:1.0
+miniskirt:9.0
+drumstick:3.0
+washer:2.0
+beer glass:1.0
+American lobster:3.0
+plate:2.0
+tobacco shop:1.0
+Windsor tie:1.0
+ashcan:2.0
+suit:1.0
+maillot:1.0
+screwdriver:2.0
+vestment:1.0
+Christmas stocking:5.0
+remote control:3.0
+dial telephone:1.0
+space heater:1.0
+park bench:1.0
+feather boa:1.0
+tub:1.0
+hand blower:1.0
+tiger cat:1.0
+Egyptian cat:2.0
+bonnet:2.0
+dishwasher:1.0
+bolo tie:3.0
+dining table:5.0
+sleeping bag:2.0
+restaurant:4.0
+mask:1.0
+crutch:3.0
+boxer:1.0
+nipple:1.0
+keeshond:1.0
+apron:4.0
+lynx:2.0
+Pekinese:1.0
+safety pin:1.0
+jean:1.0
+pajama:15.0
+christmas tree:1.0

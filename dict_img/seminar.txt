@@ -1,0 +1,13 @@
+minibus:3.0
+projector:2.0
+seat belt:3.0
+traffic light:1.0
+cinema:10.0
+cash machine:1.0
+punching bag:1.0
+library:1.0
+ambulance:3.0
+candle:1.0
+home theater:1.0
+ocarina:1.0
+sliding door:2.0

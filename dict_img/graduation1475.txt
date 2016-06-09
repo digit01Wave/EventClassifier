@@ -1,0 +1,13 @@
+academic gown:7.0
+obelisk:1.0
+guinea pig:1.0
+Sealyham terrier:1.0
+library:1.0
+bonnet:1.0
+submarine:1.0
+ice lolly:1.0
+prison:1.0
+cowboy hat:2.0
+mortarboard:12.0
+stage:1.0
+barrow:1.0

@@ -9,11 +9,13 @@ import my_googlenet_classify as gClassify
 from os import listdir
 from os.path import isfile, join
 import file_dictionary as fd
+import os
 
 
 def info(foldername):
-    b = gClassify.get_folder_tags("/home/jessica/Documents/children_birthday/"+foldername)
-    fd.dict_to_file(b, 'dict_img/children_birthday'+foldername+'.txt')
+    #b = gClassify.get_folder_tags("/home/jessica/Documents/christmas/"+foldername)
+    b = gClassify.get_folder_tags("/media/jessica/D4165BB8165B99F6/Datasets/concert/"+foldername)    
+    fd.dict_to_file(b, 'dict_img/concert'+foldername+'.txt')
 
 class Converter:
     def __init__(self):
@@ -35,4 +37,9 @@ class Converter:
                 if key not in self._convert_set:
                     new_d[key] = d[key]
             fd.dict_to_file(new_d, filename, append=False)
+            
+def renamer(folder_path, prefix):
+    filenames = [f for f in listdir(folder_path)]
+    for f in filenames:
+        os.rename(folder_path+"/"+f, folder_path+"/"+prefix+f[1:])
 

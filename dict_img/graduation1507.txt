@@ -1,0 +1,19 @@
+wig:1.0
+academic gown:1.0
+bolo tie:1.0
+mortar:1.0
+screen:1.0
+scoreboard:2.0
+vestment:1.0
+safety pin:1.0
+eel:1.0
+Chesapeake Bay retriever:1.0
+brown bear:2.0
+iron:1.0
+sleeping bag:1.0
+bathing cap:1.0
+turnstile:1.0
+mortarboard:7.0
+Band Aid:2.0
+bath towel:2.0
+sweatshirt:1.0

@@ -1,0 +1,125 @@
+clog:1.0
+coffee mug:1.0
+electric guitar:2.0
+spatula:1.0
+shopping cart:1.0
+water jug:2.0
+pencil sharpener:1.0
+cellular telephone:1.0
+goblet:1.0
+harmonica:2.0
+grand piano:2.0
+potter's wheel:1.0
+balance beam:1.0
+carton:2.0
+ski:1.0
+stove:1.0
+apron:2.0
+sunglasses:1.0
+bib:1.0
+screwdriver:1.0
+vase:1.0
+chain saw:2.0
+abacus:1.0
+barrow:1.0
+oxygen mask:1.0
+tricycle:2.0
+power drill:1.0
+punching bag:2.0
+ice lolly:1.0
+four-poster:3.0
+piggy bank:2.0
+Weimaraner:1.0
+quilt:3.0
+jigsaw puzzle:2.0
+Dungeness crab:1.0
+candle:1.0
+poncho:3.0
+hammer:1.0
+military uniform:1.0
+harp:1.0
+toyshop:2.0
+microwave:1.0
+pickup:2.0
+cradle:2.0
+jack-o'-lantern:1.0
+bathing cap:1.0
+sarong:1.0
+cockroach:1.0
+confectionery:4.0
+vestment:3.0
+hand blower:1.0
+dalmatian:1.0
+throne:2.0
+restaurant:8.0
+jeep:1.0
+sleeping bag:3.0
+brassiere:1.0
+dumbbell:1.0
+hair spray:3.0
+remote control:1.0
+Band Aid:3.0
+jersey:1.0
+wig:4.0
+stretcher:2.0
+crib:1.0
+bonnet:2.0
+swab:1.0
+basketball:1.0
+maraca:3.0
+sock:1.0
+rocking chair:1.0
+carousel:2.0
+soft-coated wheaten terrier:1.0
+limousine:1.0
+lawn mower:1.0
+golfcart:2.0
+overskirt:1.0
+altar:4.0
+pitcher:1.0
+Christmas stocking:12.0
+nipple:3.0
+stethoscope:1.0
+upright:1.0
+trench coat:1.0
+Lhasa:1.0
+minibus:1.0
+wool:1.0
+dining table:3.0
+crutch:2.0
+recreational vehicle:1.0
+car wheel:1.0
+cello:1.0
+ski mask:1.0
+plunger:2.0
+tractor:2.0
+Crock Pot:1.0
+rugby ball:2.0
+handkerchief:3.0
+plate:1.0
+neck brace:1.0
+china cabinet:3.0
+studio couch:1.0
+violin:1.0
+stole:1.0
+cardigan:1.0
+bassoon:1.0
+toaster:1.0
+hamper:1.0
+kimono:2.0
+banjo:1.0
+American lobster:2.0
+paintbrush:1.0
+West Highland white terrier:1.0
+Maltese dog:1.0
+ambulance:1.0
+theater curtain:1.0
+soccer ball:2.0
+cleaver:1.0
+refrigerator:1.0
+groom:5.0
+mask:2.0
+bakery:1.0
+pajama:24.0
+minivan:1.0
+crayfish:2.0

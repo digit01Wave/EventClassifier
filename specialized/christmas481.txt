@@ -1,0 +1,74 @@
+wig:3.0
+Chihuahua:1.0
+boa constrictor:1.0
+seat belt:1.0
+silky terrier:1.0
+Border terrier:1.0
+sunscreen:1.0
+spatula:2.0
+jigsaw puzzle:6.0
+paper towel:1.0
+Blenheim spaniel:1.0
+mountain bike:1.0
+candle:1.0
+poncho:1.0
+stole:1.0
+water jug:1.0
+sunglasses:1.0
+Lakeland terrier:1.0
+cardigan:1.0
+goblet:1.0
+teddy:2.0
+sombrero:1.0
+sock:1.0
+panpipe:1.0
+beagle:3.0
+chest:2.0
+kimono:1.0
+pill bottle:1.0
+ice cream:1.0
+carousel:1.0
+miniskirt:1.0
+ice lolly:2.0
+carton:4.0
+lawn mower:1.0
+basset:2.0
+Pembroke:2.0
+wombat:1.0
+umbrella:1.0
+ladle:1.0
+French bulldog:1.0
+screwdriver:2.0
+binoculars:1.0
+whistle:1.0
+power drill:2.0
+toyshop:1.0
+stethoscope:3.0
+diaper:3.0
+vacuum:2.0
+feather boa:3.0
+hand blower:2.0
+standard schnauzer:1.0
+shoe shop:1.0
+barrow:1.0
+Christmas stocking:17.0
+television:1.0
+skunk:3.0
+burrito:1.0
+soccer ball:1.0
+tricycle:2.0
+sleeping bag:1.0
+maraca:6.0
+Yorkshire terrier:1.0
+crutch:1.0
+toilet tissue:1.0
+christmas tree:1.0
+measuring cup:1.0
+cradle:2.0
+knee pad:2.0
+bolete:1.0
+cake:3.0
+studio couch:1.0
+hair spray:2.0
+pajama:42.0
+chain saw:1.0
