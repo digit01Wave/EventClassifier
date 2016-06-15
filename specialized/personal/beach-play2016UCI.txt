@@ -1,0 +1,37 @@
+stretcher:1.0
+maillot:1.0
+sunscreen:3.0
+breakwater:2.0
+swimming trunks:15.0
+seashore:6.0
+sandbar:32.0
+sunglasses:2.0
+leatherback turtle:1.0
+mountain tent:3.0
+car wheel:1.0
+running shoe:1.0
+miniskirt:1.0
+flagpole:1.0
+bathing cap:1.0
+banjo:1.0
+limousine:1.0
+umbrella:1.0
+sarong:6.0
+oboe:1.0
+gar:1.0
+cowboy boot:1.0
+racer:1.0
+snorkel:1.0
+sunglass:1.0
+bullet train:1.0
+ear:1.0
+parachute:1.0
+acoustic guitar:2.0
+conch:1.0
+volleyball:2.0
+bikini:3.0
+megalith:1.0
+minivan:2.0
+cowboy hat:1.0
+volcano:1.0
+pajama:1.0

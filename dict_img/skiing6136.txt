@@ -1,0 +1,16 @@
+shovel:2.0
+volcano:1.0
+snowplow:1.0
+triceratops:1.0
+dogsled:1.0
+crash helmet:1.0
+pole:2.0
+geyser:1.0
+snowmobile:3.0
+stupa:1.0
+ski mask:1.0
+park bench:1.0
+patio:1.0
+ski:2.0
+alp:11.0
+restaurant:1.0

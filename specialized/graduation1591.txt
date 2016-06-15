@@ -1,0 +1,6 @@
+academic gown:3.0
+axolotl:1.0
+suit:1.0
+mortarboard:18.0
+limousine:1.0
+pajama:1.0

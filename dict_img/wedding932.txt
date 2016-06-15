@@ -1,0 +1,116 @@
+gown:28.0
+beer bottle:1.0
+maypole:2.0
+greenhouse:2.0
+mountain bike:1.0
+dumbbell:2.0
+sports car:1.0
+cornet:1.0
+goblet:5.0
+accordion:1.0
+cloak:2.0
+night snake:1.0
+prison:3.0
+envelope:1.0
+rain barrel:1.0
+hoopskirt:36.0
+tobacco shop:2.0
+steel drum:1.0
+red wine:2.0
+barrow:2.0
+oxygen mask:1.0
+beach wagon:2.0
+squirrel monkey:1.0
+four-poster:1.0
+bow tie:4.0
+letter opener:1.0
+packet:1.0
+trombone:1.0
+poncho:1.0
+military uniform:6.0
+barn:1.0
+go-kart:1.0
+sombrero:1.0
+revolver:3.0
+unicycle:1.0
+bathing cap:1.0
+umbrella:1.0
+cocktail shaker:2.0
+Dutch oven:1.0
+vestment:6.0
+confectionery:2.0
+baseball:1.0
+park bench:2.0
+convertible:2.0
+hand blower:2.0
+slug:1.0
+stage:4.0
+folding chair:5.0
+drum:4.0
+restaurant:7.0
+sleeping bag:1.0
+hatchet:1.0
+bow:1.0
+hair spray:4.0
+castle:1.0
+assault rifle:1.0
+wig:4.0
+maillot:2.0
+crib:1.0
+moped:1.0
+church:2.0
+mortarboard:1.0
+tub:1.0
+wine bottle:1.0
+academic gown:3.0
+maraca:1.0
+lab coat:1.0
+plastic bag:1.0
+suit:8.0
+flagpole:1.0
+pop bottle:1.0
+limousine:1.0
+lawn mower:2.0
+overskirt:5.0
+oboe:1.0
+obelisk:2.0
+altar:1.0
+Windsor tie:2.0
+school bus:1.0
+grille:1.0
+library:2.0
+minibus:1.0
+dining table:4.0
+crutch:4.0
+iron:1.0
+cab:1.0
+spotlight:1.0
+doormat:1.0
+rugby ball:1.0
+car mirror:2.0
+palace:1.0
+cinema:3.0
+medicine chest:1.0
+neck brace:1.0
+guillotine:1.0
+studio couch:1.0
+toilet tissue:2.0
+marimba:1.0
+bassoon:2.0
+picket fence:1.0
+bagel:1.0
+kimono:3.0
+miniskirt:2.0
+frying pan:1.0
+piggy bank:1.0
+monastery:1.0
+flute:1.0
+mosquito net:1.0
+shoe shop:2.0
+groom:107.0
+bell cote:1.0
+bakery:1.0
+jersey:1.0
+minivan:1.0
+turnstile:1.0
+patio:4.0

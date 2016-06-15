@@ -1,0 +1,90 @@
+chain:1.0
+electric guitar:10.0
+rifle:1.0
+barbell:1.0
+shovel:1.0
+radio:1.0
+mountain bike:2.0
+shopping cart:2.0
+cornet:5.0
+cellular telephone:1.0
+accordion:1.0
+grand piano:1.0
+French horn:1.0
+maypole:6.0
+grocery store:1.0
+sunglasses:6.0
+marimba:1.0
+cannon:1.0
+steel drum:1.0
+whistle:1.0
+chain saw:4.0
+barrow:1.0
+acoustic guitar:4.0
+swimming trunks:1.0
+abaya:1.0
+torch:7.0
+sewing machine:1.0
+racket:2.0
+breastplate:1.0
+fountain:1.0
+water tower:1.0
+unicycle:8.0
+sarong:3.0
+brassiere:1.0
+beacon:1.0
+baseball:1.0
+park bench:1.0
+stage:37.0
+folding chair:2.0
+drum:4.0
+conch:1.0
+hatchet:1.0
+harmonica:1.0
+bow:3.0
+hair spray:2.0
+swing:4.0
+cowboy hat:1.0
+broom:1.0
+assault rifle:1.0
+wig:3.0
+stretcher:2.0
+maillot:3.0
+pole:2.0
+stupa:1.0
+radio telescope:5.0
+drumstick:4.0
+bubble:2.0
+oboe:3.0
+obelisk:1.0
+tripod:1.0
+maze:5.0
+ballplayer:2.0
+crane:1.0
+reel:1.0
+crutch:1.0
+barbershop:2.0
+plunger:3.0
+gong:1.0
+parachute:1.0
+trombone:3.0
+sax:8.0
+violin:1.0
+microphone:12.0
+picket fence:3.0
+kimono:1.0
+miniskirt:2.0
+horizontal bar:1.0
+banjo:6.0
+solar dish:1.0
+water bottle:1.0
+flute:2.0
+binoculars:1.0
+sunglass:6.0
+soccer ball:1.0
+airship:1.0
+volleyball:1.0
+bell cote:1.0
+jersey:5.0
+turnstile:1.0
+jean:1.0

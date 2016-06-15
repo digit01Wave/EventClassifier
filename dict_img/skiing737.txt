@@ -1,0 +1,9 @@
+lakeside:1.0
+mountain tent:1.0
+marmot:1.0
+swimming trunks:1.0
+volcano:1.0
+jean:1.0
+ski:4.0
+agama:1.0
+alp:20.0

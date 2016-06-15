@@ -1,0 +1,38 @@
+bow tie:2.0
+handkerchief:1.0
+maypole:1.0
+fur coat:1.0
+library:2.0
+parachute:1.0
+sunglasses:1.0
+trimaran:2.0
+menu:1.0
+lab coat:1.0
+flagpole:1.0
+ice lolly:2.0
+pinwheel:1.0
+catamaran:1.0
+schooner:1.0
+golfcart:1.0
+umbrella:1.0
+safe:1.0
+steel drum:1.0
+dock:1.0
+yawl:1.0
+trailer truck:1.0
+brass:2.0
+teapot:1.0
+stage:1.0
+minibus:1.0
+burrito:1.0
+groom:1.0
+perfume:1.0
+hair spray:1.0
+bakery:2.0
+boathouse:1.0
+barbershop:1.0
+iron:1.0
+sombrero:1.0
+cowboy hat:1.0
+Band Aid:1.0
+pajama:1.0

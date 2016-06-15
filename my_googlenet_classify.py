@@ -376,6 +376,92 @@ def get_folder_tags(folder_path, rel_threshold=0.3, current_dict = None):
                 print("\tadded " + tag_score[0])
     print("Final Error Count:", err_count)
     return ans
+    
+###############################################################################
+    #Get folder concepts
+###############################################################################
+def get_folder_concepts(folder_path, rel_threshold=0.3):
+    """
+    Returns a list of all relevant tags for each file in a given folder
+    
+    Parameters
+    ----------
+    folder_path(str)
+        Folder path to images file
+    rel_threshold:float:
+        only take tags that have a probability of at least this fraction of the first result
+
+    Returns
+    -------
+    list[list[str]]
+        A list of lists where each list represents a file and the items within the 
+        nested list are te tags for said file. The first item in any of the list
+        is the filename.
+
+    """
+    
+    ans = []
+    err_count = 0
+    
+    # Creates graph from saved GraphDef.
+    create_graph()
+    
+
+    im_names = [join(folder_path,f) for f in listdir(folder_path) if isfile(join(folder_path, f))]
+
+    for i, filename in enumerate(im_names):
+        print("{}: now processing ({})".format(i, filename))
+        if(not filename.endswith(".jpg")):
+            print("SKIPPING THIS ONE BECAUSE NOT A PHOTO~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~")
+            continue
+        
+        try:
+            image_data = tf.gfile.FastGFile(filename, 'rb').read()
+            ans.append([filename])
+            with tf.Session() as sess:
+                # Some useful tensors:
+                # 'softmax:0': A tensor containing the normalized prediction across
+                #   1000 labels.
+                # 'pool_3:0': A tensor containing the next-to-last layer containing 2048
+                #   float description of the image.
+                # 'DecodeJpeg/contents:0': A tensor containing a string providing JPEG
+                #   encoding of the image.
+                # Runs the softmax tensor by feeding the image_data as input to the graph.
+                softmax_tensor = sess.graph.get_tensor_by_name('softmax:0')
+                predictions = sess.run(softmax_tensor,
+                                       {'DecodeJpeg/contents:0': image_data})
+                predictions = np.squeeze(predictions)
+            
+                # Creates node ID --> English string lookup.
+                node_lookup = NodeLookup()
+            
+                temp_tags = []
+                top_k = predictions.argsort()[-num_top_predictions:][::-1]
+                for node_id in top_k:
+                    human_string = node_lookup.id_to_string(node_id)
+                    score = predictions[node_id]
+                    temp_tags.append((human_string, score))
+                
+        except:
+            print("ERROR ###################################")
+            err_count +=1
+            print("Could not give tags to image.")
+            print("ERROR ###################################")
+            continue
+        
+        #keep only the tags that overcome the certain threshold
+        print("tags = [{}]".format(temp_tags))
+        thresh = temp_tags[0][1]*rel_threshold #get top score of first result to find threshold
+                
+        for tag_score in temp_tags:
+            if(tag_score[1] > thresh):
+                tag_split = tag_score[0].split(",")
+                ans[-1].append(tag_split[0].strip())
+                print("\tadded " + tag_score[0])
+    print("Final Error Count:", err_count)
+    return ans
+    
+
         
 ###############################################################################
         #NEW CLASSIFIER
@@ -402,7 +488,7 @@ def get_folder_tags2(folder_path, threshold=0.8, graph_path='/home/jessica/Docum
 
     """
     
-    if(current_dict == None):
+    if(current_dict is None):
         ans = defaultdict(float)
     else:
         ans = current_dict
@@ -485,7 +571,7 @@ def get_collection_tags2(image_collection_links, threshold = 0.8, current_dict =
     """
     import urllib
     
-    filename ="temp.jpg"
+    filename ="/home/jessica/Documents/temp.jpg"
     if(current_dict == None):
         ans = defaultdict(float)
     else:

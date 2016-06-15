@@ -1,0 +1,14 @@
+burrito:1.0
+dining table:1.0
+washbasin:3.0
+cheeseburger:1.0
+crib:1.0
+cake:8.0
+ice cream:1.0
+cowboy hat:1.0
+candle:7.0
+tub:4.0
+bathtub:4.0
+strainer:1.0
+pajama:1.0
+hotdog:1.0

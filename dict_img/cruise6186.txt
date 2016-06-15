@@ -1,0 +1,140 @@
+entertainment center:1.0
+maypole:2.0
+scoreboard:1.0
+megalith:3.0
+greenhouse:3.0
+sliding door:5.0
+slot:1.0
+menu:1.0
+grand piano:3.0
+kimono:1.0
+prison:2.0
+mailbag:1.0
+carton:2.0
+grocery store:1.0
+cash machine:3.0
+marimba:1.0
+fur coat:1.0
+tobacco shop:2.0
+street sign:1.0
+dock:4.0
+boathouse:1.0
+crate:1.0
+desk:1.0
+window shade:1.0
+pier:4.0
+barrow:1.0
+bonnet:1.0
+croquet ball:1.0
+bulletproof vest:1.0
+four-poster:1.0
+tray:1.0
+thresher:1.0
+holster:1.0
+quilt:1.0
+bookshop:1.0
+packet:2.0
+promontory:1.0
+bannister:3.0
+jigsaw puzzle:1.0
+Dungeness crab:1.0
+drilling platform:1.0
+candle:1.0
+book jacket:2.0
+scale:1.0
+analog clock:2.0
+wreck:1.0
+sombrero:1.0
+paddle:1.0
+fountain:1.0
+alp:1.0
+unicycle:2.0
+pirate:4.0
+umbrella:1.0
+cocktail shaker:1.0
+sarong:1.0
+electric fan:2.0
+lotion:1.0
+binder:1.0
+bookcase:1.0
+park bench:1.0
+tub:2.0
+throne:1.0
+restaurant:8.0
+bow:1.0
+wall clock:1.0
+shower curtain:1.0
+projectile:1.0
+cowboy hat:2.0
+safety pin:1.0
+castle:2.0
+Band Aid:1.0
+wig:2.0
+caldron:1.0
+forklift:1.0
+breakwater:3.0
+seashore:5.0
+stupa:4.0
+bullet train:1.0
+confectionery:1.0
+streetcar:1.0
+teddy:1.0
+gondola:2.0
+lab coat:1.0
+plastic bag:1.0
+carousel:1.0
+maze:3.0
+pinwheel:1.0
+passenger car:4.0
+cliff dwelling:1.0
+torch:1.0
+oboe:2.0
+altar:1.0
+Windsor tie:2.0
+grey whale:2.0
+killer whale:1.0
+missile:1.0
+thatch:4.0
+bicycle-built-for-two:1.0
+library:1.0
+upright:1.0
+crane:1.0
+electric locomotive:1.0
+dining table:2.0
+bucket:1.0
+knee pad:1.0
+bathtub:2.0
+spotlight:1.0
+fireboat:2.0
+doormat:1.0
+gong:1.0
+lakeside:4.0
+medicine chest:1.0
+liner:3.0
+planetarium:1.0
+sax:1.0
+paper towel:1.0
+sandbar:1.0
+pedestal:3.0
+stole:1.0
+washbasin:1.0
+chest:1.0
+stone wall:15.0
+shoji:1.0
+cannon:2.0
+beer glass:1.0
+ashcan:3.0
+monastery:1.0
+flute:2.0
+toyshop:2.0
+coil:1.0
+brass:2.0
+shoe shop:1.0
+cliff:2.0
+groom:1.0
+window screen:1.0
+volleyball:2.0
+bakery:3.0
+paddlewheel:1.0
+bath towel:1.0
+patio:5.0

@@ -1,0 +1,11 @@
+cellular telephone:1.0
+microphone:5.0
+electric guitar:10.0
+reflex camera:1.0
+spotlight:1.0
+binoculars:2.0
+hair spray:1.0
+cornet:1.0
+iPod:1.0
+Polaroid camera:1.0
+stage:26.0

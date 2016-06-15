@@ -1,0 +1,55 @@
+wig:2.0
+barber chair:1.0
+quilt:1.0
+laptop:2.0
+fur coat:1.0
+china cabinet:1.0
+jigsaw puzzle:1.0
+studio couch:3.0
+stole:4.0
+harp:1.0
+Lakeland terrier:1.0
+cardigan:2.0
+waffle iron:1.0
+kimono:1.0
+panpipe:1.0
+Irish terrier:1.0
+rocking chair:1.0
+soft-coated wheaten terrier:2.0
+pop bottle:1.0
+limousine:2.0
+silky terrier:2.0
+West Highland white terrier:1.0
+apron:2.0
+umbrella:1.0
+cocktail shaker:1.0
+marimba:1.0
+oboe:1.0
+altar:2.0
+suit:1.0
+Maltese dog:1.0
+lotion:1.0
+Christmas stocking:1.0
+notebook:2.0
+miniskirt:1.0
+turnstile:1.0
+park bench:1.0
+Australian terrier:1.0
+Airedale:1.0
+refrigerator:1.0
+throne:3.0
+toy poodle:1.0
+television:2.0
+chain mail:1.0
+fire screen:1.0
+groom:1.0
+Yorkshire terrier:1.0
+perfume:1.0
+hair spray:2.0
+christmas tree:1.0
+barbershop:1.0
+toyshop:1.0
+four-poster:2.0
+Dandie Dinmont:1.0
+pillow:1.0
+pajama:4.0

@@ -1,0 +1,45 @@
+shovel:1.0
+chain:1.0
+suspension bridge:1.0
+lakeside:5.0
+puck:1.0
+tile roof:1.0
+nail:1.0
+hook:1.0
+pole:1.0
+studio couch:1.0
+snowmobile:6.0
+sandbar:2.0
+church:1.0
+alp:14.0
+barn:1.0
+bald eagle:1.0
+geyser:2.0
+seashore:3.0
+snowplow:1.0
+hatchet:1.0
+backpack:1.0
+paddle:1.0
+picket fence:1.0
+fountain:2.0
+birdhouse:1.0
+maze:1.0
+wool:1.0
+ski:10.0
+paintbrush:1.0
+ladle:1.0
+gyromitra:1.0
+vulture:1.0
+Christmas stocking:1.0
+boathouse:1.0
+knot:1.0
+ice bear:1.0
+park bench:1.0
+earthstar:1.0
+cliff:2.0
+space shuttle:1.0
+valley:2.0
+iPod:1.0
+dogsled:2.0
+volcano:2.0
+wing:1.0

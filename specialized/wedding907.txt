@@ -1,0 +1,43 @@
+wig:3.0
+bow tie:5.0
+guacamole:1.0
+lakeside:2.0
+maypole:2.0
+bookshop:1.0
+triumphal arch:1.0
+sandbar:1.0
+mortarboard:2.0
+stole:1.0
+quill:1.0
+microphone:1.0
+academic gown:2.0
+goblet:1.0
+lab coat:2.0
+picket fence:1.0
+kimono:1.0
+ibex:1.0
+suit:4.0
+bathing cap:1.0
+limousine:1.0
+restaurant:6.0
+plate:1.0
+sunglasses:4.0
+sarong:1.0
+corn:1.0
+Windsor tie:1.0
+beacon:1.0
+miniskirt:1.0
+sunglass:3.0
+burrito:1.0
+ear:3.0
+jean:1.0
+stage:1.0
+bonnet:1.0
+feather boa:1.0
+dining table:3.0
+groom:6.0
+bell cote:1.0
+ice lolly:1.0
+cowboy hat:1.0
+plunger:1.0
+shower curtain:1.0

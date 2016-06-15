@@ -1,0 +1,98 @@
+beer bottle:1.0
+scoreboard:1.0
+megalith:1.0
+radio:1.0
+snowmobile:18.0
+rubber eraser:3.0
+sports car:1.0
+alp:32.0
+guacamole:1.0
+geyser:1.0
+backpack:1.0
+seat belt:3.0
+cheeseburger:1.0
+carton:1.0
+ski:30.0
+digital clock:1.0
+hip:1.0
+plate:7.0
+cash machine:1.0
+sunglasses:1.0
+ladle:1.0
+CD player:1.0
+screwdriver:1.0
+red wine:1.0
+beach wagon:2.0
+pizza:1.0
+tray:1.0
+meat loaf:1.0
+packet:1.0
+promontory:1.0
+bannister:1.0
+jigsaw puzzle:1.0
+web site:1.0
+Dungeness crab:1.0
+ice cream:2.0
+barn:1.0
+book jacket:1.0
+mountain tent:1.0
+butcher shop:1.0
+sliding door:1.0
+wok:1.0
+crash helmet:2.0
+yurt:1.0
+cab:1.0
+convertible:2.0
+restaurant:2.0
+dogsled:5.0
+worm fence:1.0
+shovel:9.0
+face powder:1.0
+suspension bridge:2.0
+caldron:1.0
+pole:1.0
+seashore:2.0
+wine bottle:3.0
+waffle iron:1.0
+snowplow:13.0
+traffic light:1.0
+airliner:1.0
+odometer:3.0
+picket fence:4.0
+recreational vehicle:1.0
+flagpole:1.0
+pop bottle:1.0
+valley:1.0
+comic book:1.0
+passenger car:1.0
+hot pot:1.0
+mobile home:3.0
+racer:1.0
+parachute:1.0
+wool:1.0
+dining table:1.0
+limousine:2.0
+tape player:1.0
+car wheel:2.0
+bobsled:2.0
+ski mask:5.0
+spotlight:3.0
+car mirror:2.0
+chocolate sauce:2.0
+planetarium:1.0
+screw:1.0
+balloon:1.0
+magpie:1.0
+beer glass:1.0
+paintbrush:1.0
+solar dish:1.0
+water bottle:1.0
+ashcan:1.0
+binoculars:1.0
+cucumber:1.0
+grille:1.0
+cliff:2.0
+parking meter:1.0
+minivan:5.0
+patio:2.0
+hotdog:2.0

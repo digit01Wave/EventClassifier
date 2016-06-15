@@ -1,0 +1,15 @@
+geyser:1.0
+lakeside:3.0
+gasmask:1.0
+lab coat:1.0
+parachute:1.0
+bicycle-built-for-two:1.0
+snorkel:1.0
+snowmobile:3.0
+volcano:1.0
+park bench:1.0
+ski mask:2.0
+bathing cap:1.0
+valley:3.0
+ski:6.0
+alp:7.0

@@ -1,0 +1,80 @@
+wig:1.0
+bow tie:6.0
+bassinet:2.0
+barber chair:1.0
+gown:9.0
+lakeside:2.0
+maypole:8.0
+soccer ball:1.0
+English setter:1.0
+neck brace:2.0
+sunscreen:1.0
+stretcher:2.0
+bannister:5.0
+swimming trunks:1.0
+moped:1.0
+trombone:1.0
+candle:2.0
+mortarboard:2.0
+harmonica:1.0
+military uniform:8.0
+Great Pyrenees:2.0
+cornet:3.0
+microphone:1.0
+academic gown:4.0
+coho:2.0
+sarong:3.0
+chain mail:1.0
+accordion:1.0
+bassoon:1.0
+teddy:1.0
+tricycle:2.0
+oboe:2.0
+drumstick:1.0
+lab coat:3.0
+thatch:1.0
+parachute:2.0
+kimono:6.0
+carousel:1.0
+miniskirt:4.0
+French horn:1.0
+maze:3.0
+valley:1.0
+marimba:1.0
+ballplayer:3.0
+restaurant:15.0
+apron:2.0
+overskirt:5.0
+water bottle:1.0
+football helmet:2.0
+altar:6.0
+suit:10.0
+parallel bars:3.0
+steel drum:3.0
+vestment:7.0
+binoculars:1.0
+bicycle-built-for-two:1.0
+gasmask:1.0
+rifle:2.0
+window shade:1.0
+hoopskirt:4.0
+shoe shop:1.0
+stage:1.0
+bearskin:2.0
+croquet ball:3.0
+drum:1.0
+dining table:2.0
+limousine:1.0
+grand piano:1.0
+groom:77.0
+shield:1.0
+breastplate:1.0
+hair spray:2.0
+barbershop:3.0
+patio:1.0
+harp:1.0
+cowboy hat:1.0
+jean:1.0
+West Highland white terrier:2.0
+horse cart:1.0
+pajama:1.0

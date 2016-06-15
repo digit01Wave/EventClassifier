@@ -1,0 +1,17 @@
+acoustic guitar:1.0
+microphone:4.0
+umbrella:2.0
+marimba:1.0
+go-kart:1.0
+harmonica:2.0
+ski:1.0
+laptop:1.0
+vestment:1.0
+parachute:2.0
+notebook:1.0
+cello:1.0
+pinwheel:1.0
+banjo:2.0
+stole:1.0
+electric guitar:1.0
+stage:14.0

@@ -1,0 +1,39 @@
+wig:1.0
+shovel:1.0
+torch:1.0
+stretcher:1.0
+snowmobile:6.0
+sweatshirt:1.0
+poncho:1.0
+stole:6.0
+alp:1.0
+cornet:1.0
+cellular telephone:1.0
+cardigan:2.0
+streetcar:1.0
+leatherback turtle:1.0
+ocarina:1.0
+panpipe:1.0
+loggerhead:1.0
+ski:182.0
+lawn mower:1.0
+cash machine:1.0
+bookshop:1.0
+sunglasses:1.0
+steel drum:1.0
+street sign:1.0
+mobile home:1.0
+crash helmet:2.0
+snorkel:1.0
+stethoscope:1.0
+ski mask:1.0
+chainlink fence:1.0
+groom:1.0
+hair spray:1.0
+dogsled:1.0
+measuring cup:1.0
+knee pad:1.0
+swing:9.0
+turnstile:1.0
+plunger:1.0
+pajama:3.0

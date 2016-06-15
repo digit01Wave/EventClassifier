@@ -1,0 +1,19 @@
+sunscreen:1.0
+croquet ball:1.0
+academic gown:25.0
+stole:1.0
+totem pole:2.0
+palace:2.0
+altar:3.0
+Windsor tie:1.0
+cloak:3.0
+dome:1.0
+kimono:1.0
+megalith:1.0
+fountain:4.0
+suit:2.0
+cowboy hat:1.0
+mortarboard:38.0
+bell cote:1.0
+trench coat:1.0
+groom:1.0

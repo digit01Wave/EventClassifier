@@ -1,0 +1,23 @@
+shield:1.0
+caldron:1.0
+scoreboard:15.0
+mortarboard:6.0
+military uniform:3.0
+academic gown:9.0
+vending machine:2.0
+panpipe:1.0
+kimono:1.0
+suit:1.0
+horizontal bar:1.0
+ballplayer:1.0
+umbrella:1.0
+water bottle:1.0
+racer:1.0
+upright:1.0
+shoe shop:1.0
+stage:4.0
+bearskin:3.0
+volleyball:1.0
+amphibian:1.0
+jean:1.0
+spotlight:2.0

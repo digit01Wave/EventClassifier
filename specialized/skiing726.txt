@@ -1,0 +1,93 @@
+entertainment center:1.0
+clog:1.0
+shield:1.0
+stove:1.0
+shower cap:1.0
+upright:1.0
+megalith:1.0
+snowmobile:13.0
+alp:37.0
+shovel:1.0
+grand piano:1.0
+beagle:1.0
+ski:57.0
+sunglasses:3.0
+screwdriver:2.0
+cowboy boot:3.0
+space heater:1.0
+window shade:1.0
+tabby:1.0
+nipple:1.0
+volcano:2.0
+lumbermill:1.0
+junco:1.0
+bow tie:1.0
+quilt:2.0
+tape player:1.0
+sturgeon:1.0
+bannister:1.0
+jigsaw puzzle:1.0
+candle:2.0
+poncho:1.0
+book jacket:1.0
+velvet:2.0
+sarong:3.0
+chain mail:3.0
+microwave:1.0
+running shoe:1.0
+Dutch oven:1.0
+electric fan:1.0
+mailbox:1.0
+cake:2.0
+four-poster:1.0
+convertible:1.0
+hand blower:1.0
+Irish terrier:1.0
+dishwasher:1.0
+sleeping bag:2.0
+teddy:1.0
+bow:1.0
+hair spray:2.0
+dogsled:7.0
+home theater:1.0
+jersey:1.0
+wig:2.0
+Cardigan:1.0
+cassette player:1.0
+coho:1.0
+seat belt:3.0
+caldron:1.0
+syringe:1.0
+chickadee:1.0
+Siberian husky:1.0
+maraca:1.0
+buckle:1.0
+suit:1.0
+limousine:1.0
+hot pot:1.0
+bottlecap:1.0
+wardrobe:1.0
+television:1.0
+comic book:1.0
+bucket:1.0
+barbershop:1.0
+bobsled:1.0
+ski mask:2.0
+rotisserie:1.0
+sunscreen:1.0
+studio couch:3.0
+brambling:1.0
+stole:1.0
+barracouta:1.0
+kimono:1.0
+steel drum:1.0
+binoculars:1.0
+sunglass:1.0
+cleaver:1.0
+shoe shop:2.0
+feather boa:1.0
+water ouzel:1.0
+groom:1.0
+breastplate:1.0
+pajama:5.0
+barrel:1.0

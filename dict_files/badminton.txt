@@ -1,0 +1,66 @@
+ballpoint:1.0
+shovel:1.0
+bow:1.0
+scoreboard:2.0
+packet:2.0
+parachute:5.0
+syringe:1.0
+pole:1.0
+web site:3.0
+volleyball:12.0
+racket:92.0
+radio telescope:1.0
+perfume:1.0
+hook:3.0
+quill:1.0
+book jacket:4.0
+microphone:2.0
+rubber eraser:1.0
+goblet:1.0
+tennis ball:3.0
+sombrero:1.0
+balloon:2.0
+ladle:2.0
+sock:1.0
+lampshade:1.0
+can opener:1.0
+night snake:1.0
+unicycle:1.0
+horizontal bar:5.0
+bathing cap:1.0
+matchstick:1.0
+ski:2.0
+spider web:1.0
+paintbrush:3.0
+balance beam:1.0
+ping-pong ball:6.0
+dragonfly:1.0
+umbrella:1.0
+oscilloscope:5.0
+parallel bars:2.0
+electric fan:3.0
+envelope:6.0
+vase:1.0
+slide rule:1.0
+binder:1.0
+basketball:2.0
+baseball:1.0
+maze:1.0
+coil:1.0
+strainer:5.0
+jellyfish:1.0
+tray:1.0
+bathtub:1.0
+spatula:2.0
+comic book:4.0
+mask:1.0
+liner:1.0
+rule:6.0
+spotlight:8.0
+hair slide:1.0
+daisy:2.0
+wooden spoon:2.0
+plunger:4.0
+solar dish:1.0
+damselfly:1.0
+broom:4.0

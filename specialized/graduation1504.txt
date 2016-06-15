@@ -1,0 +1,6 @@
+academic gown:8.0
+feather boa:1.0
+accordion:1.0
+flute:1.0
+kimono:1.0
+mortarboard:37.0

@@ -1,0 +1,86 @@
+gown:4.0
+chain:1.0
+maypole:1.0
+shower cap:1.0
+swimming trunks:1.0
+ocarina:1.0
+water jug:2.0
+swab:1.0
+grand piano:2.0
+balance beam:3.0
+prison:1.0
+crossword puzzle:1.0
+ping-pong ball:2.0
+sunglasses:2.0
+marimba:1.0
+bib:2.0
+screwdriver:1.0
+barrow:1.0
+bulletproof vest:1.0
+ice lolly:10.0
+bow tie:5.0
+torch:2.0
+bannister:1.0
+jigsaw puzzle:1.0
+racket:1.0
+poncho:3.0
+hammer:1.0
+velvet:1.0
+lipstick:1.0
+chain mail:2.0
+revolver:1.0
+fountain:2.0
+cocktail shaker:1.0
+sarong:1.0
+vestment:1.0
+park bench:9.0
+stage:1.0
+brassiere:1.0
+hair spray:4.0
+swing:1.0
+Band Aid:7.0
+jersey:1.0
+wig:27.0
+seat belt:1.0
+maillot:2.0
+bonnet:2.0
+pole:2.0
+syringe:1.0
+mortarboard:2.0
+maraca:2.0
+lab coat:2.0
+Loafer:1.0
+carousel:1.0
+suit:12.0
+flagpole:1.0
+pop bottle:1.0
+limousine:1.0
+overskirt:2.0
+oboe:2.0
+Windsor tie:10.0
+diaper:4.0
+drumstick:1.0
+minibus:1.0
+bucket:1.0
+crutch:4.0
+bikini:2.0
+plunger:5.0
+barber chair:1.0
+neck brace:1.0
+sunscreen:4.0
+stole:1.0
+cardigan:1.0
+hoopskirt:3.0
+bassoon:1.0
+maze:1.0
+picket fence:1.0
+potter's wheel:1.0
+miniskirt:7.0
+beer glass:1.0
+American lobster:1.0
+water bottle:2.0
+parallel bars:1.0
+sunglass:1.0
+groom:12.0
+pajama:5.0
+bath towel:1.0

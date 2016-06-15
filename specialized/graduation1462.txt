@@ -1,0 +1,18 @@
+plate:2.0
+croquet ball:1.0
+academic gown:2.0
+soup bowl:1.0
+marimba:1.0
+dalmatian:1.0
+maypole:1.0
+fur coat:1.0
+crutch:1.0
+breastplate:1.0
+kimono:1.0
+chain mail:1.0
+balance beam:1.0
+carbonara:1.0
+poncho:1.0
+stole:3.0
+mortarboard:16.0
+solar dish:1.0

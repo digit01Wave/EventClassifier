@@ -1,0 +1,47 @@
+wig:1.0
+shovel:4.0
+coho:3.0
+seat belt:1.0
+lakeside:1.0
+ballplayer:1.0
+Leonberg:1.0
+sunscreen:1.0
+shower cap:2.0
+bannister:1.0
+paper towel:1.0
+snowmobile:10.0
+church:1.0
+candle:1.0
+sweatshirt:2.0
+stole:1.0
+alp:19.0
+cardigan:1.0
+snowplow:1.0
+sombrero:1.0
+sliding door:1.0
+prison:1.0
+crash helmet:1.0
+maze:1.0
+bathing cap:3.0
+wool:1.0
+ski:46.0
+sunglasses:15.0
+cocktail shaker:1.0
+fur coat:1.0
+sturgeon:2.0
+sunglass:14.0
+ear:1.0
+eggnog:1.0
+feather boa:1.0
+restaurant:2.0
+conch:2.0
+beer glass:1.0
+dining table:1.0
+bucket:1.0
+window screen:2.0
+rule:1.0
+crutch:1.0
+dogsled:1.0
+cowboy hat:1.0
+ski mask:6.0
+jersey:1.0

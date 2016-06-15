@@ -1,0 +1,100 @@
+shield:3.0
+viaduct:1.0
+crate:1.0
+tile roof:2.0
+lumbermill:1.0
+shopping cart:1.0
+alp:10.0
+swab:1.0
+backpack:1.0
+container ship:5.0
+cloak:1.0
+hay:1.0
+prison:1.0
+rain barrel:1.0
+marimba:1.0
+dam:3.0
+tobacco shop:2.0
+dock:11.0
+boathouse:7.0
+chainlink fence:1.0
+tricycle:1.0
+volcano:1.0
+library:1.0
+promontory:21.0
+bannister:2.0
+Border terrier:1.0
+guillotine:1.0
+barn:2.0
+jinrikisha:1.0
+sombrero:1.0
+paddle:2.0
+cradle:2.0
+freight car:1.0
+yurt:3.0
+stinkhorn:1.0
+vestment:1.0
+mailbox:1.0
+beacon:5.0
+stage:1.0
+folding chair:2.0
+lifeboat:5.0
+dogsled:1.0
+projectile:1.0
+cowboy hat:1.0
+vault:3.0
+broom:1.0
+stretcher:2.0
+suspension bridge:1.0
+pot:1.0
+gas pump:2.0
+breakwater:2.0
+seashore:10.0
+church:2.0
+radio telescope:2.0
+streetcar:1.0
+snowplow:1.0
+gondola:3.0
+canoe:2.0
+submarine:2.0
+miniature pinscher:1.0
+flagpole:3.0
+valley:20.0
+lawn mower:1.0
+altar:2.0
+coral reef:1.0
+missile:1.0
+thatch:1.0
+bicycle-built-for-two:1.0
+reel:1.0
+Rottweiler:1.0
+harvester:1.0
+crutch:1.0
+conch:1.0
+barbershop:1.0
+bobsled:1.0
+fireboat:6.0
+doormat:1.0
+palace:3.0
+cinema:1.0
+lakeside:20.0
+liner:5.0
+parachute:1.0
+sandbar:4.0
+panpipe:1.0
+picket fence:3.0
+kimono:1.0
+cannon:1.0
+solar dish:1.0
+monastery:2.0
+yawl:1.0
+coil:1.0
+brass:1.0
+airship:1.0
+refrigerator:1.0
+cliff:9.0
+window screen:1.0
+bell cote:1.0
+bakery:1.0
+minivan:1.0
+patio:2.0

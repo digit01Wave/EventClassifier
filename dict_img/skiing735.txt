@@ -1,0 +1,26 @@
+electric guitar:1.0
+packet:1.0
+sax:1.0
+snowmobile:8.0
+cleaver:1.0
+mortarboard:1.0
+geyser:1.0
+snowplow:2.0
+fountain:1.0
+beer glass:1.0
+laptop:1.0
+motor scooter:1.0
+sunglasses:1.0
+marimba:1.0
+ladle:1.0
+flute:1.0
+academic gown:1.0
+sunglass:1.0
+coil:1.0
+strainer:1.0
+stage:1.0
+restaurant:1.0
+ski:2.0
+pool table:1.0
+dogsled:2.0
+bobsled:1.0

@@ -1,0 +1,37 @@
+bow tie:1.0
+maypole:1.0
+rifle:1.0
+fur coat:1.0
+trombone:1.0
+pole:1.0
+sundial:1.0
+racket:67.0
+dumbbell:1.0
+basketball:22.0
+tennis ball:5.0
+vacuum:2.0
+kimono:1.0
+balance beam:3.0
+prison:3.0
+unicycle:7.0
+horizontal bar:9.0
+bubble:1.0
+ballplayer:5.0
+steel arch bridge:1.0
+ping-pong ball:3.0
+broom:1.0
+sarong:1.0
+scoreboard:3.0
+parallel bars:5.0
+tripod:1.0
+baseball:1.0
+maze:17.0
+aircraft carrier:2.0
+croquet ball:2.0
+shoe shop:1.0
+swab:3.0
+volleyball:137.0
+bow:2.0
+turnstile:1.0
+spotlight:3.0
+pajama:1.0

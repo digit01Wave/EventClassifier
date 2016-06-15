@@ -1,0 +1,9 @@
+academic gown:16.0
+theater curtain:1.0
+cloak:1.0
+trombone:1.0
+abaya:1.0
+mortarboard:25.0
+trench coat:1.0
+brass:1.0
+cornet:1.0

@@ -1,0 +1,26 @@
+bow tie:1.0
+maypole:1.0
+bookshop:1.0
+crate:2.0
+bannister:2.0
+pole:2.0
+mousetrap:1.0
+harp:1.0
+sarong:2.0
+chain mail:1.0
+swab:2.0
+broom:3.0
+lab coat:4.0
+miniskirt:1.0
+carton:6.0
+apron:1.0
+marimba:2.0
+altar:1.0
+prison:2.0
+parallel bars:6.0
+vestment:5.0
+wardrobe:3.0
+plunger:2.0
+groom:2.0
+abaya:1.0
+jean:1.0

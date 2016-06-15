@@ -1,0 +1,149 @@
+beer bottle:2.0
+shield:1.0
+gown:1.0
+maypole:1.0
+crate:1.0
+barbell:1.0
+shower cap:3.0
+spatula:1.0
+greenhouse:1.0
+limousine:1.0
+shopping cart:1.0
+ocarina:1.0
+sliding door:11.0
+slot:1.0
+garbage truck:1.0
+monitor:4.0
+swab:2.0
+menu:2.0
+grand piano:1.0
+thimble:1.0
+fire screen:1.0
+prison:14.0
+carton:1.0
+ski:2.0
+theater curtain:6.0
+cash machine:4.0
+pay-phone:2.0
+tobacco shop:1.0
+parallel bars:2.0
+screwdriver:3.0
+whistle:1.0
+space heater:1.0
+lighter:1.0
+desk:2.0
+entertainment center:2.0
+hook:2.0
+punching bag:3.0
+perfume:1.0
+ice lolly:1.0
+four-poster:4.0
+quilt:5.0
+bookshop:7.0
+library:15.0
+bannister:3.0
+jigsaw puzzle:3.0
+web site:28.0
+military uniform:1.0
+book jacket:11.0
+toyshop:6.0
+velvet:1.0
+mountain tent:1.0
+microwave:1.0
+lampshade:2.0
+butcher shop:1.0
+crossword puzzle:2.0
+washer:2.0
+electric fan:1.0
+umbrella:1.0
+breastplate:1.0
+yurt:2.0
+screen:1.0
+dome:1.0
+vestment:4.0
+mailbox:1.0
+binder:3.0
+abaya:1.0
+stage:5.0
+throne:1.0
+restaurant:9.0
+apiary:1.0
+brassiere:3.0
+bow:1.0
+wall clock:1.0
+corkscrew:1.0
+vault:4.0
+home theater:3.0
+pillow:1.0
+jersey:2.0
+maillot:2.0
+gas pump:1.0
+bonnet:1.0
+prayer rug:1.0
+chime:1.0
+brass:1.0
+wine bottle:1.0
+confectionery:4.0
+projector:1.0
+gondola:1.0
+sock:1.0
+lab coat:2.0
+paddle:1.0
+recreational vehicle:1.0
+shoe shop:5.0
+carousel:1.0
+flagpole:1.0
+maze:1.0
+pinwheel:3.0
+comic book:18.0
+triceratops:1.0
+altar:11.0
+envelope:5.0
+coral reef:1.0
+Christmas stocking:1.0
+padlock:1.0
+diaper:1.0
+pop bottle:1.0
+wardrobe:3.0
+ear:1.0
+aircraft carrier:1.0
+television:5.0
+dining table:3.0
+tench:1.0
+crutch:4.0
+barbershop:6.0
+sea urchin:1.0
+cock:1.0
+spotlight:4.0
+shower curtain:4.0
+spider web:1.0
+handkerchief:1.0
+cinema:9.0
+medicine chest:1.0
+packet:1.0
+studio couch:1.0
+microphone:1.0
+vending machine:5.0
+washbasin:3.0
+kimono:2.0
+shoji:2.0
+miniskirt:1.0
+matchstick:1.0
+paintbrush:3.0
+safe:1.0
+water bottle:1.0
+monastery:1.0
+steel drum:1.0
+desktop computer:1.0
+scale:1.0
+safety pin:2.0
+bullet train:1.0
+refrigerator:6.0
+bearskin:2.0
+feather boa:1.0
+groom:1.0
+switch:1.0
+assault rifle:1.0
+turnstile:3.0
+jean:4.0
+patio:1.0

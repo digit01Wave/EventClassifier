@@ -1,0 +1,24 @@
+jigsaw puzzle:1.0
+poncho:1.0
+stole:2.0
+slot:1.0
+confectionery:1.0
+accordion:1.0
+crossword puzzle:1.0
+miniskirt:1.0
+grocery store:1.0
+apron:4.0
+golfcart:1.0
+Christmas stocking:4.0
+bottlecap:1.0
+stethoscope:1.0
+plunger:2.0
+folding chair:1.0
+feather boa:4.0
+dining table:1.0
+maraca:1.0
+iron:1.0
+cake:1.0
+jean:1.0
+Band Aid:1.0
+pajama:6.0

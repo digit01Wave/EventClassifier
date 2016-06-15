@@ -1,0 +1,70 @@
+wig:1.0
+stole:1.0
+shield:1.0
+palace:2.0
+canoe:1.0
+lakeside:3.0
+wool:1.0
+promontory:1.0
+breakwater:1.0
+prayer rug:1.0
+megalith:2.0
+seashore:4.0
+paddle:1.0
+sandbar:4.0
+sundial:1.0
+chime:1.0
+pedestal:9.0
+poncho:1.0
+hammer:1.0
+water jug:1.0
+mitten:1.0
+manhole cover:1.0
+ocarina:1.0
+balloon:2.0
+mosque:2.0
+lab coat:1.0
+crutch:1.0
+fountain:2.0
+dam:2.0
+maze:2.0
+bathing cap:1.0
+cuirass:1.0
+abaya:1.0
+pirate:1.0
+schooner:1.0
+stupa:2.0
+sunglasses:4.0
+totem pole:3.0
+sarong:3.0
+water bottle:1.0
+obelisk:5.0
+monastery:9.0
+miniskirt:1.0
+steel drum:1.0
+vestment:2.0
+vase:1.0
+whistle:1.0
+beacon:1.0
+boathouse:1.0
+sunglass:3.0
+vault:5.0
+brass:1.0
+drilling platform:1.0
+aircraft carrier:1.0
+cliff:13.0
+cliff dwelling:16.0
+triumphal arch:7.0
+valley:1.0
+dock:1.0
+mortar:1.0
+bell cote:2.0
+Dungeness crab:1.0
+Arabian camel:1.0
+paddlewheel:1.0
+swing:1.0
+turnstile:1.0
+castle:1.0
+pillow:1.0
+pajama:1.0
+greenhouse:1.0

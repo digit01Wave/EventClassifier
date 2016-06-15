@@ -1,0 +1,27 @@
+suspension bridge:2.0
+swimming trunks:1.0
+hog:2.0
+maraca:1.0
+white wolf:1.0
+polecat:1.0
+maze:1.0
+chainlink fence:2.0
+lawn mower:1.0
+mushroom:1.0
+water bottle:1.0
+whistle:1.0
+nipple:1.0
+worm fence:1.0
+wallaby:1.0
+park bench:1.0
+broccoli:1.0
+barrow:1.0
+croquet ball:2.0
+tray:1.0
+hair spray:1.0
+ice lolly:5.0
+swing:3.0
+cake:1.0
+turnstile:1.0
+apiary:1.0
+bolete:1.0

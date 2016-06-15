@@ -1,0 +1,32 @@
+entertainment center:1.0
+groom:4.0
+bow tie:1.0
+bookshop:2.0
+jigsaw puzzle:1.0
+sliding door:2.0
+microphone:1.0
+monitor:5.0
+menu:2.0
+balloon:1.0
+cinema:1.0
+night snake:1.0
+suit:4.0
+screen:1.0
+cash machine:3.0
+torch:1.0
+oboe:1.0
+soap dispenser:1.0
+tobacco shop:1.0
+power drill:1.0
+desk:3.0
+home theater:2.0
+shoe shop:2.0
+stage:3.0
+television:6.0
+dining table:1.0
+restaurant:2.0
+bakery:2.0
+barbershop:2.0
+plunger:1.0
+Band Aid:1.0
+jersey:1.0

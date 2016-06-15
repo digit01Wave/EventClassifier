@@ -1,0 +1,51 @@
+handkerchief:1.0
+lakeside:2.0
+platypus:1.0
+maypole:1.0
+triceratops:1.0
+breakwater:1.0
+swimming trunks:2.0
+paper towel:1.0
+snowmobile:2.0
+sandbar:4.0
+leatherback turtle:1.0
+chime:1.0
+radio telescope:1.0
+quill:1.0
+plow:2.0
+mountain bike:1.0
+seashore:6.0
+picket fence:1.0
+rock crab:1.0
+flagpole:1.0
+bathing cap:1.0
+bubble:1.0
+lawn mower:1.0
+solar dish:1.0
+dragonfly:1.0
+golfcart:1.0
+umbrella:1.0
+totem pole:1.0
+cannon:2.0
+pineapple:1.0
+mailbox:1.0
+thatch:1.0
+loggerhead:1.0
+racer:1.0
+upright:1.0
+tub:1.0
+jellyfish:4.0
+binoculars:1.0
+tank:1.0
+sea lion:1.0
+ski:1.0
+sundial:1.0
+dugong:1.0
+megalith:1.0
+amphibian:1.0
+paddlewheel:1.0
+swing:1.0
+bobsled:1.0
+ice bear:1.0
+sea slug:1.0
+water buffalo:1.0

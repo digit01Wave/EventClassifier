@@ -1,0 +1,21 @@
+cinema:1.0
+microphone:2.0
+grand piano:1.0
+drum:7.0
+cello:1.0
+acoustic guitar:1.0
+accordion:2.0
+bassoon:5.0
+electric guitar:19.0
+torch:1.0
+banjo:7.0
+trombone:3.0
+theater curtain:1.0
+sax:13.0
+sewing machine:1.0
+carousel:1.0
+cowboy hat:12.0
+drumstick:7.0
+cornet:2.0
+laptop:2.0
+stage:72.0

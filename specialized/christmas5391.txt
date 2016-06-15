@@ -1,0 +1,81 @@
+oxygen mask:1.0
+bow tie:3.0
+crib:1.0
+groom:2.0
+koala:1.0
+quilt:2.0
+entertainment center:1.0
+cairn:1.0
+Samoyed:1.0
+laptop:2.0
+bookshop:1.0
+fur coat:1.0
+library:2.0
+sunscreen:1.0
+china cabinet:2.0
+spatula:1.0
+jigsaw puzzle:9.0
+sax:1.0
+sewing machine:2.0
+oxcart:1.0
+cleaver:1.0
+violin:1.0
+shopping cart:1.0
+maraca:1.0
+toyshop:70.0
+teddy:8.0
+cloak:1.0
+Airedale:1.0
+rocking chair:1.0
+Chesapeake Bay retriever:1.0
+kimono:1.0
+crossword puzzle:1.0
+kuvasz:1.0
+barbershop:2.0
+carton:3.0
+comic book:3.0
+electric guitar:1.0
+paintbrush:1.0
+West Highland white terrier:1.0
+apron:1.0
+abacus:2.0
+butcher shop:1.0
+marimba:1.0
+oboe:1.0
+stretcher:1.0
+altar:1.0
+flute:1.0
+shopping basket:1.0
+screwdriver:1.0
+Christmas stocking:15.0
+restaurant:6.0
+power drill:1.0
+confectionery:21.0
+stethoscope:1.0
+Italian greyhound:1.0
+vacuum:2.0
+park bench:1.0
+clumber:1.0
+hand blower:3.0
+trench coat:1.0
+Irish terrier:1.0
+shoe shop:4.0
+throne:1.0
+Rottweiler:1.0
+television:5.0
+Band Aid:1.0
+drum:1.0
+tricycle:3.0
+hair slide:1.0
+accordion:2.0
+pretzel:1.0
+hair spray:4.0
+christmas tree:9.0
+ice lolly:1.0
+cake:1.0
+studio couch:1.0
+home theater:1.0
+grocery store:1.0
+pillow:1.0
+pajama:8.0
+space heater:1.0

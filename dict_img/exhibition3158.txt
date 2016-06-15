@@ -1,0 +1,133 @@
+laptop:1.0
+scoreboard:1.0
+barbell:2.0
+greenhouse:4.0
+shopping cart:1.0
+ocarina:1.0
+sliding door:1.0
+window shade:1.0
+monitor:4.0
+harmonica:1.0
+menu:1.0
+grand piano:2.0
+container ship:5.0
+fire screen:1.0
+balance beam:6.0
+prison:1.0
+carton:4.0
+grocery store:4.0
+ping-pong ball:3.0
+cash machine:1.0
+dam:1.0
+parallel bars:2.0
+photocopier:4.0
+street sign:1.0
+desk:18.0
+tile roof:2.0
+worm fence:1.0
+chainlink fence:1.0
+paper towel:1.0
+punching bag:2.0
+perfume:1.0
+abaya:1.0
+tray:1.0
+bow tie:1.0
+letter opener:1.0
+torch:1.0
+library:11.0
+sturgeon:1.0
+nail:1.0
+bannister:2.0
+jigsaw puzzle:1.0
+web site:1.0
+sewing machine:2.0
+guillotine:2.0
+candle:1.0
+book jacket:1.0
+dumbbell:1.0
+go-kart:6.0
+lampshade:1.0
+butcher shop:1.0
+fountain:1.0
+washer:1.0
+yurt:1.0
+screen:1.0
+mailbox:1.0
+binder:3.0
+stage:10.0
+beaker:1.0
+dishwasher:2.0
+sea lion:1.0
+restaurant:5.0
+swab:1.0
+plane:1.0
+fireboat:2.0
+projectile:1.0
+vault:2.0
+castle:1.0
+pajama:1.0
+stretcher:2.0
+forklift:5.0
+gas pump:1.0
+hook:1.0
+stupa:2.0
+syringe:1.0
+chime:1.0
+radio telescope:2.0
+birdhouse:1.0
+confectionery:4.0
+projector:1.0
+lab coat:1.0
+carousel:2.0
+pinwheel:1.0
+steel arch bridge:2.0
+throne:2.0
+Petri dish:2.0
+oboe:2.0
+altar:6.0
+envelope:7.0
+gar:1.0
+missile:1.0
+racer:4.0
+wardrobe:1.0
+crane:7.0
+aircraft carrier:1.0
+dining table:7.0
+pool table:3.0
+iron:1.0
+bobsled:1.0
+cab:3.0
+spotlight:3.0
+shower curtain:1.0
+table lamp:1.0
+palace:3.0
+cinema:1.0
+space shuttle:2.0
+planetarium:1.0
+studio couch:1.0
+file:1.0
+pedestal:1.0
+screw:1.0
+bassoon:2.0
+washbasin:2.0
+balloon:1.0
+picket fence:2.0
+kimono:1.0
+horizontal bar:3.0
+matchstick:1.0
+solar dish:2.0
+printer:4.0
+water bottle:2.0
+toyshop:4.0
+mosquito net:1.0
+bullet train:2.0
+shoe shop:5.0
+plate rack:1.0
+hair slide:1.0
+groom:2.0
+liner:2.0
+switch:1.0
+paddlewheel:1.0
+ambulance:1.0
+turnstile:4.0
+joystick:1.0

@@ -1,0 +1,7 @@
+wreck:1.0
+submarine:1.0
+yawl:120.0
+catamaran:99.0
+trimaran:56.0
+pirate:1.0
+schooner:22.0

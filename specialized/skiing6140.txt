@@ -1,0 +1,3 @@
+ski:11.0
+snowmobile:3.0
+alp:16.0

@@ -1,0 +1,28 @@
+bow tie:2.0
+quilt:2.0
+medicine chest:9.0
+bannister:1.0
+jigsaw puzzle:1.0
+studio couch:7.0
+file:1.0
+sliding door:7.0
+book jacket:3.0
+monitor:1.0
+vending machine:3.0
+washbasin:1.0
+lampshade:1.0
+shoji:2.0
+prison:1.0
+maze:1.0
+carton:1.0
+envelope:1.0
+wardrobe:2.0
+window shade:8.0
+dining table:2.0
+window screen:1.0
+switch:3.0
+wall clock:2.0
+pick:1.0
+home theater:1.0
+tray:1.0
+spotlight:1.0

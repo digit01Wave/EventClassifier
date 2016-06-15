@@ -1,9 +1,28 @@
 THINGS TO DO:
 -write bloody paper
--write concept detector
--remember to combine exhibition and art exhibition together later
--pit trained classifier based on images against each other //probably not as good
+-delete methods:
+    main_event_classifier:
+        salient_to_csv
+        return_normal
+    file_dictionary
+        super_combo
 
+Things we did:
+--we combined art exhibition and exhibition together but decided to just keep exhibition
+-in the current features we combined them together tho...
+-graduation 1532, impossible to classify but whatever...
+    -1537 is kinda hard as well unless you could read what they are holding
+-wedding 873 just full of people and maybe one in a white dress, but it's just a dress...
+Skipped:
+-skipped children bday 1966
+-wedding946
+
+
+Hard:
+-children bday 1968 is going to be very hard
+cruise6796 - very hard because took pics of scenery
+cruise6799- misclassified - ignore
+grad1584 difficult because no gowns
 
 awards-ceremony:
     might want to only use the first 50
@@ -49,7 +68,7 @@ Things we have yet to include/modify
 -easter is a biiiit iffy (ok, very iffy. Keeps seeing egg as a croquet ball)
 -perhaps just keep pary
 
--we combined art exhibition and exhibition together
+
 
 HMM:
 x Birthday 

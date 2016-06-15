@@ -1,0 +1,77 @@
+beer bottle:1.0
+birdhouse:1.0
+gong:1.0
+sandbar:5.0
+palace:7.0
+cinema:2.0
+lakeside:14.0
+theater curtain:1.0
+sundial:1.0
+tile roof:1.0
+breakwater:6.0
+bannister:1.0
+pole:1.0
+swimming trunks:5.0
+seashore:20.0
+hummingbird:2.0
+church:3.0
+pedestal:2.0
+shopping cart:1.0
+crane:2.0
+alp:2.0
+totem pole:1.0
+slot:1.0
+plow:1.0
+geyser:1.0
+streetcar:1.0
+mountain tent:1.0
+street sign:1.0
+container ship:1.0
+mosque:1.0
+bikini:3.0
+picket fence:2.0
+submarine:1.0
+Chesapeake Bay retriever:1.0
+milk can:1.0
+fountain:9.0
+American chameleon:1.0
+rock crab:2.0
+prison:1.0
+flagpole:2.0
+stingray:1.0
+bathing cap:2.0
+valley:20.0
+grocery store:1.0
+carousel:1.0
+starfish:1.0
+head cabbage:1.0
+ashcan:1.0
+monastery:1.0
+electric fan:1.0
+dome:1.0
+coral reef:1.0
+mobile home:1.0
+dock:5.0
+beacon:3.0
+rapeseed:1.0
+vault:2.0
+brass:2.0
+promontory:10.0
+pier:2.0
+barrel:1.0
+aircraft carrier:2.0
+cliff:5.0
+minibus:1.0
+tree frog:1.0
+organ:1.0
+restaurant:1.0
+trolleybus:1.0
+liner:11.0
+stone wall:3.0
+bell cote:1.0
+car wheel:1.0
+dam:4.0
+swing:1.0
+tub:2.0
+volcano:1.0
+castle:3.0

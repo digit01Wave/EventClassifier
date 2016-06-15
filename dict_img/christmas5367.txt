@@ -1,0 +1,27 @@
+Crock Pot:1.0
+wig:1.0
+curly-coated retriever:1.0
+umbrella:1.0
+quilt:1.0
+seat belt:1.0
+neck brace:1.0
+bonnet:1.0
+jigsaw puzzle:1.0
+syringe:1.0
+sweatshirt:2.0
+poncho:1.0
+hourglass:1.0
+beaker:1.0
+Christmas stocking:6.0
+confectionery:1.0
+folding chair:2.0
+christmas stocking:0.0
+hair spray:1.0
+rocking chair:1.0
+pajama:4.0
+hand blower:2.0
+pop bottle:1.0
+plunger:1.0
+carton:1.0
+bubble:1.0
+patio:1.0

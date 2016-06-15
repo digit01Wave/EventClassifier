@@ -1,0 +1,40 @@
+shovel:1.0
+palace:1.0
+lakeside:2.0
+bookshop:1.0
+fur coat:1.0
+neck brace:1.0
+seashore:1.0
+snowmobile:4.0
+stole:1.0
+military uniform:1.0
+alp:11.0
+chain mail:2.0
+gondola:1.0
+traffic light:1.0
+fountain:2.0
+sliding door:1.0
+miniskirt:1.0
+toilet seat:1.0
+ski:17.0
+cash machine:1.0
+forklift:1.0
+monastery:1.0
+prison:1.0
+dock:1.0
+llama:1.0
+turnstile:1.0
+park bench:1.0
+bullet train:1.0
+pier:1.0
+ice cream:1.0
+stage:1.0
+bolo tie:1.0
+restaurant:4.0
+bakery:1.0
+dogsled:2.0
+minivan:1.0
+ski mask:1.0
+plunger:1.0
+spotlight:1.0
+pajama:2.0

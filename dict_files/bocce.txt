@@ -1,0 +1,88 @@
+ballplayer:3.0
+crate:1.0
+shower cap:1.0
+swimming trunks:1.0
+lumbermill:4.0
+sundial:3.0
+mountain bike:2.0
+dumbbell:1.0
+sandal:1.0
+balance beam:3.0
+prison:1.0
+toilet seat:1.0
+electric locomotive:1.0
+maypole:2.0
+ping-pong ball:3.0
+cannon:1.0
+parallel bars:1.0
+street sign:1.0
+abacus:2.0
+pencil box:1.0
+croquet ball:83.0
+harvester:1.0
+punching bag:1.0
+tray:1.0
+greenhouse:5.0
+thresher:1.0
+bannister:1.0
+web site:5.0
+guillotine:1.0
+jinrikisha:1.0
+rubber eraser:1.0
+tennis ball:2.0
+fountain:1.0
+racket:2.0
+acorn:1.0
+park bench:9.0
+golf ball:5.0
+swing:3.0
+jersey:1.0
+shopping cart:1.0
+suspension bridge:2.0
+breakwater:2.0
+pole:2.0
+seashore:1.0
+bullet train:1.0
+basketball:2.0
+maraca:1.0
+steam locomotive:1.0
+dung beetle:1.0
+flagpole:1.0
+maze:4.0
+valley:1.0
+comic book:1.0
+lawn mower:1.0
+passenger car:1.0
+envelope:2.0
+mobile home:4.0
+bottlecap:1.0
+carton:1.0
+dining table:1.0
+pool table:12.0
+freight car:1.0
+ski mask:1.0
+plunger:1.0
+tractor:1.0
+doormat:1.0
+rugby ball:2.0
+palace:2.0
+lakeside:8.0
+planetarium:1.0
+volleyball:7.0
+sandbar:3.0
+buckeye:1.0
+bathing cap:1.0
+picket fence:4.0
+stone wall:1.0
+dam:2.0
+horizontal bar:1.0
+solar dish:3.0
+snail:1.0
+ashcan:1.0
+monastery:1.0
+worm fence:1.0
+soccer ball:2.0
+brass:2.0
+rule:1.0
+parking meter:2.0
+patio:15.0

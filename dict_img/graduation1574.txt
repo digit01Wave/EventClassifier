@@ -1,0 +1,18 @@
+cellular telephone:2.0
+wig:1.0
+oxygen mask:1.0
+sunglasses:1.0
+seat belt:1.0
+kimono:2.0
+bow:1.0
+hair spray:2.0
+academic gown:2.0
+studio couch:1.0
+water jug:1.0
+sunglass:1.0
+miniskirt:1.0
+sweatshirt:1.0
+Band Aid:1.0
+mortarboard:5.0
+jersey:1.0
+toyshop:2.0

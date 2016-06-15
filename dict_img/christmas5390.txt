@@ -1,0 +1,74 @@
+Crock Pot:1.0
+doormat:1.0
+Cardigan:1.0
+beer bottle:1.0
+vending machine:1.0
+bow tie:1.0
+Siberian husky:1.0
+laptop:1.0
+Italian greyhound:3.0
+miniature schnauzer:1.0
+neck brace:2.0
+sunscreen:1.0
+spatula:1.0
+jigsaw puzzle:1.0
+dining table:7.0
+Dungeness crab:1.0
+weasel:1.0
+candle:2.0
+stole:3.0
+mouse:1.0
+mortarboard:1.0
+Shih-Tzu:2.0
+harmonica:1.0
+sarong:1.0
+waffle iron:1.0
+maraca:2.0
+sombrero:1.0
+whippet:1.0
+beagle:1.0
+crossword puzzle:1.0
+night snake:1.0
+wok:1.0
+miniskirt:2.0
+pop bottle:1.0
+bathing cap:3.0
+pot:1.0
+paintbrush:1.0
+West Highland white terrier:1.0
+basset:1.0
+apron:2.0
+wine bottle:1.0
+schipperke:4.0
+plate:2.0
+Labrador retriever:2.0
+pitcher:1.0
+shopping basket:1.0
+wig:1.0
+steel drum:2.0
+Christmas stocking:4.0
+groenendael:1.0
+red wine:1.0
+Great Dane:4.0
+toilet seat:1.0
+Angora:2.0
+miniature pinscher:1.0
+Dutch oven:1.0
+toy poodle:2.0
+croquet ball:3.0
+oxygen mask:1.0
+feather boa:1.0
+restaurant:2.0
+tench:1.0
+groom:1.0
+Staffordshire bullterrier:1.0
+wire-haired fox terrier:2.0
+hair spray:1.0
+bakery:2.0
+miniature poodle:2.0
+nipple:2.0
+jersey:1.0
+Doberman:1.0
+skunk:2.0
+tray:1.0
+pajama:5.0

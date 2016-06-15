@@ -1,0 +1,23 @@
+parachute:1.0
+snowmobile:27.0
+buckeye:4.0
+shopping cart:1.0
+alp:54.0
+snowplow:2.0
+mountain tent:1.0
+paddle:1.0
+picket fence:7.0
+fountain:1.0
+ski:134.0
+admiral:4.0
+hip:10.0
+sunglasses:1.0
+sunglass:1.0
+park bench:1.0
+cliff:1.0
+ant:3.0
+coral fungus:6.0
+bee:2.0
+dogsled:2.0
+great grey owl:2.0
+ski mask:1.0

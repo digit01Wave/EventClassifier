@@ -1,0 +1,25 @@
+quilt:1.0
+promontory:2.0
+breakwater:1.0
+studio couch:1.0
+sandbar:1.0
+sliding door:1.0
+teddy:1.0
+Blenheim spaniel:1.0
+alp:1.0
+ibex:1.0
+miniskirt:1.0
+valley:4.0
+steel arch bridge:1.0
+apron:1.0
+ashcan:1.0
+dam:2.0
+space heater:1.0
+Australian terrier:1.0
+restaurant:1.0
+liner:1.0
+seashore:1.0
+jean:1.0
+solar dish:1.0
+bath towel:1.0
+jersey:1.0

@@ -1,0 +1,37 @@
+wig:1.0
+bow tie:1.0
+stretcher:1.0
+gown:1.0
+maillot:1.0
+breakwater:1.0
+radio telescope:1.0
+shopping cart:1.0
+book jacket:1.0
+toilet tissue:1.0
+monitor:1.0
+snowplow:1.0
+speedboat:1.0
+suit:3.0
+thimble:1.0
+Windsor tie:1.0
+drumstick:1.0
+comic book:1.0
+sunglasses:2.0
+dam:1.0
+screen:1.0
+miniskirt:2.0
+school bus:1.0
+diaper:3.0
+maze:1.0
+wardrobe:1.0
+tub:1.0
+space shuttle:1.0
+television:1.0
+restaurant:1.0
+lifeboat:1.0
+swab:1.0
+liner:4.0
+paddlewheel:1.0
+four-poster:1.0
+plunger:1.0
+brassiere:1.0

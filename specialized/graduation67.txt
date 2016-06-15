@@ -1,0 +1,33 @@
+wig:2.0
+bow tie:1.0
+turnstile:1.0
+cinema:1.0
+theater curtain:1.0
+fur coat:2.0
+crib:2.0
+mortarboard:15.0
+military uniform:3.0
+cornet:1.0
+academic gown:17.0
+velvet:1.0
+maraca:1.0
+bassoon:1.0
+grand piano:1.0
+cloak:3.0
+laptop:2.0
+scoreboard:2.0
+bib:1.0
+vestment:1.0
+street sign:1.0
+notebook:1.0
+neck brace:1.0
+rifle:1.0
+bullet train:1.0
+trench coat:1.0
+stage:1.0
+bearskin:2.0
+bell cote:1.0
+pajama:4.0
+abaya:2.0
+Band Aid:1.0
+assault rifle:1.0

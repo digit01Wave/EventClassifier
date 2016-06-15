@@ -1,0 +1,80 @@
+safety pin:1.0
+gown:1.0
+sleeping bag:1.0
+maillot:2.0
+triceratops:2.0
+ant:1.0
+prayer rug:1.0
+pole:2.0
+swimming trunks:2.0
+mongoose:1.0
+syringe:2.0
+mountain bike:3.0
+bow:1.0
+hammer:1.0
+crane:1.0
+alp:4.0
+ibex:1.0
+geyser:1.0
+hoopskirt:1.0
+leatherback turtle:1.0
+mountain tent:1.0
+balloon:2.0
+eft:1.0
+paddle:2.0
+airship:1.0
+hay:1.0
+fountain:4.0
+rock crab:1.0
+crash helmet:1.0
+basketball:1.0
+bathing cap:2.0
+electric locomotive:1.0
+bubble:2.0
+admiral:1.0
+lawn mower:2.0
+schooner:1.0
+anemone fish:1.0
+cuirass:1.0
+umbrella:1.0
+carousel:1.0
+starfish:1.0
+water bottle:1.0
+brain coral:1.0
+corn:2.0
+warplane:1.0
+coral reef:2.0
+vestment:2.0
+thatch:1.0
+bottlecap:1.0
+snorkel:2.0
+mosquito net:3.0
+chain saw:4.0
+knot:2.0
+overskirt:1.0
+agama:1.0
+reel:1.0
+pinwheel:2.0
+shoe shop:1.0
+cliff:134.0
+cliff dwelling:6.0
+parachute:2.0
+valley:1.0
+sea cucumber:1.0
+ski:4.0
+hognose snake:1.0
+bucket:1.0
+fiddler crab:1.0
+padlock:1.0
+crutch:1.0
+bee:1.0
+hair spray:2.0
+bikini:1.0
+megalith:2.0
+freight car:1.0
+paintbrush:4.0
+tiger beetle:1.0
+swing:7.0
+volcano:1.0
+Band Aid:2.0
+shower curtain:10.0

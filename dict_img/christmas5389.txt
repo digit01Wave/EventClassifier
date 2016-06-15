@@ -1,0 +1,74 @@
+wig:9.0
+entertainment center:1.0
+Crock Pot:1.0
+sliding door:1.0
+barber chair:1.0
+handkerchief:2.0
+medicine chest:1.0
+laptop:3.0
+bookshop:2.0
+library:4.0
+Sealyham terrier:1.0
+Lhasa:1.0
+spatula:1.0
+jigsaw puzzle:1.0
+paper towel:4.0
+lab coat:3.0
+file:1.0
+syringe:2.0
+shopping cart:1.0
+stole:9.0
+quill:2.0
+book jacket:1.0
+poncho:2.0
+desktop computer:1.0
+brassiere:3.0
+ocarina:1.0
+neck brace:2.0
+kimono:1.0
+microwave:1.0
+crutch:1.0
+Shih-Tzu:4.0
+miniskirt:5.0
+drumstick:2.0
+lipstick:1.0
+carton:4.0
+comic book:2.0
+paintbrush:1.0
+West Highland white terrier:3.0
+apron:1.0
+sunglasses:1.0
+Bedlington terrier:1.0
+overskirt:1.0
+guinea pig:1.0
+soft-coated wheaten terrier:1.0
+envelope:2.0
+vestment:1.0
+Christmas stocking:8.0
+whistle:1.0
+notebook:2.0
+Maltese dog:6.0
+desk:1.0
+wardrobe:1.0
+clumber:1.0
+hand blower:2.0
+refrigerator:3.0
+barrow:1.0
+wire-haired fox terrier:1.0
+toy poodle:2.0
+television:1.0
+feather boa:1.0
+restaurant:1.0
+hair slide:1.0
+maillot:1.0
+bath towel:1.0
+sleeping bag:2.0
+hair spray:4.0
+bikini:1.0
+barbershop:2.0
+menu:1.0
+jean:3.0
+Band Aid:2.0
+Dandie Dinmont:1.0
+pajama:8.0
+diaper:1.0

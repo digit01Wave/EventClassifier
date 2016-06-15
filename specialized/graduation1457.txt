@@ -1,0 +1,24 @@
+wig:1.0
+bow tie:2.0
+coho:1.0
+swimming trunks:1.0
+mortarboard:12.0
+poncho:2.0
+stole:1.0
+military uniform:1.0
+cellular telephone:1.0
+academic gown:1.0
+chain mail:1.0
+cloak:1.0
+kimono:1.0
+miniskirt:1.0
+sunglasses:1.0
+street sign:1.0
+binoculars:1.0
+sandal:1.0
+echidna:1.0
+sunglass:1.0
+rifle:1.0
+brass:1.0
+stage:5.0
+ice lolly:1.0

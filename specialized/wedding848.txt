@@ -1,0 +1,145 @@
+gown:21.0
+clog:2.0
+shield:2.0
+beer bottle:1.0
+maypole:15.0
+fur coat:1.0
+dough:1.0
+ocarina:3.0
+water jug:2.0
+cornet:1.0
+cellular telephone:1.0
+accordion:2.0
+broom:2.0
+potter's wheel:1.0
+Windsor tie:3.0
+mailbag:1.0
+Egyptian cat:1.0
+rain barrel:1.0
+grocery store:10.0
+plate:2.0
+cash machine:1.0
+sunglasses:1.0
+hoopskirt:7.0
+steel drum:3.0
+unicycle:3.0
+red wine:1.0
+cheetah:1.0
+chainlink fence:1.0
+snow leopard:1.0
+nipple:1.0
+abaya:3.0
+bow tie:9.0
+cairn:1.0
+fire engine:1.0
+torch:3.0
+library:1.0
+trombone:1.0
+candle:6.0
+military uniform:1.0
+quill:1.0
+harp:2.0
+jinrikisha:1.0
+toyshop:1.0
+breastplate:1.0
+chain mail:1.0
+tennis ball:1.0
+sombrero:1.0
+butcher shop:4.0
+fountain:1.0
+crash helmet:3.0
+ice lolly:1.0
+slot:2.0
+umbrella:2.0
+sarong:10.0
+vestment:12.0
+lotion:1.0
+academic gown:2.0
+four-poster:1.0
+goldfish:1.0
+tub:1.0
+ski mask:1.0
+folding chair:2.0
+drum:4.0
+restaurant:34.0
+conch:1.0
+brassiere:1.0
+bow:4.0
+hair spray:3.0
+cradle:1.0
+swing:1.0
+cowboy hat:3.0
+Band Aid:1.0
+pajama:2.0
+stretcher:2.0
+confectionery:1.0
+seat belt:1.0
+forklift:1.0
+bonnet:1.0
+pole:1.0
+bassinet:2.0
+mortarboard:4.0
+wine bottle:2.0
+basketball:1.0
+maraca:2.0
+lab coat:3.0
+rocking chair:1.0
+carousel:16.0
+suit:4.0
+pop bottle:2.0
+pinwheel:1.0
+bubble:4.0
+golfcart:1.0
+overskirt:1.0
+altar:6.0
+tripod:1.0
+stethoscope:1.0
+diaper:3.0
+burrito:1.0
+trench coat:1.0
+minibus:2.0
+dining table:3.0
+bucket:1.0
+crutch:2.0
+barbershop:6.0
+iron:3.0
+bobsled:1.0
+cab:1.0
+plunger:1.0
+bathtub:1.0
+spider web:1.0
+barber chair:3.0
+apron:1.0
+neck brace:1.0
+sunscreen:1.0
+studio couch:1.0
+toilet tissue:1.0
+marimba:2.0
+balloon:1.0
+panpipe:2.0
+picket fence:1.0
+kimono:6.0
+ice cream:1.0
+miniskirt:1.0
+horizontal bar:1.0
+beer glass:1.0
+American lobster:1.0
+piggy bank:1.0
+motor scooter:1.0
+water bottle:1.0
+French bulldog:1.0
+flute:1.0
+leopard:1.0
+binoculars:1.0
+mosquito net:3.0
+sunglass:2.0
+shoe shop:5.0
+bearskin:3.0
+feather boa:2.0
+groom:82.0
+mask:1.0
+bakery:4.0
+paddlewheel:1.0
+crayfish:1.0
+patio:1.0
+cake:2.0

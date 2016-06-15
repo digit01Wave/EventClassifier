@@ -1,0 +1,81 @@
+bow tie:1.0
+shovel:1.0
+car mirror:1.0
+seat belt:3.0
+bannister:1.0
+forklift:1.0
+bulbul:1.0
+library:1.0
+sunscreen:1.0
+sulphur-crested cockatoo:1.0
+jigsaw puzzle:1.0
+swimming trunks:1.0
+volleyball:1.0
+candle:1.0
+shopping cart:1.0
+military uniform:1.0
+water jug:3.0
+cornet:1.0
+jinrikisha:1.0
+toyshop:1.0
+lipstick:1.0
+go-kart:5.0
+maraca:2.0
+bassoon:2.0
+teddy:1.0
+balloon:1.0
+picket fence:1.0
+kimono:3.0
+ice cream:1.0
+carousel:5.0
+unicycle:1.0
+horizontal bar:2.0
+pinwheel:1.0
+bubble:20.0
+paintbrush:2.0
+balance beam:1.0
+ping-pong ball:5.0
+plate:1.0
+umbrella:1.0
+totem pole:1.0
+sarong:2.0
+water bottle:2.0
+pay-phone:1.0
+parallel bars:3.0
+pineapple:1.0
+bib:1.0
+screwdriver:1.0
+mailbox:2.0
+whistle:3.0
+power drill:1.0
+plane:1.0
+stethoscope:1.0
+crib:2.0
+acorn:1.0
+soccer ball:2.0
+upright:2.0
+cleaver:1.0
+tub:1.0
+stretcher:1.0
+basketball:1.0
+hummingbird:1.0
+jackfruit:1.0
+folding chair:2.0
+dishwasher:1.0
+eggnog:1.0
+marimba:2.0
+tricycle:1.0
+hair slide:1.0
+dining table:1.0
+bucket:2.0
+pretzel:1.0
+punching bag:4.0
+school bus:1.0
+hair spray:6.0
+bikini:2.0
+ice lolly:11.0
+swing:12.0
+Band Aid:5.0
+grand piano:2.0
+patio:1.0
+ski:1.0

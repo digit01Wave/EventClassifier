@@ -1,0 +1,198 @@
+gown:65.0
+shield:1.0
+beer bottle:1.0
+maypole:21.0
+viaduct:1.0
+scoreboard:1.0
+megalith:1.0
+greenhouse:1.0
+sundial:1.0
+cornet:2.0
+cellular telephone:2.0
+sandal:1.0
+goblet:3.0
+brassiere:1.0
+menu:2.0
+seat belt:1.0
+cloak:5.0
+Afghan hound:3.0
+Windsor tie:3.0
+French horn:1.0
+crossword puzzle:3.0
+mailbag:1.0
+carton:1.0
+ballplayer:1.0
+grocery store:2.0
+plate:7.0
+cash machine:1.0
+sunglasses:3.0
+hoopskirt:29.0
+head cabbage:2.0
+tobacco shop:1.0
+screwdriver:1.0
+vase:11.0
+whistle:2.0
+red wine:1.0
+chain saw:1.0
+barrow:1.0
+croquet ball:8.0
+cabbage butterfly:1.0
+punching bag:2.0
+ice lolly:3.0
+four-poster:2.0
+tray:2.0
+lumbermill:2.0
+bow tie:28.0
+quilt:2.0
+letter opener:1.0
+barracouta:1.0
+torch:7.0
+packet:1.0
+bannister:1.0
+jigsaw puzzle:1.0
+guillotine:2.0
+candle:5.0
+poncho:2.0
+military uniform:2.0
+ice cream:3.0
+book jacket:2.0
+velvet:2.0
+lipstick:2.0
+English setter:1.0
+Greater Swiss Mountain dog:1.0
+lampshade:1.0
+yurt:1.0
+cradle:1.0
+fountain:4.0
+birdhouse:1.0
+unicycle:4.0
+umbrella:3.0
+sarong:10.0
+Granny Smith:1.0
+corn:2.0
+vestment:5.0
+lotion:1.0
+binder:1.0
+abaya:1.0
+park bench:9.0
+mailbox:1.0
+stage:33.0
+cliff dwelling:1.0
+folding chair:8.0
+eggnog:1.0
+restaurant:36.0
+conch:2.0
+sleeping bag:6.0
+harmonica:3.0
+golf ball:3.0
+hair spray:5.0
+swing:3.0
+accordion:4.0
+buckle:1.0
+jersey:2.0
+wig:14.0
+ballpoint:2.0
+stretcher:3.0
+face powder:3.0
+suspension bridge:1.0
+maillot:2.0
+pot:13.0
+bonnet:2.0
+pole:1.0
+weasel:1.0
+syringe:1.0
+mortarboard:4.0
+gasmask:1.0
+wine bottle:4.0
+academic gown:2.0
+maraca:1.0
+English springer:1.0
+lab coat:1.0
+Loafer:1.0
+rocking chair:1.0
+shoe shop:1.0
+carousel:1.0
+suit:35.0
+flagpole:2.0
+maze:7.0
+pinwheel:1.0
+valley:4.0
+limousine:19.0
+overskirt:14.0
+oboe:7.0
+altar:7.0
+envelope:2.0
+tripod:2.0
+mobile home:1.0
+stethoscope:1.0
+diaper:1.0
+rifle:1.0
+burrito:1.0
+crane:1.0
+ear:2.0
+reel:1.0
+Dutch oven:9.0
+dining table:27.0
+bubble:2.0
+rain barrel:1.0
+crutch:4.0
+pool table:1.0
+barbershop:1.0
+knee pad:1.0
+ski mask:1.0
+plunger:1.0
+spotlight:10.0
+shower curtain:4.0
+doormat:2.0
+rotisserie:2.0
+football helmet:1.0
+apron:2.0
+stone wall:2.0
+medicine chest:1.0
+neck brace:1.0
+ant:1.0
+trombone:1.0
+sax:1.0
+sandbar:1.0
+pedestal:2.0
+stole:7.0
+wreck:1.0
+microphone:9.0
+cardigan:1.0
+coho:3.0
+marimba:3.0
+leatherback turtle:1.0
+bassoon:1.0
+washbasin:1.0
+ladle:1.0
+panpipe:1.0
+picket fence:2.0
+kimono:5.0
+quill:4.0
+miniskirt:4.0
+horizontal bar:1.0
+beer glass:1.0
+caldron:1.0
+paintbrush:4.0
+honeycomb:1.0
+daisy:3.0
+steel drum:3.0
+notebook:1.0
+mosquito net:4.0
+sunglass:3.0
+soccer ball:3.0
+brass:1.0
+street sign:4.0
+broccoli:2.0
+miniature pinscher:1.0
+cliff:6.0
+feather boa:5.0
+groom:203.0
+volleyball:1.0
+breastplate:1.0
+bakery:4.0
+pajama:13.0
+trench coat:1.0
+skunk:1.0
+bath towel:1.0
+patio:10.0

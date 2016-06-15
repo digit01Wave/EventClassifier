@@ -1,0 +1,31 @@
+bassinet:1.0
+handkerchief:1.0
+seat belt:2.0
+neck brace:3.0
+prayer rug:1.0
+dough:1.0
+candle:4.0
+sweatshirt:1.0
+poncho:1.0
+sandal:1.0
+mixing bowl:1.0
+maraca:1.0
+whippet:1.0
+night snake:1.0
+unicycle:1.0
+king snake:1.0
+balance beam:1.0
+apron:1.0
+sarong:1.0
+bib:2.0
+stethoscope:2.0
+boa constrictor:1.0
+cleaver:1.0
+barrow:1.0
+spatula:1.0
+crutch:1.0
+nipple:2.0
+swing:2.0
+jean:1.0
+tray:2.0
+pajama:10.0

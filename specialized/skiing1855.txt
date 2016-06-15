@@ -1,0 +1,33 @@
+shovel:3.0
+football helmet:1.0
+chain:1.0
+cinema:1.0
+nail:1.0
+wooden spoon:1.0
+missile:1.0
+spider web:1.0
+snowmobile:1.0
+alp:3.0
+barn:1.0
+monitor:1.0
+snowplow:2.0
+sliding door:1.0
+drumstick:1.0
+matchstick:1.0
+bubble:1.0
+umbrella:1.0
+flute:1.0
+street sign:1.0
+mobile home:1.0
+crane:1.0
+window shade:1.0
+chainlink fence:1.0
+harvester:1.0
+ski:7.0
+window screen:1.0
+tow truck:1.0
+dogsled:1.0
+great grey owl:1.0
+parking meter:1.0
+projectile:1.0
+barrow:1.0

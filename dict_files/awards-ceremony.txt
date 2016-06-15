@@ -1,0 +1,113 @@
+beer bottle:1.0
+gown:9.0
+theater curtain:15.0
+scoreboard:1.0
+barbell:1.0
+dumbbell:1.0
+ocarina:2.0
+water jug:2.0
+monitor:1.0
+accordion:1.0
+menu:18.0
+pickelhaube:1.0
+balance beam:2.0
+Windsor tie:1.0
+French horn:1.0
+crossword puzzle:2.0
+carton:1.0
+apron:1.0
+hoopskirt:2.0
+oscilloscope:1.0
+steel drum:1.0
+street sign:1.0
+whistle:2.0
+red wine:1.0
+oxygen mask:1.0
+organ:1.0
+perfume:2.0
+abaya:4.0
+letter opener:3.0
+fire engine:1.0
+torch:2.0
+packet:2.0
+web site:35.0
+trombone:1.0
+candle:2.0
+hammer:1.0
+military uniform:2.0
+hourglass:1.0
+book jacket:5.0
+fountain pen:1.0
+toyshop:1.0
+revolver:1.0
+lampshade:1.0
+fountain:4.0
+unicycle:1.0
+bathing cap:1.0
+umbrella:1.0
+sarong:3.0
+vestment:1.0
+park bench:1.0
+stage:27.0
+folding chair:1.0
+drum:1.0
+restaurant:2.0
+corkscrew:3.0
+pillow:1.0
+jersey:3.0
+wig:1.0
+maillot:4.0
+rhinoceros beetle:1.0
+hook:2.0
+church:4.0
+gasmask:1.0
+wine bottle:2.0
+academic gown:2.0
+projector:2.0
+plastic bag:1.0
+lab coat:2.0
+Loafer:1.0
+suit:7.0
+drumstick:1.0
+comic book:6.0
+overskirt:3.0
+oboe:4.0
+altar:4.0
+envelope:9.0
+library:6.0
+trench coat:1.0
+cuirass:1.0
+television:1.0
+dining table:1.0
+limousine:1.0
+pool table:1.0
+cello:1.0
+plunger:2.0
+spotlight:4.0
+table lamp:1.0
+palace:1.0
+cinema:2.0
+sunscreen:1.0
+planetarium:1.0
+sax:1.0
+toilet tissue:1.0
+microphone:2.0
+marimba:1.0
+bassoon:3.0
+balloon:1.0
+coffeepot:1.0
+kimono:1.0
+miniskirt:4.0
+matchstick:1.0
+American lobster:1.0
+water bottle:1.0
+pitcher:1.0
+flute:3.0
+notebook:1.0
+coil:1.0
+brass:2.0
+hair slide:1.0
+groom:5.0
+pajama:1.0
+jean:4.0
+whiskey jug:1.0

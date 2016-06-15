@@ -1,0 +1,36 @@
+gong:1.0
+palace:3.0
+lakeside:2.0
+pot:1.0
+triceratops:1.0
+library:1.0
+ant:1.0
+megalith:5.0
+oxcart:1.0
+church:1.0
+sweatshirt:1.0
+alp:1.0
+sea anemone:3.0
+sombrero:1.0
+cloak:1.0
+picket fence:3.0
+fountain:1.0
+maze:2.0
+valley:1.0
+passenger car:1.0
+obelisk:3.0
+vase:1.0
+cowboy boot:1.0
+mountain tent:1.0
+ski mask:1.0
+yellow lady's slipper:1.0
+brass:1.0
+ear:1.0
+greenhouse:6.0
+castle:1.0
+sea lion:1.0
+bee:3.0
+daisy:6.0
+abaya:1.0
+sea slug:1.0
+lumbermill:2.0

@@ -1,0 +1,49 @@
+table lamp:1.0
+doormat:3.0
+lens cap:1.0
+quilt:3.0
+meat loaf:1.0
+neck brace:1.0
+bonnet:1.0
+prayer rug:4.0
+jigsaw puzzle:2.0
+mantis:1.0
+chime:1.0
+rubber eraser:1.0
+stole:2.0
+strainer:1.0
+abacus:1.0
+monitor:1.0
+waffle iron:1.0
+teddy:1.0
+cloak:1.0
+lampshade:2.0
+chest:1.0
+fountain:1.0
+drumstick:1.0
+pencil box:1.0
+giant panda:1.0
+trilobite:1.0
+fur coat:1.0
+screen:1.0
+pick:1.0
+envelope:1.0
+crate:3.0
+padlock:1.0
+thimble:1.0
+cockroach:1.0
+knot:1.0
+purse:1.0
+window shade:1.0
+television:1.0
+Band Aid:1.0
+pretzel:1.0
+punching bag:2.0
+pillow:2.0
+wallet:1.0
+crossword puzzle:1.0
+daisy:1.0
+crayfish:1.0
+apiary:1.0
+spotlight:1.0
+shower curtain:3.0

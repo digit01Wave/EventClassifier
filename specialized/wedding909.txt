@@ -1,0 +1,83 @@
+wig:1.0
+bow tie:18.0
+barber chair:1.0
+beagle:1.0
+Siberian husky:1.0
+theater curtain:1.0
+torch:3.0
+Italian greyhound:1.0
+neck brace:1.0
+chocolate sauce:1.0
+jigsaw puzzle:1.0
+Brittany spaniel:1.0
+lumbermill:1.0
+mountain bike:1.0
+guillotine:6.0
+candle:3.0
+mortarboard:1.0
+poncho:1.0
+stole:1.0
+sliding door:2.0
+harp:2.0
+jinrikisha:1.0
+toilet tissue:2.0
+academic gown:6.0
+overskirt:3.0
+accordion:1.0
+bassoon:1.0
+trench coat:1.0
+English springer:1.0
+chime:1.0
+cloak:1.0
+whippet:1.0
+picket fence:1.0
+Shetland sheepdog:1.0
+rocking chair:3.0
+Great Pyrenees:1.0
+shoji:1.0
+suit:5.0
+flagpole:1.0
+banjo:1.0
+marimba:1.0
+electric guitar:2.0
+dining table:2.0
+bookshop:1.0
+carousel:1.0
+hoopskirt:2.0
+oboe:1.0
+altar:2.0
+prison:1.0
+steel drum:2.0
+tripod:1.0
+Ibizan hound:1.0
+vestment:7.0
+confectionery:1.0
+mosquito net:1.0
+diaper:1.0
+wallaby:1.0
+wardrobe:2.0
+Windsor tie:1.0
+abacus:2.0
+standard schnauzer:1.0
+Airedale:1.0
+shoe shop:1.0
+stage:4.0
+Walker hound:1.0
+violin:2.0
+feather boa:2.0
+acoustic guitar:1.0
+restaurant:6.0
+groom:7.0
+window screen:1.0
+crutch:2.0
+breastplate:1.0
+hair spray:1.0
+bakery:1.0
+nipple:2.0
+pajama:1.0
+cello:1.0
+swing:1.0
+cake:1.0
+stethoscope:1.0
+spotlight:1.0
+patio:3.0

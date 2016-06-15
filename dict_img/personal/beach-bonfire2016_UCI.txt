@@ -1,0 +1,40 @@
+rotisserie:1.0
+cinema:1.0
+caldron:4.0
+torch:7.0
+sunscreen:2.0
+shower cap:1.0
+swimming trunks:3.0
+seashore:3.0
+lumbermill:2.0
+sandbar:7.0
+candle:1.0
+American lobster:2.0
+water jug:1.0
+geyser:1.0
+lampshade:1.0
+fire screen:1.0
+wok:2.0
+bathing cap:1.0
+matchstick:1.0
+stove:1.0
+schooner:1.0
+umbrella:1.0
+Dutch oven:1.0
+steel drum:1.0
+king crab:2.0
+snorkel:1.0
+diaper:1.0
+ear:1.0
+stage:1.0
+parachute:1.0
+burrito:1.0
+restaurant:1.0
+conch:1.0
+sleeping bag:1.0
+groom:1.0
+crutch:1.0
+Dungeness crab:1.0
+cowboy hat:1.0
+volcano:3.0
+crayfish:1.0

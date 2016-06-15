@@ -1,0 +1,84 @@
+wig:3.0
+entertainment center:1.0
+gong:1.0
+beer bottle:1.0
+shield:1.0
+quilt:1.0
+cinema:3.0
+medicine chest:1.0
+theater curtain:2.0
+triceratops:2.0
+fur coat:2.0
+goblet:1.0
+library:2.0
+palace:1.0
+bannister:2.0
+jigsaw puzzle:1.0
+clog:1.0
+radio:1.0
+syringe:2.0
+poncho:1.0
+birdhouse:1.0
+loudspeaker:1.0
+toyshop:2.0
+projector:7.0
+analog clock:1.0
+teddy:1.0
+menu:3.0
+traffic light:2.0
+safe:1.0
+kimono:1.0
+lampshade:2.0
+suit:1.0
+thimble:1.0
+potter's wheel:1.0
+carousel:1.0
+altar:6.0
+wall clock:1.0
+matchstick:2.0
+comic book:2.0
+soap dispenser:1.0
+passenger car:1.0
+pier:1.0
+ski mask:2.0
+espresso maker:1.0
+bookshop:1.0
+rock crab:1.0
+reflex camera:1.0
+cannon:1.0
+solar dish:1.0
+miniskirt:1.0
+vestment:2.0
+vase:1.0
+king crab:1.0
+abaya:1.0
+tripod:3.0
+llama:1.0
+desk:1.0
+tub:1.0
+lotion:1.0
+trench coat:1.0
+teapot:1.0
+shoe shop:1.0
+stage:3.0
+throne:3.0
+television:3.0
+spiny lobster:1.0
+organ:1.0
+Indian elephant:1.0
+digital clock:1.0
+mask:16.0
+pretzel:1.0
+punching bag:1.0
+perfume:1.0
+barrel:1.0
+switch:2.0
+Arabian camel:1.0
+barbershop:1.0
+turnstile:1.0
+home theater:1.0
+bathtub:1.0
+spotlight:5.0
+pajama:1.0
+chest:1.0
+christmas tree:1.0

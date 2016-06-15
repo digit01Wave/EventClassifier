@@ -1,0 +1,13 @@
+microphone:4.0
+drum:8.0
+oboe:1.0
+electric guitar:5.0
+harmonica:4.0
+steel drum:1.0
+French horn:1.0
+sax:17.0
+trombone:10.0
+drumstick:7.0
+stage:53.0
+spotlight:4.0
+cornet:5.0

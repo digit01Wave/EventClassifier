@@ -1,0 +1,21 @@
+bow tie:2.0
+microphone:32.0
+drum:1.0
+sarong:1.0
+acoustic guitar:8.0
+maraca:3.0
+cornet:3.0
+accordion:1.0
+electric guitar:69.0
+flute:1.0
+screwdriver:1.0
+sax:13.0
+oboe:1.0
+cello:1.0
+violin:1.0
+trombone:2.0
+drumstick:5.0
+banjo:10.0
+stole:2.0
+jersey:2.0
+stage:92.0

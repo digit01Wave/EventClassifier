@@ -1,0 +1,34 @@
+spider web:1.0
+moped:1.0
+lakeside:2.0
+alp:36.0
+bannister:1.0
+snowmobile:12.0
+sandbar:1.0
+drilling platform:1.0
+mountain bike:1.0
+birdhouse:1.0
+giant schnauzer:1.0
+snowplow:1.0
+steam locomotive:1.0
+sliding door:1.0
+wok:1.0
+valley:1.0
+ski:32.0
+pot:1.0
+passenger car:1.0
+hip:2.0
+stupa:1.0
+daisy:1.0
+steel drum:1.0
+sea urchin:1.0
+bicycle-built-for-two:1.0
+worm fence:1.0
+chain saw:1.0
+park bench:1.0
+sleeping bag:2.0
+dogsled:9.0
+swing:1.0
+bobsled:1.0
+volcano:1.0
+patio:1.0

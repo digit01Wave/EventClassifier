@@ -1,0 +1,34 @@
+barn spider:1.0
+acorn:1.0
+lakeside:2.0
+bannister:2.0
+pole:1.0
+megalith:2.0
+snowmobile:2.0
+buckeye:1.0
+mountain bike:1.0
+alp:11.0
+hippopotamus:1.0
+teddy:1.0
+traffic light:1.0
+container ship:1.0
+mosque:1.0
+picket fence:1.0
+crash helmet:1.0
+ski:9.0
+hip:1.0
+totem pole:3.0
+obelisk:1.0
+ptarmigan:1.0
+tobacco shop:1.0
+parallel bars:1.0
+killer whale:1.0
+flagpole:2.0
+knot:1.0
+coil:1.0
+chainlink fence:1.0
+minibus:1.0
+trolleybus:1.0
+bobsled:1.0
+Indian elephant:1.0
+patio:1.0

@@ -1,0 +1,88 @@
+entertainment center:1.0
+stove:3.0
+spatula:10.0
+dough:3.0
+ocarina:3.0
+cornet:1.0
+mixing bowl:1.0
+harmonica:1.0
+rocking chair:1.0
+pill bottle:1.0
+Windsor tie:1.0
+French horn:1.0
+sunglasses:2.0
+marimba:2.0
+ladle:3.0
+bib:1.0
+vase:2.0
+whistle:3.0
+chain saw:1.0
+vacuum:3.0
+abacus:1.0
+tricycle:1.0
+nipple:1.0
+tray:1.0
+bow tie:1.0
+quilt:1.0
+meat loaf:1.0
+library:4.0
+jigsaw puzzle:4.0
+candle:2.0
+quill:1.0
+lipstick:2.0
+microwave:3.0
+crossword puzzle:5.0
+ice lolly:4.0
+iron:1.0
+cauliflower:1.0
+corn:1.0
+lotion:1.0
+park bench:1.0
+throne:2.0
+dishwasher:1.0
+restaurant:10.0
+accordion:2.0
+home theater:1.0
+jersey:1.0
+table lamp:2.0
+coho:1.0
+pot:3.0
+wooden spoon:6.0
+confectionery:3.0
+waffle iron:3.0
+maraca:22.0
+shoe shop:1.0
+carousel:1.0
+suit:1.0
+bubble:3.0
+oboe:1.0
+altar:2.0
+Christmas stocking:25.0
+stethoscope:1.0
+upright:1.0
+burrito:1.0
+trench coat:1.0
+television:1.0
+dining table:9.0
+comic book:1.0
+knee pad:1.0
+plunger:1.0
+Crock Pot:2.0
+rotisserie:1.0
+china cabinet:5.0
+studio couch:3.0
+bluetick:1.0
+toaster:1.0
+miniskirt:1.0
+paintbrush:1.0
+water bottle:1.0
+flute:1.0
+sunglass:2.0
+soccer ball:1.0
+refrigerator:1.0
+feather boa:1.0
+groom:1.0
+bakery:2.0
+pajama:17.0
+jean:1.0
+patio:2.0

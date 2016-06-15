@@ -1,0 +1,23 @@
+table lamp:1.0
+entertainment center:1.0
+quilt:1.0
+medicine chest:4.0
+library:1.0
+bannister:2.0
+studio couch:1.0
+pedestal:1.0
+sliding door:6.0
+loudspeaker:1.0
+washbasin:1.0
+shoji:1.0
+prison:3.0
+matchstick:1.0
+radiator:2.0
+altar:1.0
+wardrobe:1.0
+window shade:2.0
+dining table:2.0
+punching bag:1.0
+wall clock:1.0
+home theater:4.0
+spotlight:5.0

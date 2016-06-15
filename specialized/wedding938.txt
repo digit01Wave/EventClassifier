@@ -1,0 +1,52 @@
+bow tie:6.0
+gown:16.0
+maillot:1.0
+maypole:1.0
+torch:3.0
+pole:1.0
+dining table:1.0
+paper towel:1.0
+candle:7.0
+poncho:2.0
+stole:1.0
+sliding door:2.0
+cellular telephone:1.0
+toilet tissue:2.0
+confectionery:1.0
+velvet:1.0
+chain mail:1.0
+tennis ball:1.0
+carousel:1.0
+christmas tree:1.0
+lab coat:2.0
+kimono:6.0
+shoji:1.0
+miniskirt:1.0
+French horn:1.0
+drumstick:1.0
+beer glass:1.0
+flute:1.0
+Windsor tie:4.0
+sarong:1.0
+oboe:1.0
+altar:3.0
+suit:12.0
+vestment:3.0
+Christmas stocking:3.0
+bolo tie:1.0
+toyshop:2.0
+feather boa:2.0
+throne:2.0
+drum:1.0
+restaurant:3.0
+groom:61.0
+mask:5.0
+window screen:2.0
+volleyball:2.0
+bow:1.0
+bikini:1.0
+swing:1.0
+cake:2.0
+abaya:2.0
+jean:2.0
+pajama:3.0

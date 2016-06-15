@@ -1,0 +1,70 @@
+radio telescope:1.0
+barber chair:1.0
+vault:2.0
+suspension bridge:1.0
+lakeside:8.0
+airship:1.0
+church:3.0
+bulbul:1.0
+solar dish:1.0
+promontory:1.0
+breakwater:2.0
+bannister:3.0
+pole:1.0
+megalith:2.0
+seashore:4.0
+greenhouse:2.0
+drilling platform:1.0
+pedestal:2.0
+window screen:3.0
+crane:1.0
+barn:1.0
+bookshop:1.0
+palace:2.0
+wreck:1.0
+tile roof:1.0
+gondola:1.0
+container ship:2.0
+picket fence:1.0
+washbasin:1.0
+rocking chair:1.0
+fountain:1.0
+prison:1.0
+monarch:1.0
+chainlink fence:1.0
+trilobite:1.0
+steel arch bridge:1.0
+hornbill:1.0
+viaduct:1.0
+volcano:1.0
+ashcan:1.0
+dam:2.0
+electric fan:1.0
+dome:2.0
+obelisk:1.0
+dock:2.0
+beacon:5.0
+boathouse:2.0
+worm fence:1.0
+rapeseed:1.0
+stingray:1.0
+park bench:1.0
+coil:1.0
+tub:1.0
+window shade:2.0
+pier:4.0
+stone wall:1.0
+cliff:1.0
+folding chair:1.0
+padlock:2.0
+liner:2.0
+yawl:1.0
+barbershop:1.0
+fireboat:1.0
+daisy:1.0
+turnstile:2.0
+castle:1.0
+bathtub:1.0
+schooner:1.0
+wing:1.0
+patio:1.0

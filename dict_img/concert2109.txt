@@ -1,0 +1,123 @@
+beer bottle:2.0
+shield:1.0
+electric guitar:4.0
+rifle:2.0
+tile roof:1.0
+spatula:1.0
+radio:2.0
+mountain bike:1.0
+water jug:1.0
+cornet:1.0
+cellular telephone:2.0
+harmonica:8.0
+grand piano:1.0
+seat belt:1.0
+cloak:1.0
+pill bottle:1.0
+balance beam:2.0
+carton:1.0
+ski:2.0
+ballplayer:5.0
+ping-pong ball:1.0
+sunglasses:3.0
+radiator:1.0
+pay-phone:3.0
+cannon:1.0
+safe:1.0
+bib:1.0
+steel drum:3.0
+whistle:1.0
+chain saw:2.0
+lighter:1.0
+chainlink fence:1.0
+croquet ball:3.0
+acoustic guitar:6.0
+tricycle:1.0
+drumstick:5.0
+perfume:1.0
+ice lolly:1.0
+bow tie:1.0
+sweatshirt:1.0
+poncho:2.0
+military uniform:5.0
+book jacket:1.0
+lipstick:1.0
+go-kart:1.0
+sombrero:1.0
+revolver:2.0
+paddle:1.0
+maypole:7.0
+fountain:1.0
+unicycle:5.0
+washer:2.0
+pirate:1.0
+sarong:3.0
+electric fan:1.0
+mailbox:1.0
+baseball:2.0
+park bench:2.0
+hand blower:1.0
+stage:22.0
+folding chair:3.0
+drum:11.0
+typewriter keyboard:2.0
+bow:5.0
+swing:1.0
+cowboy hat:4.0
+safety pin:1.0
+Band Aid:2.0
+pajama:2.0
+wig:7.0
+stretcher:2.0
+suspension bridge:1.0
+gas pump:1.0
+moped:1.0
+chime:1.0
+wine bottle:2.0
+maraca:3.0
+suit:1.0
+pop bottle:1.0
+pinwheel:1.0
+comic book:2.0
+lawn mower:2.0
+golfcart:1.0
+oboe:3.0
+pitcher:1.0
+tripod:1.0
+diaper:1.0
+maze:3.0
+reel:2.0
+wool:1.0
+bubble:2.0
+barbershop:3.0
+cello:3.0
+fireboat:1.0
+assault rifle:1.0
+rugby ball:3.0
+medicine chest:1.0
+sunscreen:1.0
+sax:4.0
+violin:1.0
+stole:2.0
+microphone:31.0
+cardigan:1.0
+marimba:9.0
+panpipe:1.0
+kimono:3.0
+miniskirt:3.0
+banjo:8.0
+paintbrush:1.0
+loudspeaker:1.0
+gyromitra:1.0
+water bottle:1.0
+flute:4.0
+dial telephone:1.0
+sunglass:2.0
+soccer ball:1.0
+feather boa:3.0
+chain mail:1.0
+Irish water spaniel:1.0
+jersey:1.0
+parking meter:1.0
+patio:1.0
+bolete:1.0

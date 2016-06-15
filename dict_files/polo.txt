@@ -1,0 +1,50 @@
+rugby ball:1.0
+cassette player:5.0
+shield:2.0
+ballplayer:2.0
+fur coat:1.0
+parachute:1.0
+radio:4.0
+sweatshirt:5.0
+perfume:3.0
+sports car:18.0
+football helmet:3.0
+loudspeaker:2.0
+cardigan:1.0
+buckle:2.0
+bikini:1.0
+lab coat:2.0
+odometer:5.0
+suit:2.0
+pickup:3.0
+abaya:1.0
+horse cart:3.0
+bathing cap:1.0
+wool:5.0
+rain barrel:1.0
+book jacket:3.0
+sorrel:10.0
+CD player:4.0
+flute:1.0
+minibus:1.0
+vestment:1.0
+grille:9.0
+cowboy boot:1.0
+racer:8.0
+baseball:1.0
+soccer ball:1.0
+park bench:1.0
+convertible:3.0
+Rhodesian ridgeback:2.0
+cuirass:1.0
+croquet ball:1.0
+beach wagon:61.0
+tape player:2.0
+bow:2.0
+car wheel:25.0
+Arabian camel:1.0
+minivan:51.0
+cab:6.0
+barrel:4.0
+water buffalo:1.0
+jersey:42.0

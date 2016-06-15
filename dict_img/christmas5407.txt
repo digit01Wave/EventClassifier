@@ -1,0 +1,24 @@
+library:2.0
+Lhasa:2.0
+jigsaw puzzle:2.0
+moving van:1.0
+briard:1.0
+Shih-Tzu:2.0
+toyshop:2.0
+butcher shop:1.0
+shoe shop:1.0
+banjo:1.0
+comic book:2.0
+dining table:1.0
+plate:1.0
+altar:1.0
+Maltese dog:1.0
+Christmas stocking:6.0
+vestment:1.0
+window shade:1.0
+refrigerator:1.0
+Shetland sheepdog:1.0
+power drill:1.0
+Pekinese:2.0
+pineapple:1.0
+pajama:2.0

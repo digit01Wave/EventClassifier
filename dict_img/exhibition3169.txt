@@ -1,0 +1,24 @@
+barber chair:1.0
+seat belt:1.0
+fire engine:1.0
+jigsaw puzzle:1.0
+sports car:12.0
+car mirror:2.0
+car wheel:4.0
+pickup:1.0
+soft-coated wheaten terrier:1.0
+crash helmet:1.0
+limousine:1.0
+ashcan:1.0
+school bus:1.0
+grille:11.0
+racer:6.0
+upright:1.0
+convertible:1.0
+ear:1.0
+jeep:2.0
+beach wagon:1.0
+bakery:1.0
+minivan:1.0
+cab:5.0
+Irish wolfhound:1.0

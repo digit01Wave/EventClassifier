@@ -1,0 +1,98 @@
+gown:37.0
+clog:1.0
+maypole:1.0
+wardrobe:1.0
+greenhouse:1.0
+sliding door:2.0
+cornet:2.0
+cellular telephone:1.0
+sandal:1.0
+goblet:1.0
+harmonica:2.0
+grand piano:3.0
+balance beam:1.0
+prison:1.0
+stove:1.0
+apron:1.0
+cash machine:1.0
+sunglasses:1.0
+marimba:3.0
+safe:1.0
+vase:2.0
+vacuum:1.0
+window shade:3.0
+barrow:1.0
+organ:2.0
+spatula:2.0
+perfume:2.0
+abaya:3.0
+tray:2.0
+bow tie:18.0
+bannister:1.0
+bee:2.0
+military uniform:1.0
+harp:1.0
+lampshade:1.0
+running shoe:1.0
+sarong:5.0
+vestment:4.0
+lotion:1.0
+stage:2.0
+beaker:2.0
+drum:1.0
+restaurant:6.0
+wall clock:1.0
+daisy:1.0
+vault:3.0
+jersey:1.0
+maillot:2.0
+pot:1.0
+wolf spider:1.0
+prayer rug:2.0
+church:11.0
+mortarboard:1.0
+academic gown:4.0
+streetcar:1.0
+Loafer:3.0
+suit:20.0
+bubble:1.0
+oboe:1.0
+altar:6.0
+Windsor tie:6.0
+thatch:1.0
+padlock:1.0
+stethoscope:1.0
+upright:2.0
+dining table:2.0
+crutch:1.0
+barbershop:2.0
+table lamp:1.0
+barber chair:1.0
+palace:1.0
+plate:1.0
+lakeside:1.0
+medicine chest:1.0
+sunscreen:1.0
+ant:1.0
+planetarium:1.0
+stole:1.0
+microphone:1.0
+bassoon:2.0
+balloon:1.0
+kimono:2.0
+shoji:1.0
+miniskirt:3.0
+paintbrush:2.0
+binoculars:1.0
+notebook:1.0
+sunglass:1.0
+cleaver:2.0
+brass:1.0
+broccoli:1.0
+groom:138.0
+window screen:3.0
+bell cote:1.0
+bakery:1.0
+turnstile:1.0
+jean:3.0
+patio:2.0

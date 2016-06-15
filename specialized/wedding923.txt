@@ -1,0 +1,185 @@
+gown:8.0
+clog:2.0
+mitten:1.0
+maypole:16.0
+crate:1.0
+shower cap:1.0
+spatula:2.0
+megalith:4.0
+greenhouse:11.0
+spindle:1.0
+picket fence:2.0
+cellular telephone:2.0
+sandal:1.0
+brassiere:3.0
+beagle:1.0
+hay:2.0
+Afghan hound:5.0
+balance beam:1.0
+Windsor tie:1.0
+ballplayer:2.0
+plate:1.0
+sunglasses:17.0
+marimba:3.0
+Leonberg:1.0
+bib:2.0
+steel drum:6.0
+vase:1.0
+vacuum:1.0
+chainlink fence:1.0
+toy poodle:1.0
+croquet ball:7.0
+bolo tie:1.0
+thunder snake:1.0
+punching bag:1.0
+swimming trunks:6.0
+nipple:4.0
+Scotch terrier:1.0
+four-poster:1.0
+tray:4.0
+lumbermill:5.0
+bow tie:6.0
+torch:1.0
+racket:2.0
+candle:2.0
+sweatshirt:4.0
+poncho:2.0
+radio telescope:2.0
+ice cream:1.0
+velvet:1.0
+go-kart:2.0
+strawberry:2.0
+paddle:1.0
+cradle:2.0
+lens cap:3.0
+birdhouse:1.0
+hoopskirt:2.0
+ice lolly:13.0
+king snake:1.0
+trifle:1.0
+flute:1.0
+umbrella:1.0
+sarong:79.0
+yurt:9.0
+papillon:1.0
+baseball:1.0
+park bench:1.0
+folding chair:1.0
+restaurant:10.0
+conch:1.0
+hatchet:1.0
+golf ball:2.0
+bow:7.0
+hair spray:3.0
+swing:8.0
+vault:1.0
+Band Aid:2.0
+pajama:14.0
+wig:15.0
+Chihuahua:1.0
+coho:1.0
+seat belt:1.0
+maillot:14.0
+pot:2.0
+Italian greyhound:3.0
+crib:1.0
+Saluki:2.0
+bonnet:1.0
+hook:1.0
+gong:1.0
+weasel:1.0
+syringe:2.0
+mortarboard:5.0
+bullet train:1.0
+Shih-Tzu:2.0
+academic gown:4.0
+Pomeranian:1.0
+maraca:3.0
+English springer:9.0
+lab coat:12.0
+plastic bag:1.0
+dung beetle:1.0
+screw:1.0
+polecat:2.0
+carousel:11.0
+suit:19.0
+flagpole:1.0
+maze:12.0
+pinwheel:1.0
+limousine:8.0
+banana:1.0
+steel arch bridge:8.0
+golfcart:38.0
+starfish:1.0
+oboe:1.0
+prison:1.0
+gar:3.0
+tripod:1.0
+mobile home:1.0
+Japanese spaniel:1.0
+boa constrictor:1.0
+Welsh springer spaniel:1.0
+burrito:1.0
+reel:2.0
+soft-coated wheaten terrier:1.0
+minibus:1.0
+dining table:1.0
+tench:9.0
+Shetland sheepdog:2.0
+wallet:1.0
+bikini:16.0
+barbershop:1.0
+knee pad:1.0
+cake:6.0
+plunger:3.0
+cock:3.0
+rugby ball:1.0
+bassinet:2.0
+handkerchief:2.0
+canoe:1.0
+lakeside:36.0
+purse:1.0
+neck brace:4.0
+sunscreen:16.0
+Lhasa:1.0
+sulphur-crested cockatoo:3.0
+paper towel:2.0
+sandbar:10.0
+barracouta:2.0
+ringneck snake:1.0
+toilet tissue:1.0
+cardigan:5.0
+overskirt:4.0
+bassoon:1.0
+stole:3.0
+Blenheim spaniel:2.0
+hamper:1.0
+potter's wheel:2.0
+miniskirt:3.0
+banjo:4.0
+beer glass:1.0
+paintbrush:1.0
+miniature schnauzer:1.0
+water bottle:1.0
+pick:1.0
+apron:3.0
+worm fence:1.0
+sunglass:8.0
+soccer ball:6.0
+brass:1.0
+thatch:5.0
+crayfish:2.0
+feather boa:6.0
+chain mail:8.0
+groom:41.0
+mask:1.0
+volleyball:1.0
+bakery:3.0
+paddlewheel:9.0
+necklace:2.0
+jean:3.0
+hotdog:1.0
+bath towel:1.0
+Loafer:1.0
+patio:10.0
+diaper:8.0

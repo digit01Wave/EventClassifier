@@ -1,0 +1,17 @@
+bow tie:1.0
+paintbrush:1.0
+lipstick:1.0
+handkerchief:1.0
+apron:1.0
+laptop:1.0
+bib:1.0
+screwdriver:1.0
+Blenheim spaniel:1.0
+Christmas stocking:3.0
+kimono:1.0
+nipple:5.0
+diaper:3.0
+stethoscope:1.0
+pencil box:4.0
+crayfish:1.0
+pajama:5.0

@@ -1,0 +1,62 @@
+gown:3.0
+seat belt:1.0
+reel:1.0
+maypole:3.0
+torch:1.0
+pole:1.0
+dining table:1.0
+oxcart:1.0
+stupa:1.0
+candle:1.0
+bow tie:3.0
+umbrella:1.0
+barn:1.0
+cellular telephone:1.0
+plow:1.0
+goblet:2.0
+accordion:1.0
+harmonica:1.0
+container ship:1.0
+thatch:1.0
+suit:1.0
+barbershop:1.0
+pinwheel:2.0
+stage:1.0
+bubble:1.0
+grocery store:2.0
+pier:1.0
+plate:1.0
+pug:1.0
+sunglasses:2.0
+sarong:1.0
+cannon:1.0
+flute:1.0
+steel drum:2.0
+vestment:1.0
+vase:2.0
+binoculars:3.0
+red wine:1.0
+sunglass:2.0
+soccer ball:1.0
+Windsor tie:1.0
+dalmatian:1.0
+broccoli:1.0
+altar:2.0
+Shetland sheepdog:1.0
+folding chair:4.0
+restaurant:15.0
+conch:1.0
+groom:11.0
+bucket:1.0
+punching bag:1.0
+greenhouse:1.0
+ice lolly:3.0
+patio:1.0
+swing:2.0
+cowboy hat:1.0
+cucumber:1.0
+plunger:1.0
+Band Aid:1.0
+spotlight:1.0
+jersey:1.0
+lumbermill:1.0

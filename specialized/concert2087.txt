@@ -1,0 +1,15 @@
+throne:3.0
+microphone:1.0
+barometer:1.0
+analog clock:1.0
+altar:2.0
+theater curtain:1.0
+torch:1.0
+sax:1.0
+wall clock:1.0
+trombone:1.0
+freight car:1.0
+castle:1.0
+stage:19.0
+spotlight:1.0
+cornet:1.0

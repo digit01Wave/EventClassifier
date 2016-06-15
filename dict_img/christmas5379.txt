@@ -1,0 +1,100 @@
+mitten:2.0
+electric guitar:1.0
+shower cap:1.0
+spatula:1.0
+ocarina:1.0
+cornet:1.0
+trifle:1.0
+giant schnauzer:1.0
+sandal:1.0
+accordion:1.0
+menu:2.0
+rocking chair:1.0
+night snake:1.0
+Windsor tie:1.0
+toilet seat:3.0
+carton:1.0
+maypole:1.0
+plate:2.0
+bib:3.0
+screwdriver:1.0
+cowboy boot:1.0
+knot:1.0
+desk:1.0
+abacus:1.0
+oxygen mask:1.0
+pretzel:1.0
+nipple:3.0
+bow tie:5.0
+quilt:3.0
+packet:1.0
+jigsaw puzzle:3.0
+ice cream:1.0
+toyshop:2.0
+velvet:3.0
+cradle:1.0
+lens cap:1.0
+ice lolly:2.0
+bathing cap:1.0
+king snake:1.0
+lotion:2.0
+remote control:3.0
+park bench:1.0
+tub:1.0
+hand blower:2.0
+throne:1.0
+folding chair:1.0
+drum:1.0
+sleeping bag:6.0
+can opener:1.0
+swing:2.0
+cowboy hat:1.0
+Band Aid:6.0
+jersey:1.0
+seat belt:4.0
+bonnet:1.0
+mousetrap:1.0
+confectionery:1.0
+maraca:6.0
+plastic bag:1.0
+pop bottle:2.0
+pinwheel:3.0
+bubble:1.0
+altar:2.0
+Christmas stocking:25.0
+stethoscope:1.0
+diaper:3.0
+dining table:1.0
+comic book:1.0
+barbershop:1.0
+knee pad:1.0
+Gordon setter:1.0
+plunger:1.0
+bathtub:1.0
+lighter:1.0
+Crock Pot:2.0
+bassinet:1.0
+guinea pig:2.0
+sunscreen:2.0
+paper towel:2.0
+file:1.0
+stole:4.0
+toilet tissue:1.0
+mouse:1.0
+toaster:1.0
+American alligator:1.0
+chest:1.0
+quill:2.0
+horizontal bar:1.0
+piggy bank:7.0
+water bottle:1.0
+binoculars:1.0
+corkscrew:1.0
+dial telephone:1.0
+soccer ball:2.0
+hair slide:5.0
+mask:2.0
+bakery:2.0
+pajama:17.0
+jean:1.0
+boa constrictor:1.0

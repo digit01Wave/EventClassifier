@@ -1,0 +1,69 @@
+gown:1.0
+groom:12.0
+maypole:4.0
+poncho:1.0
+crib:4.0
+bonnet:5.0
+hook:1.0
+jigsaw puzzle:2.0
+clog:1.0
+dough:1.0
+candle:1.0
+rubber eraser:1.0
+ocarina:1.0
+library:1.0
+pencil sharpener:1.0
+sunglasses:1.0
+toyshop:6.0
+sarong:1.0
+plastic bag:1.0
+menu:1.0
+bakery:1.0
+microwave:2.0
+picket fence:1.0
+rocking chair:5.0
+kimono:1.0
+refrigerator:1.0
+carousel:5.0
+sandal:1.0
+ice lolly:4.0
+bathing cap:3.0
+bubble:9.0
+stove:1.0
+paintbrush:3.0
+balance beam:1.0
+ping-pong ball:1.0
+apron:2.0
+umbrella:1.0
+hoopskirt:1.0
+water bottle:1.0
+ashcan:1.0
+soap dispenser:1.0
+daisy:1.0
+mailbox:1.0
+whistle:1.0
+bookcase:1.0
+diaper:4.0
+sunglass:1.0
+desk:1.0
+wardrobe:1.0
+coil:2.0
+tub:3.0
+pinwheel:2.0
+shoe shop:1.0
+feather boa:2.0
+dining table:3.0
+hair slide:7.0
+tabby:1.0
+bucket:1.0
+pretzel:1.0
+crutch:1.0
+hair spray:4.0
+bikini:3.0
+nipple:2.0
+cradle:1.0
+swing:2.0
+corkscrew:1.0
+Band Aid:1.0
+pajama:3.0
+hotdog:1.0

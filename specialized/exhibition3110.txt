@@ -1,0 +1,33 @@
+confectionery:1.0
+cinema:1.0
+packet:1.0
+gas pump:1.0
+web site:1.0
+syringe:1.0
+book jacket:2.0
+scale:1.0
+monitor:5.0
+vending machine:2.0
+menu:1.0
+butcher shop:1.0
+crossword puzzle:1.0
+pop bottle:1.0
+carton:3.0
+apron:1.0
+cash machine:2.0
+screen:4.0
+envelope:1.0
+shopping basket:1.0
+street sign:1.0
+binder:3.0
+hard disc:1.0
+vacuum:1.0
+shoe shop:1.0
+chainlink fence:1.0
+television:2.0
+iPod:1.0
+barbershop:1.0
+knee pad:1.0
+turnstile:1.0
+modem:1.0
+jersey:1.0

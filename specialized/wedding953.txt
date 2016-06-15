@@ -1,0 +1,30 @@
+gown:4.0
+bassinet:1.0
+lakeside:1.0
+pot:1.0
+forklift:1.0
+gas pump:1.0
+bannister:1.0
+pole:1.0
+greenhouse:2.0
+shopping cart:1.0
+birdhouse:1.0
+barn:1.0
+academic gown:1.0
+overskirt:1.0
+kimono:1.0
+maze:1.0
+umbrella:1.0
+hoopskirt:1.0
+cardoon:1.0
+street sign:1.0
+thatch:1.0
+rapeseed:1.0
+park bench:1.0
+restaurant:3.0
+groom:7.0
+ice lolly:1.0
+tractor:1.0
+daisy:3.0
+patio:2.0
+lumbermill:1.0

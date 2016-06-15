@@ -1,0 +1,38 @@
+cinema:1.0
+fire engine:1.0
+caldron:1.0
+forklift:1.0
+scoreboard:1.0
+space shuttle:1.0
+stupa:1.0
+poncho:1.0
+sandal:1.0
+monitor:2.0
+chain mail:1.0
+menu:1.0
+traffic light:1.0
+suspension bridge:1.0
+sock:1.0
+steam locomotive:1.0
+lampshade:1.0
+fire screen:4.0
+fountain:6.0
+aircraft carrier:1.0
+chainlink fence:2.0
+steel arch bridge:5.0
+torch:1.0
+obelisk:1.0
+balloon:1.0
+Christmas stocking:1.0
+space heater:1.0
+crane:1.0
+shoe shop:1.0
+stage:16.0
+jellyfish:1.0
+television:2.0
+digital clock:1.0
+window screen:1.0
+paddlewheel:1.0
+solar dish:2.0
+spotlight:9.0
+jersey:1.0

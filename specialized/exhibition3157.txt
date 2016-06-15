@@ -1,0 +1,29 @@
+stretcher:1.0
+palace:1.0
+fire engine:2.0
+bookshop:1.0
+library:1.0
+jigsaw puzzle:1.0
+greenhouse:2.0
+alp:1.0
+toyshop:3.0
+streetcar:1.0
+steam locomotive:2.0
+butcher shop:1.0
+passenger car:2.0
+forklift:2.0
+warplane:1.0
+racer:2.0
+confectionery:1.0
+crib:1.0
+trailer truck:1.0
+crane:2.0
+shoe shop:1.0
+restaurant:1.0
+tow truck:1.0
+freight car:1.0
+cab:1.0
+grocery store:3.0
+wing:1.0
+tractor:1.0
+lumbermill:1.0

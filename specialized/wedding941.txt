@@ -1,0 +1,49 @@
+wig:4.0
+bow tie:21.0
+gown:7.0
+theater curtain:1.0
+torch:3.0
+wooden spoon:1.0
+punching bag:1.0
+violin:1.0
+mortarboard:2.0
+wine bottle:1.0
+harp:1.0
+sandal:1.0
+goblet:2.0
+chain mail:2.0
+maraca:2.0
+lab coat:4.0
+Loafer:2.0
+ice cream:1.0
+suit:16.0
+basketball:1.0
+cornet:1.0
+beer glass:3.0
+maypole:1.0
+restaurant:8.0
+ping-pong ball:1.0
+plate:1.0
+overskirt:1.0
+sarong:5.0
+oboe:1.0
+Windsor tie:7.0
+vestment:1.0
+cake:1.0
+academic gown:6.0
+red wine:1.0
+soccer ball:1.0
+hoopskirt:6.0
+Newfoundland:1.0
+stage:9.0
+throne:1.0
+folding chair:2.0
+dining table:1.0
+limousine:4.0
+groom:43.0
+volleyball:1.0
+crutch:1.0
+accordion:1.0
+pineapple:1.0
+necklace:1.0
+pajama:1.0

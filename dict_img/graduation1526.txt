@@ -1,0 +1,13 @@
+folding chair:1.0
+croquet ball:1.0
+academic gown:1.0
+accordion:1.0
+menu:2.0
+maypole:4.0
+restaurant:2.0
+scoreboard:1.0
+unicycle:1.0
+bakery:1.0
+guillotine:1.0
+mortarboard:6.0
+patio:1.0

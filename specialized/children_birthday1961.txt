@@ -1,0 +1,23 @@
+barber chair:1.0
+packet:1.0
+candle:2.0
+shopping cart:1.0
+rocking chair:3.0
+carton:1.0
+pizza:1.0
+piggy bank:2.0
+cauliflower:1.0
+Granny Smith:1.0
+bib:3.0
+Christmas stocking:2.0
+lighter:1.0
+burrito:2.0
+ear:2.0
+broccoli:1.0
+folding chair:1.0
+spaghetti squash:1.0
+mortar:1.0
+swing:1.0
+cake:2.0
+tray:1.0
+pajama:2.0

@@ -1,0 +1,137 @@
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Close_bocce_1.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Close_bocce_114.jpg,soccer ball,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Close_bocce_2.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Close_bocce_3.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Close_bocce_69.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Close_bocce_80.jpg,croquet ball,volleyball,golf ball,rugby ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Far_bocce_121.jpg,palace
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Far_bocce_35.jpg,shopping cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Far_bocce_53.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Far_bocce_61.jpg,lumbermill
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Far_bocce_90.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Far_bocce_91.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_100.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_104.jpg,sarong,sandbar,swimming trunks,shovel,seashore
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_105.jpg,bubble,acorn,tennis ball,nail,ping-pong ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_106.jpg,ping-pong ball,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_107.jpg,ladle,balance beam,pole,croquet ball,plunger
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_108.jpg,picket fence
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_109.jpg,swimming trunks,sandbar
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_115.jpg,sarong
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_116.jpg,croquet ball,marimba
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_117.jpg,maze
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Far_bocce_133.jpg,flagpole,lakeside
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Far_bocce_33.jpg,unicycle,prison
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_0.jpg,volleyball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_10.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_101.jpg,croquet ball,ballplayer
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_11.jpg,rugby ball,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_110.jpg,volleyball,ballplayer,parachute
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_111.jpg,Irish wolfhound,maze
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_112.jpg,maypole
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_113.jpg,jean,pier,torch,park bench
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_118.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_123.jpg,bicycle-built-for-two,unicycle,accordion
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_125.jpg,tricycle,jinrikisha
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_127.jpg,ballplayer,unicycle
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_13.jpg,picket fence
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_130.jpg,library,prison,bannister,bookshop,shoe shop
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_137.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_139.jpg,Bernese mountain dog,park bench,croquet ball,Cardigan
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_141.jpg,torch,punching bag,dumbbell,basketball,barbell
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_149.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_15.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_17.jpg,patio
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_19.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_22.jpg,shovel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_23.jpg,pinwheel,maze,shovel,patio,thatch
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_18.jpg,lakeside,breakwater
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_20.jpg,seashore,sandbar,maillot
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_25.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_27.jpg,croquet ball,soccer ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_29.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_30.jpg,soccer ball,golf ball,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_32.jpg,croquet ball,rugby ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_37.jpg,thatch,lumbermill,ballplayer,sandbar,patio
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_38.jpg,ballplayer,baseball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_39.jpg,mobile home
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_4.jpg,soccer ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_40.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_41.jpg,balance beam
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_43.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_46.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_49.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_5.jpg,croquet ball,ballplayer,parachute,soccer ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_52.jpg,croquet ball,megalith,promontory
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_54.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_6.jpg,jeep,mountain bike
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_66.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_67.jpg,harp,unicycle,maypole
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_26.jpg,malamute
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_28.jpg,harp,punching bag,dumbbell,crutch,limousine
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_31.jpg,maze
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_42.jpg,kimono,lumbermill,grocery store,pier
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_44.jpg,limousine
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_45.jpg,tow truck,limousine,minivan,pickup
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_47.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_48.jpg,maze,thresher,yurt,gong,lumbermill
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_50.jpg,maze
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_51.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_60.jpg,croquet ball,maypole,safety pin,maze
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_63.jpg,wing
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_68.jpg,sandbar,shovel,swimming trunks
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_7.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_72.jpg,sandbar
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_73.jpg,sunscreen
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_76.jpg,unicycle,pole,balance beam,shopping cart,park bench
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_78.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_8.jpg,suspension bridge
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_82.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_86.jpg,rugby ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_87.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_92.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_94.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_95.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_97.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_98.jpg,maze,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_99.jpg,lakeside
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_119.jpg,barbell,volleyball,dumbbell
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_16.jpg,pool table,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_70.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Hard_Mid_bocce_62.jpg,maze,maypole,unicycle
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Medium_Mid_bocce_24.jpg,bell cote,vault,megalith
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_71.jpg,cliff,sandbar,volleyball,stretcher
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_74.jpg,maze
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_75.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_79.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_81.jpg,ballplayer,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_83.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_84.jpg,croquet ball,golf ball,accordion
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_85.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_88.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_89.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_9.jpg,prison,crutch,cellular telephone,ski mask,sax
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_93.jpg,maze,balance beam,ballplayer
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_96.jpg,balance beam
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Hard_Far_bocce_77.jpg,ashcan
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Hard_Mid_bocce_102.jpg,croquet ball,soccer ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Hard_Mid_bocce_122.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Hard_Mid_bocce_124.jpg,barbell,racket,dumbbell,tennis ball,broom
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_120.jpg,croquet ball,volleyball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_126.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_128.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_129.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_131.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_134.jpg,croquet ball,sunscreen,volleyball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_135.jpg,swing,cliff,park bench,fur coat,sleeping bag
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_136.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_138.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_14.jpg,croquet ball,maypole,shield,swing,accordion
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_140.jpg,croquet ball,balance beam
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_142.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_143.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_144.jpg,swimming trunks
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_145.jpg,balance beam,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_146.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_147.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/bocce/Easy_Mid_bocce_148.jpg,croquet ball

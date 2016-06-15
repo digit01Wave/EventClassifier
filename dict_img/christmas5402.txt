@@ -1,0 +1,81 @@
+Crock Pot:1.0
+assault rifle:1.0
+clog:1.0
+cassette player:1.0
+barber chair:1.0
+grocery store:1.0
+laptop:3.0
+desk:1.0
+library:3.0
+groom:1.0
+wooden spoon:1.0
+jigsaw puzzle:3.0
+dough:1.0
+greenhouse:1.0
+toilet seat:1.0
+violin:1.0
+candle:2.0
+stole:1.0
+mouse:1.0
+mousetrap:3.0
+water jug:1.0
+cellular telephone:1.0
+toilet tissue:1.0
+hand blower:2.0
+projector:1.0
+cardigan:2.0
+harmonica:1.0
+refrigerator:1.0
+hammer:2.0
+tricycle:3.0
+toaster:1.0
+thimble:1.0
+chest:1.0
+rocking chair:1.0
+crossword puzzle:1.0
+wine bottle:1.0
+quill:3.0
+confectionery:2.0
+carton:3.0
+comic book:2.0
+American lobster:1.0
+paintbrush:1.0
+zucchini:2.0
+abacus:1.0
+remote control:1.0
+water bottle:1.0
+altar:2.0
+screen:1.0
+flute:1.0
+screwdriver:1.0
+Christmas stocking:2.0
+rifle:1.0
+bookcase:1.0
+dial telephone:1.0
+diaper:3.0
+vacuum:1.0
+cleaver:1.0
+window shade:1.0
+teapot:1.0
+spatula:1.0
+folding chair:2.0
+television:1.0
+banjo:1.0
+shoe shop:1.0
+dining table:1.0
+stethoscope:1.0
+iPod:1.0
+restaurant:3.0
+tape player:1.0
+crutch:1.0
+barbershop:1.0
+notebook:1.0
+ice lolly:1.0
+toyshop:2.0
+iron:1.0
+menu:2.0
+cucumber:1.0
+joystick:1.0
+Band Aid:3.0
+grand piano:1.0
+pajama:1.0

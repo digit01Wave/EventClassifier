@@ -1,0 +1,30 @@
+electric guitar:27.0
+torch:2.0
+sax:7.0
+trombone:1.0
+candle:1.0
+hammer:1.0
+cornet:4.0
+book jacket:1.0
+microphone:14.0
+bassoon:1.0
+fountain:1.0
+French horn:1.0
+drumstick:4.0
+banjo:2.0
+comic book:1.0
+theater curtain:1.0
+paintbrush:1.0
+warplane:1.0
+flute:1.0
+envelope:1.0
+remote control:1.0
+lighter:1.0
+stage:74.0
+drum:1.0
+acoustic guitar:2.0
+pretzel:1.0
+jack-o'-lantern:1.0
+pick:1.0
+jean:1.0
+spotlight:11.0

@@ -1,0 +1,21 @@
+cliff:2.0
+wreck:3.0
+reel:2.0
+pole:2.0
+aircraft carrier:1.0
+warplane:1.0
+gar:2.0
+killer whale:1.0
+promontory:4.0
+space shuttle:1.0
+beacon:1.0
+yawl:69.0
+seashore:4.0
+great white shark:1.0
+sandbar:1.0
+drilling platform:2.0
+catamaran:87.0
+trimaran:41.0
+pirate:17.0
+alp:2.0
+schooner:65.0

@@ -1,0 +1,37 @@
+bow tie:2.0
+palace:1.0
+gown:1.0
+fur coat:1.0
+library:3.0
+sunscreen:2.0
+pole:1.0
+swimming trunks:1.0
+mortarboard:2.0
+cellular telephone:1.0
+cardigan:1.0
+mosque:1.0
+lab coat:1.0
+yurt:2.0
+suit:9.0
+flagpole:1.0
+bubble:2.0
+book jacket:1.0
+flute:1.0
+oboe:1.0
+obelisk:1.0
+monastery:1.0
+Windsor tie:2.0
+vestment:1.0
+street sign:1.0
+whistle:1.0
+beacon:1.0
+academic gown:3.0
+brass:1.0
+chainlink fence:1.0
+oxygen mask:1.0
+restaurant:4.0
+groom:9.0
+volleyball:1.0
+bell cote:1.0
+ice lolly:3.0
+jean:1.0

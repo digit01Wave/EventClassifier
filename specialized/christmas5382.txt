@@ -1,0 +1,60 @@
+miniskirt:2.0
+Border collie:1.0
+butcher shop:5.0
+handkerchief:5.0
+Boston bull:1.0
+packet:1.0
+sunscreen:1.0
+china cabinet:1.0
+prayer rug:1.0
+Dungeness crab:1.0
+neck brace:1.0
+sweatshirt:1.0
+Christmas stocking:19.0
+quill:1.0
+toyshop:8.0
+quilt:3.0
+plastic bag:3.0
+trench coat:1.0
+Greater Swiss Mountain dog:1.0
+whippet:1.0
+rocking chair:6.0
+kimono:5.0
+carousel:2.0
+suit:1.0
+ice lolly:1.0
+pencil box:1.0
+carton:1.0
+American lobster:3.0
+paintbrush:4.0
+grocery store:2.0
+piggy bank:2.0
+maraca:1.0
+giant panda:1.0
+sarong:1.0
+French bulldog:1.0
+ox:1.0
+bonnet:1.0
+Walker hound:1.0
+binoculars:1.0
+diaper:7.0
+soccer ball:2.0
+cleaver:2.0
+tricycle:2.0
+dalmatian:2.0
+folding chair:3.0
+dishwasher:1.0
+skunk:2.0
+feather boa:2.0
+wooden spoon:2.0
+sleeping bag:2.0
+groom:1.0
+crutch:2.0
+nipple:1.0
+jersey:1.0
+iron:1.0
+swing:4.0
+cake:1.0
+dough:1.0
+crayfish:2.0
+pajama:27.0

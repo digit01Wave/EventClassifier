@@ -1,0 +1,35 @@
+palace:1.0
+cinema:1.0
+lakeside:1.0
+bookshop:1.0
+parachute:1.0
+oystercatcher:1.0
+stupa:3.0
+church:1.0
+alp:39.0
+streetcar:1.0
+airliner:1.0
+magpie:1.0
+fountain:1.0
+monastery:3.0
+valley:1.0
+beer glass:1.0
+passenger car:3.0
+dam:2.0
+warplane:1.0
+dome:1.0
+street sign:1.0
+boathouse:1.0
+cab:1.0
+convertible:1.0
+missile:1.0
+cliff:1.0
+space shuttle:1.0
+electric locomotive:2.0
+restaurant:1.0
+ski:1.0
+freight car:1.0
+projectile:1.0
+volcano:1.0
+wing:1.0
+patio:1.0

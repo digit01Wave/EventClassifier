@@ -1,0 +1,181 @@
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_119.jpg,shield,bearskin
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_12.jpg,barrel,oxcart,ox,shield,bow
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_122.jpg,horse cart,tennis ball,ping-pong ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_123.jpg,crutch
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_17.jpg,sorrel,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_18.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_2.jpg,football helmet,sorrel,crash helmet,rugby ball,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_24.jpg,horse cart,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_25.jpg,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_26.jpg,football helmet,parachute,rugby ball,ski
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_28.jpg,shield,football helmet,sorrel,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_29.jpg,barrel,sorrel,shield,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_3.jpg,shield,ballplayer,baseball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_32.jpg,barrel,sorrel,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_4.jpg,football helmet,ballplayer
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_5.jpg,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_50.jpg,plow,sorrel,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_51.jpg,shield,bearskin,sorrel,parachute
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_6.jpg,sorrel,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_7.jpg,football helmet,shield,parachute,rugby ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_15.jpg,shield,football helmet,crash helmet,water buffalo,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_150.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_151.jpg,football helmet,sorrel,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_152.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_153.jpg,shield,sorrel,cuirass
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_154.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_155.jpg,ballplayer,parachute
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_156.jpg,standard poodle,bow,Great Dane,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_157.jpg,shield,barrel,sorrel,rain barrel,cannon
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_158.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_159.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_16.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_162.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_163.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_164.jpg,bow,maypole
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_166.jpg,oxcart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_168.jpg,sorrel,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_169.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_170.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_171.jpg,Arabian camel,sorrel,llama
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_172.jpg,maypole,unicycle,football helmet,trombone,ballplayer
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_173.jpg,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_175.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_177.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_47.jpg,Arabian camel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_48.jpg,shield,Arabian camel,military uniform,breastplate,bearskin
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_52.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_53.jpg,Indian elephant,sombrero,cowboy hat
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_54.jpg,rifle,prison,turnstile
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_55.jpg,Arabian camel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_56.jpg,sandbar
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_57.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_58.jpg,forklift,malamute,bloodhound,Greater Swiss Mountain dog,mountain bike
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_59.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_60.jpg,Greater Swiss Mountain dog,sandbar,carousel,Doberman,Italian greyhound
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_61.jpg,parachute,Doberman,volleyball,miniature pinscher,spotlight
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_62.jpg,water buffalo,Rottweiler,shield,croquet ball,malinois
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_63.jpg,croquet ball,shovel,briard
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_64.jpg,Gordon setter,Scottish deerhound,groenendael,giant schnauzer,flat-coated retriever
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_65.jpg,prison,carousel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_66.jpg,Arabian camel,horse cart,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_67.jpg,carousel,greenhouse,sorrel,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_68.jpg,prison,bighorn,collie,ram,library
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_70.jpg,bow,malinois,sorrel,barrel,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_71.jpg,llama
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_72.jpg,horse cart,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_73.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_74.jpg,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_75.jpg,stretcher
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_76.jpg,Arabian camel,carousel,prison
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_77.jpg,prison,bow
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_78.jpg,bearskin,shield,barrel,horse cart,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_106.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_107.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_108.jpg,barrel,sorrel,cowboy hat,rain barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_11.jpg,military uniform,shield,cuirass
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_110.jpg,llama,shield,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_111.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_112.jpg,barrel,shield,horse cart,sorrel,cowboy hat
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_113.jpg,barrel,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_114.jpg,horse cart,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_115.jpg,cannon
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_116.jpg,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_117.jpg,shield,Doberman
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_118.jpg,llama
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_121.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_124.jpg,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_125.jpg,horse cart,Arabian camel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_126.jpg,shield,sorrel,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_127.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_13.jpg,shield,barrel,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_82.jpg,barrel,horse cart,rain barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_105.jpg,sorrel,shield,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_130.jpg,ballplayer,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_149.jpg,football helmet
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_182.jpg,football helmet,shield,parachute,croquet ball,bow
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_44.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_79.jpg,ox
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_98.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_8.jpg,parachute,shield,bow,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_80.jpg,Arabian camel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_81.jpg,Arabian camel,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_83.jpg,Irish wolfhound,Old English sheepdog,ram,African elephant,kuvasz
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_84.jpg,barrel,accordion,Scottish deerhound,Leonberg,Irish wolfhound
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_85.jpg,bow,military uniform,bearskin,rifle
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_87.jpg,maze
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_88.jpg,groenendael
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_89.jpg,croquet ball,kelpie
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_90.jpg,horse cart,rifle,parachute,bow
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_91.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_92.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_93.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_94.jpg,cowboy hat,sorrel,horse cart,barrel,bearskin
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_95.jpg,shield,sorrel,cuirass,bearskin,breastplate
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_96.jpg,cowboy hat
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_97.jpg,bloodhound,ox,Rhodesian ridgeback,bow,croquet ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_183.jpg,rugby ball,sorrel,volleyball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_19.jpg,sorrel,horse cart,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_20.jpg,football helmet,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_21.jpg,football helmet
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_22.jpg,sorrel,barrel,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_23.jpg,football helmet
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_27.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_30.jpg,sorrel,football helmet,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_31.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_33.jpg,sorrel,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_34.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_35.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_36.jpg,oboe,maypole,sax,bulletproof vest,bassoon
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_38.jpg,Arabian camel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_39.jpg,Arabian camel,llama
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_41.jpg,Arabian camel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_42.jpg,Arabian camel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_43.jpg,rain barrel,sorrel,llama
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Close_polo_9.jpg,sorrel,horse cart,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Far_polo_132.jpg,hay,ox,ram
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Far_polo_160.jpg,soccer ball,ballplayer,racket
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Far_polo_161.jpg,ballplayer
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Far_polo_180.jpg,unicycle
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Far_polo_186.jpg,ballplayer,soccer ball
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Far_polo_187.jpg,plow,horse cart,sorrel,worm fence
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Far_polo_49.jpg,valley
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Far_polo_69.jpg,Great Dane,malamute,Greater Swiss Mountain dog,German shepherd,African hunting dog
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_0.jpg,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_1.jpg,Rhodesian ridgeback,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_10.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_101.jpg,shield,barrel,crash helmet,football helmet,cannon
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_102.jpg,sorrel,barrel,rain barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_103.jpg,Arabian camel,bow
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_104.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_99.jpg,sorrel,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Hard_Mid_polo_128.jpg,prison
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Hard_Mid_polo_129.jpg,swing,rifle
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Medium_Close_polo_109.jpg,muzzle
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Medium_Far_polo_120.jpg,palace
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Medium_Far_polo_167.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Medium_Mid_polo_176.jpg,bow
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Medium_Mid_polo_178.jpg,bearskin,shield,ballplayer,barrel,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Medium_Mid_polo_179.jpg,horse cart
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Medium_Mid_polo_37.jpg,barrel,sorrel,rain barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Medium_Mid_polo_45.jpg,barrel,muzzle,football helmet,rain barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Medium_Mid_polo_46.jpg,sorrel,rain barrel,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Medium_Mid_polo_86.jpg,groom
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_131.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_133.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_134.jpg,llama,Leonberg,Afghan hound,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_135.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_136.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_137.jpg,sorrel,shield,football helmet,drum
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_138.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_139.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_14.jpg,shield,bow,football helmet,bearskin,military uniform
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_140.jpg,sorrel,shield
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_141.jpg,sorrel,barrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_142.jpg,sorrel,shield,cello
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_143.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_144.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_145.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_146.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_147.jpg,sorrel
+/media/jessica/D4165BB8165B99F6/Datasets/sport_imgs/polo/Easy_Mid_polo_148.jpg,sorrel

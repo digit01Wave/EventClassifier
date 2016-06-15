@@ -1,0 +1,84 @@
+wig:2.0
+groom:4.0
+sarong:5.0
+quilt:1.0
+maillot:1.0
+laptop:2.0
+packet:1.0
+bonnet:1.0
+spatula:1.0
+jigsaw puzzle:1.0
+swimming trunks:4.0
+studio couch:7.0
+sandbar:3.0
+syringe:1.0
+candle:8.0
+mortarboard:1.0
+crutch:1.0
+umbrella:1.0
+cellular telephone:1.0
+hog:1.0
+rubber eraser:3.0
+velvet:1.0
+handkerchief:1.0
+chain mail:1.0
+maraca:1.0
+menu:2.0
+balloon:11.0
+tennis ball:1.0
+lab coat:1.0
+thimble:1.0
+rocking chair:1.0
+pill bottle:2.0
+miniskirt:6.0
+unicycle:1.0
+confectionery:1.0
+pencil box:3.0
+bubble:2.0
+theater curtain:1.0
+kimono:1.0
+ping-pong ball:1.0
+apron:1.0
+sunglasses:1.0
+remote control:1.0
+parallel bars:1.0
+prison:1.0
+envelope:1.0
+slot:1.0
+vestment:2.0
+lotion:2.0
+clog:1.0
+cradle:1.0
+toyshop:1.0
+stethoscope:1.0
+neck brace:1.0
+palace:2.0
+vacuum:1.0
+drum:1.0
+hand blower:1.0
+pinwheel:1.0
+cake:9.0
+stage:3.0
+television:1.0
+maze:2.0
+feather boa:5.0
+swing:1.0
+limousine:3.0
+iPod:1.0
+harmonica:1.0
+bucket:1.0
+punching bag:1.0
+perfume:2.0
+hair spray:3.0
+bakery:2.0
+notebook:1.0
+ice lolly:2.0
+jersey:1.0
+sleeping bag:2.0
+necklace:1.0
+worm fence:3.0
+Band Aid:1.0
+tray:1.0
+pillow:1.0
+pajama:9.0
+diaper:3.0

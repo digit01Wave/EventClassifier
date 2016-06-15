@@ -1,0 +1,71 @@
+table lamp:1.0
+police van:1.0
+knot:1.0
+quilt:1.0
+seat belt:1.0
+lakeside:2.0
+Doberman:3.0
+ram:4.0
+packet:1.0
+alp:78.0
+hook:1.0
+pole:1.0
+hartebeest:1.0
+studio couch:2.0
+snowmobile:8.0
+sliding door:10.0
+barber chair:1.0
+book jacket:1.0
+malinois:1.0
+bloodhound:1.0
+snowplow:7.0
+shovel:4.0
+gazelle:2.0
+park bench:1.0
+plastic bag:1.0
+Chesapeake Bay retriever:5.0
+fire screen:6.0
+birdhouse:1.0
+ibex:8.0
+valley:1.0
+ski:19.0
+stove:2.0
+comic book:1.0
+ping-pong ball:1.0
+cash machine:1.0
+umbrella:1.0
+web site:1.0
+ashcan:1.0
+tobacco shop:1.0
+German shepherd:2.0
+vestment:1.0
+street sign:3.0
+boathouse:1.0
+neck brace:1.0
+bighorn:5.0
+wallaby:4.0
+wardrobe:1.0
+coyote:2.0
+bullet train:1.0
+Scottish deerhound:1.0
+llama:2.0
+home theater:2.0
+shoe shop:1.0
+kelpie:1.0
+tray:1.0
+drum:1.0
+swing:1.0
+restaurant:2.0
+limousine:1.0
+dining table:1.0
+jigsaw puzzle:1.0
+bakery:1.0
+dogsled:2.0
+barbershop:1.0
+ox:1.0
+ski mask:6.0
+barrel:1.0
+water buffalo:2.0
+impala:2.0
+Irish wolfhound:2.0
+lumbermill:2.0

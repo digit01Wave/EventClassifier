@@ -1,0 +1,33 @@
+gown:2.0
+shovel:5.0
+pelican:1.0
+parachute:7.0
+bannister:1.0
+paddle:1.0
+quill:1.0
+book jacket:1.0
+scuba diver:2.0
+whippet:1.0
+half track:1.0
+alp:80.0
+Labrador retriever:1.0
+unicycle:1.0
+pinwheel:1.0
+valley:1.0
+ski:119.0
+parking meter:1.0
+cannon:1.0
+warplane:1.0
+killer whale:1.0
+great white shark:1.0
+Persian cat:1.0
+chain saw:3.0
+bathing cap:1.0
+cliff:5.0
+tank:1.0
+comic book:1.0
+knee pad:2.0
+projectile:1.0
+bobsled:1.0
+ski mask:1.0
+snowmobile:15.0

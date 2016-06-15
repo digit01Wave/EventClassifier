@@ -1,0 +1,89 @@
+gown:13.0
+theater curtain:5.0
+scoreboard:1.0
+triumphal arch:1.0
+water jug:1.0
+cloak:1.0
+rocking chair:1.0
+prison:1.0
+wool:1.0
+ski:2.0
+maypole:3.0
+plate:1.0
+sunglasses:3.0
+marimba:2.0
+parallel bars:1.0
+steel drum:2.0
+vase:1.0
+four-poster:1.0
+tray:1.0
+bow tie:2.0
+quilt:1.0
+torch:1.0
+jigsaw puzzle:1.0
+moving van:1.0
+candle:1.0
+poncho:5.0
+military uniform:28.0
+jinrikisha:2.0
+scale:1.0
+breastplate:1.0
+chain mail:2.0
+sombrero:1.0
+unicycle:2.0
+umbrella:4.0
+sarong:21.0
+vestment:31.0
+academic gown:8.0
+abaya:22.0
+trailer truck:1.0
+stage:1.0
+throne:1.0
+drum:1.0
+restaurant:10.0
+bow:1.0
+hair spray:1.0
+swing:1.0
+worm fence:1.0
+pajama:21.0
+wig:3.0
+stretcher:1.0
+forklift:2.0
+bonnet:3.0
+wooden spoon:1.0
+mortarboard:8.0
+confectionery:3.0
+gondola:1.0
+flagpole:1.0
+limousine:3.0
+oboe:1.0
+altar:19.0
+coral reef:1.0
+diaper:1.0
+rifle:1.0
+wardrobe:1.0
+dining table:1.0
+shower curtain:1.0
+gong:1.0
+studio couch:1.0
+stole:7.0
+American alligator:1.0
+panpipe:10.0
+kimono:65.0
+banjo:1.0
+monastery:1.0
+flute:2.0
+toyshop:2.0
+mosquito net:4.0
+sunglass:1.0
+shoe shop:2.0
+bearskin:3.0
+feather boa:15.0
+hair slide:1.0
+groom:46.0
+volleyball:1.0
+bell cote:1.0
+bakery:3.0
+minivan:1.0
+barrel:2.0
+cake:5.0

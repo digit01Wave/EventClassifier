@@ -1,0 +1,72 @@
+wig:31.0
+bow tie:11.0
+stretcher:1.0
+mitten:1.0
+gown:5.0
+maillot:1.0
+laptop:2.0
+bookshop:1.0
+fur coat:4.0
+library:1.0
+bubble:1.0
+shower cap:1.0
+bassinet:1.0
+sweatshirt:3.0
+poncho:4.0
+stole:15.0
+mortarboard:1.0
+face powder:1.0
+cellular telephone:1.0
+microphone:1.0
+cardigan:5.0
+velvet:1.0
+overskirt:2.0
+chain mail:5.0
+hair spray:3.0
+bassoon:1.0
+harmonica:1.0
+seat belt:2.0
+lab coat:7.0
+potter's wheel:1.0
+balance beam:1.0
+suit:20.0
+drumstick:1.0
+wool:5.0
+beer glass:1.0
+loupe:1.0
+maraca:2.0
+hoopskirt:2.0
+oboe:1.0
+brassiere:2.0
+pomegranate:1.0
+Windsor tie:10.0
+bib:1.0
+steel drum:1.0
+vestment:7.0
+abaya:1.0
+academic gown:6.0
+neck brace:7.0
+vacuum:1.0
+bolo tie:1.0
+hand blower:2.0
+trench coat:3.0
+lipstick:1.0
+tray:1.0
+miniskirt:1.0
+feather boa:3.0
+carton:1.0
+restaurant:1.0
+hair slide:2.0
+iPod:1.0
+groom:35.0
+strawberry:1.0
+bikini:4.0
+remote control:1.0
+barbershop:1.0
+pajama:1.0
+safety pin:2.0
+plunger:1.0
+Band Aid:3.0
+bath towel:1.0
+jersey:3.0
+diaper:1.0

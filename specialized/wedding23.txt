@@ -1,0 +1,49 @@
+gown:13.0
+sunglass:1.0
+palace:4.0
+bow tie:3.0
+lakeside:1.0
+radiator:1.0
+library:5.0
+sunscreen:2.0
+shower cap:1.0
+park bench:1.0
+dining table:1.0
+church:1.0
+sunglasses:1.0
+pedestal:1.0
+military uniform:1.0
+loudspeaker:1.0
+academic gown:2.0
+lipstick:1.0
+washbasin:1.0
+grand piano:1.0
+Afghan hound:2.0
+kimono:5.0
+crossword puzzle:1.0
+suit:1.0
+fountain:1.0
+limousine:1.0
+cash machine:1.0
+umbrella:2.0
+sarong:6.0
+obelisk:1.0
+altar:1.0
+Windsor tie:1.0
+dome:1.0
+vestment:6.0
+beacon:1.0
+komondor:1.0
+llama:1.0
+maze:1.0
+Old English sheepdog:1.0
+hoopskirt:1.0
+stage:1.0
+folding chair:2.0
+feather boa:1.0
+restaurant:2.0
+groom:17.0
+tape player:1.0
+hair spray:2.0
+abaya:1.0
+pajama:2.0

@@ -1,0 +1,64 @@
+wig:3.0
+gown:1.0
+barber chair:1.0
+handkerchief:1.0
+coffee mug:1.0
+bookshop:1.0
+scoreboard:1.0
+packet:1.0
+bonnet:2.0
+spatula:3.0
+maraca:1.0
+paper towel:1.0
+bow tie:1.0
+candle:1.0
+sweatshirt:1.0
+comic book:1.0
+stole:1.0
+water jug:1.0
+cellular telephone:2.0
+toilet tissue:1.0
+confectionery:3.0
+hoopskirt:2.0
+harmonica:1.0
+sombrero:1.0
+panpipe:1.0
+kimono:1.0
+miniskirt:2.0
+pop bottle:1.0
+carton:1.0
+marimba:1.0
+American lobster:1.0
+paintbrush:1.0
+restaurant:2.0
+plate:1.0
+acorn squash:1.0
+sunglasses:1.0
+overskirt:1.0
+ladle:1.0
+cockroach:1.0
+Christmas stocking:3.0
+cake:1.0
+toyshop:6.0
+sunglass:1.0
+drumstick:1.0
+hand blower:1.0
+goblet:1.0
+drum:1.0
+wooden spoon:1.0
+accordion:2.0
+iPod:1.0
+groom:2.0
+crutch:1.0
+hair spray:2.0
+barbershop:2.0
+jersey:2.0
+apron:2.0
+hair slide:1.0
+cowboy hat:1.0
+sewing machine:1.0
+jean:2.0
+teddy:1.0
+tray:1.0
+measuring cup:1.0
+pajama:3.0

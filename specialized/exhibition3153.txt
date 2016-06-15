@@ -1,0 +1,55 @@
+clog:2.0
+quilt:1.0
+medicine chest:2.0
+bookshop:1.0
+crate:2.0
+crib:1.0
+space shuttle:1.0
+bannister:6.0
+pole:1.0
+paper towel:3.0
+shower curtain:5.0
+guillotine:1.0
+chime:1.0
+shopping cart:1.0
+hook:1.0
+birdhouse:4.0
+toilet tissue:2.0
+confectionery:1.0
+washbasin:4.0
+panpipe:1.0
+picket fence:2.0
+rocking chair:4.0
+fountain:1.0
+prison:1.0
+flagpole:1.0
+toilet seat:1.0
+carton:5.0
+honeycomb:2.0
+apron:1.0
+radiator:2.0
+altar:1.0
+envelope:3.0
+shopping basket:2.0
+vestment:1.0
+Christmas stocking:1.0
+sandal:1.0
+plane:1.0
+maze:1.0
+wardrobe:1.0
+coil:3.0
+tub:1.0
+oil filter:1.0
+shoe shop:1.0
+plate rack:2.0
+folding chair:6.0
+matchstick:2.0
+dining table:2.0
+bell cote:1.0
+switch:2.0
+bookcase:1.0
+barbershop:1.0
+cradle:2.0
+cowboy hat:1.0
+pillow:1.0
+patio:1.0

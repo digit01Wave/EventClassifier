@@ -1,0 +1,22 @@
+wig:1.0
+shovel:3.0
+shield:1.0
+lakeside:1.0
+parachute:1.0
+snowmobile:6.0
+alp:16.0
+snowplow:2.0
+cloak:1.0
+paddle:3.0
+unicycle:1.0
+pinwheel:1.0
+ski:26.0
+chain saw:3.0
+crane:2.0
+cliff:2.0
+sleeping bag:1.0
+crutch:2.0
+tow truck:1.0
+dogsled:2.0
+swing:1.0
+bobsled:2.0

@@ -1,0 +1,65 @@
+wig:3.0
+ping-pong ball:1.0
+stretcher:1.0
+seat belt:1.0
+laptop:2.0
+torch:1.0
+packet:1.0
+china cabinet:1.0
+wooden spoon:1.0
+jigsaw puzzle:1.0
+paper towel:1.0
+candle:4.0
+syringe:1.0
+barbershop:1.0
+sweatshirt:1.0
+chocolate sauce:2.0
+ice cream:2.0
+book jacket:1.0
+toilet tissue:1.0
+toyshop:1.0
+maraca:6.0
+balloon:1.0
+can opener:1.0
+potter's wheel:1.0
+refrigerator:1.0
+miniskirt:1.0
+confectionery:1.0
+pinwheel:1.0
+rain barrel:1.0
+paintbrush:2.0
+piggy bank:1.0
+plate:6.0
+sunglasses:1.0
+oboe:1.0
+corn:1.0
+steel drum:1.0
+Christmas stocking:2.0
+bookcase:2.0
+red wine:1.0
+library:8.0
+desk:1.0
+wardrobe:2.0
+ear:1.0
+plunger:1.0
+shoe shop:3.0
+folding chair:3.0
+dishwasher:1.0
+feather boa:1.0
+sliding door:2.0
+restaurant:5.0
+groom:1.0
+bucket:1.0
+window screen:3.0
+crutch:1.0
+hair spray:3.0
+bakery:2.0
+snorkel:1.0
+measuring cup:1.0
+knee pad:1.0
+cowboy hat:1.0
+pot:1.0
+jean:1.0
+Band Aid:2.0
+pillow:1.0
+pajama:1.0

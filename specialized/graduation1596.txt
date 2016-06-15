@@ -1,0 +1,56 @@
+wig:8.0
+doormat:1.0
+stretcher:1.0
+mitten:1.0
+handkerchief:1.0
+seat belt:2.0
+theater curtain:4.0
+fur coat:1.0
+parachute:1.0
+Chihuahua:1.0
+sewing machine:1.0
+holster:1.0
+violin:1.0
+mortarboard:8.0
+poncho:1.0
+stole:1.0
+military uniform:2.0
+microphone:2.0
+academic gown:8.0
+goblet:1.0
+teddy:2.0
+bassoon:1.0
+balloon:1.0
+sock:1.0
+lab coat:4.0
+running shoe:1.0
+suit:7.0
+horizontal bar:1.0
+washer:1.0
+wool:3.0
+limousine:3.0
+maypole:1.0
+maraca:1.0
+flute:1.0
+marimba:3.0
+oboe:1.0
+miniskirt:7.0
+plane:1.0
+diaper:1.0
+feather boa:2.0
+hand blower:1.0
+shoe shop:1.0
+stage:2.0
+drum:1.0
+bulletproof vest:2.0
+sweatshirt:1.0
+sleeping bag:1.0
+groom:2.0
+crutch:1.0
+hair spray:1.0
+ice lolly:1.0
+knee pad:1.0
+swing:1.0
+jean:2.0
+grand piano:1.0
+pajama:3.0
