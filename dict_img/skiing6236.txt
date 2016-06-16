@@ -1,0 +1,8 @@
+wreck:1.0
+dome:1.0
+amphibian:1.0
+snowmobile:1.0
+vault:1.0
+ski:1.0
+airship:1.0
+alp:11.0

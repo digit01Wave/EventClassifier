@@ -106,10 +106,24 @@ class EventClassifier:
                 self._print_single_important(e)
         else:
             self._print_single_important(event)
+            
+    def print_important_labels(self, tag):
+        """
+        Finds and prints to console all the event labels that have the given tag
+        as a salient feature
+        """
+        temp = {}
+        for event in self._salient_tags:
+            if tag in self._salient_tags[event]:
+                temp[event] = self._tag_counters[event][tag]/self._event_div_totals[event]
+        
+        sorted_x = sorted(temp.items(), key=operator.itemgetter(1), reverse=True)  
+        for item in sorted_x:
+            print '\t', item[0], ': ', item[1]
     
     def _print_single_important(self, event):
         """
-        helper function
+        helper function for print_important_features
         """
         total = self._event_div_totals[event]
         print event
@@ -122,16 +136,6 @@ class EventClassifier:
         
         #sort temp and print it in order
         sorted_x = sorted(temp.items(), key=operator.itemgetter(1), reverse=True)
-        for item in sorted_x:
-            print '\t', item[0], ': ', item[1]
-    
-    def print_important_labels(self, tag):
-        temp = {}
-        for event in self._salient_tags:
-            if tag in self._salient_tags[event]:
-                temp[event] = self._tag_counters[event][tag]/self._event_div_totals[event]
-        
-        sorted_x = sorted(temp.items(), key=operator.itemgetter(1), reverse=True)  
         for item in sorted_x:
             print '\t', item[0], ': ', item[1]
         
@@ -154,7 +158,8 @@ class EventClassifier:
         ------------------
         feature_list: list[(str,dict{str:float or int})]
             List of tuples where the first item is the event title, and the second
-            item is its dictionary of tags with the number of times they occured in given event  
+            item is its dictionary of tags with the number of times they occured 
+            in given event. (e.g. {'wedding':{'groom':27, 'cake':3.0}}  
 
         Returns
         ------------------
@@ -183,27 +188,8 @@ class EventClassifier:
         print "Beginning training process..."
         temp = gClassify.get_folder_tags(folder_path)
         self._add_event_tag_feature(event, temp)
+        print "Finished trainign process"
     
-    def train_link_collection(self, event, link_list, rel_thresh=0.3):
-        """
-        Trains classifier on set of image links
-        
-        Parameters
-        -----------
-        event (str): 
-            name of event/key to add/add to       
-        link_list (list[str]):  
-            list of links from which to download training images from
-        rel_threshold (float):
-            since gClassify gives many results, rel_occurance determines how close
-            the other results have to be to be included in our dictionary
-        
-        Returns
-        ----------
-        Nothing
-        """
-        tag_dict = gClassify.get_collection_tags(link_list, rel_threshold=rel_thresh)
-        self._add_event_tag_feature(event, tag_dict)
         
     def classify_folder(self, img_foldername, rel_threshold=0.3):
         """
@@ -273,10 +259,16 @@ class EventClassifier:
         
         Parameters
         -------------
-        feature_dict (dict{str:float or int}):
-            features that map a tag to the number of times it had appeared
+        feature_tag_dict (dict{str:float or int}):
+            Features that map a tag to the number of times it had appeared
         alpha (float):
             The weight given the the number of occurances in given feature_dict
+        
+        Returns
+        -------------
+        list[tuple(str:float)]
+            List of top-10 event labels ordered by score.
+            Each tuple consists of the event label and score.
         """        
         if(len(feature_tag_dict) == 0):
             print("WARNING: feature dictionary given is empty")
@@ -298,8 +290,13 @@ class EventClassifier:
                     #calculate probability
                     scores[event]+=(self._tag_counters[event][tag]/tag_total)*math.log(N/self._tag_doc_freq[tag])*(alpha*(feature_tag_dict[tag]/feature_tag_total))
                 elif feature_tag_dict[tag]/feature_tag_total > self._naive_importance:
+                    #apply penalty if commonly occuring tag is not salient in event
+                    if(self._event_full_totals[event]==0):
+                        weight=0
+                        break
                     weight *= self._tag_counters[event][tag]/self._event_full_totals[event]                  
-                    #weight*= 0.5
+            
+            #apply penalty
             scores[event] *= weight
             
             total+=scores[event]
@@ -342,16 +339,14 @@ class EventClassifier:
                 for key in classifier._tag_counters[event]:
                     myFile.write(key + ":" + str(classifier._tag_counters[event][key]) + ",")
                 myFile.write(";;;")
+                
             #storoe doc importance
             myFile.write('\n')
             myFile.write(str(classifier._doc_importance))
-            #store extra features
+        
+            #storoe naive_importance
             myFile.write('\n')
-            for event in classifier._extra_features:
-                myFile.write(event + "|||")
-                for key in classifier._extra_features[event]:
-                    myFile.write(key + ":" + str(classifier._extra_features[event][key]) + ",")
-                myFile.write(";;;")
+            myFile.write(str(classifier._naive_importance))
         
     
     @staticmethod
@@ -390,28 +385,16 @@ class EventClassifier:
             #obtain document importance
             document_importance = float(my_file.readline().strip())
             
-            #obtain any extra features            
-            d4 = {}
-            temp = my_file.readline()
-            collection = temp.split(";;;") #separates different events in collection
-            for event in collection:
-                e_split = event.split("|||") #split event from their tags
-                if(len(e_split) == 2):
-                    #initialize new event entry
-                    key = e_split[0].strip()
-                    d4[key] = {}
-                    
-                    #split each tag and add them to the event dict
-                    t_split = e_split[1].strip().split(",")
-                    for tag in t_split:
-                        d_split = tag.split(':')
-                        if(len(d_split) == 2):
-                            d4[key][d_split[0]] = d_split[1]
+            #obtain naive_importance         
+            n_importance = float(my_file.readline().strip())
             
             
-        return EventClassifier(tag_counters=d1, doc_importance = document_importance, extra_features=d4)
+        return EventClassifier(tag_counters=d1, doc_importance = document_importance, naive_importance = n_importance)
     
     def get_labels(self):
+        """
+        Returns all the event labels in the classifier in the form of list[str]
+        """
         ans = set()
         for event in self._tag_counters:
             ans.add(event)
@@ -499,9 +482,22 @@ class EventClassifier:
         
              
 ###############################################################################
-             #Evaluation Section
+  #Evaluation Section
 ###############################################################################
 def plot_data(data, x_axis=None, x_label="", y_label="", title=""):
+    """
+    Returns a plot for given data. Use for visualization.
+    
+    Parameters
+    ---------------
+    data(list[float]): y-values
+    x-axis(list[float]): 
+        Corresponding x-values
+        If none are given, then will just count from 1
+    x_label(str): x-axis label
+    y_label(str):y-axis label
+    title(str): title
+    """
     if(x_axis is None):
         x_axis = [i+1 for i in xrange(len(data))]
     plt.plot(x_axis, data)
@@ -511,11 +507,6 @@ def plot_data(data, x_axis=None, x_label="", y_label="", title=""):
     plt.ylim(ymin=0)
     plt.show()
 
-def dict_to_csv(d, file_path):
-    with open(file_path, 'wb') as csvfile:
-        writer = csv.writer(csvfile, delimiter=',')
-        for key in sorted(d):
-            writer.writerow([key, d[key]])
     
 def sdf(d, name, num, to_add=None):
     fd.dict_to_file(d, 'newer/dict_img/'+name+num+'.txt')
@@ -555,7 +546,8 @@ def convert_data_to_dict(folder_path, filenames):
 def PEC_cross_validate(n_fold, original=True, doc_imp=0.008, naive_imp=0.16):
     """
     Perform n-fold cross validation on the appropriate PEC data and returns the 
-    n-length list of accuracies from each fold.
+    n-length list of accuracies from each fold, along with which labels were 
+    incorrectly labeled, and the classifier.
         
     Parameters
     ----------------
@@ -564,15 +556,20 @@ def PEC_cross_validate(n_fold, original=True, doc_imp=0.008, naive_imp=0.16):
     original(boolean): 
         Whether or not to use the 1000-class classifier as opposed to the 1002
         class classifier
+    doc_imp (float): 
+        Parameter for EventClassifier
+    naive_imp(float): 
+        Parameter for EventClassifier
     
     Returns
     -------------------
     tuple(list[floats], dictionary{str:float}, classifier)
-        The first item is the list of average accuracies across all k folds, where
-        each item is the average for the top-index choices. 
-        The second item is a dictionary that that maps each tags to the average 
-        percent of errors they caused.
-        The third item is the trained classifier
+        3-length tuple with following information:
+            [1] List of average accuracies across all k folds, where each item 
+                is the average for the top-index choices. 
+            [2] Dictionary that that maps each mislabeled event to the incorrect 
+                event, which is in turn mapped to the average percent this mapping occured.
+            [3] the trained classifier
     """
     #get all_files
     folder_path = "dict_img" if original else "specialized"
@@ -586,6 +583,7 @@ def PEC_cross_validate(n_fold, original=True, doc_imp=0.008, naive_imp=0.16):
     start = 0 #start index of current fold
     fold_num = 1 #fold we are on
     type_dict={}
+    
     
     while fold_num <= n_fold:
         test_set = filenames[start:fold_num*M]
@@ -623,9 +621,11 @@ def test_PEC(classifier, folder_path, test_list):
     """
     err_list = [0]*10
     type_dict = {}
+    type_count=defaultdict(int)
     for filename in test_list:
         temp_split= re.split('[\d.]+', filename)
         category = temp_split[0]
+        type_count[category]+=1
         temp = fd.file_to_dict(join(folder_path,filename))    
         ans = classifier.classify_feature(temp)
         if(ans is None):
@@ -664,7 +664,7 @@ def test_PEC(classifier, folder_path, test_list):
     #normalize all the errors
     for event in type_dict:
         for tag in type_dict[event]:
-            type_dict[event][tag] = type_dict[event][tag]/f*100    
+            type_dict[event][tag] = type_dict[event][tag]/type_count[event]*100    
     return accuracy, type_dict
     
 def test_bing(original=True, only_8=True, doc_imp=0.008, naive_imp=0.16):
@@ -692,6 +692,7 @@ def test_bing(original=True, only_8=True, doc_imp=0.008, naive_imp=0.16):
             (2) the trained classifier
     """
     to_load = "no_cake_features.txt" if original else "special_features.txt"
+   
     temp_final = fd.load_nested_dict(to_load)
 
     #keep only the 8-classes
@@ -711,11 +712,12 @@ def test_bing(original=True, only_8=True, doc_imp=0.008, naive_imp=0.16):
     filenames = [f for f in listdir(folder_path) if isfile(join(folder_path, f))]  
     
     type_dict = {} #will store event{event_mapped:count} 
-    
+    type_count=defaultdict(int)
     err_list = [0]*10
     for filename in filenames:
         temp_split= re.split('[\d.]+', filename)
         category = temp_split[0]
+        type_count[category] += 1
         temp = fd.file_to_dict(join(folder_path,filename))    
         ans = classifier.classify_feature(temp)
         if(ans is None):
@@ -755,7 +757,7 @@ def test_bing(original=True, only_8=True, doc_imp=0.008, naive_imp=0.16):
         accuracy[i] = (f-err_list[i])/f
     for event in type_dict:
         for tag in type_dict[event]:      
-            type_dict[event][tag] = type_dict[event][tag]/f*100 #converting erros to percentage of error
+            type_dict[event][tag] = type_dict[event][tag]/type_count[event]*100 #converting erros to percentage of error
             
     return accuracy, type_dict, classifier
     
@@ -763,6 +765,10 @@ def test_bing(original=True, only_8=True, doc_imp=0.008, naive_imp=0.16):
 ###############################################################################
 #Learn Best Parameters for EventClassifier
 ###############################################################################
+"""
+This part can be ignored unless one wants to find a different parameter.
+The doc_importance and naive_importance is assumed independent in these tests
+"""
 def find_best_doc_param(fixed_naive, epsilon=.001, pec=True, orig=True):
     top = 0.25 #highest we can be
     bottom = 0.0 #lowest we can be
@@ -832,111 +838,27 @@ def find_best_naive_param(fixed_doc, epsilon=.001, pec=True, orig=True):
     return best
                 
             
-
-if __name__ == '__main__':
-    a, b = test_sports()
-   
-#    ##############################################3  
-    #best doc weight for PEC is 0.005 and is 0.11 for PEC
-    #best naive weight for PEC is 0.14 while for normal is .175
-    #ans = find_best_naive_param(fixed_doc=0.1, orig=True, pec=False)
-    #print ans
+##################################################
+            #MAIN
+#################################################
+if __name__ == '__main__':   
+    
     #a, t, c =  PEC_cross_validate(5, original=False, doc_imp=0.008, naive_imp=0.16)
-#    a, t, c = test_bing(original=False, only_8=False, doc_imp=0.008, naive_imp=0.16)#PEC_cross_validate(5, True)
-#    
-#    print 'Accuracy List:', a
-#    print "Error statistics"
-#    print('type errors')
-#    print '\nPERCENTAGE ERRORS'
-#    for event in sorted(t):
-#        current = 0
-#        print event 
-#        for tag in sorted(t[event]):
-#            print '\t{}: {:.2f}'.format(tag,t[event][tag])
-#            current+=t[event][tag]
-#        print '\tTOTAL:{:.2f}'.format(100-current)
-#        
-    #    temp_final = fd.load_nested_dict("special_features.txt")
-#
-#    #keep only the 8
-#    final = {}
-#    for event in ['wedding', 'birthday-party', 'skiing', 'concert', 'christmas', 'cruise', 'exhibition', 'graduation']:
-#        final[event] = temp_final[event]
-#            
-#    
-#    classifier = EventClassifier(tag_counters=final)
-#    #classifier = EventClassifier.load_classifier("current_classifier.txt")
-#    
-#    folder_path = "specialized"#"dict_img"
-#    filenames = [f for f in listdir(folder_path) if isfile(join(folder_path, f))]  
-#    
-#    type_dict = {} #will store event{event_mapped:count} 
-#    
-#    err_list = [0]*10
-#    for filename in filenames:
-#        temp_split= re.split('[\d.]+', filename)
-#        category = temp_split[0]
-#        temp = fd.file_to_dict(join(folder_path,filename))    
-#        ans = classifier.classify_feature(temp)
-#        if(ans is None):
-#            print "#######################################################"
-#            print "FAILURE: Mapped ", filename, "to None"
-#            print "#######################################################"
-#            for i in xrange(len(err_list)):
-#                err_list[i]+=1
-#            if category not in type_dict:
-#                type_dict[category] = defaultdict(float)                
-#            type_dict[category][None] += 1
-#            
-#        elif category == ans[0][0]:
-#            #print "SUCCESS!!! FOR", filename,  "(", ans[0][1]-ans[1][1] 
-#            pass
-#        else:
-#            if(ans[0][0] == "birthday-party" and (category.startswith('bd') or category == "children_birthday")):
-#                #print "SUCCESS!!! FOR", filename,"(", ans[0][1]- ans[1][1], ")" 
-#                pass
-#            else:
-#                print "#######################################################"
-#                print "FAILURE: Mapped ", filename, "to", ans[0][0], "(", ans[0][1]-ans[1][1],")" 
-#                print "List returned was ", ans
-#                print "#######################################################"
-#                err_list[0]+=1
-#                if category not in type_dict:
-#                    type_dict[category] = defaultdict(float)                
-#                type_dict[category][ans[0][0]] += 1
-#                for i in xrange(1, len(err_list)):
-#                    if category == ans[i][0]:
-#                        break 
-#                    elif (ans[i][0] == "birthday-party" and (category.startswith('bd') or category == "children_birthday")):
-#                        break
-#                    else:
-#                        err_list[i] += 1
-#    
-#    l=len(err_list)
-#    f=len(filenames)           
-#    accuracy = [0]*10
-#    for i in xrange(len(err_list)):
-#        accuracy[i] = (f-err_list[i])/f
-#    print "FINAL STATISITCS for BING 8-Class:"
-#    for i in xrange(l):
-#        print "k=", i, "\tPercent Accuracy:", accuracy[i]
-#    print('type errors')
-#    error_dict=defaultdict(float) #will hold full error distributions
-#    for event in type_dict:
-#        print '\t', event, '=', type_dict[event]
-#        for tag in type_dict[event]:      
-#            type_dict[event][tag] = type_dict[event][tag]/f*100 #converting erros to percentage of error
-#            
-#    print 'final errors:', err_list
-#    print 'total', f
-#    
-#    print '\nPERCENTAGE ERRORS'
-#    for event in sorted(type_dict):
-#        current = 0
-#        print event 
-#        for tag in sorted(type_dict[event]):
-#            print '\t{}: {:.2f}'.format(tag,type_dict[event][tag])
-#            current+=type_dict[event][tag]
-#        print '\tTOTAL:{:.2f}'.format(100-current)
+    a, t, c = test_bing(original=False, only_8=False, doc_imp=0.008, naive_imp=0.16)#PEC_cross_validate(5, True)
+    
+    print 'Accuracy List:', a
+    print "Error statistics"
+    print('type errors')
+    print '\nPERCENTAGE ERRORS'
+    for event in sorted(t):
+        current = 0
+        print event 
+        for tag in sorted(t[event]):
+            print '\t{}: {:.2f}'.format(tag,t[event][tag])
+            current+=t[event][tag]
+        print '\tTOTAL:{:.2f}'.format(100-current)
+        
+        temp_final = fd.load_nested_dict("special_features.txt")
+
     pass
     

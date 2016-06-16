@@ -1,0 +1,62 @@
+wig:5.0
+bassinet:1.0
+mitten:1.0
+seat belt:2.0
+cairn:1.0
+laptop:1.0
+Italian greyhound:2.0
+cash machine:1.0
+neck brace:1.0
+keeshond:1.0
+bonnet:1.0
+jigsaw puzzle:2.0
+paper towel:1.0
+punching bag:1.0
+violin:1.0
+stole:1.0
+Shih-Tzu:1.0
+Weimaraner:1.0
+cellular telephone:1.0
+scale:1.0
+harmonica:1.0
+whippet:1.0
+jersey:1.0
+rocking chair:1.0
+crossword puzzle:2.0
+French bulldog:1.0
+silky terrier:1.0
+paintbrush:1.0
+West Highland white terrier:1.0
+Pembroke:1.0
+wombat:1.0
+schipperke:6.0
+knee pad:3.0
+kelpie:1.0
+Labrador retriever:1.0
+flute:1.0
+bib:2.0
+Norwegian elkhound:1.0
+Christmas stocking:4.0
+miniature poodle:1.0
+miniskirt:1.0
+vacuum:1.0
+koala:2.0
+hand blower:1.0
+miniature pinscher:1.0
+Egyptian cat:1.0
+toy poodle:2.0
+oxygen mask:2.0
+bath towel:2.0
+platypus:1.0
+Mexican hairless:1.0
+grey fox:1.0
+crutch:1.0
+bookcase:1.0
+barbershop:1.0
+cradle:1.0
+iron:1.0
+Siamese cat:2.0
+wallaby:2.0
+tray:1.0
+pillow:1.0
+pajama:10.0

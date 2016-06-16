@@ -1,0 +1,29 @@
+wig:3.0
+Cardigan:4.0
+china cabinet:1.0
+studio couch:4.0
+greenhouse:1.0
+buckeye:2.0
+Eskimo dog:1.0
+collie:1.0
+Siberian husky:3.0
+harmonica:1.0
+English springer:1.0
+picket fence:1.0
+Loafer:2.0
+rocking chair:1.0
+bubble:2.0
+Border collie:1.0
+sunglasses:1.0
+kelpie:1.0
+Christmas stocking:1.0
+whistle:1.0
+space heater:1.0
+Saint Bernard:1.0
+feather boa:1.0
+malamute:2.0
+christmas tree:3.0
+ice lolly:1.0
+jean:2.0
+Band Aid:2.0
+pillow:3.0

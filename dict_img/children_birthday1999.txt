@@ -1,0 +1,45 @@
+wig:1.0
+quilt:1.0
+library:1.0
+prayer rug:1.0
+jigsaw puzzle:2.0
+dining table:2.0
+paper towel:1.0
+weasel:1.0
+guillotine:1.0
+candle:1.0
+ocarina:1.0
+birdhouse:1.0
+toyshop:1.0
+maraca:3.0
+balloon:1.0
+potter's wheel:1.0
+crossword puzzle:2.0
+quill:1.0
+ice lolly:3.0
+bubble:1.0
+plate:2.0
+printer:1.0
+sunglasses:2.0
+bib:1.0
+warplane:1.0
+photocopier:1.0
+screwdriver:2.0
+binoculars:1.0
+basketball:1.0
+spatula:1.0
+sunglass:1.0
+missile:1.0
+acoustic guitar:1.0
+power drill:1.0
+barbershop:1.0
+harmonica:1.0
+punching bag:1.0
+rule:1.0
+nipple:2.0
+projectile:1.0
+cowboy hat:2.0
+plunger:1.0
+crayfish:1.0
+tray:2.0
+pajama:1.0

@@ -1,0 +1,46 @@
+doormat:1.0
+curly-coated retriever:1.0
+stretcher:1.0
+sunscreen:3.0
+prayer rug:1.0
+jigsaw puzzle:1.0
+punching bag:1.0
+syringe:1.0
+candle:4.0
+rubber eraser:1.0
+ice cream:1.0
+screw:1.0
+confectionery:1.0
+maraca:6.0
+balloon:2.0
+Greater Swiss Mountain dog:1.0
+balance beam:1.0
+miniskirt:2.0
+toilet seat:1.0
+carton:1.0
+plate:2.0
+Labrador retriever:1.0
+corn:1.0
+screwdriver:1.0
+steel drum:1.0
+Christmas stocking:1.0
+groenendael:1.0
+diaper:1.0
+soccer ball:1.0
+park bench:1.0
+ear:1.0
+broccoli:1.0
+Rottweiler:1.0
+power drill:1.0
+hair slide:1.0
+dining table:1.0
+bucket:1.0
+rule:1.0
+crutch:1.0
+strawberry:1.0
+bikini:1.0
+ice lolly:6.0
+knee pad:1.0
+Band Aid:1.0
+bath towel:1.0
+chain saw:1.0

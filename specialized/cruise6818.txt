@@ -1,0 +1,138 @@
+gown:4.0
+shield:1.0
+maypole:1.0
+scoreboard:4.0
+greenhouse:1.0
+sundial:1.0
+dumbbell:1.0
+ocarina:3.0
+sliding door:2.0
+slot:3.0
+passenger car:2.0
+goblet:1.0
+accordion:1.0
+menu:1.0
+grand piano:4.0
+container ship:2.0
+balance beam:4.0
+prison:2.0
+theater curtain:5.0
+ping-pong ball:2.0
+cash machine:1.0
+hoopskirt:5.0
+safe:2.0
+parallel bars:2.0
+steel drum:1.0
+dock:6.0
+chain saw:1.0
+window shade:4.0
+pier:1.0
+chainlink fence:2.0
+croquet ball:1.0
+organ:1.0
+hook:1.0
+four-poster:3.0
+bow tie:1.0
+quilt:5.0
+torch:4.0
+library:3.0
+promontory:1.0
+bannister:7.0
+jigsaw puzzle:3.0
+drilling platform:1.0
+barometer:1.0
+minibus:1.0
+toyshop:1.0
+wreck:1.0
+sombrero:1.0
+cradle:1.0
+unicycle:2.0
+umbrella:7.0
+dome:1.0
+vestment:1.0
+ballplayer:1.0
+tub:3.0
+stage:13.0
+throne:3.0
+folding chair:1.0
+drum:1.0
+restaurant:16.0
+lifeboat:2.0
+swab:1.0
+bow:1.0
+wall clock:1.0
+projectile:1.0
+vault:1.0
+home theater:7.0
+jersey:1.0
+overskirt:3.0
+puck:1.0
+crib:1.0
+breakwater:1.0
+prayer rug:2.0
+seashore:8.0
+chime:1.0
+radio telescope:2.0
+trimaran:1.0
+plow:2.0
+snowplow:1.0
+submarine:2.0
+carousel:3.0
+flagpole:2.0
+maze:6.0
+pinwheel:1.0
+catamaran:1.0
+limousine:1.0
+steel arch bridge:3.0
+starfish:1.0
+altar:1.0
+school bus:1.0
+missile:1.0
+bottlecap:4.0
+wardrobe:1.0
+crane:3.0
+aircraft carrier:1.0
+china cabinet:1.0
+television:5.0
+dining table:2.0
+comic book:1.0
+pool table:3.0
+combination lock:1.0
+bathtub:1.0
+spotlight:2.0
+fireboat:2.0
+doormat:1.0
+gong:2.0
+palace:1.0
+cinema:8.0
+lakeside:2.0
+medicine chest:1.0
+space shuttle:1.0
+planetarium:1.0
+studio couch:4.0
+sandbar:4.0
+screw:1.0
+marimba:1.0
+bassoon:1.0
+washbasin:2.0
+balloon:2.0
+panpipe:1.0
+fire screen:2.0
+shoji:2.0
+solar dish:3.0
+motor scooter:1.0
+water bottle:1.0
+monastery:1.0
+binoculars:2.0
+coil:5.0
+barrel:1.0
+cliff:1.0
+feather boa:1.0
+groom:4.0
+mask:2.0
+liner:17.0
+bakery:1.0
+paddlewheel:1.0
+jean:1.0
+speedboat:1.0
+patio:8.0

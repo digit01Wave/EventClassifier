@@ -1,0 +1,15 @@
+snowplow:1.0
+lakeside:1.0
+traffic light:1.0
+swing:1.0
+promontory:1.0
+pole:2.0
+dogsled:1.0
+web site:1.0
+snowmobile:1.0
+volcano:1.0
+ski mask:4.0
+valley:1.0
+comic book:1.0
+alp:7.0
+cliff:2.0

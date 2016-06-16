@@ -1,0 +1,79 @@
+wig:9.0
+bow tie:5.0
+groom:1.0
+shield:1.0
+palace:4.0
+cinema:1.0
+lakeside:1.0
+theater curtain:1.0
+sundial:3.0
+fur coat:4.0
+library:4.0
+triumphal arch:4.0
+guillotine:1.0
+church:5.0
+trombone:1.0
+violin:1.0
+mortarboard:20.0
+poncho:2.0
+stole:22.0
+pedestal:1.0
+cellular telephone:1.0
+ladle:1.0
+academic gown:47.0
+velvet:1.0
+overskirt:13.0
+bassoon:5.0
+prison:2.0
+backpack:1.0
+oboe:4.0
+mosque:1.0
+cloak:46.0
+panpipe:1.0
+suit:2.0
+monastery:2.0
+balance beam:1.0
+miniskirt:5.0
+unicycle:7.0
+wool:2.0
+ski:1.0
+maypole:2.0
+bonnet:3.0
+solar dish:1.0
+bearskin:1.0
+sunglasses:6.0
+breastplate:2.0
+water bottle:2.0
+obelisk:1.0
+altar:4.0
+flute:2.0
+vestment:3.0
+mailbox:1.0
+cardigan:4.0
+beer glass:1.0
+neck brace:1.0
+sunglass:1.0
+vault:3.0
+park bench:2.0
+brass:5.0
+pier:1.0
+stage:3.0
+folding chair:1.0
+space shuttle:1.0
+carton:3.0
+drum:1.0
+marimba:1.0
+organ:1.0
+wooden spoon:2.0
+conch:1.0
+bubble:1.0
+restaurant:2.0
+handkerchief:1.0
+window screen:1.0
+bow:1.0
+patio:1.0
+cello:2.0
+cowboy hat:1.0
+abaya:1.0
+plunger:1.0
+jersey:1.0

@@ -1,0 +1,54 @@
+thresher:3.0
+car mirror:1.0
+manhole cover:2.0
+cinema:1.0
+disk brake:2.0
+torch:1.0
+buckle:1.0
+hook:1.0
+stove:2.0
+moped:1.0
+trailer truck:1.0
+mountain bike:1.0
+mixing bowl:1.0
+scale:3.0
+projector:1.0
+traffic light:1.0
+toaster:1.0
+steam locomotive:1.0
+submarine:1.0
+fountain:1.0
+unicycle:1.0
+half track:1.0
+matchstick:1.0
+bubble:1.0
+electric fan:2.0
+lawn mower:1.0
+barometer:1.0
+radiator:1.0
+oscilloscope:1.0
+cannon:2.0
+magnetic compass:1.0
+safe:2.0
+warplane:1.0
+street sign:1.0
+binoculars:1.0
+bicycle-built-for-two:2.0
+space heater:1.0
+lighter:1.0
+Model T:1.0
+brass:2.0
+hand blower:1.0
+teapot:1.0
+jellyfish:1.0
+oxygen mask:1.0
+tank:1.0
+tricycle:2.0
+harvester:1.0
+punching bag:1.0
+crutch:1.0
+car wheel:1.0
+corkscrew:1.0
+spotlight:2.0
+tractor:2.0
+whiskey jug:1.0

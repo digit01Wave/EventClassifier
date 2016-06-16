@@ -1,0 +1,146 @@
+gown:9.0
+maypole:5.0
+fur coat:2.0
+megalith:3.0
+lumbermill:6.0
+mongoose:1.0
+shopping cart:1.0
+alp:6.0
+cellular telephone:1.0
+gazelle:1.0
+cloak:2.0
+stone wall:3.0
+Windsor tie:3.0
+wool:1.0
+ski:1.0
+rain barrel:1.0
+grocery store:1.0
+hip:1.0
+sunglasses:10.0
+hoopskirt:5.0
+dam:1.0
+steel drum:1.0
+street sign:1.0
+whistle:2.0
+boathouse:1.0
+pier:2.0
+barrow:3.0
+jackfruit:1.0
+oxygen mask:1.0
+bolo tie:1.0
+acoustic guitar:3.0
+squirrel monkey:1.0
+volcano:4.0
+sliding door:1.0
+tray:2.0
+bow tie:4.0
+thresher:1.0
+bookshop:1.0
+library:2.0
+promontory:1.0
+jigsaw puzzle:1.0
+guillotine:1.0
+candle:1.0
+sweatshirt:2.0
+poncho:7.0
+velvet:1.0
+chain mail:5.0
+Chesapeake Bay retriever:1.0
+fountain:1.0
+water jug:2.0
+unicycle:1.0
+totem pole:1.0
+sarong:3.0
+yurt:2.0
+vestment:3.0
+mailbox:1.0
+academic gown:2.0
+baseball:2.0
+abaya:1.0
+park bench:1.0
+convertible:1.0
+throne:1.0
+folding chair:2.0
+restaurant:11.0
+hair spray:2.0
+wall clock:1.0
+swing:4.0
+corkscrew:1.0
+castle:2.0
+pajama:3.0
+wig:2.0
+stretcher:2.0
+suspension bridge:2.0
+maillot:2.0
+pot:3.0
+forklift:1.0
+bonnet:2.0
+hook:2.0
+pole:1.0
+seashore:1.0
+syringe:1.0
+mortarboard:2.0
+brass:1.0
+wine bottle:1.0
+plow:2.0
+confectionery:2.0
+teddy:2.0
+Loafer:1.0
+suit:7.0
+flagpole:1.0
+maze:6.0
+pinwheel:1.0
+valley:3.0
+limousine:3.0
+steel arch bridge:1.0
+golfcart:1.0
+overskirt:8.0
+oboe:1.0
+obelisk:1.0
+altar:3.0
+prison:1.0
+crate:1.0
+stethoscope:1.0
+wardrobe:1.0
+crane:1.0
+ear:1.0
+minibus:1.0
+dining table:4.0
+crutch:4.0
+bikini:1.0
+barbershop:2.0
+cab:1.0
+chainlink fence:2.0
+Indian elephant:1.0
+apiary:1.0
+shower curtain:1.0
+palace:1.0
+lakeside:3.0
+parachute:1.0
+planetarium:1.0
+pedestal:1.0
+stole:3.0
+cardigan:3.0
+marimba:1.0
+picket fence:2.0
+kimono:3.0
+miniskirt:3.0
+honeycomb:1.0
+wombat:1.0
+water bottle:1.0
+ashcan:1.0
+monastery:1.0
+pick:1.0
+binoculars:3.0
+worm fence:7.0
+sunglass:5.0
+cleaver:1.0
+bullet train:1.0
+cliff:1.0
+groom:35.0
+bell cote:1.0
+bakery:3.0
+jersey:1.0
+barrel:1.0
+patio:2.0
+bolete:1.0

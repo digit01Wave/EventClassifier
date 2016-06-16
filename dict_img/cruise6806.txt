@@ -1,0 +1,29 @@
+clog:1.0
+lakeside:8.0
+promontory:5.0
+bannister:1.0
+seashore:3.0
+snowmobile:1.0
+drilling platform:1.0
+radio telescope:2.0
+stole:1.0
+alp:13.0
+traffic light:1.0
+cloak:1.0
+valley:11.0
+ski:2.0
+steel arch bridge:1.0
+umbrella:1.0
+yawl:2.0
+worm fence:1.0
+crane:1.0
+pier:2.0
+cliff:1.0
+hook:1.0
+dogsled:1.0
+jellyfish:1.0
+bobsled:1.0
+African crocodile:1.0
+jean:1.0
+speedboat:1.0
+lumbermill:1.0

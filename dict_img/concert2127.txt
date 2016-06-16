@@ -1,0 +1,32 @@
+wig:1.0
+shield:1.0
+maypole:4.0
+neck brace:1.0
+toy terrier:1.0
+bannister:1.0
+seashore:1.0
+trombone:3.0
+violin:2.0
+poncho:1.0
+military uniform:1.0
+cornet:3.0
+microphone:1.0
+maraca:1.0
+bassoon:1.0
+balance beam:1.0
+miniskirt:4.0
+unicycle:1.0
+ballplayer:1.0
+pug:1.0
+umbrella:1.0
+marimba:1.0
+flute:1.0
+dalmatian:2.0
+shoe shop:1.0
+stage:3.0
+triumphal arch:1.0
+drum:2.0
+planetarium:1.0
+accordion:1.0
+harmonica:2.0
+cello:1.0

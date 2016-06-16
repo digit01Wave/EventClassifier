@@ -1,0 +1,37 @@
+wig:1.0
+seat belt:1.0
+ballplayer:1.0
+torch:1.0
+syringe:3.0
+sax:1.0
+trombone:2.0
+hammer:1.0
+cornet:2.0
+cellular telephone:2.0
+microphone:16.0
+maraca:6.0
+sombrero:1.0
+prison:1.0
+drumstick:3.0
+harp:1.0
+theater curtain:1.0
+sunglasses:1.0
+marimba:1.0
+oboe:1.0
+flute:1.0
+screwdriver:1.0
+stethoscope:2.0
+sunglass:1.0
+stage:6.0
+Band Aid:1.0
+bolo tie:1.0
+spatula:1.0
+conch:1.0
+harmonica:3.0
+punching bag:1.0
+crutch:2.0
+hair spray:2.0
+barbershop:1.0
+cowboy hat:1.0
+plunger:1.0
+crayfish:1.0

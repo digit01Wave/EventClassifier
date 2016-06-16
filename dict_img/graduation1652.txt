@@ -1,0 +1,24 @@
+cinema:2.0
+theater curtain:3.0
+sax:1.0
+mortarboard:46.0
+ocarina:1.0
+military uniform:1.0
+book jacket:1.0
+academic gown:27.0
+harmonica:1.0
+gasmask:1.0
+lab coat:1.0
+suit:1.0
+kimono:2.0
+miniskirt:1.0
+sarong:1.0
+oboe:1.0
+flute:3.0
+vestment:3.0
+toyshop:1.0
+stage:8.0
+drum:1.0
+groom:5.0
+bow:1.0
+abaya:2.0

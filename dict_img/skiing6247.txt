@@ -1,0 +1,23 @@
+shovel:1.0
+lakeside:7.0
+triceratops:1.0
+promontory:1.0
+breakwater:1.0
+seashore:1.0
+snowmobile:1.0
+sandbar:1.0
+alp:11.0
+barn:1.0
+hog:1.0
+mountain tent:1.0
+Chesapeake Bay retriever:1.0
+valley:2.0
+ski:2.0
+Labrador retriever:1.0
+American Staffordshire terrier:1.0
+llama:1.0
+ice bear:1.0
+beach wagon:1.0
+dogsled:1.0
+minivan:1.0
+volcano:2.0

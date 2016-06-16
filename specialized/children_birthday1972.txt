@@ -1,0 +1,36 @@
+wig:2.0
+canoe:1.0
+guinea pig:1.0
+sunscreen:3.0
+chocolate sauce:1.0
+candle:3.0
+toyshop:1.0
+mixing bowl:1.0
+maraca:2.0
+kimono:1.0
+potter's wheel:1.0
+fountain:1.0
+crossword puzzle:1.0
+pinwheel:1.0
+bubble:4.0
+rain barrel:1.0
+paintbrush:1.0
+bib:1.0
+parallel bars:1.0
+whistle:1.0
+miniature poodle:1.0
+tub:3.0
+basketball:1.0
+barrow:1.0
+ice lolly:6.0
+restaurant:1.0
+bucket:1.0
+lipstick:1.0
+bikini:1.0
+nipple:5.0
+patio:1.0
+cake:3.0
+ski mask:2.0
+Band Aid:9.0
+mask:2.0
+pajama:2.0

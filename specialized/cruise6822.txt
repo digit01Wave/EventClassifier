@@ -1,0 +1,188 @@
+gown:2.0
+clog:1.0
+shield:1.0
+theater curtain:2.0
+fur coat:1.0
+barbell:1.0
+ice lolly:7.0
+spatula:1.0
+swimming trunks:22.0
+lumbermill:1.0
+shopping cart:1.0
+water jug:1.0
+slot:1.0
+garbage truck:1.0
+monitor:1.0
+accordion:1.0
+broom:1.0
+night snake:1.0
+prison:2.0
+toilet seat:1.0
+wool:1.0
+ski:2.0
+maypole:2.0
+grocery store:5.0
+ping-pong ball:1.0
+cash machine:2.0
+sunglasses:9.0
+marimba:4.0
+pay-phone:1.0
+tobacco shop:3.0
+parallel bars:6.0
+steel drum:4.0
+dock:12.0
+snorkel:22.0
+comic book:1.0
+abacus:3.0
+pier:1.0
+jackfruit:4.0
+organ:1.0
+punching bag:5.0
+nipple:1.0
+sliding door:1.0
+oxcart:1.0
+bow tie:1.0
+quilt:1.0
+torch:2.0
+library:2.0
+promontory:1.0
+bannister:2.0
+sewing machine:1.0
+drilling platform:2.0
+candle:1.0
+jinrikisha:5.0
+toyshop:14.0
+breastplate:1.0
+analog clock:1.0
+sombrero:1.0
+paddle:4.0
+butcher shop:2.0
+fountain:6.0
+alp:1.0
+unicycle:4.0
+stingray:2.0
+bathing cap:13.0
+pirate:2.0
+tusker:1.0
+umbrella:5.0
+totem pole:1.0
+sarong:17.0
+yurt:1.0
+corn:1.0
+dome:2.0
+vestment:4.0
+hand blower:2.0
+stage:5.0
+throne:2.0
+folding chair:2.0
+drum:4.0
+sea lion:1.0
+restaurant:23.0
+lifeboat:1.0
+teddy:4.0
+mantis:1.0
+bow:1.0
+hair spray:1.0
+dogsled:2.0
+wall clock:1.0
+shower curtain:2.0
+swing:4.0
+vault:5.0
+pajama:4.0
+wig:4.0
+stretcher:1.0
+maillot:24.0
+swab:1.0
+gas pump:1.0
+bonnet:1.0
+wooden spoon:1.0
+pole:3.0
+seashore:35.0
+stupa:1.0
+church:6.0
+syringe:1.0
+chime:1.0
+confectionery:2.0
+streetcar:2.0
+maraca:2.0
+gondola:3.0
+traffic light:1.0
+canoe:3.0
+carousel:10.0
+flagpole:1.0
+pop bottle:1.0
+catamaran:5.0
+limousine:3.0
+balance beam:3.0
+bookshop:1.0
+overskirt:1.0
+oboe:3.0
+altar:4.0
+killer whale:5.0
+Christmas stocking:1.0
+stethoscope:1.0
+walking stick:1.0
+ear:1.0
+hoopskirt:3.0
+cuirass:1.0
+bubble:1.0
+bucket:1.0
+crutch:6.0
+conch:1.0
+bikini:33.0
+barbershop:1.0
+bobsled:5.0
+plunger:1.0
+Indian elephant:1.0
+spotlight:1.0
+fireboat:1.0
+gong:3.0
+palace:1.0
+cinema:2.0
+lakeside:5.0
+neck brace:1.0
+sunscreen:4.0
+parachute:2.0
+planetarium:1.0
+studio couch:1.0
+sandbar:24.0
+hog:1.0
+microphone:1.0
+cardigan:1.0
+radiator:1.0
+vending machine:1.0
+speedboat:3.0
+panpipe:3.0
+picket fence:1.0
+kimono:6.0
+miniskirt:5.0
+horizontal bar:2.0
+banjo:2.0
+American lobster:1.0
+paintbrush:2.0
+parking meter:1.0
+water bottle:2.0
+ashcan:1.0
+monastery:1.0
+flute:2.0
+sunglass:10.0
+coil:1.0
+airship:1.0
+shoe shop:5.0
+mobile home:1.0
+feather boa:5.0
+chain mail:1.0
+whistle:1.0
+groom:3.0
+mask:6.0
+liner:19.0
+volleyball:9.0
+bell cote:2.0
+bakery:2.0
+boathouse:1.0
+paddlewheel:2.0
+pineapple:2.0
+turnstile:2.0
+jean:2.0
+bath towel:1.0
+patio:3.0

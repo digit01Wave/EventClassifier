@@ -1,0 +1,23 @@
+wig:1.0
+gong:2.0
+electric ray:1.0
+theater curtain:1.0
+sax:5.0
+trombone:2.0
+chime:1.0
+cornet:1.0
+microphone:13.0
+projector:1.0
+unicycle:1.0
+drumstick:9.0
+banjo:1.0
+bubble:1.0
+electric guitar:8.0
+umbrella:1.0
+steel drum:1.0
+drum:8.0
+stage:25.0
+feather boa:1.0
+acoustic guitar:3.0
+bow:1.0
+spotlight:3.0

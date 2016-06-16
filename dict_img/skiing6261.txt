@@ -1,0 +1,21 @@
+plate:1.0
+curly-coated retriever:1.0
+shovel:5.0
+Pomeranian:1.0
+snowplow:2.0
+bassoon:1.0
+Samoyed:1.0
+stove:1.0
+dining table:2.0
+bib:1.0
+pole:1.0
+Christmas stocking:1.0
+prayer rug:1.0
+jigsaw puzzle:1.0
+swimming trunks:1.0
+park bench:1.0
+ski mask:2.0
+tub:2.0
+ski:4.0
+fire screen:1.0
+restaurant:2.0

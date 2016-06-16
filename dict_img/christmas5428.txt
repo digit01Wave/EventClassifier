@@ -1,0 +1,35 @@
+Crock Pot:2.0
+groom:1.0
+barber chair:1.0
+fur coat:1.0
+library:4.0
+china cabinet:5.0
+prayer rug:1.0
+dough:1.0
+stole:2.0
+slot:1.0
+toyshop:6.0
+marimba:1.0
+microwave:2.0
+kimono:1.0
+shoe shop:5.0
+wok:1.0
+suit:1.0
+plate:1.0
+cash machine:1.0
+sarong:1.0
+altar:1.0
+tobacco shop:5.0
+vestment:1.0
+Christmas stocking:1.0
+confectionery:4.0
+wardrobe:1.0
+refrigerator:1.0
+dishwasher:4.0
+feather boa:1.0
+dining table:3.0
+restaurant:9.0
+pool table:1.0
+ice lolly:1.0
+four-poster:1.0
+pajama:1.0

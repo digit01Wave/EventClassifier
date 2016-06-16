@@ -1,0 +1,15 @@
+snowmobile:1.0
+television:1.0
+shovel:1.0
+monitor:1.0
+cinema:1.0
+conch:1.0
+screen:1.0
+dogsled:1.0
+birdhouse:1.0
+brass:1.0
+fireboat:1.0
+ski:6.0
+home theater:1.0
+alp:43.0
+cliff:2.0

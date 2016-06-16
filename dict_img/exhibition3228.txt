@@ -1,0 +1,46 @@
+rotisserie:1.0
+barber chair:1.0
+medicine chest:2.0
+triceratops:1.0
+library:1.0
+jigsaw puzzle:1.0
+sax:1.0
+sweatshirt:1.0
+hammer:1.0
+military uniform:1.0
+harp:1.0
+book jacket:3.0
+swab:1.0
+grand piano:2.0
+lab coat:2.0
+picket fence:3.0
+chest:1.0
+potter's wheel:1.0
+crossword puzzle:1.0
+balance beam:1.0
+soft-coated wheaten terrier:1.0
+barbershop:1.0
+ski:1.0
+paintbrush:4.0
+cash machine:1.0
+sarong:1.0
+oboe:1.0
+suit:1.0
+cowboy boot:1.0
+binder:1.0
+chain saw:1.0
+desk:1.0
+brass:1.0
+reel:1.0
+home theater:3.0
+stage:1.0
+television:3.0
+power drill:1.0
+comic book:1.0
+vending machine:1.0
+shield:1.0
+punching bag:1.0
+switch:1.0
+wall clock:1.0
+jean:1.0
+shower curtain:5.0

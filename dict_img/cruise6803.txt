@@ -1,0 +1,82 @@
+wig:1.0
+stretcher:1.0
+palace:2.0
+canoe:1.0
+lakeside:21.0
+fire engine:1.0
+theater curtain:1.0
+bookshop:1.0
+tile roof:4.0
+space shuttle:1.0
+pole:1.0
+web site:1.0
+seashore:4.0
+lab coat:1.0
+sandbar:1.0
+church:4.0
+trombone:1.0
+umbrella:1.0
+gasmask:1.0
+military uniform:1.0
+alp:6.0
+cornet:1.0
+microphone:1.0
+geyser:3.0
+breastplate:1.0
+cliff:9.0
+hair spray:1.0
+lumbermill:1.0
+gondola:1.0
+speedboat:1.0
+suspension bridge:2.0
+paddle:1.0
+picket fence:1.0
+submarine:1.0
+kimono:2.0
+balance beam:1.0
+monastery:4.0
+valley:16.0
+ski:1.0
+solar dish:1.0
+cuirass:1.0
+tobacco shop:1.0
+sunglasses:1.0
+sarong:1.0
+volcano:1.0
+dam:3.0
+suit:1.0
+crane:1.0
+dome:1.0
+thatch:2.0
+dock:5.0
+beacon:1.0
+boathouse:4.0
+cinema:1.0
+miniskirt:1.0
+barbell:1.0
+four-poster:1.0
+bullet train:1.0
+vault:3.0
+pier:2.0
+airship:1.0
+altar:2.0
+stage:2.0
+breakwater:3.0
+albatross:2.0
+oxygen mask:1.0
+feather boa:1.0
+drilling platform:1.0
+restaurant:3.0
+lifeboat:2.0
+castle:2.0
+liner:4.0
+bell cote:4.0
+gong:1.0
+greenhouse:1.0
+megalith:1.0
+ambulance:1.0
+cab:1.0
+jean:1.0
+passenger car:1.0
+binoculars:1.0
+chain mail:2.0

@@ -1,0 +1,21 @@
+sunglasses:2.0
+wig:3.0
+academic gown:7.0
+bolo tie:1.0
+marimba:1.0
+sarong:1.0
+bow tie:2.0
+sombrero:1.0
+oboe:1.0
+bib:1.0
+neck brace:1.0
+butcher shop:1.0
+vestment:1.0
+abaya:1.0
+cowboy hat:1.0
+drumstick:1.0
+mortarboard:31.0
+wool:1.0
+stole:1.0
+jean:1.0
+pajama:3.0

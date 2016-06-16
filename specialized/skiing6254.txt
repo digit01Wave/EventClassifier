@@ -1,0 +1,28 @@
+coho:2.0
+pot:1.0
+torch:2.0
+sturgeon:1.0
+snowmobile:3.0
+mountain bike:1.0
+gasmask:1.0
+military uniform:1.0
+alp:5.0
+football helmet:2.0
+crossword puzzle:1.0
+unicycle:1.0
+ski:11.0
+sunglasses:1.0
+Dutch oven:1.0
+ashcan:1.0
+crash helmet:4.0
+sunglass:1.0
+soccer ball:1.0
+park bench:1.0
+crane:1.0
+oxygen mask:2.0
+restaurant:1.0
+bucket:1.0
+bow:1.0
+knee pad:1.0
+ski mask:2.0
+patio:1.0

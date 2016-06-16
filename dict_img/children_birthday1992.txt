@@ -1,0 +1,39 @@
+quilt:1.0
+fire engine:9.0
+laptop:1.0
+barbell:1.0
+spatula:2.0
+studio couch:1.0
+moped:1.0
+candle:2.0
+mountain bike:1.0
+sarong:1.0
+can opener:1.0
+lens cap:1.0
+horizontal bar:1.0
+American lobster:1.0
+lawn mower:1.0
+plate:1.0
+motor scooter:1.0
+soup bowl:1.0
+ladle:1.0
+pick:1.0
+bib:1.0
+swing:2.0
+stethoscope:1.0
+diaper:1.0
+sunscreen:1.0
+refrigerator:1.0
+dishwasher:1.0
+sleeping bag:1.0
+mask:1.0
+crutch:1.0
+hair spray:1.0
+ice lolly:5.0
+knee pad:2.0
+ambulance:1.0
+bobsled:1.0
+ski mask:1.0
+plunger:1.0
+crayfish:1.0
+fireboat:1.0

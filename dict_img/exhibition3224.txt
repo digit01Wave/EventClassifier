@@ -1,0 +1,48 @@
+bow tie:1.0
+bassinet:1.0
+apiary:1.0
+laptop:1.0
+vacuum:1.0
+reflex camera:1.0
+groom:3.0
+prayer rug:1.0
+jigsaw puzzle:3.0
+sewing machine:1.0
+candle:1.0
+ocarina:2.0
+library:2.0
+cornet:1.0
+toyshop:3.0
+harmonica:1.0
+oboe:2.0
+lab coat:3.0
+chest:1.0
+pop bottle:1.0
+carton:1.0
+comic book:1.0
+paintbrush:1.0
+honeycomb:1.0
+ping-pong ball:1.0
+bookshop:1.0
+oscilloscope:1.0
+altar:1.0
+flute:1.0
+vestment:1.0
+notebook:1.0
+neck brace:1.0
+desk:6.0
+cleaver:1.0
+shoe shop:2.0
+stage:5.0
+oxygen mask:1.0
+bulletproof vest:1.0
+restaurant:3.0
+limousine:1.0
+swab:1.0
+carpenter's kit:1.0
+pool table:1.0
+cello:1.0
+bobsled:1.0
+dough:1.0
+joystick:1.0
+accordion:1.0

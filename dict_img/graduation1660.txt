@@ -1,0 +1,41 @@
+wig:1.0
+gown:2.0
+maypole:2.0
+bookshop:1.0
+poncho:1.0
+jigsaw puzzle:1.0
+panpipe:1.0
+sunglasses:1.0
+mortarboard:9.0
+perfume:1.0
+stole:1.0
+water jug:1.0
+cellular telephone:1.0
+academic gown:7.0
+Petri dish:1.0
+chain mail:1.0
+maraca:3.0
+menu:1.0
+lab coat:17.0
+kimono:1.0
+crossword puzzle:1.0
+wok:1.0
+limousine:7.0
+apron:2.0
+Indian cobra:1.0
+umbrella:1.0
+cocktail shaker:1.0
+sarong:1.0
+flute:1.0
+envelope:1.0
+vestment:1.0
+cardigan:1.0
+restaurant:14.0
+beer glass:2.0
+groom:7.0
+mask:1.0
+crutch:2.0
+measuring cup:2.0
+Band Aid:2.0
+tray:1.0
+pajama:6.0

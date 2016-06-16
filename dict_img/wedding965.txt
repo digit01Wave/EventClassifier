@@ -1,0 +1,73 @@
+wig:2.0
+gown:7.0
+clog:2.0
+butcher shop:4.0
+bow tie:23.0
+lakeside:4.0
+ballplayer:1.0
+torch:5.0
+dining table:2.0
+dough:1.0
+chime:1.0
+candle:3.0
+bell cote:1.0
+stole:1.0
+quill:2.0
+sandal:3.0
+goblet:1.0
+harmonica:1.0
+academic gown:1.0
+balloon:1.0
+cinema:1.0
+sock:1.0
+bikini:1.0
+lab coat:11.0
+home theater:1.0
+Loafer:2.0
+running shoe:2.0
+rocking chair:2.0
+Petri dish:1.0
+carousel:3.0
+Windsor tie:8.0
+ice lolly:1.0
+suit:5.0
+limousine:1.0
+kimono:1.0
+ping-pong ball:1.0
+bookshop:1.0
+sarong:6.0
+obelisk:1.0
+altar:1.0
+solar dish:1.0
+flute:1.0
+street sign:1.0
+cowboy boot:1.0
+ocarina:1.0
+basketball:1.0
+stethoscope:1.0
+chain saw:1.0
+park bench:1.0
+patio:1.0
+hand blower:1.0
+pier:1.0
+jean:1.0
+shoe shop:1.0
+stage:7.0
+beaker:2.0
+folding chair:1.0
+feather boa:1.0
+restaurant:4.0
+groom:11.0
+window screen:1.0
+punching bag:1.0
+perfume:1.0
+hair spray:1.0
+bakery:1.0
+boathouse:1.0
+barbershop:1.0
+cradle:1.0
+swing:1.0
+studio couch:1.0
+plunger:1.0
+crayfish:1.0
+pajama:15.0

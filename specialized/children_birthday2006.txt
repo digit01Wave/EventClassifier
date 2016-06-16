@@ -1,0 +1,52 @@
+gown:2.0
+gong:1.0
+handkerchief:1.0
+seat belt:1.0
+library:1.0
+sunscreen:4.0
+wooden spoon:1.0
+bassinet:1.0
+toilet seat:1.0
+candle:16.0
+ocarina:2.0
+toyshop:5.0
+chain mail:2.0
+harmonica:1.0
+broom:1.0
+plastic bag:1.0
+basenji:1.0
+rocking chair:2.0
+kimono:4.0
+balance beam:1.0
+wok:1.0
+horizontal bar:2.0
+pencil box:1.0
+comic book:1.0
+potter's wheel:1.0
+paintbrush:1.0
+ping-pong ball:1.0
+apron:1.0
+carousel:3.0
+sarong:2.0
+flute:1.0
+steel drum:1.0
+lotion:1.0
+nipple:1.0
+diaper:11.0
+drumstick:1.0
+hand blower:2.0
+jean:3.0
+cake:8.0
+ice lolly:2.0
+drum:1.0
+hair slide:3.0
+groom:3.0
+hair spray:8.0
+swimming trunks:1.0
+barbershop:1.0
+cradle:1.0
+iron:1.0
+Chihuahua:1.0
+plunger:1.0
+bath towel:1.0
+pajama:15.0

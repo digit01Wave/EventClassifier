@@ -1,0 +1,7 @@
+gas pump:1.0
+dogsled:2.0
+snowmobile:2.0
+mountain bike:1.0
+plunger:1.0
+ski:7.0
+alp:6.0

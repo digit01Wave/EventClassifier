@@ -1,0 +1,126 @@
+gown:3.0
+clog:1.0
+theater curtain:1.0
+fur coat:1.0
+shower cap:1.0
+spatula:1.0
+swimming trunks:2.0
+cellular telephone:2.0
+sandal:1.0
+goblet:6.0
+brassiere:3.0
+grand piano:1.0
+potter's wheel:1.0
+Windsor tie:14.0
+wool:1.0
+laptop:1.0
+plate:7.0
+cash machine:1.0
+sunglasses:1.0
+steel drum:2.0
+red wine:3.0
+croquet ball:1.0
+acoustic guitar:1.0
+perfume:1.0
+ice lolly:1.0
+knee pad:1.0
+four-poster:2.0
+tray:2.0
+bow tie:6.0
+torch:2.0
+library:2.0
+Dungeness crab:2.0
+candle:4.0
+poncho:4.0
+ice cream:1.0
+harp:1.0
+book jacket:1.0
+sarong:16.0
+chain mail:5.0
+crossword puzzle:3.0
+bathing cap:1.0
+slot:1.0
+cocktail shaker:2.0
+cauliflower:1.0
+corn:1.0
+vestment:6.0
+saltshaker:1.0
+park bench:3.0
+hand blower:1.0
+eggnog:1.0
+drum:4.0
+restaurant:18.0
+harmonica:3.0
+bow:1.0
+swing:1.0
+cowboy hat:4.0
+Band Aid:1.0
+jersey:2.0
+wig:15.0
+electric guitar:1.0
+stretcher:2.0
+seat belt:6.0
+maillot:3.0
+bonnet:1.0
+prayer rug:1.0
+syringe:1.0
+mortarboard:3.0
+wine bottle:1.0
+academic gown:3.0
+projector:1.0
+lab coat:17.0
+Loafer:1.0
+suit:38.0
+drumstick:1.0
+pinwheel:1.0
+limousine:8.0
+overskirt:1.0
+oboe:4.0
+altar:1.0
+prison:1.0
+stethoscope:1.0
+neck brace:1.0
+pop bottle:1.0
+ear:1.0
+dining table:1.0
+bubble:1.0
+crutch:2.0
+pool table:1.0
+bikini:1.0
+barbershop:1.0
+Kerry blue terrier:1.0
+bobsled:1.0
+plunger:3.0
+bassinet:1.0
+lakeside:2.0
+Indian cobra:1.0
+reflex camera:2.0
+sunscreen:2.0
+china cabinet:1.0
+sax:2.0
+paper towel:1.0
+sandbar:3.0
+stole:1.0
+cardigan:6.0
+bassoon:2.0
+maze:1.0
+kimono:2.0
+miniskirt:14.0
+banjo:1.0
+paintbrush:1.0
+zucchini:1.0
+consomme:2.0
+redbone:1.0
+notebook:1.0
+worm fence:1.0
+sunglass:1.0
+joystick:1.0
+shoe shop:1.0
+lipstick:6.0
+feather boa:4.0
+hair slide:1.0
+groom:21.0
+pajama:11.0
+jean:3.0
+crayfish:2.0
+patio:1.0

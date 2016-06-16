@@ -1,0 +1,79 @@
+bow tie:1.0
+rugby ball:1.0
+shield:1.0
+seat belt:2.0
+meat loaf:2.0
+shower cap:1.0
+passenger car:1.0
+jigsaw puzzle:3.0
+dining table:1.0
+piggy bank:1.0
+volleyball:1.0
+sundial:1.0
+candle:9.0
+water jug:1.0
+Christmas stocking:1.0
+ice cream:4.0
+trifle:2.0
+ear:1.0
+confectionery:1.0
+marimba:1.0
+go-kart:1.0
+maraca:5.0
+washbasin:1.0
+balloon:7.0
+coffee mug:1.0
+cake:13.0
+lampshade:1.0
+plastic bag:2.0
+teddy:1.0
+balance beam:1.0
+carousel:1.0
+prison:1.0
+basketball:1.0
+wall clock:1.0
+bonnet:2.0
+grocery store:1.0
+ping-pong ball:2.0
+apron:2.0
+breastplate:1.0
+water bottle:1.0
+corn:1.0
+Windsor tie:1.0
+bib:6.0
+steel drum:1.0
+vestment:1.0
+sarong:1.0
+nipple:4.0
+toyshop:1.0
+spatula:1.0
+diaper:1.0
+turnstile:1.0
+burrito:2.0
+tub:3.0
+abacus:1.0
+teapot:1.0
+shoe shop:1.0
+cuirass:1.0
+chocolate sauce:2.0
+minibus:1.0
+bathtub:3.0
+tray:1.0
+analog clock:1.0
+tricycle:6.0
+stethoscope:1.0
+sleeping bag:1.0
+restaurant:2.0
+bucket:1.0
+punching bag:5.0
+hair spray:1.0
+ice lolly:1.0
+pajama:3.0
+swing:2.0
+cowboy hat:1.0
+sombrero:1.0
+plunger:1.0
+solar dish:3.0
+bath towel:1.0
+shower curtain:2.0
+hotdog:1.0

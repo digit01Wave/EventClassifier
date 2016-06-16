@@ -1,0 +1,147 @@
+gown:98.0
+shield:1.0
+theater curtain:5.0
+vacuum:1.0
+shower cap:2.0
+swimming trunks:1.0
+shopping cart:1.0
+ocarina:1.0
+sports car:2.0
+sliding door:1.0
+cellular telephone:2.0
+monitor:3.0
+brassiere:3.0
+grand piano:2.0
+cloak:1.0
+rocking chair:1.0
+balance beam:3.0
+prison:2.0
+ski:1.0
+laptop:1.0
+digital clock:1.0
+apron:1.0
+cash machine:1.0
+hoopskirt:10.0
+whistle:1.0
+red wine:2.0
+knot:1.0
+desk:1.0
+pier:1.0
+bathing cap:1.0
+banjo:1.0
+bulletproof vest:1.0
+beach wagon:1.0
+perfume:2.0
+ice lolly:1.0
+abaya:3.0
+bow tie:1.0
+fire engine:1.0
+torch:2.0
+library:5.0
+bannister:1.0
+jigsaw puzzle:2.0
+racket:1.0
+candle:2.0
+poncho:1.0
+military uniform:1.0
+harp:2.0
+loudspeaker:1.0
+toyshop:2.0
+velvet:1.0
+lipstick:1.0
+sombrero:6.0
+car wheel:1.0
+lampshade:1.0
+pickup:1.0
+cradle:1.0
+fountain:5.0
+water jug:1.0
+pencil box:1.0
+umbrella:3.0
+sarong:2.0
+yurt:2.0
+dome:2.0
+vestment:3.0
+butcher shop:2.0
+confectionery:1.0
+tub:1.0
+hand blower:1.0
+stage:40.0
+throne:2.0
+folding chair:1.0
+eggnog:2.0
+restaurant:11.0
+iPod:1.0
+bow:1.0
+hair spray:11.0
+notebook:2.0
+wall clock:1.0
+swing:3.0
+vault:7.0
+home theater:4.0
+pajama:2.0
+wig:1.0
+barometer:1.0
+bonnet:1.0
+moped:1.0
+church:6.0
+syringe:1.0
+mortarboard:1.0
+bullet train:1.0
+basketball:1.0
+lab coat:12.0
+refrigerator:1.0
+suit:2.0
+flagpole:1.0
+maze:1.0
+limousine:17.0
+altar:17.0
+tripod:1.0
+grille:1.0
+racer:3.0
+Persian cat:1.0
+packet:1.0
+wardrobe:1.0
+television:1.0
+dining table:3.0
+bubble:1.0
+crutch:3.0
+bikini:4.0
+bobsled:1.0
+cab:7.0
+spotlight:6.0
+shower curtain:2.0
+gong:1.0
+car mirror:3.0
+handkerchief:2.0
+cinema:2.0
+sunscreen:2.0
+paper towel:1.0
+mouse:1.0
+vending machine:1.0
+stole:2.0
+eft:1.0
+panpipe:1.0
+kimono:4.0
+miniskirt:1.0
+horizontal bar:1.0
+hourglass:1.0
+paintbrush:1.0
+jinrikisha:3.0
+motor scooter:1.0
+water bottle:1.0
+pomegranate:1.0
+ambulance:1.0
+plane:1.0
+safety pin:1.0
+brass:1.0
+shoe shop:5.0
+bearskin:1.0
+feather boa:4.0
+maypole:1.0
+groom:232.0
+volleyball:1.0
+bakery:2.0
+parking meter:2.0
+minivan:2.0
+diaper:1.0

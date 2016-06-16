@@ -1,0 +1,40 @@
+bow tie:2.0
+curly-coated retriever:1.0
+quilt:1.0
+cinema:2.0
+library:2.0
+parachute:1.0
+pole:1.0
+mortarboard:10.0
+crutch:2.0
+slot:3.0
+giant schnauzer:1.0
+academic gown:2.0
+Dutch oven:1.0
+English springer:1.0
+flat-coated retriever:1.0
+cocker spaniel:1.0
+picket fence:2.0
+rocking chair:1.0
+wok:1.0
+miniskirt:1.0
+rain barrel:1.0
+Bouvier des Flandres:1.0
+wombat:1.0
+plate:1.0
+Labrador retriever:2.0
+vase:1.0
+mobile home:2.0
+stethoscope:1.0
+Great Dane:1.0
+stage:5.0
+folding chair:2.0
+Sussex spaniel:1.0
+restaurant:5.0
+German short-haired pointer:3.0
+dining table:2.0
+window screen:1.0
+punching bag:1.0
+spotlight:3.0
+balloon:1.0
+patio:1.0

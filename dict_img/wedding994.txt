@@ -1,0 +1,29 @@
+gown:11.0
+barber chair:1.0
+laptop:1.0
+harp:1.0
+microphone:1.0
+overskirt:1.0
+brassiere:1.0
+sombrero:1.0
+suit:2.0
+ice lolly:1.0
+mailbag:1.0
+carton:1.0
+limousine:2.0
+hoopskirt:1.0
+whistle:1.0
+notebook:2.0
+cab:1.0
+wardrobe:2.0
+hand blower:1.0
+trench coat:1.0
+shoe shop:1.0
+hair slide:1.0
+beach wagon:2.0
+groom:43.0
+hair spray:1.0
+barbershop:3.0
+swing:1.0
+four-poster:2.0
+jean:2.0

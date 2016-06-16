@@ -1,0 +1,13 @@
+bow tie:1.0
+shovel:2.0
+teddy:1.0
+stretcher:1.0
+stole:1.0
+pole:1.0
+dogsled:3.0
+snowmobile:4.0
+turnstile:1.0
+bobsled:1.0
+ski mask:2.0
+ski:16.0
+alp:2.0

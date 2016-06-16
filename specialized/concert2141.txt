@@ -1,0 +1,51 @@
+wig:1.0
+turnstile:2.0
+suspension bridge:1.0
+lakeside:2.0
+fire engine:8.0
+scoreboard:23.0
+bannister:2.0
+web site:1.0
+radio telescope:1.0
+brass:1.0
+sliding door:1.0
+slot:5.0
+academic gown:1.0
+streetcar:1.0
+monitor:2.0
+vending machine:1.0
+grand piano:2.0
+container ship:1.0
+fountain:3.0
+carousel:2.0
+suit:1.0
+horizontal bar:1.0
+jellyfish:1.0
+limousine:2.0
+passenger car:1.0
+loudspeaker:9.0
+shoji:1.0
+solar dish:2.0
+screen:1.0
+balloon:1.0
+minibus:2.0
+street sign:2.0
+beacon:1.0
+cinema:11.0
+miniskirt:1.0
+abaya:1.0
+upright:1.0
+bullet train:2.0
+traffic light:7.0
+stage:63.0
+television:2.0
+restaurant:5.0
+groom:1.0
+window screen:2.0
+punching bag:1.0
+bell cote:1.0
+barbershop:1.0
+ambulance:1.0
+cab:3.0
+digital clock:1.0
+spotlight:18.0

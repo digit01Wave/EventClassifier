@@ -1,0 +1,50 @@
+wig:1.0
+Chihuahua:1.0
+barber chair:1.0
+quilt:1.0
+cairn:1.0
+vacuum:2.0
+fur coat:1.0
+clog:1.0
+Norwich terrier:1.0
+zebra:2.0
+guillotine:1.0
+umbrella:2.0
+poncho:1.0
+stole:4.0
+sliding door:1.0
+loupe:1.0
+chain mail:2.0
+maraca:1.0
+sombrero:1.0
+sock:2.0
+lab coat:2.0
+picket fence:1.0
+cradle:1.0
+Shih-Tzu:1.0
+carousel:1.0
+miniskirt:1.0
+pinwheel:1.0
+Norfolk terrier:2.0
+ski:1.0
+sunglasses:3.0
+iron:1.0
+hoopskirt:2.0
+ashcan:1.0
+soft-coated wheaten terrier:1.0
+school bus:1.0
+photocopier:1.0
+binoculars:1.0
+gasmask:1.0
+turnstile:1.0
+shoe shop:2.0
+feather boa:2.0
+tricycle:1.0
+harmonica:1.0
+christmas tree:1.0
+parking meter:1.0
+bobsled:1.0
+cab:1.0
+jean:2.0
+bath towel:1.0
+pajama:11.0

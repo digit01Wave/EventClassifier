@@ -1,0 +1,67 @@
+doormat:1.0
+shovel:4.0
+seat belt:1.0
+lakeside:2.0
+valley:1.0
+fur coat:1.0
+neck brace:1.0
+bonnet:2.0
+spatula:1.0
+jigsaw puzzle:1.0
+Dungeness crab:1.0
+snowmobile:1.0
+candle:1.0
+mortarboard:1.0
+alp:3.0
+barn:1.0
+packet:1.0
+academic gown:1.0
+streetcar:1.0
+waffle iron:1.0
+snowplow:1.0
+cinema:1.0
+picket fence:1.0
+rocking chair:1.0
+fountain:3.0
+shoji:1.0
+dam:1.0
+crash helmet:1.0
+barbershop:1.0
+bathing cap:1.0
+wool:1.0
+ski:6.0
+fire screen:4.0
+digital clock:1.0
+porcupine:1.0
+plate:1.0
+sunglasses:1.0
+yurt:1.0
+altar:1.0
+screen:1.0
+tobacco shop:1.0
+bib:1.0
+coral reef:1.0
+vestment:1.0
+mobile home:1.0
+cowboy hat:2.0
+beacon:1.0
+rapeseed:1.0
+lighter:1.0
+vault:1.0
+tub:1.0
+breakwater:1.0
+spiny lobster:1.0
+drum:1.0
+restaurant:3.0
+bubble:1.0
+dining table:1.0
+spotlight:1.0
+jack-o'-lantern:1.0
+iron:1.0
+mortar:1.0
+sea urchin:1.0
+ski mask:4.0
+pizza:1.0
+bath towel:1.0
+wing:1.0
+chain saw:1.0

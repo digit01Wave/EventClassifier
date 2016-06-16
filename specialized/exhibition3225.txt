@@ -1,0 +1,78 @@
+shovel:1.0
+saltshaker:1.0
+palace:1.0
+pot:30.0
+church:1.0
+crate:3.0
+cabbage butterfly:3.0
+bannister:1.0
+stove:1.0
+spider web:1.0
+sewing machine:2.0
+greenhouse:8.0
+file:1.0
+chime:1.0
+syringe:1.0
+candle:2.0
+pedestal:1.0
+christmas tree:5.0
+sliding door:1.0
+barber chair:1.0
+plow:1.0
+confectionery:1.0
+thresher:1.0
+swab:1.0
+lumbermill:1.0
+broom:1.0
+thimble:1.0
+green mamba:1.0
+picket fence:4.0
+plastic bag:1.0
+hen-of-the-woods:1.0
+potter's wheel:1.0
+crossword puzzle:1.0
+birdhouse:3.0
+monarch:1.0
+pinwheel:1.0
+banjo:1.0
+electric fan:1.0
+paintbrush:1.0
+grocery store:1.0
+hip:1.0
+beaker:2.0
+acorn squash:2.0
+tobacco shop:1.0
+ladle:1.0
+pomegranate:1.0
+safe:1.0
+cardoon:1.0
+vase:4.0
+padlock:1.0
+buckeye:1.0
+cucumber:2.0
+rapeseed:2.0
+acorn:1.0
+pop bottle:1.0
+park bench:1.0
+spaghetti squash:1.0
+abacus:1.0
+dalmatian:1.0
+slug:1.0
+barrow:1.0
+jackfruit:3.0
+folding chair:1.0
+drum:1.0
+restaurant:1.0
+bucket:2.0
+sulphur butterfly:1.0
+mailbox:1.0
+bee:1.0
+mantis:2.0
+dome:1.0
+barbershop:1.0
+parking meter:1.0
+pineapple:3.0
+cake:1.0
+common iguana:1.0
+patio:6.0
+space heater:1.0

@@ -3,6 +3,9 @@
 Created on Thu Jun  2 05:46:30 2016
 
 @author: jessica
+
+Module used to download and obtain image links from bing
+Also includes methods to download from Krumbs
 """
 import py_bing_search as bing
 import urllib
@@ -41,14 +44,6 @@ def bing_image_search(query, output_filename, lim):
     bing.image_results_to_file(result, output_filename, append=True)
     return len(result)
     
-def image_download(links, output_folder, prefix):
-    for i in xrange(len(links)):
-        filename = output_folder + "/" + prefix+str(i)
-        try:
-            urllib.urlretrieve(links[i], filename)
-        except:
-            print "ERROR RETRIEIVING item (", i, "): ", links[i]
-    print("retrieval complete!")
     
 #Note: to do image classification on a list of links, it is best to run the following
 #>>> a = _get_image_links

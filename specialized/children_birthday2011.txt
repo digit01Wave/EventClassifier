@@ -1,0 +1,35 @@
+football helmet:1.0
+maypole:2.0
+sunscreen:7.0
+swimming trunks:1.0
+candle:1.0
+stole:1.0
+water jug:1.0
+scale:1.0
+sarong:1.0
+butcher shop:1.0
+fountain:1.0
+pinwheel:2.0
+bubble:2.0
+potter's wheel:2.0
+Dutch oven:2.0
+ashcan:1.0
+grey whale:1.0
+whistle:1.0
+confectionery:1.0
+stethoscope:1.0
+diaper:2.0
+shoe shop:1.0
+hair slide:1.0
+bucket:1.0
+punching bag:1.0
+rain barrel:1.0
+hair spray:1.0
+bikini:1.0
+ice lolly:5.0
+pajama:1.0
+swing:2.0
+turnstile:1.0
+Indian elephant:1.0
+pillow:1.0
+patio:4.0

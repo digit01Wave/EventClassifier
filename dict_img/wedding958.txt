@@ -1,0 +1,93 @@
+gown:7.0
+clog:1.0
+chain:1.0
+spatula:2.0
+greenhouse:1.0
+trifle:2.0
+goblet:1.0
+prison:1.0
+plate:2.0
+sunglasses:3.0
+hoopskirt:3.0
+head cabbage:1.0
+steel drum:2.0
+whistle:2.0
+red wine:1.0
+lighter:1.0
+bolo tie:1.0
+trolleybus:2.0
+beach wagon:1.0
+ice lolly:10.0
+abaya:1.0
+tray:1.0
+bow tie:6.0
+torch:2.0
+candle:2.0
+poncho:1.0
+hammer:1.0
+military uniform:1.0
+ice cream:3.0
+breastplate:1.0
+wreck:1.0
+revolver:1.0
+wok:1.0
+cellular telephone:3.0
+umbrella:1.0
+sarong:3.0
+corn:2.0
+vestment:2.0
+park bench:1.0
+stage:1.0
+restaurant:2.0
+hatchet:1.0
+pajama:1.0
+wig:3.0
+stretcher:1.0
+seat belt:2.0
+maillot:2.0
+caldron:1.0
+bonnet:2.0
+mortarboard:2.0
+academic gown:2.0
+streetcar:1.0
+Loafer:4.0
+lab coat:1.0
+plastic bag:1.0
+suit:13.0
+maze:2.0
+pinwheel:1.0
+limousine:3.0
+passenger car:1.0
+overskirt:1.0
+Windsor tie:2.0
+grille:1.0
+burrito:1.0
+ear:2.0
+minibus:3.0
+bubble:4.0
+bucket:1.0
+crutch:5.0
+barbershop:1.0
+plunger:2.0
+spotlight:1.0
+handkerchief:1.0
+reflex camera:1.0
+sulphur-crested cockatoo:1.0
+quail:1.0
+stole:1.0
+cardigan:1.0
+Petri dish:1.0
+picket fence:1.0
+kimono:6.0
+miniskirt:8.0
+beer glass:3.0
+ptarmigan:1.0
+binoculars:1.0
+sunglass:5.0
+feather boa:1.0
+groom:58.0
+bakery:1.0
+jersey:3.0
+ambulance:1.0
+necklace:1.0
+hotdog:1.0

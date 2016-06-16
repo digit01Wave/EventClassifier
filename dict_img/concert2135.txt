@@ -1,0 +1,29 @@
+stretcher:1.0
+electric guitar:39.0
+torch:2.0
+packet:1.0
+sax:5.0
+paper towel:1.0
+toilet tissue:1.0
+microphone:17.0
+accordion:2.0
+drumstick:5.0
+banjo:3.0
+comic book:1.0
+cash machine:1.0
+oboe:1.0
+pay-phone:1.0
+pick:1.0
+missile:1.0
+whistle:1.0
+drum:2.0
+airship:1.0
+stage:43.0
+feather boa:1.0
+restaurant:1.0
+ski:1.0
+harmonica:2.0
+barbershop:1.0
+projectile:1.0
+cowboy hat:1.0
+pajama:1.0

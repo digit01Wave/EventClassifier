@@ -9,6 +9,7 @@ This module provides the building blocks of tag matching
 """
 import urllib, json
 import re
+from collections import Counter
 
 ###################################################
 #WIKIPEDIA API
@@ -17,6 +18,14 @@ import re
 pattern=re.compile("<rev.*>(.*?)</rev>", re.MULTILINE|re.DOTALL)
 anchor_pattern=re.compile("\[\[(.*?)\]\]", re.MULTILINE|re.DOTALL)
 #https://en.wikipedia.org/w/api.php?format=json&action=query&prop=revisions&rvprop=content&exintro=&explaintext=&titles=wedding
+
+"""
+One possible pipeline would be:
+inception = get_inception_set(True)
+concept_dict = get_objects("Wedding", inception)
+final_dict=convert_concept_to_dict(concept_dict)
+"""
+
 
 def get_objects(event, dict_set, syn_lvl = 1):
     """
@@ -61,7 +70,7 @@ def get_objects(event, dict_set, syn_lvl = 1):
             ans[anchor]['anchor']=True
     return ans
     
-def convert_concept_to_dict(event, concept_dict):
+def convert_concept_to_dict(concept_dict):
     """
     Converts the given event concept dictionary into the appropriate feature dictionary
     that can be fed into the EventClassifier.classify_feature function
@@ -79,7 +88,12 @@ def convert_concept_to_dict(event, concept_dict):
         Dictionary that maps each tag to the weighted number of times
     
     """
-    pass
+    ans = Counter()
+    for concept in concept_dict:
+        ans[concept]=concept_dict[concept]['count']
+        if(concept_dict[concept]):
+            ans[concept]*=2
+    return ans
 
 def get_anchor_tags(event):
     """
@@ -105,6 +119,20 @@ def get_anchor_tags(event):
     m = re.findall(anchor_pattern, s)
     return m
 
+def get_inception_set(include_new = False):
+    """
+    obtains all the words that are in the google inception
+    """
+    s=set()
+    with open('synset_words.txt', 'r') as my_file:
+        for line in my_file:
+            temp =  line[10:].split(',')
+            for i in xrange(len(temp)):
+                s.add(temp[i].strip())
+    if include_new:
+        s.add('cake')
+        s.add('christmas tree')
+    return s
     
 
 
@@ -123,20 +151,6 @@ def get_event(objects, syn_lvl = 1):
     """
     pass
 
-def get_inception_set(include_new = False):
-    """
-    obtains all the words that are in the google inception
-    """
-    s=set()
-    with open('synset_words.txt', 'r') as my_file:
-        for line in my_file:
-            temp =  line[10:].split(',')
-            for i in xrange(len(temp)):
-                s.add(temp[i].strip())
-    if include_new:
-        s.add('cake')
-        s.add('christmas tree')
-    return s
 
 
 def getDmWord(key):

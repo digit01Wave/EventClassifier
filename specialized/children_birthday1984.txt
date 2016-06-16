@@ -1,0 +1,52 @@
+wig:2.0
+gown:1.0
+stretcher:1.0
+maypole:3.0
+shower cap:1.0
+crib:1.0
+china cabinet:1.0
+studio couch:1.0
+greenhouse:2.0
+stupa:1.0
+candle:1.0
+guillotine:1.0
+mountain bike:1.0
+mortarboard:1.0
+bow:1.0
+hamper:2.0
+confectionery:4.0
+swab:1.0
+balloon:1.0
+kimono:3.0
+golden retriever:2.0
+carousel:1.0
+unicycle:1.0
+pinwheel:1.0
+fire screen:1.0
+bonnet:3.0
+ping-pong ball:1.0
+apron:2.0
+sarong:2.0
+pay-phone:1.0
+flute:1.0
+vestment:1.0
+mobile home:1.0
+binder:1.0
+toyshop:2.0
+mosquito net:1.0
+diaper:3.0
+barrow:2.0
+parachute:1.0
+laptop:1.0
+feather boa:2.0
+maraca:1.0
+sleeping bag:2.0
+groom:2.0
+punching bag:4.0
+perfume:1.0
+hair spray:3.0
+barbershop:1.0
+swing:3.0
+plunger:2.0
+pillow:1.0
+pajama:8.0

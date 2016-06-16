@@ -1,0 +1,14 @@
+ping-pong ball:1.0
+cash machine:2.0
+monitor:6.0
+laptop:1.0
+scoreboard:1.0
+window screen:4.0
+pool table:1.0
+guillotine:1.0
+jigsaw puzzle:1.0
+barbershop:1.0
+shoji:4.0
+screen:1.0
+window shade:18.0
+television:1.0

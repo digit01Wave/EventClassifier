@@ -1,0 +1,18 @@
+plate:2.0
+barbershop:1.0
+cinema:2.0
+candle:1.0
+altar:1.0
+groom:10.0
+dome:1.0
+vestment:2.0
+bell cote:1.0
+cake:1.0
+bakery:1.0
+ice lolly:1.0
+church:7.0
+bow tie:1.0
+vault:3.0
+military uniform:1.0
+ice cream:1.0
+restaurant:8.0

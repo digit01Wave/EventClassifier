@@ -168,25 +168,12 @@ def combine_entries(d, keys, new_key):
                 d[new_key][item]+=d[key][item]
             del d[key]
 
-def super_combo(d):
-    L = ["art-exhibition", 'awards-ceremony',"badminton", 'bday', 'beach-bonfire', 'beach-play', 'birthday-party', 'car-accident', 'concert', 'concertAll', 'croquet', 'cruise', 'easter', 'graduation', 'luncheon', 'office-meeting', 'office-meetingAll', 'rock-climbing', 'rowing', 'sailing', 'seminar', 'skiing', 'tennis', 'wedding']
-    for item in L:
-        try:
-            combine_entries(d, [item+"50", item+"50_200"], item)
-            print "successfully combined to make", item
-        except:
-            print "############################################################"
-            print "FAILURE: did not combine {} and {} to become {}".format(item+"50.txt", item+"50_200.txt", item)
-            print "############################################################"
-            
-def full_combo(d):
-    final_d = Counter()
-    for event in d:
-        for tag in d[event]:
-            final_d[tag]+=d[event][tag]
-    return final_d
-    
+
+
 def store_nested_dict(d, filename):
+    """
+    Stores a nested dictionary into a file 
+    """
     with open(filename, 'w') as myFile:
         for key in d:
             myFile.write(key + "|||")
@@ -195,6 +182,9 @@ def store_nested_dict(d, filename):
             myFile.write(";;;")
 
 def load_nested_dict(filename):
+    """
+    loads a nested dictionary from a file
+    """
     with open(filename, 'r') as my_file:    
         temp = my_file.readline()
             

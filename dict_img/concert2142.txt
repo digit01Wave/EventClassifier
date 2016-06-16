@@ -1,0 +1,68 @@
+doormat:1.0
+grand piano:2.0
+Band Aid:1.0
+electric guitar:10.0
+torch:1.0
+scoreboard:4.0
+window screen:2.0
+space shuttle:2.0
+bannister:4.0
+fiddler crab:1.0
+sax:18.0
+trombone:1.0
+stage:45.0
+cornet:4.0
+book jacket:2.0
+steel arch bridge:1.0
+microphone:6.0
+marimba:2.0
+leatherback turtle:1.0
+accordion:3.0
+bassoon:3.0
+balloon:1.0
+scuba diver:1.0
+monitor:1.0
+panpipe:1.0
+fire screen:1.0
+fountain:3.0
+water tower:3.0
+cannon:1.0
+French horn:1.0
+horizontal bar:1.0
+banjo:4.0
+bubble:3.0
+theater curtain:1.0
+solar dish:2.0
+triceratops:1.0
+umbrella:1.0
+cloak:1.0
+breastplate:3.0
+water bottle:2.0
+altar:1.0
+screen:1.0
+steel drum:5.0
+street sign:1.0
+drumstick:1.0
+rifle:1.0
+snorkel:1.0
+mosquito net:1.0
+safety pin:1.0
+bulletproof vest:1.0
+strainer:1.0
+tick:1.0
+cuirass:2.0
+throne:1.0
+television:1.0
+oxygen mask:1.0
+harp:1.0
+planetarium:1.0
+comic book:1.0
+harmonica:2.0
+pretzel:1.0
+nematode:1.0
+jellyfish:2.0
+turnstile:1.0
+castle:1.0
+digital clock:1.0
+spotlight:6.0
+shower curtain:1.0

@@ -1,0 +1,21 @@
+slot:2.0
+lab coat:1.0
+wool:1.0
+stole:1.0
+palace:1.0
+seat belt:3.0
+guinea pig:1.0
+bib:1.0
+neck brace:1.0
+crutch:2.0
+spotlight:1.0
+academic gown:3.0
+pajama:1.0
+suit:2.0
+candle:1.0
+sweatshirt:2.0
+crayfish:1.0
+limousine:1.0
+mortarboard:6.0
+jersey:1.0
+stage:2.0

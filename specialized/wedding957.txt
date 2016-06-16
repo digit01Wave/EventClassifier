@@ -1,0 +1,58 @@
+pelican:4.0
+ruddy turnstone:2.0
+kite:2.0
+bow tie:1.0
+lakeside:1.0
+maillot:4.0
+maypole:1.0
+torch:1.0
+spoonbill:1.0
+breakwater:3.0
+oystercatcher:2.0
+swimming trunks:2.0
+seashore:13.0
+sandbar:14.0
+violin:1.0
+candle:1.0
+military uniform:1.0
+Siberian husky:1.0
+snail:1.0
+bald eagle:1.0
+shovel:1.0
+sarong:1.0
+lab coat:5.0
+picket fence:1.0
+plastic bag:1.0
+steel drum:1.0
+kimono:1.0
+miniskirt:1.0
+catamaran:1.0
+red-backed sandpiper:2.0
+king penguin:3.0
+golfcart:1.0
+sunglasses:1.0
+starfish:2.0
+folding chair:5.0
+yurt:2.0
+gar:1.0
+lotion:1.0
+thatch:2.0
+sandal:1.0
+sunglass:1.0
+geyser:1.0
+hoopskirt:3.0
+hermit crab:1.0
+goose:3.0
+albatross:3.0
+flamingo:1.0
+gown:4.0
+restaurant:1.0
+conch:1.0
+groom:7.0
+liner:1.0
+volleyball:1.0
+white stork:2.0
+jean:1.0
+apiary:1.0
+patio:1.0
+bolete:1.0

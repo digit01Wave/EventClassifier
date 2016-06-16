@@ -1,0 +1,68 @@
+bow tie:1.0
+macaque:1.0
+shovel:6.0
+palace:1.0
+flat-coated retriever:1.0
+lakeside:3.0
+rifle:1.0
+parachute:2.0
+spatula:2.0
+jigsaw puzzle:1.0
+swimming trunks:2.0
+seashore:1.0
+snowmobile:3.0
+sandbar:1.0
+church:1.0
+sweatshirt:1.0
+crutch:1.0
+prayer rug:1.0
+alp:36.0
+jinrikisha:1.0
+garbage truck:1.0
+quilt:2.0
+analog clock:1.0
+snowplow:2.0
+beer glass:1.0
+airliner:1.0
+revolver:1.0
+airship:1.0
+rocking chair:1.0
+horse cart:1.0
+bathing cap:2.0
+wool:1.0
+ski:29.0
+paintbrush:1.0
+sunglasses:5.0
+giant schnauzer:1.0
+yurt:1.0
+monastery:2.0
+corn:1.0
+tobacco shop:1.0
+warplane:2.0
+thatch:1.0
+snorkel:1.0
+baseball:1.0
+sunglass:7.0
+stingray:1.0
+park bench:1.0
+tub:9.0
+ear:1.0
+worm fence:1.0
+Newfoundland:1.0
+cliff:1.0
+throne:1.0
+eggnog:1.0
+waffle iron:1.0
+bannister:1.0
+lifeboat:1.0
+sleeping bag:2.0
+bell cote:2.0
+bikini:1.0
+dogsled:2.0
+ice lolly:2.0
+bobsled:7.0
+volcano:1.0
+jean:1.0
+plunger:1.0
+patio:2.0
+oxcart:1.0

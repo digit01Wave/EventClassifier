@@ -1,0 +1,73 @@
+gown:1.0
+spatula:1.0
+toilet tissue:1.0
+cinema:1.0
+Doberman:1.0
+library:1.0
+Saluki:1.0
+breakwater:1.0
+bannister:1.0
+pole:1.0
+paper towel:2.0
+shower cap:1.0
+bow tie:1.0
+Appenzeller:2.0
+studio couch:1.0
+crutch:1.0
+stole:1.0
+black-and-tan coonhound:1.0
+sunglasses:2.0
+EntleBucher:1.0
+toyshop:1.0
+seashore:3.0
+harmonica:1.0
+English springer:2.0
+seat belt:2.0
+Greater Swiss Mountain dog:3.0
+cocker spaniel:11.0
+miniature poodle:1.0
+basenji:2.0
+beagle:1.0
+can opener:1.0
+kimono:1.0
+crossword puzzle:1.0
+soft-coated wheaten terrier:2.0
+pinwheel:1.0
+bubble:2.0
+laptop:1.0
+Border collie:1.0
+Boston bull:5.0
+miniature schnauzer:1.0
+printer:1.0
+schipperke:3.0
+remote control:1.0
+cellular telephone:3.0
+altar:1.0
+American Staffordshire terrier:1.0
+Christmas stocking:2.0
+boxer:1.0
+dial telephone:1.0
+Great Dane:2.0
+sunglass:1.0
+Irish terrier:1.0
+French bulldog:1.0
+toy poodle:2.0
+feather boa:1.0
+water bottle:1.0
+sweatshirt:1.0
+dining table:1.0
+hair slide:2.0
+teddy:1.0
+jigsaw puzzle:1.0
+American lobster:1.0
+hair spray:3.0
+Labrador retriever:2.0
+notebook:1.0
+wall clock:1.0
+jersey:1.0
+daisy:1.0
+Norwich terrier:1.0
+plunger:1.0
+crayfish:1.0
+buckle:1.0
+pajama:4.0

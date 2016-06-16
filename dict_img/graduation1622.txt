@@ -1,0 +1,61 @@
+bow tie:3.0
+macaw:1.0
+handkerchief:1.0
+gown:6.0
+maypole:4.0
+syringe:1.0
+moving van:1.0
+panpipe:1.0
+cleaver:1.0
+racket:1.0
+mortarboard:42.0
+poncho:1.0
+ocarina:1.0
+military uniform:6.0
+book jacket:1.0
+academic gown:30.0
+marimba:1.0
+menu:1.0
+oboe:1.0
+lab coat:6.0
+bagel:1.0
+kimono:2.0
+crutch:1.0
+hoopskirt:1.0
+miniskirt:10.0
+unicycle:1.0
+grocery store:1.0
+apron:3.0
+overskirt:1.0
+sarong:14.0
+cellular telephone:1.0
+yurt:2.0
+suit:5.0
+envelope:1.0
+steel drum:1.0
+vestment:1.0
+street sign:1.0
+whistle:2.0
+binder:1.0
+sandal:1.0
+park bench:1.0
+trailer truck:1.0
+trench coat:7.0
+plunger:1.0
+shoe shop:2.0
+folding chair:2.0
+sweatshirt:1.0
+restaurant:4.0
+groom:11.0
+oxcart:1.0
+volleyball:1.0
+bow:3.0
+wardrobe:1.0
+bikini:1.0
+sax:1.0
+barbershop:2.0
+swing:1.0
+abaya:1.0
+jean:1.0
+pajama:3.0
+hotdog:1.0

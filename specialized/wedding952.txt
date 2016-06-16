@@ -1,0 +1,93 @@
+gown:39.0
+clog:2.0
+maypole:1.0
+vacuum:3.0
+shower cap:3.0
+dough:3.0
+dumbbell:1.0
+ocarina:4.0
+sliding door:1.0
+cornet:1.0
+trifle:1.0
+sandal:2.0
+brassiere:1.0
+broom:3.0
+cloak:1.0
+balance beam:7.0
+Windsor tie:3.0
+carton:1.0
+theater curtain:1.0
+plate:1.0
+hoopskirt:35.0
+ladle:1.0
+parallel bars:1.0
+desk:1.0
+oxygen mask:1.0
+punching bag:2.0
+abaya:1.0
+bow tie:8.0
+quilt:1.0
+torch:1.0
+library:1.0
+racket:3.0
+candle:2.0
+military uniform:1.0
+harp:4.0
+breastplate:1.0
+cradle:2.0
+sarong:5.0
+vestment:15.0
+lotion:1.0
+binder:1.0
+tub:1.0
+hand blower:2.0
+stage:1.0
+drum:1.0
+restaurant:11.0
+conch:1.0
+swab:4.0
+bow:1.0
+hair spray:9.0
+Band Aid:1.0
+pajama:10.0
+wig:3.0
+stretcher:1.0
+seat belt:1.0
+maillot:2.0
+bonnet:1.0
+basketball:5.0
+maraca:2.0
+lab coat:14.0
+suit:4.0
+limousine:3.0
+overskirt:9.0
+wardrobe:1.0
+dining table:9.0
+bubble:1.0
+crutch:7.0
+bikini:1.0
+barbershop:3.0
+iron:1.0
+cake:13.0
+plunger:13.0
+bathtub:2.0
+spotlight:1.0
+bassinet:4.0
+neck brace:3.0
+paper towel:2.0
+violin:1.0
+toilet tissue:2.0
+microphone:1.0
+marimba:1.0
+balloon:4.0
+potter's wheel:13.0
+miniskirt:2.0
+horizontal bar:2.0
+banjo:1.0
+flute:3.0
+binoculars:1.0
+shoe shop:1.0
+feather boa:1.0
+groom:93.0
+volleyball:3.0
+bakery:6.0

@@ -1,8 +1,13 @@
-# -*- coding: utf-8 -*- 
+"""
+Credits to: https://github.com/tristantao/py-bing-search
+@author: tristantao
+
+Some very minor changes have been made to this module
+"""
 import requests, requests.utils
 import time
 
-API_KEY = "gtvU2YomvGNZCEFp9XqDuxDBgT/DMDxEys1nMnjDhLg"
+API_KEY = "YOUR_API_KEY_HERE"
 
 class PyBingException(Exception):
     pass
@@ -36,15 +41,6 @@ class PyBingSearch(object):
             time.sleep(1)
         return results
 
-##
-##
-## Image Search
-##>>> from py_bing_search import PyBingImageSearch
-##>>> bing_image = PyBingImageSearch("x-box console")
-##>>> first_fifty_result= bing_image.search(limit=50, format='json') #1-50 (can't be more than 50)
-##>>> second_fifty_result= bing_image.search(limit=50, format='json') #51-100
-##>>> print (second_fifty_result[0].media_url)
-##
 
 class PyBingImageException(Exception):
     pass

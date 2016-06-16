@@ -1,0 +1,38 @@
+wig:1.0
+bow tie:1.0
+stretcher:1.0
+lakeside:1.0
+pot:1.0
+torch:1.0
+guillotine:1.0
+trombone:2.0
+mortarboard:73.0
+military uniform:1.0
+cornet:2.0
+academic gown:39.0
+streetcar:2.0
+theater curtain:1.0
+cloak:4.0
+panpipe:1.0
+suit:1.0
+unicycle:2.0
+horizontal bar:2.0
+maypole:2.0
+breastplate:1.0
+folding chair:1.0
+monastery:1.0
+prison:1.0
+envelope:1.0
+vestment:3.0
+flagpole:1.0
+binder:1.0
+sunglass:1.0
+stage:6.0
+throne:2.0
+bearskin:2.0
+restaurant:1.0
+groom:1.0
+swing:1.0
+cowboy hat:1.0
+abaya:2.0
+lacewing:1.0

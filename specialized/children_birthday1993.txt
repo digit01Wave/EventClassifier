@@ -1,0 +1,45 @@
+bassinet:15.0
+Weimaraner:1.0
+canoe:1.0
+maillot:8.0
+crib:1.0
+parachute:4.0
+spatula:1.0
+swimming trunks:12.0
+studio couch:1.0
+snowmobile:1.0
+sandbar:1.0
+candle:2.0
+water jug:1.0
+go-kart:1.0
+shovel:1.0
+mountain tent:3.0
+speedboat:1.0
+paddle:2.0
+cradle:16.0
+balance beam:1.0
+stingray:2.0
+bathing cap:6.0
+ski:1.0
+lawn mower:2.0
+sunglasses:2.0
+hoopskirt:2.0
+bib:1.0
+cowboy boot:1.0
+cake:2.0
+snorkel:7.0
+mosquito net:5.0
+diaper:2.0
+sunglass:1.0
+cleaver:1.0
+tub:11.0
+croquet ball:1.0
+wooden spoon:1.0
+sleeping bag:8.0
+mask:2.0
+hair spray:1.0
+bikini:8.0
+ice lolly:1.0
+swing:1.0
+bobsled:14.0
+bathtub:1.0

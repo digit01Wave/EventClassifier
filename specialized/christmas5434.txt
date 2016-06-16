@@ -1,0 +1,84 @@
+wig:1.0
+bow tie:3.0
+computer keyboard:2.0
+grand piano:1.0
+zucchini:1.0
+quilt:2.0
+gown:1.0
+remote control:1.0
+laptop:1.0
+bookshop:2.0
+crib:1.0
+sunscreen:3.0
+bonnet:2.0
+spatula:1.0
+jigsaw puzzle:3.0
+studio couch:2.0
+teddy:1.0
+neck brace:1.0
+ocarina:2.0
+library:4.0
+cellular telephone:1.0
+toilet tissue:1.0
+abacus:1.0
+loupe:4.0
+handkerchief:1.0
+hand-held computer:1.0
+maraca:1.0
+stole:1.0
+buckle:1.0
+seat belt:1.0
+revolver:1.0
+lab coat:1.0
+cradle:1.0
+lens cap:1.0
+quill:1.0
+miniskirt:1.0
+barbershop:1.0
+pinwheel:1.0
+wool:1.0
+comic book:1.0
+kimono:1.0
+sunglasses:1.0
+overskirt:1.0
+oboe:1.0
+harmonica:1.0
+flute:2.0
+bib:1.0
+shopping basket:1.0
+plane:1.0
+lotion:1.0
+Christmas stocking:4.0
+nipple:3.0
+mouse:2.0
+notebook:1.0
+stethoscope:3.0
+diaper:6.0
+sunglass:1.0
+park bench:1.0
+cleaver:1.0
+ear:1.0
+hoopskirt:1.0
+shoe shop:2.0
+lipstick:1.0
+jackfruit:1.0
+shower cap:1.0
+television:1.0
+oxygen mask:1.0
+swing:2.0
+chain saw:1.0
+sleeping bag:3.0
+groom:4.0
+punching bag:1.0
+hair spray:2.0
+crossword puzzle:1.0
+ice lolly:3.0
+hand blower:1.0
+hair slide:1.0
+sombrero:1.0
+jean:3.0
+Band Aid:4.0
+bath towel:4.0
+pillow:1.0
+pajama:23.0
+pill bottle:1.0

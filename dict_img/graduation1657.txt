@@ -1,0 +1,22 @@
+bow tie:5.0
+doormat:1.0
+fur coat:1.0
+library:1.0
+bannister:1.0
+greenhouse:1.0
+mortarboard:12.0
+slot:1.0
+academic gown:7.0
+fountain:2.0
+water tower:1.0
+maze:1.0
+grocery store:1.0
+umbrella:1.0
+park bench:1.0
+trench coat:1.0
+stage:1.0
+planetarium:1.0
+swing:1.0
+cowboy hat:1.0
+abaya:1.0
+jean:2.0

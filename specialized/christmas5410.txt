@@ -1,0 +1,76 @@
+table lamp:2.0
+bow tie:1.0
+gong:2.0
+guacamole:1.0
+handkerchief:1.0
+pot:1.0
+library:1.0
+groom:1.0
+ant:1.0
+prayer rug:1.0
+jigsaw puzzle:1.0
+clog:1.0
+studio couch:9.0
+limousine:5.0
+poncho:1.0
+hamper:1.0
+wine bottle:1.0
+mitten:1.0
+slot:1.0
+maraca:1.0
+toyshop:1.0
+chain mail:5.0
+teddy:1.0
+sombrero:1.0
+English springer:3.0
+cleaver:1.0
+sock:1.0
+cocker spaniel:12.0
+lampshade:1.0
+Loafer:1.0
+china cabinet:1.0
+kimono:1.0
+water jug:1.0
+kuvasz:1.0
+miniskirt:1.0
+French horn:1.0
+pencil box:1.0
+safety pin:1.0
+comic book:1.0
+restaurant:3.0
+hip:1.0
+plate:1.0
+sunglasses:3.0
+water bottle:1.0
+rocking chair:4.0
+ptarmigan:1.0
+suit:2.0
+soft-coated wheaten terrier:4.0
+wig:1.0
+Christmas stocking:5.0
+corkscrew:1.0
+power drill:2.0
+sunglass:3.0
+desk:1.0
+park bench:5.0
+clumber:4.0
+saltshaker:1.0
+christmas tree:2.0
+throne:13.0
+bonnet:1.0
+dining table:3.0
+cowboy boot:1.0
+accordion:1.0
+harmonica:2.0
+backpack:1.0
+hair spray:1.0
+bakery:1.0
+ice lolly:1.0
+cake:1.0
+cowboy hat:1.0
+abaya:3.0
+jean:2.0
+West Highland white terrier:6.0
+English setter:1.0
+pajama:9.0
+chest:1.0

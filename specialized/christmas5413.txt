@@ -1,0 +1,71 @@
+wig:4.0
+bassinet:1.0
+Crock Pot:1.0
+clog:1.0
+vending machine:1.0
+beer bottle:1.0
+fur coat:3.0
+cloak:1.0
+shower cap:1.0
+wooden spoon:1.0
+dining table:1.0
+paper towel:1.0
+studio couch:1.0
+sweatshirt:2.0
+poncho:2.0
+stole:2.0
+wine bottle:1.0
+slot:1.0
+Lakeland terrier:5.0
+microphone:1.0
+paintbrush:1.0
+waffle iron:1.0
+maraca:2.0
+sombrero:3.0
+traffic light:1.0
+American alligator:2.0
+microwave:1.0
+Airedale:1.0
+rocking chair:1.0
+potter's wheel:1.0
+fountain:1.0
+African grey:1.0
+soft-coated wheaten terrier:2.0
+drumstick:2.0
+pencil box:1.0
+wool:2.0
+bonnet:1.0
+bottlecap:1.0
+plate:1.0
+umbrella:1.0
+Bedlington terrier:3.0
+altar:3.0
+miniskirt:1.0
+scoreboard:1.0
+Christmas stocking:3.0
+corkscrew:1.0
+spatula:3.0
+pop bottle:1.0
+drum:1.0
+broccoli:1.0
+ear:1.0
+Irish terrier:3.0
+wire-haired fox terrier:4.0
+chocolate sauce:1.0
+dishwasher:2.0
+feather boa:2.0
+acoustic guitar:2.0
+hook:1.0
+sleeping bag:1.0
+iPod:1.0
+power drill:1.0
+crutch:2.0
+christmas tree:3.0
+crossword puzzle:1.0
+prayer rug:1.0
+patio:1.0
+cowboy hat:2.0
+African crocodile:1.0
+home theater:1.0
+bath towel:1.0
+pajama:5.0
